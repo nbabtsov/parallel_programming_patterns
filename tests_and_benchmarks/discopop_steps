@@ -1,0 +1,34 @@
+/usr/local/discopop/scripts/dp-fmap
+
+clang++ -DUSE_MPI=0 -DUSE_OPENMP=0 -g -O0 -fno-discard-value-names -Xclang -load -Xclang /usr/local/discopop/build/libi/LLVMCUGeneration.so -mllvm -fm-path -mllvm ./FileMapping.txt -c fib.c
+
+clang++ -g -O0 -fno-discard-value-names -Xclang -load -Xclang /usr/libi/LLVMDPInstrumentation.so -mllvm -fm-path -mllvm ./FileMapping.txt -c <C_File> -o out.o
+usr/
+
+clang++ -g -O0 -fno-discard-value-names -Xclang -load -Xclang /usr/local/discopop/build/libi/LLVMDPInstrumentation.so -mllvm -fm-path -mllvm ./FileMapping.txt -c fib.c -o out.o
+
+clang++ out.o -L /usr/local/discopop/build/rtlib -lDiscoPoP_RT -lpthread
+
+./a.out
+
+clang++ -g -O0 -fno-discard-value-names -Xclang -load -Xclang /usr/local/discopop/build/libi/LLVMDPReduction.so -mllvm -fm-path -mllvm ./FileMapping.txt -c fib.c -o out.o
+
+clang++ out.o -L /usr/local/discopop/build/rtlib -lDiscoPoP_RT -lpthread
+
+/a.out
+
+python3 -m discopop_explorer --path=/project/2021_3_sd4_parallelism_patterns/tests_and_benchmarks/bots/serial/fib/main --cu-xml=Data.xml --dep-file=a.out_dep.txt --loop-counter=loop_counter_output.txt --reduction=reduction.txt –generate-data-cu-inst=/project/2021_3_sd4_parallelism_patterns/tests_and_benchmarks/bots/serial/fib/main
+
+clang++ -S -emit-llvm -c -std=c++11 -g /usr/local/discopop/CUInstantiation/RT/CUInstantiation_iFunctions.cpp -o iFunctions_CUInst.ll
+
+clang++ -g -O0 -emit-llvm -fno-discard-value-names -c fib.c -o tmp_target_app.ll
+
+/usr/local/bin/opt -S -load=/usr/local/discopop/build/libi/LLVMCUInstantiation.so -CUInstantiation -input=Data_CUInst.txt tmp_target_app.ll -fm-path=FileMapping.txt -o tmp_target_app_instrumented.ll
+
+clang++ tmp_target_app_instrumented.ll iFunctions_CUInst.ll -o fib_cui -L/usr/local/discopop/build/rtlib -lDiscoPoP_RT -lpthread -o fib_cui
+
+rm tmp_target_app.ll tmp_target_app_instrumented.ll iFunctions_CUInst.ll
+
+./fib_cui
+
+python3 -m discopop_explorer --dep-file a.out_dep.txt 

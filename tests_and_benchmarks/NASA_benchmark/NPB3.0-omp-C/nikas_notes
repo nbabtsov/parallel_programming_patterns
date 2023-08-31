@@ -1,0 +1,13 @@
+actual kernels:
+IS - c 
+EP - FORTRAN? 
+CG - FORTRAN?
+MG - FORTRAN?
+FT - FORTRAN? 
+
+pseudo apps:
+BT
+SP
+LU
+
+

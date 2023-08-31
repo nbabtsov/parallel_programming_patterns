@@ -1,0 +1,5 @@
+   for(Index_t i = 0; i < 8; i++) {
+      hgfy[i] = coefficient *
+                (hourgam[i][0] * hxx[0] + hourgam[i][1] * hxx[1] +
+                 hourgam[i][2] * hxx[2] + hourgam[i][3] * hxx[3]);
+   }

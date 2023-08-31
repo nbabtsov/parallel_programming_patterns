@@ -1,0 +1,14 @@
+   for (Index_t i = 0 ; i < length ; ++i){
+      Index_t ielem = regElemList[i];
+      
+      p_new[i] = bvc[i] * e_old[i] ;
+
+      if    (FABS(p_new[i]) <  p_cut   )
+         p_new[i] = Real_t(0.0) ;
+
+      if    ( vnewc[ielem] >= eosvmax ) /* impossible condition here? */
+         p_new[i] = Real_t(0.0) ;
+
+      if    (p_new[i]       <  pmin)
+         p_new[i]   = pmin ;
+   }

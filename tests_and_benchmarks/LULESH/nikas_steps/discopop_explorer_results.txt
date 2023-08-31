@@ -1,0 +1,1124 @@
+Reduction at: 3:10
+Start line: 3:1511
+End line: 3:1567
+pragma: #pragma omp parallel for
+private: ['dx57', 'dy72', 'call9', 'dx70', 'z7.addr', 'y7', 'cjxet', 'nd2i', 'x3', 'detJ.addr', 'dzddy', 'x4', 'dyddx', 'dx14', 'z0', 'y4.addr', 'charLength', 'fz', 'z5', 'j', 'k', 'call66', 'fjyet', 'fjzxi', 'z2', 'call39', 'dy25', 'fjyze', 'x7.addr', 'z6.addr', 'lnode', 'twelveth', 'dxddy', 'detJ', 'nd0i', 'x6.addr', 'dx31', 'y6.addr', 'y7.addr', 'y3.addr', 'y2.addr', 'cjzxi', 'dz72', 'fy', 'cjzze', 'dz25', 'call', 'dz57', 'x2', 'cjxze', 'dx43', 'fjyxi', 'call62', 'y3', 'z1', 'dx20', 'x6', 'z3.addr', 'z5.addr', 'dy57', 'volume', 'dx64', 'fjzze', 'nd1i', 'dy70', 'dy61', 'cjyet', 'call68', 'x5', 'dx25', 'y5.addr', 'fx', 'dy43', 'z1.addr', 'x7', 'y1', 'z3', 'x0.addr', 'x0', 'nd7i', 'nd6i', 'dx50', 'y1.addr', 'z4', 'fjxze', 'call64', 'cjyxi', 'z7', 'dz63', 'x4.addr', 'dx63', '__n.addr', 'call54', 'inv_detJ', 'x2.addr', 'dy50', 'dy63', 'call13', 'y0.addr', 'y0', 'call23', 'x1', 'gz', 'call8', 'call10', 'z2.addr', 'x1.addr', 'dz14', 'dz50', 'dyddz', 'gy', 'dz20', 'dz31', 'y4', 'call7', 'y2', 'call11', 'dx61', 'idx.addr', 'call15', 'dx72', 'gx', 'z6', 'dzddx', 'x5.addr', 'z4.addr', 'nd4i', 'dy20', 'y6', 'cjyze', 'area', 'nd5i', 'dz43', 'cjzet', 'call40', 'a', 'x3.addr', 'dxddz', 'dz64', 'y5', 'dy31', 'z0.addr', 'fjxet', 'call12', 'fjzet', 'call26', 'dz70', 'dz61', 'arg.addr', 'nd3i', 'dy14', 'dy64', 'call82']
+shared: ['pfy', 'x.addr', 'retval', 'xvel.addr', 'yvel.addr', 'this1', 'D', 'elemToNode.addr', 'zvel.addr', '__a.addr', 'domain.addr', None, 'pfz', 'y.addr', 'z.addr', 'pfx']
+first private: ['call17', 'call47', 'call25', 'call35', 'call21', 'call49', 'call53', 'call33', 'call41', 'call22', 'deltaTime.addr', 'call37', 'call51', 'call29', 'call27', 'call43', 'call45', 'volume.addr', 'call19', 'numElem.addr', 'call31']
+reduction: ['-:z_local', '-:x_local', '-:y_local']
+last private: []
+
+Reduction at: 3:34
+Start line: 3:1550
+End line: 3:1555
+pragma: #pragma omp parallel for
+private: ['j']
+shared: []
+first private: ['yd_local', 'dt2', 'xd_local', 'zd_local']
+reduction: ['-:x_local', '-:z_local', '-:y_local']
+last private: []
+
+Reduction at: 3:545
+Start line: 3:573
+End line: 3:578
+pragma: #pragma omp parallel for
+private: ['ielem', 'count', 'i']
+shared: ['fz_elem', 'fy_elem', 'cornerList', 'fx_elem']
+first private: []
+reduction: ['+:fy_tmp', '+:fx_tmp', '+:fz_tmp']
+last private: []
+
+Reduction at: 3:756
+Start line: 3:977
+End line: 3:982
+pragma: #pragma omp parallel for
+private: ['ielem', 'count', 'i']
+shared: ['fz_elem', 'fy_elem', 'cornerList', 'fx_elem']
+first private: []
+reduction: ['+:fy_tmp', '+:fx_tmp', '+:fz_tmp']
+last private: []
+
+
+Do-all at: 3:25
+Start line: 3:1541
+End line: 3:1547
+iterations: 23556
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['__n.addr', 'lnode', 'idx.addr']
+shared: ['yd_local', 'xd_local', 'zd_local', 'domain.addr', None]
+first private: ['call22', 'elemToNode', 'call19', 'call25']
+reduction: []
+last private: []
+
+Do-all at: 3:357
+Start line: 3:1115
+End line: 3:1119
+iterations: 5751
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['call2', '__n.addr', 'call3', 'call1', 'idx.addr', 'i']
+shared: ['domain.addr', None]
+first private: ['numNode']
+reduction: []
+last private: []
+
+Do-all at: 3:368
+Start line: 3:1144
+End line: 3:1148
+iterations: 5690
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['call2', '__n.addr', 'call6', 'call1', 'call8', 'idx.addr', 'call10', 'call4', 'i']
+shared: ['domain.addr', None]
+first private: ['call3', 'call', 'numNode.addr', 'call7']
+reduction: []
+last private: []
+
+Do-all at: 3:390
+Start line: 3:1163
+End line: 3:1164
+iterations: 1141
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['__n.addr', 'call5', 'call', 'idx.addr', 'i']
+shared: ['domain.addr', None]
+first private: ['numNodeBC']
+reduction: []
+last private: []
+
+Do-all at: 3:400
+Start line: 3:1169
+End line: 3:1170
+iterations: 1129
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['call16', '__n.addr', 'i11', 'call', 'idx.addr']
+shared: ['domain.addr', None]
+first private: ['numNodeBC']
+reduction: []
+last private: []
+
+Do-all at: 3:410
+Start line: 3:1175
+End line: 3:1176
+iterations: 1190
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['__n.addr', 'i26', 'call', 'idx.addr', 'call31']
+shared: ['domain.addr', None]
+first private: ['numNodeBC']
+reduction: []
+last private: []
+
+Do-all at: 3:482
+Start line: 3:1083
+End line: 3:1091
+iterations: 2905
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['k']
+shared: []
+first private: ['numElem', 'determ']
+reduction: []
+last private: []
+
+Do-all at: 3:501
+Start line: 3:283
+End line: 3:285
+iterations: 3005
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['__n.addr', 'call', 'call1', 'idx.addr', 'i']
+shared: ['sigyy.addr', 'sigxx.addr', 'sigzz.addr', 'domain.addr', None]
+first private: ['numElem.addr']
+reduction: []
+last private: []
+
+Do-all at: 3:540
+Start line: 3:566
+End line: 3:582
+iterations: 64
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['call95', 'fy_tmp', 'fx_tmp', 'ielem', '__n.addr', 'i', 'idx.addr', 'call96', 'gnode72', 'count', 'call97', 'fz_tmp']
+shared: ['fz_elem', 'fy_elem', 'cornerList', 'this1', 'domain.addr', 'fx_elem', None]
+first private: ['numNode.addr']
+reduction: []
+last private: []
+
+Do-all at: 3:578
+Start line: 3:1020
+End line: 3:1029
+iterations: 23105
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['ii']
+shared: ['x8n', 'dvdx', 'y8n', 'dvdy', 'z8n', 'dvdz']
+first private: ['x1', 'pfx', 'z1', 'i', 'pfy', 'y1', 'pfz']
+reduction: []
+last private: []
+
+Do-all at: 3:613
+Start line: 3:427
+End line: 3:431
+iterations: 23051
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i']
+shared: ['pfx.addr', 'pfy.addr', 'pfz.addr']
+first private: []
+reduction: []
+last private: []
+
+Do-all at: 3:626
+Start line: 3:485
+End line: 3:489
+iterations: 23045
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i']
+shared: ['fx.addr', 'fy.addr', 'fz.addr']
+first private: ['B.addr', 'stress_xx.addr', 'stress_yy.addr', 'stress_zz.addr']
+reduction: []
+last private: []
+
+Do-all at: 3:661
+Start line: 3:796
+End line: 3:848
+iterations: 11580
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['hourmodx', 'hourmodz', 'i1', 'hourmody']
+shared: ['hourgam']
+first private: ['z8n.addr', 'dvdz.addr', 'dvdx.addr', 'volinv', 'gamma', 'x8n.addr', 'i3', 'y8n.addr', 'dvdy.addr']
+reduction: []
+last private: []
+
+Do-all at: 3:751
+Start line: 3:970
+End line: 3:986
+iterations: 25
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['fy_tmp', 'fx_tmp', 'ielem', '__n.addr', 'call664', 'call662', 'gnode', 'i', 'call660', 'idx.addr', 'count', 'fz_tmp']
+shared: ['fz_elem', 'fy_elem', 'cornerList', 'this1', 'domain.addr', 'fx_elem', None]
+first private: ['numNode.addr']
+reduction: []
+last private: []
+
+Do-all at: 3:784
+Start line: 3:673
+End line: 3:678
+iterations: 11584
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i']
+shared: ['hxx']
+first private: ['xd.addr', 'hourgam.addr']
+reduction: []
+last private: []
+
+Do-all at: 3:789
+Start line: 3:679
+End line: 3:683
+iterations: 23046
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i46']
+shared: ['hgfx.addr']
+first private: ['hxx', 'hourgam.addr', 'coefficient.addr']
+reduction: []
+last private: []
+
+Do-all at: 3:794
+Start line: 3:684
+End line: 3:689
+iterations: 11536
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i79']
+shared: ['hxx']
+first private: ['hourgam.addr', 'yd.addr']
+reduction: []
+last private: []
+
+Do-all at: 3:799
+Start line: 3:690
+End line: 3:694
+iterations: 23044
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i135']
+shared: ['hgfy.addr']
+first private: ['hxx', 'hourgam.addr', 'coefficient.addr']
+reduction: []
+last private: []
+
+Do-all at: 3:804
+Start line: 3:695
+End line: 3:700
+iterations: 11583
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i168']
+shared: ['hxx']
+first private: ['hourgam.addr', 'zd.addr']
+reduction: []
+last private: []
+
+Do-all at: 3:809
+Start line: 3:701
+End line: 3:705
+iterations: 23044
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i224']
+shared: ['hgfz.addr']
+first private: ['hxx', 'hourgam.addr', 'coefficient.addr']
+reduction: []
+last private: []
+
+Do-all at: 3:863
+Start line: 3:1585
+End line: 3:1606
+iterations: 2892
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['__n.addr', 'call7', 'idx.addr', 'k', 'call4']
+shared: ['this1', 'domain.addr', None]
+first private: ['numElem', 'call3', 'call5', 'call11', 'call9', 'call8', 'call13']
+reduction: []
+last private: []
+
+Do-all at: 3:898
+Start line: 3:1995
+End line: 3:2000
+iterations: 2880
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['__n.addr', 'idx.addr', 'call15', 'this1', 'i']
+shared: ['domain.addr', None]
+first private: ['numElem']
+reduction: []
+last private: []
+
+Do-all at: 3:918
+Start line: 3:2342
+End line: 3:2344
+iterations: 2880
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['__n.addr', 'idx.addr', 'i']
+shared: ['vnewc', 'domain.addr', None]
+first private: ['numElem', 'call5']
+reduction: []
+last private: []
+
+Do-all at: 3:925
+Start line: 3:2349
+End line: 3:2352
+iterations: 2880
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i8']
+shared: []
+first private: ['vnewc', 'eosvmin', 'numElem']
+reduction: []
+last private: []
+
+Do-all at: 3:934
+Start line: 3:2357
+End line: 3:2360
+iterations: 2880
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i24']
+shared: []
+first private: ['vnewc', 'numElem', 'eosvmax']
+reduction: []
+last private: []
+
+Do-all at: 3:942
+Start line: 3:2367
+End line: 3:2384
+iterations: 2880
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['__n.addr', 'idx.addr', 'call43', 'i39', 'vc']
+shared: ['domain.addr', None]
+first private: ['numElem', 'eosvmin', 'eosvmax']
+reduction: []
+last private: []
+
+Do-all at: 3:982
+Start line: 3:2416
+End line: 3:2423
+iterations: 2880
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['__n.addr', 'call5', 'idx.addr', 'arg.addr', 'i']
+shared: ['domain.addr', None]
+first private: ['call', 'length.addr', 'v_cut.addr']
+reduction: []
+last private: []
+
+Do-all at: 3:1024
+Start line: 3:1619
+End line: 3:1756
+iterations: 2880
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['call17', 'call9', 'dzk', 'call231', 'call47', 'dyj', 'n2', 'call39', 'dxv', 'ay', 'call147', 'call249', 'dyv', 'call180', 'dyi', 'call282', '__n.addr', 'n7', 'dxk', 'n5', 'n6', 'dxj', 'dxi', 'call57', 'dzi', 'call45', 'dzj', 'call11', 'idx.addr', 'n4', 'n3', 'n1', 'call198', 'dyk', 'ptiny', 'dzv', 'az', 'call55', 'arg.addr', 'i']
+shared: ['this1', 'domain.addr', None]
+first private: ['call38', 'call25', 'call28', 'call14', 'call35', 'call21', 'call16', 'call49', 'call53', 'call33', 'call34', 'call50', 'call41', 'call22', 'call46', 'call24', 'call58', 'call37', 'call48', 'call54', 'call51', 'call13', 'call23', 'call32', 'call29', 'call10', 'call56', 'call27', 'call52', 'call18', 'call30', 'call43', 'call44', 'call15', 'call19', 'call36', 'numElem', 'call31', 'call40', 'call42', 'call12', 'call26', 'call20']
+reduction: []
+last private: []
+
+Do-all at: 3:1330
+Start line: 3:2243
+End line: 3:2251
+iterations: 24615
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['call45', 'call48', '__n.addr', 'numElemReg.addr', 'idx.addr', 'i', 'call39']
+shared: ['ql_old', 'e_old', 'qq_old', 'q_old', 'p_old', 'delvc', None]
+first private: ['call54', 'call51', 'regElemList.addr', 'call42', 'domain.addr']
+reduction: []
+last private: []
+
+Do-all at: 3:1342
+Start line: 3:2254
+End line: 3:2260
+iterations: 24615
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['numElemReg.addr', 'i57']
+shared: ['compHalfStep', 'compression']
+first private: ['vnewc.addr', 'regElemList.addr', 'delvc']
+reduction: []
+last private: []
+
+Do-all at: 3:1350
+Start line: 3:2265
+End line: 3:2270
+iterations: 24615
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i81', 'ielem85', 'numElemReg.addr']
+shared: ['compHalfStep', 'compression']
+first private: ['vnewc.addr', 'regElemList.addr', 'eosvmin']
+reduction: []
+last private: []
+
+Do-all at: 3:1360
+Start line: 3:2274
+End line: 3:2281
+iterations: 24615
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['numElemReg.addr', 'i102', 'ielem106']
+shared: ['compHalfStep', 'compression', 'p_old']
+first private: ['vnewc.addr', 'regElemList.addr', 'eosvmax']
+reduction: []
+last private: []
+
+Do-all at: 3:1369
+Start line: 3:2285
+End line: 3:2287
+iterations: 24615
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i124', 'numElemReg.addr']
+shared: ['work']
+first private: []
+reduction: []
+last private: []
+
+Do-all at: 3:1377
+Start line: 3:2298
+End line: 3:2303
+iterations: 2880
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['call151', 'i136', '__n.addr', 'call148', 'idx.addr', 'call145']
+shared: [None]
+first private: ['q_new', 'regElemList.addr', 'numElemReg.addr', 'e_new', 'p_new', 'domain.addr']
+reduction: []
+last private: []
+
+Do-all at: 3:1421
+Start line: 3:2063
+End line: 3:2070
+iterations: 24615
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i']
+shared: ['e_old.addr', 'e_new.addr']
+first private: ['emin.addr', 'delvc.addr', 'q_old.addr', 'p_old.addr', 'work.addr', 'length.addr']
+reduction: []
+last private: []
+
+Do-all at: 3:1443
+Start line: 3:2101
+End line: 3:2111
+iterations: 24615
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i85', 'arg.addr']
+shared: ['e_new.addr']
+first private: ['emin.addr', 'work.addr', 'length.addr', 'e_cut.addr']
+reduction: []
+last private: []
+
+Do-all at: 3:1508
+Start line: 3:2023
+End line: 3:2027
+iterations: 73845
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['c1s', 'i']
+shared: ['bvc.addr', 'pbvc.addr']
+first private: ['compression.addr', 'length.addr']
+reduction: []
+last private: []
+
+Do-all at: 3:1514
+Start line: 3:2030
+End line: 3:2043
+iterations: 73845
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['ielem', 'i5', 'arg.addr']
+shared: ['regElemList.addr', 'p_new.addr']
+first private: ['p_cut.addr', 'vnewc.addr', 'eosvmax.addr', 'bvc.addr', 'pmin.addr', 'length.addr', 'e_old.addr']
+reduction: []
+last private: []
+
+
+Pipeline at: 3:25
+Coefficient: 1.0
+Start line: 3:1541
+End line: 3:1547
+Stages:
+	Node: 3:27
+	Start line: 3:1543
+	End line: 3:1543
+	pragma: "#pragma omp task"
+	first private: ['elemToNode', 'lnode']
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: ['gnode']
+	InOutDeps: []
+
+	Node: 3:28
+	Start line: 3:1544
+	End line: 3:1547
+	pragma: "#pragma omp task"
+	first private: ['call22', 'lnode', 'call19', 'call25']
+	private: ['__n.addr', 'idx.addr']
+	shared: []
+	reduction: []
+	InDeps: ['gnode']
+	OutDeps: []
+	InOutDeps: []
+
+Pipeline at: 3:530
+Coefficient: 1.0
+Start line: 3:553
+End line: 3:558
+Stages:
+	Node: 3:532
+	Start line: 3:554
+	End line: 3:554
+	pragma: "#pragma omp task"
+	first private: ['elemToNode', 'lnode']
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: ['gnode']
+	InOutDeps: []
+
+	Node: 3:533
+	Start line: 3:555
+	End line: 3:558
+	pragma: "#pragma omp task"
+	first private: ['fy_local', 'fz_local', 'lnode', 'fx_local']
+	private: ['__n.addr', 'idx.addr']
+	shared: []
+	reduction: []
+	InDeps: ['gnode']
+	OutDeps: []
+	InOutDeps: ['call60', 'call57', 'call64']
+
+Pipeline at: 3:578
+Coefficient: 1.0
+Start line: 3:1020
+End line: 3:1029
+Stages:
+	Node: 3:580
+	Start line: 3:1021
+	End line: 3:1021
+	pragma: "#pragma omp task"
+	first private: ['i', 'ii']
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: ['jj']
+	InOutDeps: []
+
+	Node: 3:581
+	Start line: 3:1023
+	End line: 3:1029
+	pragma: "#pragma omp task"
+	first private: ['x1', 'ii', 'pfx', 'z1', 'pfy', 'y1', 'pfz']
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['jj']
+	OutDeps: []
+	InOutDeps: []
+
+Pipeline at: 3:661
+Coefficient: 1.0
+Start line: 3:796
+End line: 3:848
+Stages:
+	Node: 3:663
+	Start line: 3:798
+	End line: 3:814
+	pragma: "#pragma omp task"
+	first private: ['z8n.addr', 'gamma', 'x8n.addr', 'i1', 'i3', 'y8n.addr']
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: ['hourmodx', 'hourmodz', 'hourmody']
+	InOutDeps: []
+
+	Node: 3:664
+	Start line: 3:816
+	End line: 3:848
+	pragma: "#pragma omp task"
+	first private: ['dvdz.addr', 'volinv', 'dvdx.addr', 'gamma', 'i1', 'i3', 'dvdy.addr']
+	private: []
+	shared: ['hourgam']
+	reduction: []
+	InDeps: ['hourmodx', 'hourmodz', 'hourmody']
+	OutDeps: []
+	InOutDeps: []
+
+Pipeline at: 3:863
+Coefficient: 1.0
+Start line: 3:1585
+End line: 3:1606
+Stages:
+	Node: 3:865
+	Start line: 3:1588
+	End line: 3:1588
+	pragma: "#pragma omp task"
+	first private: ['call3', 'call5', 'k', 'call4']
+	private: ['idx.addr']
+	shared: ['this1', 'domain.addr']
+	reduction: []
+	InDeps: []
+	OutDeps: ['vdov']
+	InOutDeps: []
+
+	Node: 3:866
+	Start line: 3:1589
+	End line: 3:1592
+	pragma: "#pragma omp task"
+	first private: ['k']
+	private: ['__n.addr', 'idx.addr']
+	shared: ['domain.addr', 'call7']
+	reduction: []
+	InDeps: ['vdov']
+	OutDeps: ['vdovthird']
+	InOutDeps: []
+
+	Node: 3:867
+	Start line: 3:1593
+	End line: 3:1598
+	pragma: "#pragma omp task"
+	first private: ['call11', 'call9', 'call8', 'k', 'call13']
+	private: ['__n.addr', 'idx.addr']
+	shared: ['this1', 'domain.addr']
+	reduction: []
+	InDeps: ['vdovthird']
+	OutDeps: []
+	InOutDeps: []
+
+Pipeline at: 3:1024
+Coefficient: 1.0
+Start line: 3:1619
+End line: 3:1756
+Stages:
+	Node: 3:1026
+	Start line: 3:1620
+	End line: 3:1624
+	pragma: "#pragma omp task"
+	first private: ['i', 'domain.addr']
+	private: ['ptiny', '__n.addr', 'idx.addr']
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: ['elemToNode']
+	InOutDeps: []
+
+	Node: 3:1027
+	Start line: 3:1625
+	End line: 3:1632
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['elemToNode']
+	OutDeps: ['n7', 'n0', 'n3', 'n5', 'n1', 'n6', 'n4', 'n2']
+	InOutDeps: []
+
+	Node: 3:1028
+	Start line: 3:1634
+	End line: 3:1688
+	pragma: "#pragma omp task"
+	first private: ['call38', 'call17', 'call9', 'call47', 'call25', 'call28', 'call14', 'call35', 'call21', 'call39', 'call16', 'call49', 'call53', 'call33', 'call34', 'call50', 'call41', 'call22', 'call46', 'call24', 'call58', 'call37', 'call48', 'call54', 'call51', 'call13', 'call23', 'call32', 'call29', 'call10', 'call56', 'call27', 'call52', 'call18', 'call30', 'call43', 'call45', 'call11', 'call44', 'call15', 'call19', 'call36', 'call31', 'call40', 'call42', 'call12', 'call26', 'call20', 'call55', 'i']
+	private: ['__n.addr', 'call57', 'idx.addr']
+	shared: ['yv4', 'y7', 'x3', 'x4', 'z0', 'z5', 'zv6', 'z2', 'yv0', 'yv6', 'zv3', 'zv1', 'xv7', 'yv1', 'yv2', 'yv7', 'zv7', 'yv3', 'xv1', 'x2', 'xv5', 'y3', 'z1', 'x6', 'x5', 'zv2', 'y1', 'z3', 'x7', 'x0', 'z4', 'zv5', 'z7', 'xv3', 'zv4', 'yv5', 'y0', 'x1', 'xv2', 'y4', 'zv0', 'y2', 'xv4', 'z6', 'y6', 'xv0', 'xv6', 'y5']
+	reduction: []
+	InDeps: ['n2', 'n0', 'n7', 'n5', 'n6', 'n4', 'n3', 'n1']
+	OutDeps: ['vol']
+	InOutDeps: []
+
+	Node: 3:1029
+	Start line: 3:1689
+	End line: 3:1701
+	pragma: "#pragma omp task"
+	first private: []
+	private: ['dzk', 'dxk', 'dxj', 'dyk', 'dxi']
+	shared: []
+	reduction: []
+	InDeps: ['vol']
+	OutDeps: ['dzj', 'dyj', 'dyi', 'dzi']
+	InOutDeps: []
+
+	Node: 3:1030
+	Start line: 3:1705
+	End line: 3:1707
+	pragma: "#pragma omp task"
+	first private: []
+	private: ['dxi', 'dxj']
+	shared: []
+	reduction: []
+	InDeps: ['dzj', 'dyi', 'dyj', 'dzi']
+	OutDeps: ['ay', 'ax', 'az']
+	InOutDeps: []
+
+	Node: 3:1031
+	Start line: 3:1709
+	End line: 3:1717
+	pragma: "#pragma omp task"
+	first private: ['i', 'domain.addr']
+	private: ['yv1', 'yv2', 'yv4', 'idx.addr', 'yv7', 'xv4', 'zv7', 'zv5', 'yv3', 'xv3', 'zv4', 'yv5', 'xv1', 'xv0', 'xv5', 'norm', 'zv6', 'xv6', 'yv0', 'yv6', 'xv2', 'zv3', 'arg.addr', 'zv2', 'zv1', 'xv7', 'zv0']
+	shared: ['this1', 'call147']
+	reduction: []
+	InDeps: ['vol']
+	OutDeps: ['dxv', 'dyv', 'dzv']
+	InOutDeps: ['ax', 'ay', 'az']
+
+	Node: 3:1032
+	Start line: 3:1719
+	End line: 3:1725
+	pragma: "#pragma omp task"
+	first private: ['i', 'domain.addr']
+	private: ['dzj', 'dyk', 'dxj', 'dxk', 'idx.addr', 'dzk', 'dyj']
+	shared: ['this1', 'call180']
+	reduction: []
+	InDeps: ['dzv', 'dyv', 'dxv']
+	OutDeps: []
+	InOutDeps: ['ay', 'ax', 'az']
+
+	Node: 3:1033
+	Start line: 3:1727
+	End line: 3:1735
+	pragma: "#pragma omp task"
+	first private: ['i', 'domain.addr']
+	private: ['yv1', 'yv2', 'yv4', 'idx.addr', 'yv7', 'xv4', 'zv7', 'zv5', 'yv3', 'xv3', 'zv4', 'yv5', 'xv1', 'xv0', 'xv5', 'norm', 'zv6', 'call198', 'xv6', 'yv0', 'yv6', 'xv2', 'zv3', 'arg.addr', 'zv2', 'zv1', 'xv7', 'zv0']
+	shared: ['this1']
+	reduction: []
+	InDeps: ['vol']
+	OutDeps: ['dxv', 'dyv', 'dzv']
+	InOutDeps: ['ax', 'ay', 'az']
+
+	Node: 3:1034
+	Start line: 3:1737
+	End line: 3:1743
+	pragma: "#pragma omp task"
+	first private: ['i', 'domain.addr']
+	private: ['dxi', 'dyi', 'dxk', 'idx.addr', 'dzk', 'dzi', 'dyk']
+	shared: ['this1', 'call231']
+	reduction: []
+	InDeps: ['dzv', 'dyv', 'dxv']
+	OutDeps: []
+	InOutDeps: ['ay', 'ax', 'az']
+
+	Node: 3:1035
+	Start line: 3:1745
+	End line: 3:1753
+	pragma: "#pragma omp task"
+	first private: ['i', 'domain.addr']
+	private: ['idx.addr', 'call249', 'arg.addr']
+	shared: ['this1']
+	reduction: []
+	InDeps: ['vol']
+	OutDeps: ['dxv', 'dyv', 'dzv']
+	InOutDeps: ['ax', 'ay', 'az']
+
+	Node: 3:1036
+	Start line: 3:1755
+	End line: 3:1756
+	pragma: "#pragma omp task"
+	first private: ['i', 'domain.addr']
+	private: ['idx.addr']
+	shared: ['call282', 'this1']
+	reduction: []
+	InDeps: ['dzv', 'ay', 'ax', 'az', 'dyv', 'dxv']
+	OutDeps: []
+	InOutDeps: []
+
+Pipeline at: 3:1330
+Coefficient: 1.0
+Start line: 3:2243
+End line: 3:2251
+Stages:
+	Node: 3:1332
+	Start line: 3:2244
+	End line: 3:2244
+	pragma: "#pragma omp task"
+	first private: ['i', 'regElemList.addr']
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: ['ielem']
+	InOutDeps: []
+
+	Node: 3:1333
+	Start line: 3:2245
+	End line: 3:2251
+	pragma: "#pragma omp task"
+	first private: ['call54', 'call51', 'i', 'call42', 'domain.addr']
+	private: ['__n.addr', 'idx.addr']
+	shared: []
+	reduction: []
+	InDeps: ['ielem']
+	OutDeps: []
+	InOutDeps: []
+
+Pipeline at: 3:1342
+Coefficient: 1.0
+Start line: 3:2254
+End line: 3:2260
+Stages:
+	Node: 3:1344
+	Start line: 3:2255
+	End line: 3:2256
+	pragma: "#pragma omp task"
+	first private: ['i57', 'regElemList.addr']
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: ['ielem61']
+	InOutDeps: []
+
+	Node: 3:1345
+	Start line: 3:2257
+	End line: 3:2258
+	pragma: "#pragma omp task"
+	first private: ['vnewc.addr', 'i57', 'delvc']
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['ielem61']
+	OutDeps: ['vchalf']
+	InOutDeps: []
+
+	Node: 3:1346
+	Start line: 3:2259
+	End line: 3:2260
+	pragma: "#pragma omp task"
+	first private: ['i57']
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['vchalf']
+	OutDeps: []
+	InOutDeps: []
+
+Pipeline at: 3:1377
+Coefficient: 1.0
+Start line: 3:2298
+End line: 3:2303
+Stages:
+	Node: 3:1379
+	Start line: 3:2299
+	End line: 3:2299
+	pragma: "#pragma omp task"
+	first private: ['regElemList.addr', 'i136']
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: ['ielem140']
+	InOutDeps: []
+
+	Node: 3:1380
+	Start line: 3:2300
+	End line: 3:2303
+	pragma: "#pragma omp task"
+	first private: ['i136', 'q_new', 'e_new', 'p_new', 'domain.addr']
+	private: ['call151', '__n.addr', 'call148', 'idx.addr', 'call145']
+	shared: []
+	reduction: []
+	InDeps: ['ielem140']
+	OutDeps: []
+	InOutDeps: []
+
+Pipeline at: 3:1508
+Coefficient: 1.0
+Start line: 3:2023
+End line: 3:2027
+Stages:
+	Node: 3:1510
+	Start line: 3:2024
+	End line: 3:2024
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: ['c1s']
+	InOutDeps: []
+
+	Node: 3:1511
+	Start line: 3:2025
+	End line: 3:2027
+	pragma: "#pragma omp task"
+	first private: ['compression.addr', 'i']
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['c1s']
+	OutDeps: []
+	InOutDeps: []
+
+
+Geometric decomposition at: 3:8
+Start line: 3:1505
+End line: 3:1568
+Type: Geometric Decomposition Pattern
+Do-All loops: ['3:25', '3:34']
+Reduction loops: ['3:10']
+	Number of tasks: 2
+	Chunk limits: 17
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: ['domain.addr']
+	first private: ['deltaTime.addr', 'numElem.addr', 'i']
+	reduction: []
+	last private: []
+
+Geometric decomposition at: 3:366
+Start line: 3:1140
+End line: 3:1149
+Type: Geometric Decomposition Pattern
+Do-All loops: ['3:368']
+Reduction loops: []
+	Number of tasks: 2
+	Chunk limits: 33
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: ['domain.addr']
+	first private: ['numNode.addr', 'i']
+	reduction: []
+	last private: []
+
+Geometric decomposition at: 3:384
+Start line: 3:1154
+End line: 3:1179
+Type: Geometric Decomposition Pattern
+Do-All loops: ['3:390', '3:400', '3:410']
+Reduction loops: []
+	Number of tasks: 2
+	Chunk limits: 6
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: ['domain.addr']
+	first private: ['i']
+	reduction: []
+	last private: []
+
+Geometric decomposition at: 3:499
+Start line: 3:274
+End line: 3:286
+Type: Geometric Decomposition Pattern
+Do-All loops: ['3:501']
+Reduction loops: []
+	Number of tasks: 2
+	Chunk limits: 17
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: []
+	first private: ['numElem.addr', 'i']
+	reduction: []
+	last private: []
+
+Geometric decomposition at: 3:611
+Start line: 3:420
+End line: 3:474
+Type: Geometric Decomposition Pattern
+Do-All loops: ['3:613']
+Reduction loops: []
+	Number of tasks: 150
+	Chunk limits: 23051
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: []
+	first private: ['z.addr', 'y.addr', 'x.addr', 'i']
+	reduction: []
+	last private: []
+
+Geometric decomposition at: 3:624
+Start line: 3:479
+End line: 3:490
+Type: Geometric Decomposition Pattern
+Do-All loops: ['3:626']
+Reduction loops: []
+	Number of tasks: 150
+	Chunk limits: 23045
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: []
+	first private: ['B.addr', 'stress_xx.addr', 'stress_yy.addr', 'stress_zz.addr', 'i']
+	reduction: []
+	last private: []
+
+Geometric decomposition at: 3:782
+Start line: 3:668
+End line: 3:706
+Type: Geometric Decomposition Pattern
+Do-All loops: ['3:784', '3:789', '3:794', '3:799', '3:804', '3:809']
+Reduction loops: []
+	Number of tasks: 2
+	Chunk limits: 3
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: ['hgfz.addr', 'hgfy.addr', 'hgfx.addr']
+	first private: ['zd.addr', 'xd.addr', 'yd.addr', 'hourgam.addr', 'coefficient.addr', 'i']
+	reduction: []
+	last private: []
+
+Geometric decomposition at: 3:854
+Start line: 3:1573
+End line: 3:1609
+Type: Geometric Decomposition Pattern
+Do-All loops: ['3:25', '3:34', '3:863']
+Reduction loops: ['3:10']
+	Number of tasks: 2
+	Chunk limits: 16
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: ['domain.addr']
+	first private: ['i']
+	reduction: []
+	last private: []
+
+Geometric decomposition at: 3:979
+Start line: 3:2411
+End line: 3:2426
+Type: Geometric Decomposition Pattern
+Do-All loops: ['3:982']
+Reduction loops: []
+	Number of tasks: 2
+	Chunk limits: 16
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: ['domain.addr']
+	first private: ['v_cut.addr', 'length.addr', 'i']
+	reduction: []
+	last private: []
+
+Geometric decomposition at: 3:1021
+Start line: 3:1614
+End line: 3:1757
+Type: Geometric Decomposition Pattern
+Do-All loops: ['3:1024']
+Reduction loops: []
+	Number of tasks: 2
+	Chunk limits: 16
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: []
+	first private: ['i']
+	reduction: []
+	last private: []
+
+Geometric decomposition at: 3:1506
+Start line: 3:2015
+End line: 3:2044
+Type: Geometric Decomposition Pattern
+Do-All loops: ['3:1508', '3:1514']
+Reduction loops: []
+	Number of tasks: 2
+	Chunk limits: 46
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: ['regElemList.addr', 'p_new.addr']
+	first private: ['p_cut.addr', 'vnewc.addr', 'eosvmax.addr', 'compression.addr', 'pmin.addr', 'length.addr', 'e_old.addr', 'i']
+	reduction: []
+	last private: []
+Time taken for pattern detection: 2002.7585718631744

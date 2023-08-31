@@ -1,0 +1,23 @@
+1) Function calls with parameters seem to prevent do_all detection.
+See loop comments for each file.
+
+
+2) DiscoPop incorrectly identifies reduction variables of the form a[i] where i is the loop counter
+I may be incorrect, but I am almost certain that the following is not a reduction:
+
+for i = [1, 10]
+	array[i] += 2
+
+yet, Discopop will detect 'array' as a reduction variable with 10 iterations.
+
+reduction_single_loop_0009.c and do_all_single_loop_0006.c are examples of this bug.
+'proper_reduction_example.c' is a correctly identified reduction for comparison
+
+
+3) Geometric decomp do_all detected, but not regular do_all
+Removing all function calls from the loop has no effect.
+
+
+4) Double nested loop do_all detection failure?
+Not sure why 0009.c is detected, but 0003.c is not.
+

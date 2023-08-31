@@ -1,0 +1,209 @@
+{
+  "reduction": [
+    {
+      "node_id": "2:22",
+      "start_line": "2:39",
+      "end_line": "2:47",
+      "iterations_count": 14,
+      "instructions_count": 0,
+      "workload": 0,
+      "pragma": "#pragma omp parallel for",
+      "first_private": [
+        "input",
+        "stencil"
+      ],
+      "private": [
+        "j31",
+        "k",
+        "i27",
+        "l"
+      ],
+      "last_private": [],
+      "shared": [],
+      "reduction": [
+        "+:output"
+      ]
+    },
+    {
+      "node_id": "2:25",
+      "start_line": "2:40",
+      "end_line": "2:46",
+      "iterations_count": 196,
+      "instructions_count": 0,
+      "workload": 0,
+      "pragma": "#pragma omp parallel for",
+      "first_private": [
+        "input",
+        "stencil",
+        "i27"
+      ],
+      "private": [
+        "j31",
+        "k",
+        "l"
+      ],
+      "last_private": [],
+      "shared": [],
+      "reduction": [
+        "+:output"
+      ]
+    },
+    {
+      "node_id": "2:28",
+      "start_line": "2:41",
+      "end_line": "2:45",
+      "iterations_count": 588,
+      "instructions_count": 0,
+      "workload": 0,
+      "pragma": "#pragma omp parallel for",
+      "first_private": [
+        "input",
+        "stencil",
+        "j31",
+        "i27"
+      ],
+      "private": [
+        "k",
+        "l"
+      ],
+      "last_private": [],
+      "shared": [],
+      "reduction": [
+        "+:output"
+      ]
+    },
+    {
+      "node_id": "2:31",
+      "start_line": "2:42",
+      "end_line": "2:44",
+      "iterations_count": 1764,
+      "instructions_count": 0,
+      "workload": 0,
+      "pragma": "#pragma omp parallel for",
+      "first_private": [
+        "input",
+        "stencil",
+        "j31",
+        "k",
+        "i27"
+      ],
+      "private": [
+        "l"
+      ],
+      "last_private": [],
+      "shared": [],
+      "reduction": [
+        "+:output"
+      ]
+    }
+  ],
+  "do_all": [
+    {
+      "node_id": "2:2",
+      "start_line": "2:25",
+      "end_line": "2:29",
+      "iterations_count": 16,
+      "instructions_count": 0,
+      "workload": 0,
+      "first_private": [],
+      "private": [
+        "j",
+        "i"
+      ],
+      "last_private": [],
+      "shared": [
+        "input"
+      ],
+      "reduction": []
+    },
+    {
+      "node_id": "2:5",
+      "start_line": "2:26",
+      "end_line": "2:28",
+      "iterations_count": 256,
+      "instructions_count": 0,
+      "workload": 0,
+      "first_private": [
+        "i"
+      ],
+      "private": [
+        "j"
+      ],
+      "last_private": [],
+      "shared": [
+        "input"
+      ],
+      "reduction": []
+    },
+    {
+      "node_id": "2:12",
+      "start_line": "2:32",
+      "end_line": "2:36",
+      "iterations_count": 14,
+      "instructions_count": 0,
+      "workload": 0,
+      "first_private": [],
+      "private": [
+        "j13",
+        "i9"
+      ],
+      "last_private": [],
+      "shared": [
+        "output"
+      ],
+      "reduction": []
+    },
+    {
+      "node_id": "2:15",
+      "start_line": "2:33",
+      "end_line": "2:35",
+      "iterations_count": 196,
+      "instructions_count": 0,
+      "workload": 0,
+      "first_private": [
+        "i9"
+      ],
+      "private": [
+        "j13"
+      ],
+      "last_private": [],
+      "shared": [
+        "output"
+      ],
+      "reduction": []
+    }
+  ],
+  "pipeline": [],
+  "geometric_decomposition": [
+    {
+      "node_id": "2:0",
+      "start_line": "2:9",
+      "end_line": "2:70",
+      "iterations_count": -1,
+      "instructions_count": 0,
+      "workload": 0,
+      "do_all_children": [
+        "2:2",
+        "2:5",
+        "2:12",
+        "2:15"
+      ],
+      "reduction_children": [
+        "2:22",
+        "2:25",
+        "2:28",
+        "2:31"
+      ],
+      "min_iter_number": 14,
+      "num_tasks": 2,
+      "pragma": "for (i = 0; i < num-tasks; i++) #pragma omp task",
+      "first_private": [
+        "i"
+      ],
+      "private": [],
+      "last_private": [],
+      "shared": [],
+      "reduction": []
+    }
+  ]
+}

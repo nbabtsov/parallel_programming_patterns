@@ -1,0 +1,243 @@
+{
+  "reduction": [
+    {
+      "node_id": "2:2",
+      "start_line": "2:36",
+      "end_line": "2:60",
+      "iterations_count": 923,
+      "instructions_count": 0,
+      "workload": 0,
+      "pragma": "#pragma omp parallel for",
+      "first_private": [],
+      "private": [
+        "l",
+        "b.addr",
+        "c.addr",
+        "Q",
+        "r",
+        "a.addr",
+        "retval",
+        "UnIRnMtn",
+        "QRh",
+        "OjtN",
+        "vyh",
+        "fPQsQ",
+        "s",
+        "myTTRy",
+        "VeSxetIf",
+        "e.addr"
+      ],
+      "last_private": [],
+      "shared": [
+        "d.addr",
+        "dkQ",
+        "nVL"
+      ],
+      "reduction": [
+        "*:b"
+      ]
+    }
+  ],
+  "do_all": [],
+  "pipeline": [
+    {
+      "node_id": "2:2",
+      "start_line": "2:36",
+      "end_line": "2:60",
+      "iterations_count": 923,
+      "instructions_count": 0,
+      "workload": 0,
+      "coefficient": 0.946,
+      "stages": [
+        {
+          "node": "2:4",
+          "startsAtLine": "2:39",
+          "endsAtLine": "2:39",
+          "first_private": [],
+          "private": [
+            "b.addr",
+            "c.addr",
+            "a.addr",
+            "e.addr"
+          ],
+          "shared": [
+            "r",
+            "d.addr"
+          ],
+          "reduction": [],
+          "in_deps": [],
+          "out_deps": [
+            "retval",
+            "s",
+            "nVL"
+          ],
+          "in_out_deps": []
+        },
+        {
+          "node": "2:5",
+          "startsAtLine": "2:40",
+          "endsAtLine": "2:41",
+          "first_private": [],
+          "private": [
+            "d.addr",
+            "b.addr",
+            "c.addr",
+            "e.addr"
+          ],
+          "shared": [
+            "r",
+            "l",
+            "a.addr"
+          ],
+          "reduction": [],
+          "in_deps": [
+            "nVL"
+          ],
+          "out_deps": [
+            "myTTRy",
+            "retval",
+            "OjtN",
+            "gXG",
+            "fPQsQ",
+            "UnIRnMtn"
+          ],
+          "in_out_deps": []
+        },
+        {
+          "node": "2:6",
+          "startsAtLine": "2:42",
+          "endsAtLine": "2:43",
+          "first_private": [],
+          "private": [
+            "b.addr",
+            "c.addr",
+            "a.addr",
+            "e.addr"
+          ],
+          "shared": [
+            "r",
+            "d.addr",
+            "l",
+            "dkQ"
+          ],
+          "reduction": [],
+          "in_deps": [
+            "gXG",
+            "nVL"
+          ],
+          "out_deps": [
+            "arc"
+          ],
+          "in_out_deps": [
+            "retval",
+            "fPQsQ",
+            "s"
+          ]
+        },
+        {
+          "node": "2:7",
+          "startsAtLine": "2:47",
+          "endsAtLine": "2:53",
+          "first_private": [],
+          "private": [
+            "d.addr",
+            "c.addr",
+            "a.addr",
+            "e.addr"
+          ],
+          "shared": [
+            "r",
+            "l",
+            "VeSxetIf",
+            "b.addr",
+            "gXG",
+            "Q"
+          ],
+          "reduction": [],
+          "in_deps": [
+            "retval",
+            "fPQsQ",
+            "UnIRnMtn"
+          ],
+          "out_deps": [
+            "dkQ"
+          ],
+          "in_out_deps": [
+            "*:b",
+            "arc"
+          ]
+        },
+        {
+          "node": "2:8",
+          "startsAtLine": "2:54",
+          "endsAtLine": "2:57",
+          "first_private": [],
+          "private": [
+            "b.addr",
+            "c.addr",
+            "a.addr",
+            "e.addr"
+          ],
+          "shared": [
+            "r",
+            "d.addr",
+            "QRh"
+          ],
+          "reduction": [],
+          "in_deps": [
+            "myTTRy",
+            "retval",
+            "dkQ",
+            "OjtN",
+            "s",
+            "arc",
+            "nVL"
+          ],
+          "out_deps": [],
+          "in_out_deps": [
+            "l",
+            "vyh"
+          ]
+        },
+        {
+          "node": "2:9",
+          "startsAtLine": "2:58",
+          "endsAtLine": "2:60",
+          "first_private": [],
+          "private": [],
+          "shared": [],
+          "reduction": [],
+          "in_deps": [
+            "l"
+          ],
+          "out_deps": [],
+          "in_out_deps": []
+        }
+      ]
+    }
+  ],
+  "geometric_decomposition": [
+    {
+      "node_id": "2:0",
+      "start_line": "2:18",
+      "end_line": "2:62",
+      "iterations_count": -1,
+      "instructions_count": 0,
+      "workload": 0,
+      "do_all_children": [],
+      "reduction_children": [
+        "2:2"
+      ],
+      "min_iter_number": 923,
+      "num_tasks": 23,
+      "pragma": "for (i = 0; i < num-tasks; i++) #pragma omp task",
+      "first_private": [
+        "i"
+      ],
+      "private": [],
+      "last_private": [],
+      "shared": [],
+      "reduction": []
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+1	/home/jan/NPB/CG/cg.c
+2	/home/jan/NPB/CG/globals.h

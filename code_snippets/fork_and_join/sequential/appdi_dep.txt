@@ -1,0 +1,14 @@
+START 1:19
+1:11 BGN func 1:5
+1:19 BGN func 1:5
+1:10 BGN func 1:5
+1:15 END func
+1:15 NOM  RAW 1:7|retval RAW 1:13|retval
+1:7 NOM  WAR 1:15|retval INIT *|retval
+1:11 NOM  WAR 1:13|y INIT *|y
+1:13 NOM  RAW 1:10|x RAW 1:11|y WAR 1:15|retval INIT *|retval
+1:20 NOM  RAW 1:19|result
+1:10 NOM  WAR 1:13|x INIT *|x
+1:19 NOM  INIT *|result
+1:12 NOM  RAW 1:10|x RAW 1:11|y
+1:21 END program

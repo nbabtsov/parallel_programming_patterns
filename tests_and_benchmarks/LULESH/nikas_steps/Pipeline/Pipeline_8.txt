@@ -1,0 +1,7 @@
+         for (Index_t i = 0; i < numElemReg ; ++i) {
+            Index_t ielem = regElemList[i];
+            Real_t vchalf ;
+            compression[i] = Real_t(1.) / vnewc[ielem] - Real_t(1.);
+            vchalf = vnewc[ielem] - delvc[i] * Real_t(.5);
+            compHalfStep[i] = Real_t(1.) / vchalf - Real_t(1.);
+         }

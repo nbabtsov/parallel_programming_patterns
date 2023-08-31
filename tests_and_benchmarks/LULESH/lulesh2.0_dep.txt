@@ -1,0 +1,2416 @@
+START 3:2650
+6:204 BGN loop 11
+6:207 END loop
+8:202 BGN loop 1
+8:212 END loop
+8:201 BGN loop 4
+8:215 END loop
+3:2560 BGN loop 0
+3:2567 END loop
+3:2583 BGN loop 11
+3:2596 END loop
+3:2416 BGN loop 64
+3:2424 END loop
+3:2188 BGN loop 5
+3:2200 END loop
+3:2154 BGN loop 15
+3:2173 END loop
+3:2101 BGN loop 15
+3:2113 END loop
+3:2030 BGN loop 15
+3:2044 END loop
+6:557 BGN loop 16
+6:561 END loop
+6:159 BGN loop 64
+6:183 END loop
+3:2298 BGN loop 5
+3:2305 END loop
+6:574 BGN loop 64
+6:578 END loop
+3:2117 BGN loop 15
+3:2150 END loop
+3:1115 BGN loop 125
+3:1122 END loop
+3:2063 BGN loop 15
+3:2072 END loop
+6:517 BGN loop 5
+6:533 END loop
+3:1163 BGN loop 25
+3:1165 END loop
+6:578 BGN loop 6
+6:582 END loop
+6:499 BGN loop 11
+6:504 END loop
+6:504 BGN loop 64
+6:510 END loop
+6:552 BGN loop 60
+6:557 END loop
+3:1189 BGN loop 125
+3:1205 END loop
+3:2475 BGN loop 5
+3:2496 END loop
+6:250 BGN loop 4
+6:263 END loop
+3:2500 BGN loop 0
+3:2507 END loop
+6:108 BGN loop 125
+6:114 END loop
+6:442 BGN loop 3
+6:490 END loop
+6:616 BGN loop 4
+6:672 END loop
+6:542 BGN loop 63
+6:546 END loop
+6:98 BGN loop 64
+6:102 END loop
+6:548 BGN loop 4
+6:552 END loop
+3:1771 BGN loop 21
+3:1921 END loop
+8:69 BGN loop 1
+8:170 END loop
+6:174 BGN loop 8
+6:178 END loop
+6:248 BGN loop 4
+6:267 END loop
+6:90 BGN loop 64
+6:98 END loop
+6:114 BGN loop 125
+6:118 END loop
+6:494 BGN loop 64
+6:499 END loop
+3:1550 BGN loop 8
+3:1557 END loop
+6:225 BGN loop 5
+6:246 END loop
+3:2745 BGN loop 45
+3:2760 END loop
+6:520 BGN loop 5
+6:532 END loop
+6:483 BGN loop 21
+6:487 END loop
+6:613 BGN loop 4
+6:673 END loop
+6:446 BGN loop 6
+6:450 END loop
+3:796 BGN loop 4
+3:853 END loop
+6:249 BGN loop 4
+6:265 END loop
+3:2238 BGN loop 3
+3:2298 END loop
+6:102 BGN loop 125
+6:108 END loop
+6:436 BGN loop 11
+6:442 END loop
+3:1619 BGN loop 64
+3:1757 END loop
+6:229 BGN loop 5
+6:238 END loop
+3:283 BGN loop 64
+3:286 END loop
+3:522 BGN loop 64
+3:562 END loop
+3:2357 BGN loop 64
+3:2361 END loop
+3:2023 BGN loop 15
+3:2030 END loop
+3:427 BGN loop 8
+3:433 END loop
+3:485 BGN loop 8
+3:490 END loop
+3:1083 BGN loop 64
+3:1093 END loop
+3:2274 BGN loop 15
+3:2282 END loop
+3:1020 BGN loop 8
+3:1031 END loop
+3:783 BGN loop 64
+3:967 END loop
+6:452 BGN loop 0
+6:460 END loop
+3:673 BGN loop 4
+3:679 END loop
+3:684 BGN loop 4
+3:690 END loop
+3:690 BGN loop 8
+3:695 END loop
+3:679 BGN loop 8
+3:684 END loop
+3:2349 BGN loop 64
+3:2353 END loop
+3:695 BGN loop 4
+3:701 END loop
+3:1169 BGN loop 25
+3:1171 END loop
+3:701 BGN loop 8
+3:706 END loop
+3:1175 BGN loop 25
+3:1177 END loop
+3:1144 BGN loop 125
+3:1149 END loop
+3:1213 BGN loop 125
+3:1219 END loop
+3:1010 BGN loop 64
+3:1043 END loop
+3:1511 BGN loop 64
+3:1568 END loop
+3:2543 BGN loop 5
+3:2556 END loop
+3:1541 BGN loop 8
+3:1549 END loop
+3:1936 BGN loop 11
+3:1941 END loop
+3:1585 BGN loop 64
+3:1607 END loop
+3:1995 BGN loop 64
+3:2002 END loop
+3:2342 BGN loop 64
+3:2347 END loop
+3:2367 BGN loop 64
+3:2387 END loop
+6:162 BGN loop 8
+6:171 END loop
+3:2387 BGN loop 11
+3:2404 END loop
+3:2076 BGN loop 15
+3:2101 END loop
+3:2243 BGN loop 15
+3:2254 END loop
+3:2254 BGN loop 15
+3:2263 END loop
+3:2265 BGN loop 15
+3:2271 END loop
+6:561 BGN loop 48
+6:565 END loop
+6:227 BGN loop 5
+6:241 END loop
+3:2285 BGN loop 15
+3:2289 END loop
+6:204 BGN func 5:423
+3:2785 BGN func 6:200
+8:208 BGN func 5:337
+8:195 BGN func 5:337
+8:192 BGN func 5:412
+8:186 BGN func 5:412
+3:203 BGN func 5:409
+3:199 BGN func 5:405
+3:2546 BGN func 5:358
+3:2479 BGN func 5:358
+3:2593 BGN func 5:398
+3:2592 BGN func 5:302
+3:2587 BGN func 5:392
+3:2586 BGN func 5:302
+3:2583 BGN func 5:423
+3:2580 BGN func 5:407
+3:2638 BGN func 3:2577
+3:2441 BGN func 3:2411
+3:2442 BGN func 5:382
+3:2404 BGN func 5:117
+3:2196 BGN func 5:45
+3:2164 BGN func 5:45
+3:2089 BGN func 5:45
+3:2400 BGN func 5:424
+3:2396 BGN func 5:423
+3:2169 BGN func 5:53
+3:2142 BGN func 5:53
+3:2105 BGN func 5:53
+3:2035 BGN func 5:53
+3:2250 BGN func 5:346
+3:2249 BGN func 5:348
+3:2248 BGN func 5:343
+3:2247 BGN func 5:340
+3:2245 BGN func 5:337
+3:2323 BGN func 5:117
+3:195 BGN func 5:404
+3:2322 BGN func 5:117
+3:2321 BGN func 5:117
+3:2320 BGN func 5:117
+3:2319 BGN func 5:117
+3:2318 BGN func 5:117
+3:2317 BGN func 5:117
+3:2315 BGN func 5:117
+3:2314 BGN func 5:117
+3:2312 BGN func 5:117
+3:2311 BGN func 5:117
+3:2310 BGN func 5:117
+3:2173 BGN func 5:117
+3:2113 BGN func 3:2015
+3:2235 BGN func 5:111
+3:2233 BGN func 5:111
+3:2232 BGN func 5:111
+3:2230 BGN func 5:111
+3:2229 BGN func 5:111
+3:2228 BGN func 5:111
+3:2227 BGN func 5:111
+3:2226 BGN func 5:111
+3:2225 BGN func 5:111
+3:2222 BGN func 5:111
+3:2217 BGN func 5:399
+3:2216 BGN func 5:397
+3:2215 BGN func 5:396
+3:2214 BGN func 5:395
+3:2213 BGN func 5:394
+3:2209 BGN func 5:380
+3:2401 BGN func 3:2205
+3:2336 BGN func 5:394
+3:2335 BGN func 5:395
+3:2331 BGN func 5:425
+3:2439 BGN func 3:2329
+3:1996 BGN func 5:343
+3:1996 BGN func 5:386
+5:241 BGN func 5:117
+5:240 BGN func 5:117
+5:237 BGN func 5:117
+3:1991 BGN func 5:236
+3:1859 BGN func 5:329
+3:1784 BGN func 5:327
+3:1919 BGN func 5:346
+3:1918 BGN func 5:348
+3:1905 BGN func 5:324
+3:1905 BGN func 5:355
+3:1905 BGN func 5:367
+3:1899 BGN func 5:329
+3:1899 BGN func 5:334
+3:1898 BGN func 5:328
+3:1898 BGN func 5:333
+3:1897 BGN func 5:327
+3:1897 BGN func 5:332
+3:1892 BGN func 5:358
+3:1868 BGN func 5:313
+3:1868 BGN func 5:329
+3:1817 BGN func 5:328
+3:1793 BGN func 5:309
+3:1793 BGN func 5:327
+3:1783 BGN func 5:308
+3:1783 BGN func 5:327
+3:2481 BGN func 5:361
+3:1772 BGN func 5:303
+3:1771 BGN func 5:299
+3:2477 BGN func 5:364
+3:1768 BGN func 5:391
+3:1766 BGN func 5:387
+3:1765 BGN func 5:388
+3:1938 BGN func 3:1762
+3:1937 BGN func 5:299
+3:1936 BGN func 5:423
+8:185 BGN func 5:412
+3:1988 BGN func 3:1926
+3:1745 BGN func 5:45
+3:1745 BGN func 5:333
+3:1737 BGN func 5:327
+3:1727 BGN func 5:45
+3:1727 BGN func 5:332
+3:1719 BGN func 5:329
+3:1709 BGN func 5:45
+3:1709 BGN func 5:334
+3:2397 BGN func 5:424
+3:1688 BGN func 5:324
+3:1688 BGN func 5:355
+3:1686 BGN func 5:273
+3:1677 BGN func 5:272
+3:1657 BGN func 5:268
+3:1653 BGN func 5:268
+3:1649 BGN func 5:267
+3:1645 BGN func 5:267
+3:1641 BGN func 5:266
+3:1640 BGN func 5:266
+3:1638 BGN func 5:266
+3:1636 BGN func 5:266
+3:1635 BGN func 5:266
+3:216 BGN func 5:403
+3:2343 BGN func 5:324
+3:1634 BGN func 5:266
+3:206 BGN func 5:403
+3:1624 BGN func 5:305
+3:468 BGN func 3:382
+3:1685 BGN func 5:273
+3:267 BGN func 5:268
+3:1650 BGN func 5:267
+3:941 BGN func 5:281
+3:1683 BGN func 5:273
+3:265 BGN func 5:268
+3:1648 BGN func 5:267
+3:939 BGN func 5:283
+3:2387 BGN func 5:423
+3:260 BGN func 5:268
+3:1643 BGN func 5:267
+3:934 BGN func 5:282
+3:1676 BGN func 5:272
+3:258 BGN func 5:267
+3:1675 BGN func 5:272
+3:257 BGN func 5:267
+3:1674 BGN func 5:272
+3:256 BGN func 5:267
+3:1673 BGN func 5:272
+3:255 BGN func 5:267
+3:251 BGN func 5:267
+3:1665 BGN func 5:271
+3:247 BGN func 5:266
+3:531 BGN func 3:227
+3:2301 BGN func 5:337
+3:1592 BGN func 5:358
+3:1079 BGN func 5:426
+3:1767 BGN func 5:390
+6:118 BGN func 6:218
+3:1407 BGN func 3:1371
+3:1069 BGN func 5:111
+6:108 BGN func 5:426
+3:1775 BGN func 5:316
+3:1066 BGN func 5:385
+6:105 BGN func 5:273
+6:442 BGN func 5:425
+3:2581 BGN func 5:408
+3:454 BGN func 3:382
+6:504 BGN func 5:425
+6:167 BGN func 5:268
+3:1831 BGN func 5:311
+3:1831 BGN func 5:328
+3:1122 BGN func 3:1062
+5:238 BGN func 5:117
+6:161 BGN func 5:305
+3:2486 BGN func 5:361
+3:1068 BGN func 5:111
+3:1235 BGN func 3:1104
+3:2482 BGN func 5:358
+3:1064 BGN func 5:425
+6:103 BGN func 5:271
+3:1231 BGN func 5:378
+3:557 BGN func 5:283
+3:1230 BGN func 5:403
+3:1637 BGN func 5:266
+3:219 BGN func 5:402
+3:219 BGN func 5:403
+3:556 BGN func 5:282
+3:211 BGN func 5:403
+3:1077 BGN func 3:495
+3:2747 BGN func 3:167
+3:2745 BGN func 5:402
+3:2745 BGN func 5:406
+3:2745 BGN func 5:412
+6:99 BGN func 5:351
+6:436 BGN func 5:423
+3:885 BGN func 5:273
+3:1594 BGN func 5:320
+6:192 BGN func 5:355
+6:192 BGN func 5:403
+3:1661 BGN func 5:271
+3:243 BGN func 5:266
+3:2748 BGN func 3:2601
+6:102 BGN func 5:426
+3:2547 BGN func 5:53
+3:2547 BGN func 5:358
+6:189 BGN func 5:337
+3:2072 BGN func 3:2015
+3:1363 BGN func 3:1274
+5:236 BGN func 5:117
+6:159 BGN func 5:425
+6:496 BGN func 5:299
+6:151 BGN func 5:405
+6:484 BGN func 5:300
+3:1952 BGN func 5:425
+3:534 BGN func 3:291
+3:2289 BGN func 3:2049
+3:871 BGN func 5:271
+3:1545 BGN func 5:272
+6:146 BGN func 5:410
+3:433 BGN func 3:382
+3:2132 BGN func 5:45
+6:483 BGN func 5:425
+3:242 BGN func 5:266
+3:951 BGN func 5:283
+6:176 BGN func 5:286
+3:1116 BGN func 5:281
+3:1652 BGN func 5:268
+3:943 BGN func 5:283
+6:232 BGN func 5:268
+3:1193 BGN func 5:271
+3:1193 BGN func 5:276
+6:231 BGN func 5:267
+6:434 BGN func 5:423
+3:2060 BGN func 5:111
+6:411 BGN func 5:423
+6:115 BGN func 5:286
+3:1412 BGN func 3:1371
+6:506 BGN func 5:299
+6:345 BGN func 5:420
+6:345 BGN func 5:421
+6:345 BGN func 5:422
+3:2231 BGN func 5:111
+6:582 BGN func 5:425
+3:869 BGN func 5:271
+3:1106 BGN func 5:426
+6:166 BGN func 5:267
+8:87 BGN func 8:14
+6:500 BGN func 5:299
+3:1402 BGN func 3:1371
+5:242 BGN func 5:117
+6:165 BGN func 5:266
+6:499 BGN func 5:423
+6:93 BGN func 5:343
+6:114 BGN func 5:426
+3:1054 BGN func 5:117
+3:2609 BGN func 3:1224
+6:251 BGN func 5:305
+3:875 BGN func 5:272
+6:418 BGN func 5:423
+6:494 BGN func 5:425
+6:413 BGN func 5:423
+3:1858 BGN func 5:312
+3:1858 BGN func 5:329
+3:440 BGN func 3:382
+6:553 BGN func 5:310
+6:505 BGN func 5:300
+3:1682 BGN func 5:273
+3:264 BGN func 5:268
+3:1647 BGN func 5:267
+3:938 BGN func 5:282
+6:544 BGN func 5:309
+3:1052 BGN func 5:117
+3:2712 BGN func 6:676
+3:2337 BGN func 5:111
+3:210 BGN func 5:403
+3:2302 BGN func 5:343
+3:1593 BGN func 5:319
+3:884 BGN func 5:273
+8:203 BGN func 5:53
+8:203 BGN func 5:337
+3:2715 BGN func 6:16
+6:92 BGN func 5:340
+3:1053 BGN func 5:117
+3:284 BGN func 5:340
+3:284 BGN func 5:343
+3:1667 BGN func 5:271
+3:249 BGN func 5:266
+3:958 BGN func 5:282
+3:1969 BGN func 3:1614
+3:854 BGN func 5:367
+3:1528 BGN func 3:227
+3:2393 BGN func 5:423
+3:1684 BGN func 5:273
+3:266 BGN func 5:268
+6:546 BGN func 5:309
+6:546 BGN func 5:425
+6:82 BGN func 5:185
+6:82 BGN func 5:425
+6:85 BGN func 5:164
+6:85 BGN func 5:426
+3:1755 BGN func 5:328
+3:1046 BGN func 5:426
+3:2208 BGN func 5:379
+6:559 BGN func 5:313
+6:559 BGN func 5:425
+6:87 BGN func 6:342
+3:2210 BGN func 5:389
+3:792 BGN func 5:305
+6:561 BGN func 5:425
+3:2485 BGN func 5:45
+3:1067 BGN func 5:111
+6:127 BGN func 6:401
+6:90 BGN func 5:425
+6:111 BGN func 5:278
+3:1051 BGN func 5:117
+6:98 BGN func 5:425
+6:437 BGN func 5:299
+6:450 BGN func 5:423
+3:537 BGN func 3:420
+3:2211 BGN func 5:381
+6:562 BGN func 5:312
+6:150 BGN func 5:404
+6:563 BGN func 5:313
+3:549 BGN func 3:479
+3:1595 BGN func 5:321
+3:886 BGN func 5:273
+3:1560 BGN func 3:1440
+3:215 BGN func 5:403
+3:1598 BGN func 5:324
+3:889 BGN func 5:273
+6:495 BGN func 5:300
+3:2588 BGN func 5:407
+6:230 BGN func 5:266
+3:1170 BGN func 5:277
+3:1170 BGN func 5:290
+3:461 BGN func 3:382
+3:2223 BGN func 5:111
+6:574 BGN func 5:425
+3:524 BGN func 5:305
+3:1198 BGN func 5:53
+3:2224 BGN func 5:111
+6:575 BGN func 5:316
+3:2617 BGN func 3:2432
+3:2617 BGN func 5:425
+3:1199 BGN func 5:272
+3:1639 BGN func 5:266
+3:221 BGN func 5:412
+3:2313 BGN func 5:117
+6:664 BGN func 5:316
+3:895 BGN func 3:668
+3:2150 BGN func 3:2015
+6:501 BGN func 5:299
+3:1822 BGN func 5:328
+6:173 BGN func 5:367
+6:507 BGN func 5:303
+3:2488 BGN func 5:358
+3:1779 BGN func 5:327
+3:1070 BGN func 5:111
+6:130 BGN func 6:514
+3:2692 BGN func 8:63
+3:1117 BGN func 5:282
+5:254 BGN func 5:117
+3:1073 BGN func 3:274
+6:133 BGN func 6:539
+3:2388 BGN func 5:299
+3:1679 BGN func 5:273
+3:261 BGN func 5:268
+3:1644 BGN func 5:267
+3:935 BGN func 5:283
+6:541 BGN func 5:308
+3:2389 BGN func 5:302
+3:1680 BGN func 5:273
+3:262 BGN func 5:268
+6:542 BGN func 5:425
+3:1681 BGN func 5:273
+3:263 BGN func 5:268
+3:1646 BGN func 5:267
+3:937 BGN func 5:281
+6:543 BGN func 5:308
+3:2585 BGN func 3:2448
+3:2585 BGN func 5:299
+3:1167 BGN func 5:293
+3:2198 BGN func 5:364
+6:549 BGN func 5:310
+3:2591 BGN func 3:2518
+3:2591 BGN func 5:299
+3:1173 BGN func 5:294
+6:550 BGN func 5:311
+6:550 BGN func 5:425
+6:552 BGN func 5:425
+3:2594 BGN func 5:408
+3:1176 BGN func 5:278
+3:1176 BGN func 5:291
+6:554 BGN func 5:311
+6:57 BGN func 5:424
+6:558 BGN func 5:312
+6:136 BGN func 6:569
+3:1097 BGN func 5:117
+6:618 BGN func 5:316
+3:555 BGN func 5:281
+6:626 BGN func 5:316
+6:626 BGN func 5:425
+3:1566 BGN func 5:321
+3:2417 BGN func 5:324
+3:999 BGN func 5:425
+3:2419 BGN func 5:53
+3:1001 BGN func 5:111
+6:171 BGN func 3:1361
+5:248 BGN func 5:111
+3:1002 BGN func 5:111
+3:1821 BGN func 5:310
+3:1821 BGN func 5:328
+6:172 BGN func 5:355
+5:249 BGN func 5:111
+3:1003 BGN func 5:111
+3:2422 BGN func 5:351
+3:1004 BGN func 5:111
+3:1005 BGN func 5:111
+3:1006 BGN func 5:111
+3:1014 BGN func 5:305
+3:1015 BGN func 3:227
+3:1017 BGN func 3:624
+3:631 BGN func 3:592
+3:635 BGN func 3:592
+3:639 BGN func 3:592
+6:412 BGN func 5:423
+3:643 BGN func 3:592
+3:647 BGN func 3:592
+6:154 BGN func 5:409
+5:231 BGN func 5:111
+3:651 BGN func 3:592
+3:2782 BGN func 8:175
+3:655 BGN func 3:592
+3:659 BGN func 3:592
+6:91 BGN func 5:337
+3:1031 BGN func 5:351
+3:1031 BGN func 5:355
+6:94 BGN func 5:364
+3:1034 BGN func 5:351
+6:104 BGN func 5:272
+3:1044 BGN func 3:711
+3:853 BGN func 5:364
+3:1203 BGN func 5:273
+3:867 BGN func 5:271
+3:1579 BGN func 5:245
+3:870 BGN func 5:271
+3:1544 BGN func 5:271
+3:1546 BGN func 5:273
+3:873 BGN func 5:271
+6:645 BGN func 5:316
+3:876 BGN func 5:272
+3:877 BGN func 5:272
+3:169 BGN func 5:402
+3:169 BGN func 5:406
+3:878 BGN func 5:272
+3:1215 BGN func 5:266
+3:1215 BGN func 5:271
+3:1216 BGN func 5:267
+3:1216 BGN func 5:272
+3:171 BGN func 5:410
+3:171 BGN func 5:412
+3:880 BGN func 5:272
+3:1217 BGN func 5:268
+3:1217 BGN func 5:273
+3:881 BGN func 5:272
+3:173 BGN func 5:403
+3:2300 BGN func 5:340
+3:882 BGN func 5:272
+3:178 BGN func 5:407
+3:2305 BGN func 3:2181
+6:656 BGN func 5:316
+3:887 BGN func 5:273
+3:179 BGN func 5:407
+3:888 BGN func 5:273
+3:181 BGN func 5:408
+3:890 BGN func 5:273
+3:855 BGN func 5:49
+3:1564 BGN func 5:319
+3:182 BGN func 5:408
+3:891 BGN func 5:273
+3:1565 BGN func 5:320
+3:933 BGN func 5:281
+3:2316 BGN func 5:117
+3:1607 BGN func 5:254
+3:942 BGN func 5:282
+3:198 BGN func 5:405
+3:1616 BGN func 5:425
+3:1654 BGN func 5:268
+3:945 BGN func 5:281
+3:1655 BGN func 5:268
+3:946 BGN func 5:282
+3:1957 BGN func 5:420
+3:1957 BGN func 5:422
+3:1656 BGN func 5:268
+3:947 BGN func 5:283
+3:1658 BGN func 5:268
+3:949 BGN func 5:281
+3:2368 BGN func 5:351
+3:1659 BGN func 5:268
+3:950 BGN func 5:282
+3:1662 BGN func 5:271
+3:244 BGN func 5:266
+3:953 BGN func 5:281
+3:1663 BGN func 5:271
+3:245 BGN func 5:266
+3:954 BGN func 5:282
+3:1664 BGN func 5:271
+3:246 BGN func 5:266
+3:955 BGN func 5:283
+3:1666 BGN func 5:271
+3:248 BGN func 5:266
+3:957 BGN func 5:281
+3:1668 BGN func 5:271
+3:959 BGN func 5:283
+3:1670 BGN func 5:272
+3:252 BGN func 5:267
+3:961 BGN func 5:281
+3:1671 BGN func 5:272
+3:253 BGN func 5:267
+3:962 BGN func 5:282
+3:1672 BGN func 5:272
+3:254 BGN func 5:267
+3:963 BGN func 5:283
+6:109 BGN func 5:276
+3:1049 BGN func 5:117
+6:110 BGN func 5:277
+3:1050 BGN func 5:117
+6:155 BGN func 5:402
+3:1095 BGN func 5:117
+3:1432 BGN func 5:45
+6:156 BGN func 5:412
+3:1096 BGN func 5:117
+3:1098 BGN func 5:117
+3:1245 BGN func 3:1140
+3:1245 BGN func 5:426
+3:1854 BGN func 5:329
+3:1145 BGN func 5:276
+3:1145 BGN func 5:281
+3:1145 BGN func 5:286
+3:1146 BGN func 5:277
+3:1146 BGN func 5:282
+3:1146 BGN func 5:286
+3:1147 BGN func 5:278
+3:1147 BGN func 5:283
+3:1147 BGN func 5:286
+3:1956 BGN func 5:420
+3:1956 BGN func 5:421
+3:1247 BGN func 3:1154
+3:447 BGN func 3:382
+3:1156 BGN func 5:420
+3:1161 BGN func 5:292
+3:1164 BGN func 5:276
+3:1164 BGN func 5:289
+3:1958 BGN func 5:421
+3:1958 BGN func 5:422
+3:1249 BGN func 3:1184
+3:1249 BGN func 5:426
+3:1194 BGN func 5:53
+3:1531 BGN func 3:1361
+3:1195 BGN func 5:271
+3:1532 BGN func 5:355
+3:1197 BGN func 5:272
+3:1197 BGN func 5:277
+3:1534 BGN func 5:351
+3:1534 BGN func 5:352
+3:1201 BGN func 5:273
+3:1201 BGN func 5:278
+3:1202 BGN func 5:53
+3:1960 BGN func 5:221
+3:1251 BGN func 3:1210
+3:1251 BGN func 5:426
+3:879 BGN func 5:272
+3:1588 BGN func 5:319
+3:1588 BGN func 5:320
+3:1588 BGN func 5:321
+3:2434 BGN func 3:1573
+3:866 BGN func 5:271
+3:1575 BGN func 5:425
+3:868 BGN func 5:271
+6:637 BGN func 5:316
+3:1577 BGN func 5:403
+5:247 BGN func 5:111
+3:872 BGN func 5:271
+3:1581 BGN func 3:1505
+3:2234 BGN func 5:111
+3:1525 BGN func 5:305
+3:1533 BGN func 5:324
+3:2246 BGN func 5:352
+3:1537 BGN func 3:1395
+3:1537 BGN func 5:361
+3:1417 BGN func 3:1371
+3:1422 BGN func 3:1371
+3:1427 BGN func 3:1371
+3:1557 BGN func 3:291
+3:1118 BGN func 5:283
+5:255 BGN func 5:117
+5:256 BGN func 5:117
+6:79 BGN func 5:425
+3:2437 BGN func 3:1946
+6:147 BGN func 5:406
+5:224 BGN func 5:111
+5:225 BGN func 5:111
+5:226 BGN func 5:111
+6:152 BGN func 5:407
+5:229 BGN func 5:111
+6:153 BGN func 5:408
+3:1093 BGN func 3:996
+5:230 BGN func 5:111
+3:222 END func
+3:269 END func
+3:286 END func
+3:377 END func
+3:415 END func
+3:474 END func
+3:490 END func
+3:587 END func
+3:619 END func
+3:663 END func
+3:706 END func
+3:991 END func
+3:1056 END func
+3:1100 END func
+3:1135 END func
+3:1149 END func
+3:1179 END func
+3:1205 END func
+3:1219 END func
+3:1268 END func
+3:1355 END func
+3:1363 END func
+3:1389 END func
+3:1434 END func
+3:1500 END func
+3:1568 END func
+3:1609 END func
+3:1757 END func
+3:1921 END func
+3:1941 END func
+3:2010 END func
+3:2044 END func
+3:2175 END func
+3:2200 END func
+3:2324 END func
+3:2406 END func
+3:2426 END func
+3:2443 END func
+3:2511 END func
+3:2571 END func
+3:2596 END func
+3:2645 END func
+5:45 END func
+5:49 END func
+5:53 END func
+5:113 END func
+5:123 END func
+5:183 END func
+5:219 END func
+5:232 END func
+5:243 END func
+5:250 END func
+5:257 END func
+5:266 END func
+5:267 END func
+5:268 END func
+5:271 END func
+5:272 END func
+5:273 END func
+5:276 END func
+5:277 END func
+5:278 END func
+5:281 END func
+5:282 END func
+5:283 END func
+5:286 END func
+5:289 END func
+5:290 END func
+5:291 END func
+5:292 END func
+5:293 END func
+5:294 END func
+5:299 END func
+5:300 END func
+5:302 END func
+5:303 END func
+5:305 END func
+5:308 END func
+5:309 END func
+5:310 END func
+5:311 END func
+5:312 END func
+5:313 END func
+5:316 END func
+5:319 END func
+5:320 END func
+5:321 END func
+5:324 END func
+5:327 END func
+5:328 END func
+5:329 END func
+5:332 END func
+5:333 END func
+5:334 END func
+5:337 END func
+5:340 END func
+5:343 END func
+5:346 END func
+5:348 END func
+5:351 END func
+5:352 END func
+5:355 END func
+5:358 END func
+5:361 END func
+5:364 END func
+5:367 END func
+5:378 END func
+5:379 END func
+5:380 END func
+5:381 END func
+5:382 END func
+5:385 END func
+5:386 END func
+5:387 END func
+5:388 END func
+5:389 END func
+5:390 END func
+5:391 END func
+5:392 END func
+5:394 END func
+5:395 END func
+5:396 END func
+5:397 END func
+5:398 END func
+5:399 END func
+5:402 END func
+5:403 END func
+5:404 END func
+5:405 END func
+5:406 END func
+5:407 END func
+5:408 END func
+5:409 END func
+5:410 END func
+5:412 END func
+5:420 END func
+5:421 END func
+5:422 END func
+5:423 END func
+5:424 END func
+5:425 END func
+5:426 END func
+6:194 END func
+6:213 END func
+6:267 END func
+6:396 END func
+6:510 END func
+6:533 END func
+6:565 END func
+6:673 END func
+6:737 END func
+8:29 END func
+8:171 END func
+8:229 END func
+3:690 NOM  RAW 3:690|i135 WAR 3:690|i135 INIT *|i135
+3:673 NOM  RAW 3:673|i WAR 3:673|i INIT *|i
+3:771 NOM  WAR 3:1496|gamma INIT *|gamma
+3:768 NOM  WAR 3:1447|gamma INIT *|gamma
+3:1020 NOM  RAW 3:1020|ii WAR 3:1020|ii INIT *|ii
+3:600 NOM  WAW 3:600|twelfth INIT *|twelfth
+6:146 NOM  INIT *|call85
+8:224 NOM  RAW 8:224|agg.tmp100 WAR 3:1363|agg.tmp100
+6:608 NOM  RAW 6:353|this1
+6:527 NOM  RAW 6:68|this1
+3:1903 NOM  RAW 3:1899|delvxzeta WAR 3:1903|delvxzeta
+3:747 NOM  WAR 3:329|gamma INIT *|gamma
+6:663 NOM  RAW 6:59|this1 RAW 6:68|this1
+6:150 NOM  INIT *|call89
+6:461 NOM  RAW 6:460|binSize
+6:613 NOM  RAW 6:613|i51 WAR 6:490|i51 WAR 6:613|i51
+6:247 NOM  WAW 6:233|nidx
+3:759 NOM  WAR 3:1481|gamma INIT *|gamma
+6:233 NOM  RAW 6:223|nidx RAW 6:233|nidx WAR 6:233|nidx
+6:346 NOM  RAW 6:345|maxEdgeSize INIT *|this1
+3:2689 NOM  INIT *|opts
+6:460 NOM  WAR 6:464|binSize WAW 6:241|binSize
+6:616 NOM  RAW 6:616|j WAR 6:494|j WAR 6:616|j
+3:391 NOM  WAR 3:399|bisectX0 WAR 3:608|bisectX0 INIT *|bisectX0
+6:229 NOM  RAW 6:229|col RAW 6:345|edgeNodes.addr WAR 6:229|col INIT *|col
+6:57 NOM  INIT *|call
+3:1198 NOM  RAW 3:1169|u_cut.addr RAW 3:1197|ydtmp WAR 3:1198|ydtmp
+3:1335 NOM  RAW 3:844|z2.addr RAW 3:844|z5.addr WAR 3:893|dz25 WAR 3:1347|dz25 INIT *|dz25
+6:59 NOM  INIT *|this1
+3:1287 NOM  WAR 3:704|twelveth WAR 3:1353|twelveth INIT *|twelveth
+3:1384 NOM  WAR 3:1389|area INIT *|area
+3:2677 NOM  INIT *|numRanks
+6:433 NOM  INIT *|costDenominator
+5:394 NOM  RAW 6:33|this1
+3:1378 NOM  WAR 3:1388|fx INIT *|fx
+6:223 NOM  INIT *|nidx
+6:21 NOM  INIT *|this1
+6:30 NOM  INIT *|this1
+8:18 NOM  INIT *|decimal_base
+3:485 NOM  RAW 3:485|i WAR 3:427|i WAR 3:485|i
+3:2684 NOM  INIT *|opts
+3:1711 NOM  RAW 3:1689|norm RAW 3:1705|ax WAR 3:1711|ax
+3:2209 NOM  RAW 3:1668|domain.addr WAR 3:1752|p_cut WAR 3:2292|p_cut
+3:2213 NOM  RAW 3:1668|domain.addr WAR 3:1753|eosvmax WAR 3:2293|eosvmax
+3:2216 NOM  RAW 3:1668|domain.addr WAR 3:1753|emin WAR 3:2292|emin
+3:2223 NOM  WAR 3:1753|delvc WAW 5:121|delvc
+3:2226 NOM  WAR 3:1749|compression WAW 5:121|compression
+3:2229 NOM  WAR 3:1724|ql_old WAW 5:121|ql_old
+3:2232 NOM  WAR 3:1742|e_new WAW 5:121|e_new
+3:2235 NOM  WAR 3:1742|pbvc WAW 5:121|pbvc
+3:2272 NOM  RAW 3:2213|eosvmax
+3:2308 NOM  RAW 3:1672|regElemList.addr
+3:2161 NOM  RAW 3:2158|ssc210
+3:2162 NOM  WAR 3:2161|ssc210
+3:2164 NOM  RAW 3:2158|ssc210 WAR 3:2164|ssc210
+3:2580 NOM  WAR 3:178|call WAR 3:179|call WAW 6:152|call
+3:2464 NOM  WAR 3:2556|qqc2 INIT *|qqc2
+3:2466 NOM  WAR 3:2543|courant_elem INIT *|courant_elem
+3:2543 NOM  RAW 3:2543|i WAR 3:2497|i WAR 3:2543|i
+3:176 NOM  WAR 3:190|gnewdt WAR 6:735|gnewdt
+3:1077 NOM  RAW 3:2476|domain.addr RAW 3:2547|domain.addr
+3:1043 NOM  RAW 3:1665|hgcoef.addr
+3:2123 NOM  WAR 3:2140|q_tilde
+3:2491 NOM  RAW 3:2476|indx WAW 3:2466|courant_elem WAW 3:2491|courant_elem
+3:2549 NOM  RAW 3:2533|dthydro_tmp RAW 3:2547|dtdvov RAW 3:2550|dthydro_tmp
+3:2550 NOM  RAW 3:2547|dtdvov WAR 3:2549|dthydro_tmp
+8:210 NOM  RAW 8:199|MaxRelDiff RAW 8:208|RelDiff RAW 8:210|MaxRelDiff WAR 8:210|MaxRelDiff
+8:218 NOM  RAW 8:210|MaxRelDiff RAW 8:218|agg.tmp80 WAR 3:1363|agg.tmp80
+3:1624 NOM  RAW 3:1619|i RAW 5:121|domain.addr WAR 3:1632|elemToNode INIT *|elemToNode
+6:248 NOM  RAW 6:248|plane53 WAR 6:248|plane53 INIT *|plane53
+8:199 NOM  INIT *|MaxRelDiff
+3:1497 NOM  RAW 3:297|d.addr RAW 3:1468|dyddx RAW 3:1473|dxddy WAW 3:1497|d.addr WAW 5:121|d.addr
+3:1459 NOM  RAW 3:358|pfy RAW 3:771|yvel.addr RAW 3:1450|pfy RAW 3:1545|yvel.addr
+3:1430 NOM  RAW 3:1425|call82 RAW 3:1427|call82 WAR 3:1430|charLength WAW 3:1425|charLength
+3:1428 NOM  RAW 3:251|y.addr RAW 3:254|y.addr RAW 3:255|y.addr RAW 3:258|y.addr RAW 3:771|y.addr
+3:1415 NOM  RAW 3:1410|call40 RAW 3:1412|call40 WAR 3:1415|charLength WAW 3:1410|charLength
+3:1331 NOM  RAW 3:840|z1.addr RAW 3:844|z4.addr WAR 3:1347|dz14 INIT *|dz14
+3:1319 NOM  RAW 3:844|z2.addr RAW 3:893|z7.addr WAR 3:699|dz72 WAR 3:1341|dz72 INIT *|dz72
+3:1213 NOM  RAW 3:1163|numNode.addr RAW 3:1213|i WAR 3:1202|i WAR 3:1213|i
+3:1173 NOM  RAW 6:167|domain.addr
+3:1156 NOM  RAW 6:72|call RAW 6:167|domain.addr WAR 3:1144|size
+3:901 NOM  RAW 3:722|numthreads
+3:2394 NOM  WAR 3:2401|rep INIT *|rep
+3:701 NOM  RAW 3:701|i224 WAR 3:701|i224 INIT *|i224
+3:1405 NOM  RAW 3:1402|call12 WAW 3:1400|charLength
+6:29 NOM  INIT *|this1
+6:24 NOM  INIT *|this1
+3:1400 NOM  WAR 3:261|charLength
+3:684 NOM  RAW 3:684|i79 WAR 3:684|i79 INIT *|i79
+3:897 NOM  RAW 3:893|coefficient
+3:804 NOM  WAR 3:845|hourmody INIT *|hourmody
+3:776 NOM  WAR 3:844|gamma INIT *|gamma
+3:770 NOM  WAR 3:1491|gamma INIT *|gamma
+3:2263 NOM  RAW 3:2214|eosvmin
+3:767 NOM  WAR 3:1499|gamma INIT *|gamma
+3:758 NOM  WAR 3:1491|gamma INIT *|gamma
+3:746 NOM  WAR 3:329|gamma INIT *|gamma
+3:614 NOM  RAW 3:392|y5.addr RAW 3:394|y3.addr RAW 3:395|y2.addr
+3:605 NOM  RAW 3:392|y5.addr RAW 3:394|y3.addr RAW 3:395|y2.addr
+6:154 NOM  INIT *|call97
+3:1585 NOM  RAW 3:1575|numElem RAW 3:1585|k WAR 3:1585|k INIT *|k
+3:967 NOM  RAW 3:722|numthreads
+6:644 NOM  RAW 6:59|this1 RAW 6:69|this1
+6:200 NOM  RAW 6:79|this1
+3:1576 NOM  RAW 3:1575|numElem
+6:636 NOM  RAW 6:69|this1
+6:598 NOM  RAW 6:351|this1
+6:541 NOM  INIT *|call
+3:1389 NOM  RAW 3:1384|area
+8:91 NOM  RAW 8:67|i WAR 8:91|i
+3:737 NOM  RAW 3:722|numthreads
+3:2230 NOM  WAR 3:1743|work WAW 5:121|work
+3:1381 NOM  WAR 3:1388|gx INIT *|gx
+8:83 NOM  RAW 8:67|i
+3:1434 NOM  RAW 3:1432|charLength
+3:1425 NOM  RAW 3:1420|call68 RAW 3:1422|call68 WAR 3:1425|charLength WAW 3:1420|charLength
+8:69 NOM  RAW 8:67|i RAW 8:91|i
+3:1161 NOM  RAW 6:167|domain.addr
+6:447 NOM  RAW 6:445|i28 RAW 6:447|i28 WAR 6:447|i28
+5:299 NOM  RAW 6:412|this1
+3:221 NOM  RAW 3:221|call56 RAW 6:156|call56 WAR 3:221|call56
+3:1301 NOM  RAW 3:828|x0.addr RAW 3:828|x2.addr WAR 3:676|dx20 WAR 3:1341|dx20 INIT *|dx20
+3:1333 NOM  RAW 3:824|x5.addr RAW 3:828|x2.addr WAR 3:844|dx25 WAR 3:1347|dx25 INIT *|dx25
+3:749 NOM  WAR 3:329|gamma INIT *|gamma
+3:1382 NOM  WAR 3:1388|gy INIT *|gy
+8:84 NOM  RAW 8:67|i
+3:1379 NOM  WAR 3:1388|fy INIT *|fy
+3:2748 NOM  RAW 3:2715|locDom
+6:45 NOM  INIT *|this1
+3:2685 NOM  RAW 3:2677|numRanks INIT *|opts
+6:55 NOM  INIT *|edgeElems
+3:1353 NOM  RAW 3:1287|twelveth RAW 3:1340|volume WAR 3:1353|volume
+3:1589 NOM  RAW 3:1588|vdov WAR 3:1364|vdovthird WAR 3:1595|vdovthird WAR 3:2349|vdovthird
+3:1002 NOM  RAW 3:1000|numElem8 WAR 3:549|dvdy INIT *|dvdy
+3:1297 NOM  RAW 3:824|x6.addr RAW 3:828|x3.addr WAR 3:703|dx63 WAR 3:1341|dx63 INIT *|dx63
+3:1327 NOM  RAW 3:844|z5.addr RAW 3:893|z7.addr WAR 3:696|dz57 WAR 3:1344|dz57 INIT *|dz57
+8:29 NOM  RAW 8:26|retval
+3:1305 NOM  RAW 3:824|x5.addr RAW 3:828|x0.addr WAR 3:675|dx50 WAR 3:1347|dx50 INIT *|dx50
+3:1340 NOM  WAR 3:893|volume WAR 3:1355|volume INIT *|volume
+3:1006 NOM  RAW 3:1000|numElem8 WAR 3:1752|z8n INIT *|z8n
+6:69 NOM  RAW 6:728|rowLoc.addr INIT *|this1
+3:2617 NOM  RAW 6:75|call
+8:72 NOM  RAW 8:67|i
+6:452 NOM  RAW 6:429|lastReg RAW 6:450|regionNum RAW 6:487|lastReg
+6:220 NOM  RAW 6:59|this1 INIT *|meshEdgeElems
+3:1355 NOM  RAW 3:1353|volume
+6:228 NOM  RAW 6:68|this1 RAW 6:220|meshEdgeElems WAW 6:235|tx INIT *|tx
+6:192 NOM  RAW 6:172|call166 RAW 6:185|einit INIT *|call173
+3:2747 NOM  RAW 3:2715|locDom
+3:210 NOM  RAW 3:169|targetdt RAW 3:206|call37 RAW 6:192|call37
+3:215 NOM  RAW 3:169|targetdt RAW 3:206|call49 RAW 6:192|call49
+3:1230 NOM  RAW 3:206|call RAW 3:216|call RAW 6:192|call WAR 3:1251|delt WAR 6:90|delt
+6:133 NOM  RAW 6:55|edgeElems
+3:505 NOM  WAR 8:29|numElem8 WAW 3:505|numElem8
+6:20 NOM  INIT *|this1
+6:23 NOM  INIT *|this1
+6:35 NOM  INIT *|this1
+6:72 NOM  RAW 6:55|edgeElems INIT *|this1
+3:1014 NOM  RAW 3:1010|i RAW 3:1663|domain.addr WAR 3:486|elemToNode WAR 3:1015|elemToNode
+3:2507 NOM  RAW 3:2497|courant_elem_per_thread
+6:136 NOM  RAW 6:55|edgeElems
+8:26 NOM  INIT *|retval
+6:183 NOM  INIT *|ebase
+3:1122 NOM  RAW 6:167|domain.addr
+3:1167 NOM  RAW 6:167|domain.addr
+6:227 NOM  RAW 6:227|row RAW 6:345|edgeNodes.addr WAR 6:227|row INIT *|row
+6:235 NOM  RAW 6:68|this1 RAW 6:220|meshEdgeElems RAW 6:229|col WAR 6:230|tx
+3:553 NOM  RAW 3:553|lnode WAR 3:553|lnode INIT *|lnode
+3:1005 NOM  RAW 3:1000|numElem8 WAR 3:2308|y8n INIT *|y8n
+3:1724 NOM  RAW 3:1691|dxj RAW 3:1693|dzj RAW 3:1699|dxk RAW 3:1701|dzk WAR 3:1719|ay
+3:1781 NOM  RAW 3:1775|bcMask
+3:1819 NOM  RAW 3:1775|bcMask
+6:464 NOM  RAW 6:460|binSize
+3:1840 NOM  RAW 3:1817|norm RAW 3:1821|delvm RAW 3:1822|delvm WAR 3:1840|delvm
+3:1908 NOM  RAW 3:1805|phixi RAW 3:1810|phixi RAW 3:1811|phixi RAW 3:1812|phixi RAW 3:1897|delvxxi RAW 3:1901|delvxxi
+3:1913 NOM  RAW 3:1805|phixi RAW 3:1810|phixi RAW 3:1811|phixi RAW 3:1812|phixi RAW 3:1897|delvxxi RAW 3:1901|delvxxi
+3:2349 NOM  RAW 3:2331|numElem RAW 3:2349|i8 WAR 3:1595|i8 WAR 3:2349|i8
+5:389 NOM  RAW 6:26|this1
+3:2210 NOM  RAW 3:1668|domain.addr WAR 3:1752|ss4o3 WAR 3:2307|ss4o3
+3:2214 NOM  RAW 3:1668|domain.addr WAR 3:1753|eosvmin WAR 3:2263|eosvmin WAR 3:2267|eosvmin
+3:2217 NOM  RAW 3:1668|domain.addr WAR 3:1753|rho0 WAR 3:2306|rho0
+3:731 NOM  WAR 6:504|numElem8 WAW 3:731|numElem8
+3:2224 NOM  WAR 3:1753|p_old WAW 5:121|p_old
+3:2227 NOM  WAR 3:1725|compHalfStep WAW 5:121|compHalfStep
+3:2233 NOM  WAR 3:1743|q_new WAW 5:121|q_new
+3:750 NOM  WAR 3:329|gamma INIT *|gamma
+3:2243 NOM  RAW 3:2243|i WAR 3:308|i WAR 3:2243|i
+3:2274 NOM  RAW 3:2274|i102 WAR 3:2274|i102 INIT *|i102
+3:2030 NOM  RAW 3:2030|i5 WAR 3:2030|i5 INIT *|i5
+3:2118 NOM  WAR 3:1341|sixth WAW 3:2118|sixth
+3:2193 NOM  WAR 3:2192|ssTmp
+3:2465 NOM  RAW 3:2508|dtcourant.addr RAW 3:2580|dtcourant.addr WAR 3:2557|dtcourant_tmp INIT *|dtcourant_tmp
+3:2475 NOM  RAW 3:2475|i WAR 3:2475|i INIT *|i
+3:2567 NOM  RAW 3:2557|hydro_elem_per_thread
+3:2485 NOM  RAW 3:2477|dtf RAW 3:2480|dtf WAR 3:2485|dtf
+3:1044 NOM  RAW 3:1663|domain.addr
+3:2489 NOM  RAW 3:2465|dtcourant_tmp RAW 3:2486|dtf RAW 3:2490|dtcourant_tmp
+3:2490 NOM  RAW 3:2486|dtf WAR 3:2489|dtcourant_tmp
+3:2480 NOM  RAW 3:2477|dtf WAR 3:2480|dtf
+3:2777 NOM  RAW 3:2688|opts
+8:216 NOM  RAW 8:206|MaxAbsDiff RAW 8:216|agg.tmp64 INIT *|agg.tmp64
+8:222 NOM  RAW 8:222|agg.tmp87 WAR 3:1363|agg.tmp87
+6:147 NOM  INIT *|call87
+8:225 NOM  RAW 8:185|grindTime1 RAW 8:225|agg.tmp106 WAR 3:1363|agg.tmp106
+3:2785 NOM  RAW 3:2715|locDom
+6:202 NOM  RAW 6:45|this1
+3:1649 NOM  RAW 3:1216|call23 RAW 3:1631|n6 RAW 5:121|domain.addr WAR 3:1494|y6 WAR 3:1700|y6
+5:230 NOM  RAW 3:1931|allElem.addr WAW 5:121|this1 INIT *|this1
+3:1645 NOM  RAW 3:1216|call19 RAW 3:1627|n2 RAW 5:121|domain.addr WAR 3:1700|y2 WAW 3:371|y2
+6:265 NOM  RAW 6:263|nidx RAW 6:345|edgeNodes.addr WAR 6:265|nidx
+3:1641 NOM  RAW 3:1215|call16 RAW 3:1632|n7 RAW 5:121|domain.addr WAR 3:1699|x7 WAR 3:1919|x7 INIT *|x7
+5:226 NOM  RAW 3:1083|numElem.addr WAW 5:121|this1 INIT *|this1
+3:1640 NOM  RAW 3:1215|call15 RAW 3:1631|n6 RAW 5:121|domain.addr WAR 3:1699|x6 WAR 5:113|x6
+5:225 NOM  RAW 3:1083|numElem.addr WAW 5:121|this1 INIT *|this1
+3:1636 NOM  RAW 3:1215|call11 RAW 3:1627|n2 RAW 5:121|domain.addr WAR 3:1699|x2 WAR 3:1854|x2 INIT *|x2
+6:260 NOM  RAW 6:246|zidx RAW 6:260|zidx WAR 6:260|zidx
+3:1634 NOM  RAW 3:1215|call9 RAW 3:1625|n0 RAW 5:121|domain.addr WAR 3:1699|x0 WAR 3:1771|x0 INIT *|x0
+6:258 NOM  RAW 6:247|nidx RAW 6:251|localNode RAW 6:261|nidx RAW 6:263|nidx RAW 6:265|nidx RAW 6:345|edgeNodes.addr INIT *|localNode
+3:1632 NOM  RAW 3:1624|elemToNode RAW 6:259|elemToNode WAR 3:1686|n7 INIT *|n7
+6:256 NOM  RAW 6:247|nidx RAW 6:251|localNode RAW 6:261|nidx RAW 6:263|nidx RAW 6:265|nidx RAW 6:345|edgeNodes.addr INIT *|localNode
+3:1631 NOM  RAW 3:1624|elemToNode RAW 6:258|elemToNode WAR 3:1685|n6 WAR 5:268|n6 INIT *|n6
+6:255 NOM  RAW 6:247|nidx RAW 6:251|localNode RAW 6:261|nidx RAW 6:263|nidx RAW 6:265|nidx RAW 6:345|edgeNodes.addr INIT *|localNode
+3:1629 NOM  RAW 3:1624|elemToNode RAW 6:256|elemToNode WAR 3:1683|n4 INIT *|n4
+6:253 NOM  RAW 6:247|nidx RAW 6:251|localNode RAW 6:261|nidx RAW 6:263|nidx RAW 6:265|nidx INIT *|localNode
+3:1628 NOM  RAW 3:1624|elemToNode RAW 6:255|elemToNode WAR 3:1682|n3 INIT *|n3
+6:252 NOM  RAW 6:247|nidx RAW 6:251|localNode RAW 6:261|nidx RAW 6:263|nidx RAW 6:265|nidx INIT *|localNode
+3:1626 NOM  RAW 3:1624|elemToNode RAW 6:253|elemToNode WAR 3:1680|n1 INIT *|n1
+6:250 NOM  RAW 6:250|col61 WAR 6:250|col61 INIT *|col61
+3:1620 NOM  WAW 3:1620|ptiny INIT *|ptiny
+3:1619 NOM  RAW 3:1616|numElem RAW 3:1619|i WAR 3:1619|i WAR 5:231|i INIT *|i
+3:1616 NOM  RAW 5:121|domain.addr RAW 6:75|call WAR 5:226|numElem
+5:231 NOM  RAW 3:1931|allElem.addr WAW 5:121|this1 INIT *|this1
+3:1646 NOM  RAW 3:1216|call20 RAW 3:1628|n3 RAW 5:121|domain.addr WAR 3:1700|y3 WAW 3:370|y3
+6:263 NOM  RAW 6:261|nidx WAR 6:263|nidx
+5:224 NOM  RAW 3:1083|numElem.addr WAW 5:121|this1 INIT *|this1
+3:1639 NOM  RAW 3:1215|call14 RAW 3:1630|n5 RAW 5:121|domain.addr WAR 3:1549|x5 WAR 3:1699|x5 INIT *|x5
+3:1956 NOM  RAW 6:72|call1 RAW 6:73|call2 RAW 6:166|domain.addr
+3:463 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+3:1952 NOM  RAW 6:75|call RAW 6:166|domain.addr WAR 3:1585|numElem
+3:459 NOM  RAW 3:245|x.addr RAW 3:249|x.addr RAW 3:254|y.addr RAW 3:258|y.addr RAW 3:263|z.addr RAW 3:267|z.addr RAW 3:297|y.addr RAW 3:297|z.addr RAW 3:702|x.addr
+3:1607 NOM  RAW 6:166|domain.addr
+6:231 NOM  RAW 6:223|nidx RAW 6:226|ty RAW 6:233|nidx RAW 6:238|ty INIT *|call21
+3:1592 NOM  RAW 3:1585|k RAW 3:1588|vdov RAW 6:166|domain.addr WAR 3:2546|call7 WAR 3:2547|call7 INIT *|call7
+5:321 NOM  RAW 5:249|this1
+3:243 NOM  RAW 3:234|nd1i RAW 3:340|domain.addr RAW 3:342|elemX.addr RAW 3:770|elemX.addr RAW 3:772|domain.addr RAW 3:1215|call9 RAW 6:230|call9 RAW 6:552|elemX.addr WAR 3:297|elemX.addr WAR 3:451|elemX.addr WAR 3:555|elemX.addr WAR 3:1026|elemX.addr INIT *|elemX.addr
+3:1496 NOM  RAW 3:369|pfz RAW 3:771|yvel.addr RAW 3:1451|pfz RAW 3:1545|yvel.addr
+8:198 NOM  INIT *|TotalAbsDiff
+8:197 NOM  WAR 6:136|MaxAbsDiff
+3:1495 NOM  RAW 3:368|pfz RAW 3:771|yvel.addr RAW 3:1451|pfz RAW 3:1545|yvel.addr
+8:188 NOM  WAR 6:60|ElemId
+3:1486 NOM  RAW 3:369|pfz RAW 3:772|xvel.addr RAW 3:1451|pfz RAW 3:1544|xvel.addr
+6:110 NOM  RAW 6:108|i53 INIT *|call62
+3:1485 NOM  RAW 3:368|pfz RAW 3:772|xvel.addr RAW 3:1451|pfz RAW 3:1544|xvel.addr
+6:109 NOM  RAW 6:108|i53 INIT *|call60
+3:1480 NOM  RAW 3:350|pfx RAW 3:770|zvel.addr RAW 3:1449|pfx RAW 3:1546|zvel.addr
+6:104 NOM  RAW 6:102|i38 INIT *|call47
+3:1479 NOM  RAW 3:349|pfx RAW 3:770|zvel.addr RAW 3:1449|pfx RAW 3:1546|zvel.addr
+6:103 NOM  RAW 6:102|i38 INIT *|call45
+3:1476 NOM  RAW 3:360|pfy RAW 3:772|xvel.addr RAW 3:1450|pfy RAW 3:1544|xvel.addr
+6:98 NOM  RAW 6:75|call30 RAW 6:98|i27 WAR 6:98|i27 INIT *|i27
+3:1474 NOM  RAW 3:358|pfy RAW 3:772|xvel.addr RAW 3:1450|pfy RAW 3:1544|xvel.addr
+3:1473 NOM  RAW 3:357|pfy RAW 3:772|xvel.addr RAW 3:1447|inv_detJ RAW 3:1450|pfy RAW 3:1544|xvel.addr WAR 3:321|dxddy
+3:1471 NOM  RAW 3:351|pfx RAW 3:771|yvel.addr RAW 3:1449|pfx RAW 3:1545|yvel.addr
+3:1470 NOM  RAW 3:350|pfx RAW 3:771|yvel.addr RAW 3:1449|pfx RAW 3:1545|yvel.addr
+6:94 NOM  RAW 6:90|i INIT *|call26
+3:1464 NOM  RAW 3:367|pfz RAW 3:770|zvel.addr RAW 3:1451|pfz RAW 3:1546|zvel.addr
+3:1456 NOM  RAW 3:351|pfx RAW 3:772|xvel.addr RAW 3:1449|pfx RAW 3:1544|xvel.addr
+6:79 NOM  RAW 6:75|call6 WAW 6:43|this1
+3:1455 NOM  RAW 3:350|pfx RAW 3:772|xvel.addr RAW 3:1449|pfx RAW 3:1544|xvel.addr
+3:1453 NOM  RAW 3:297|d.addr RAW 3:348|pfx RAW 3:772|xvel.addr RAW 3:1447|inv_detJ RAW 3:1449|pfx RAW 3:1544|xvel.addr WAR 3:1564|d.addr WAR 3:2292|d.addr WAR 8:25|d.addr
+6:77 NOM  RAW 6:56|edgeNodes INIT *|this1
+6:75 NOM  RAW 6:55|edgeElems INIT *|this1
+3:1451 NOM  RAW 3:769|b.addr WAR 3:325|pfz
+6:74 NOM  RAW 6:55|edgeElems INIT *|this1
+3:1450 NOM  RAW 3:769|b.addr WAR 3:325|pfy
+3:1449 NOM  RAW 3:769|b.addr WAR 3:325|pfx
+6:73 NOM  RAW 6:55|edgeElems INIT *|this1
+6:490 NOM  RAW 6:434|regBinEnd
+3:1866 NOM  RAW 3:1775|bcMask
+3:373 NOM  RAW 3:367|b.addr RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:488|b.addr WAR 3:1919|b.addr WAR 3:2276|b.addr WAW 3:373|b.addr INIT *|b.addr
+3:372 NOM  RAW 3:366|b.addr RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:488|b.addr WAR 3:1918|b.addr WAR 3:2298|b.addr WAW 3:372|b.addr INIT *|b.addr
+3:1856 NOM  RAW 3:1775|bcMask
+3:363 NOM  RAW 3:357|b.addr RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:487|b.addr WAR 3:1495|b.addr WAR 3:1913|b.addr WAW 3:363|b.addr INIT *|b.addr
+3:362 NOM  RAW 3:360|b.addr RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:487|b.addr WAR 3:1496|b.addr WAR 5:113|b.addr WAW 3:362|b.addr INIT *|b.addr
+3:352 NOM  RAW 3:350|b.addr RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:486|b.addr WAR 3:1045|b.addr WAR 3:1490|b.addr WAW 3:352|b.addr INIT *|b.addr
+3:1845 NOM  RAW 3:1765|monoq_limiter_mult RAW 3:1840|delvm WAR 3:1845|delvm
+5:378 NOM  RAW 6:24|this1
+3:300 NOM  RAW 3:248|x.addr RAW 3:249|x.addr RAW 3:340|x.addr RAW 3:772|x.addr RAW 3:1552|x.addr WAR 3:321|x6 WAR 3:321|x7 WAR 3:816|x6 WAR 3:844|x7 WAR 3:935|x6 WAR 3:1327|x7 WAR 3:1499|x6 WAR 3:1499|x7 INIT *|x6 INIT *|x7
+3:1793 NOM  RAW 3:1634|domain.addr RAW 3:1737|call17 RAW 3:1772|ielem RAW 6:544|call16 WAW 3:1776|delvp
+6:414 NOM  WAR 6:241|nextIndex
+3:297 NOM  RAW 3:242|x.addr RAW 3:243|x.addr RAW 3:340|x.addr RAW 3:772|x.addr RAW 3:1552|x.addr WAR 3:261|x0 WAR 3:263|x1 WAR 3:1434|x0
+3:1552 NOM  RAW 3:242|x_local RAW 3:243|x_local RAW 3:244|x_local RAW 3:245|x_local RAW 3:246|x_local RAW 3:247|x_local RAW 3:248|x_local RAW 3:249|x_local RAW 3:1544|xd_local RAW 3:1549|dt2 RAW 3:1550|j WAR 3:1552|x_local
+6:176 NOM  RAW 6:115|call142 RAW 6:171|volume RAW 6:175|idx RAW 6:176|call142 WAR 6:176|call142
+3:1544 NOM  RAW 3:1195|call19 RAW 3:1541|lnode RAW 3:1543|gnode RAW 3:1766|domain.addr WAR 3:1023|xd_local WAR 3:1483|xd_local WAR 3:1484|xd_local WAR 3:1485|xd_local WAR 3:1486|xd_local
+6:56 NOM  RAW 6:55|edgeElems INIT *|edgeNodes
+3:1432 NOM  RAW 3:769|volume.addr RAW 3:1430|charLength WAR 3:1432|charLength
+3:1429 NOM  RAW 3:260|z.addr RAW 3:263|z.addr RAW 3:264|z.addr RAW 3:267|z.addr RAW 3:770|z.addr
+3:1427 NOM  RAW 3:242|x.addr RAW 3:245|x.addr RAW 3:246|x.addr RAW 3:249|x.addr RAW 3:772|x.addr WAR 3:1425|a WAW 3:1422|a
+3:1423 NOM  RAW 3:253|y.addr RAW 3:254|y.addr RAW 3:257|y.addr RAW 3:258|y.addr RAW 3:771|y.addr
+6:47 NOM  INIT *|this1
+6:46 NOM  INIT *|this1
+3:1422 NOM  RAW 3:244|x.addr RAW 3:245|x.addr RAW 3:248|x.addr RAW 3:249|x.addr RAW 3:772|x.addr WAR 3:1420|a WAW 3:1417|a
+6:43 NOM  INIT *|this1
+3:1419 NOM  RAW 3:261|z.addr RAW 3:262|z.addr RAW 3:265|z.addr RAW 3:266|z.addr RAW 3:770|z.addr
+3:1418 NOM  RAW 3:252|y.addr RAW 3:253|y.addr RAW 3:256|y.addr RAW 3:257|y.addr RAW 3:771|y.addr
+3:1417 NOM  RAW 3:243|x.addr RAW 3:244|x.addr RAW 3:247|x.addr RAW 3:248|x.addr RAW 3:772|x.addr WAR 3:1415|a WAW 3:1412|a
+6:38 NOM  INIT *|this1
+3:1414 NOM  RAW 3:260|z.addr RAW 3:261|z.addr RAW 3:264|z.addr RAW 3:265|z.addr RAW 3:770|z.addr
+6:33 NOM  INIT *|this1
+3:1409 NOM  RAW 3:264|z.addr RAW 3:265|z.addr RAW 3:266|z.addr RAW 3:267|z.addr RAW 3:770|z.addr
+3:1387 NOM  RAW 3:1378|fx RAW 3:1379|fy RAW 3:1380|fz RAW 3:1381|gx RAW 3:1382|gy RAW 3:1383|gz
+3:1380 NOM  WAR 3:1388|fz INIT *|fz
+6:27 NOM  INIT *|this1
+3:1403 NOM  RAW 3:251|y.addr RAW 3:252|y.addr RAW 3:253|y.addr RAW 3:254|y.addr RAW 3:771|y.addr
+6:156 NOM  INIT *|call101
+3:1532 NOM  RAW 3:1511|k RAW 3:1531|volume RAW 3:1766|domain.addr RAW 6:172|call7 WAR 3:472|relativeVolume WAR 3:1534|relativeVolume
+3:1329 NOM  RAW 3:824|x4.addr RAW 3:828|x1.addr WAR 3:696|dx14 WAR 3:1347|dx14 INIT *|dx14
+8:25 NOM  RAW 8:23|c
+3:1323 NOM  RAW 3:844|z3.addr RAW 3:844|z4.addr WAR 3:698|dz43 WAR 3:1344|dz43 INIT *|dz43
+3:1317 NOM  RAW 3:824|x7.addr RAW 3:828|x2.addr WAR 3:685|dx72 WAR 3:1341|dx72 INIT *|dx72
+3:1309 NOM  RAW 3:824|x6.addr RAW 3:824|x4.addr WAR 3:688|dx64 WAR 3:1344|dx64 INIT *|dx64
+3:1307 NOM  RAW 3:840|z0.addr RAW 3:844|z5.addr WAR 3:674|dz50 WAR 3:1347|dz50 INIT *|dz50
+3:1303 NOM  RAW 3:840|z0.addr RAW 3:844|z2.addr WAR 3:675|dz20 WAR 3:1341|dz20 INIT *|dz20
+3:1299 NOM  RAW 3:302|z6.addr RAW 3:844|z3.addr WAR 3:677|dz63 WAR 3:1341|dz63 INIT *|dz63
+3:1293 NOM  RAW 3:824|x7.addr RAW 3:828|x0.addr WAR 3:704|dx70 WAR 3:1344|dx70 INIT *|dx70
+3:1291 NOM  RAW 3:302|z6.addr RAW 3:840|z1.addr WAR 3:703|dz61 WAR 3:1347|dz61 INIT *|dz61
+3:1289 NOM  RAW 3:824|x6.addr RAW 3:828|x1.addr WAR 3:704|dx61 WAR 3:1347|dx61 INIT *|dx61
+3:2782 NOM  RAW 3:2677|numRanks RAW 3:2715|locDom RAW 3:2773|elapsed_timeG RAW 8:24|opts
+3:1217 NOM  RAW 3:1157|dt.addr RAW 3:1203|call6 RAW 3:1213|i RAW 3:1217|call8 RAW 6:167|domain.addr RAW 6:232|call8 WAR 3:1217|call8
+3:1216 NOM  RAW 3:1157|dt.addr RAW 3:1199|call2 RAW 3:1213|i RAW 3:1216|call4 RAW 6:167|domain.addr RAW 6:231|call4 WAR 3:1216|call4
+3:1215 NOM  RAW 3:1157|dt.addr RAW 3:1195|call RAW 3:1213|i RAW 3:1215|call1 RAW 6:167|domain.addr RAW 6:230|call1 WAR 3:1215|call1
+3:1960 NOM  RAW 3:1952|numElem RAW 3:1955|allElem RAW 6:166|domain.addr
+3:1251 NOM  RAW 3:1230|delt RAW 6:77|call4
+3:2696 NOM  RAW 3:2677|numRanks
+3:1203 NOM  RAW 3:1189|i RAW 3:1201|zdtmp RAW 3:1202|zdtmp RAW 6:167|domain.addr WAR 3:1201|call22
+3:1201 NOM  RAW 3:1147|call15 RAW 3:1157|dt.addr RAW 3:1176|call15 RAW 3:1189|i RAW 3:1203|call14 RAW 6:105|call14 RAW 6:167|domain.addr WAR 3:1203|zdtmp WAW 6:183|zdtmp
+3:2694 NOM  RAW 3:2678|myRank RAW 3:2687|opts
+3:2682 NOM  INIT *|opts
+3:1189 NOM  RAW 3:1175|numNode.addr RAW 3:1189|i WAR 3:1189|i WAR 6:167|i
+3:1176 NOM  RAW 3:1175|i26 RAW 6:167|domain.addr WAW 3:1147|call31
+3:1169 NOM  RAW 3:1157|numNodeBC RAW 3:1169|i11 WAR 3:1169|i11 WAR 3:1213|i11 WAR 6:175|i11
+3:211 NOM  RAW 3:169|targetdt RAW 3:206|call40 RAW 6:192|call40
+5:289 NOM  RAW 6:528|call
+3:1163 NOM  RAW 3:1157|numNodeBC RAW 3:1163|i WAR 3:1163|i WAR 3:1213|i INIT *|i
+3:1157 NOM  RAW 3:1156|size WAR 3:1144|numNodeBC
+3:1145 NOM  RAW 3:933|call RAW 3:937|call RAW 3:941|call RAW 3:945|call RAW 3:949|call RAW 3:953|call RAW 3:957|call RAW 3:961|call RAW 3:1144|i RAW 6:167|domain.addr RAW 6:176|call1 WAR 3:1193|call2 WAW 6:109|call2
+3:1144 NOM  RAW 3:1106|numNode.addr RAW 3:1144|i WAR 3:1115|i WAR 3:1144|i
+3:1245 NOM  RAW 6:77|call2
+5:120 NOM  RAW 3:369|ptr.addr RAW 3:824|ptr.addr RAW 3:1001|ptr.addr RAW 3:1002|ptr.addr RAW 3:1003|ptr.addr RAW 3:1004|ptr.addr RAW 3:1005|ptr.addr RAW 3:1006|ptr.addr RAW 3:1067|ptr.addr RAW 3:1068|ptr.addr RAW 3:1069|ptr.addr RAW 3:1070|ptr.addr RAW 3:1630|ptr.addr RAW 3:1663|ptr.addr RAW 3:1667|ptr.addr RAW 3:2060|ptr.addr RAW 3:2222|ptr.addr RAW 3:2223|ptr.addr RAW 3:2224|ptr.addr RAW 3:2225|ptr.addr RAW 3:2226|ptr.addr RAW 3:2227|ptr.addr RAW 3:2228|ptr.addr RAW 3:2229|ptr.addr RAW 3:2230|ptr.addr RAW 3:2231|ptr.addr RAW 3:2232|ptr.addr RAW 3:2233|ptr.addr RAW 3:2234|ptr.addr RAW 3:2235|ptr.addr RAW 3:2337|ptr.addr RAW 5:224|ptr.addr RAW 5:225|ptr.addr RAW 5:226|ptr.addr RAW 5:229|ptr.addr RAW 5:230|ptr.addr RAW 5:231|ptr.addr RAW 5:247|ptr.addr RAW 5:248|ptr.addr RAW 5:249|ptr.addr
+6:159 NOM  RAW 6:75|call105 RAW 6:159|i102 WAR 6:159|i102 INIT *|i102
+5:119 NOM  RAW 3:369|ptr.addr RAW 3:824|ptr.addr RAW 3:1001|ptr.addr RAW 3:1002|ptr.addr RAW 3:1003|ptr.addr RAW 3:1004|ptr.addr RAW 3:1005|ptr.addr RAW 3:1006|ptr.addr RAW 3:1067|ptr.addr RAW 3:1068|ptr.addr RAW 3:1069|ptr.addr RAW 3:1070|ptr.addr RAW 3:1630|ptr.addr RAW 3:1663|ptr.addr RAW 3:1667|ptr.addr RAW 3:2060|ptr.addr RAW 3:2222|ptr.addr RAW 3:2223|ptr.addr RAW 3:2224|ptr.addr RAW 3:2225|ptr.addr RAW 3:2226|ptr.addr RAW 3:2227|ptr.addr RAW 3:2228|ptr.addr RAW 3:2229|ptr.addr RAW 3:2230|ptr.addr RAW 3:2231|ptr.addr RAW 3:2232|ptr.addr RAW 3:2233|ptr.addr RAW 3:2234|ptr.addr RAW 3:2235|ptr.addr RAW 3:2337|ptr.addr RAW 5:224|ptr.addr RAW 5:225|ptr.addr RAW 5:226|ptr.addr RAW 5:229|ptr.addr RAW 5:230|ptr.addr RAW 5:231|ptr.addr RAW 5:247|ptr.addr RAW 5:248|ptr.addr RAW 5:249|ptr.addr
+3:1534 NOM  RAW 3:1511|k RAW 3:1532|relativeVolume RAW 3:1766|domain.addr RAW 3:2422|call9 RAW 6:99|call9 WAR 3:2246|call10 INIT *|call10
+6:174 NOM  RAW 6:174|j WAR 6:174|j INIT *|j
+3:1550 NOM  RAW 3:1550|j WAR 3:1550|j INIT *|j
+3:841 NOM  RAW 3:793|i3 RAW 3:804|hourmody RAW 3:1024|dvdy.addr
+3:1538 NOM  RAW 3:1531|volume
+6:162 NOM  RAW 6:162|lnode WAR 6:162|lnode INIT *|lnode
+3:829 NOM  RAW 3:793|i3 RAW 3:804|hourmody RAW 3:1024|dvdy.addr
+3:817 NOM  RAW 3:793|i3 RAW 3:804|hourmody RAW 3:1024|dvdy.addr
+3:1564 NOM  RAW 3:1453|D RAW 3:1511|k RAW 3:1766|domain.addr WAR 3:549|call62
+3:855 NOM  RAW 3:783|i2 RAW 3:1031|determ.addr RAW 6:579|determ.addr WAR 3:893|volume13 WAR 3:1355|volume13 INIT *|volume13
+3:1546 NOM  RAW 3:1203|call25 RAW 3:1541|lnode RAW 3:1543|gnode RAW 3:1766|domain.addr WAR 3:1025|zd_local WAR 3:1488|zd_local WAR 3:1489|zd_local WAR 3:1490|zd_local WAR 3:1491|zd_local
+3:837 NOM  RAW 3:793|i3 RAW 3:804|hourmody RAW 3:1024|dvdy.addr
+3:825 NOM  RAW 3:793|i3 RAW 3:804|hourmody RAW 3:1024|dvdy.addr
+3:1659 NOM  RAW 3:1217|call32 RAW 3:1632|n7 RAW 5:121|domain.addr WAR 3:1488|z7 WAR 3:1701|z7
+3:950 NOM  RAW 3:556|call600 RAW 3:691|hgfy RAW 3:861|n4si2 RAW 3:954|call600 RAW 3:962|call600 RAW 6:579|domain.addr WAR 3:950|call600
+3:939 NOM  RAW 3:557|call576 RAW 3:702|hgfz RAW 3:858|n1si2 RAW 3:943|call576 RAW 3:947|call576 RAW 3:951|call576 RAW 3:955|call576 RAW 6:579|domain.addr WAR 3:939|call576
+3:1647 NOM  RAW 3:1216|call21 RAW 3:1629|n4 RAW 5:121|domain.addr WAR 3:1700|y4 WAR 5:121|y4
+3:938 NOM  RAW 3:556|call573 RAW 3:691|hgfy RAW 3:858|n1si2 RAW 3:942|call573 RAW 3:946|call573 RAW 3:950|call573 RAW 3:954|call573 RAW 6:579|domain.addr WAR 3:938|call573
+3:937 NOM  RAW 3:555|call570 RAW 3:680|hgfx RAW 3:858|n1si2 RAW 3:941|call570 RAW 3:945|call570 RAW 3:949|call570 RAW 3:953|call570 RAW 6:579|domain.addr WAR 3:937|call570
+5:229 NOM  RAW 3:1931|allElem.addr WAW 5:121|this1 INIT *|this1
+3:1644 NOM  RAW 3:1216|call18 RAW 3:1626|n1 RAW 5:121|domain.addr WAR 3:1700|y1 WAW 3:372|y1
+3:935 NOM  RAW 3:557|call567 RAW 3:702|hgfz RAW 3:857|n0si2 RAW 3:939|call567 RAW 3:947|call567 RAW 3:951|call567 RAW 6:579|domain.addr WAR 3:935|call567
+3:1643 NOM  RAW 3:1216|call17 RAW 3:1625|n0 RAW 5:121|domain.addr WAR 3:1700|y0 WAW 3:373|y0
+3:934 NOM  RAW 3:556|call564 RAW 3:691|hgfy RAW 3:857|n0si2 RAW 3:938|call564 RAW 3:946|call564 RAW 3:950|call564 RAW 6:579|domain.addr WAR 3:934|call564
+3:933 NOM  RAW 3:555|call561 RAW 3:680|hgfx RAW 3:857|n0si2 RAW 3:937|call561 RAW 3:945|call561 RAW 3:949|call561 RAW 6:579|domain.addr WAR 3:933|call561
+3:702 NOM  RAW 3:701|i224 WAR 3:321|hgfz.addr WAR 3:486|hgfz.addr WAR 3:487|hgfz.addr WAR 3:488|hgfz.addr WAR 3:935|hgfz.addr WAR 3:939|hgfz.addr WAR 3:943|hgfz.addr WAR 3:947|hgfz.addr WAR 3:951|hgfz.addr WAR 3:955|hgfz.addr WAR 3:959|hgfz.addr WAR 3:963|hgfz.addr INIT *|hgfz.addr
+6:36 NOM  INIT *|this1
+3:1412 NOM  RAW 3:242|x.addr RAW 3:243|x.addr RAW 3:246|x.addr RAW 3:247|x.addr RAW 3:772|x.addr WAR 3:1410|a WAW 3:1407|a
+3:2196 NOM  RAW 3:2190|ssTmp WAR 3:2196|ssTmp
+3:703 NOM  RAW 3:696|hxx RAW 3:701|i224 RAW 3:816|hourgam.addr RAW 3:820|hourgam.addr RAW 3:824|hourgam.addr RAW 3:828|hourgam.addr RAW 3:832|hourgam.addr RAW 3:836|hourgam.addr RAW 3:840|hourgam.addr RAW 3:844|hourgam.addr
+3:1413 NOM  RAW 3:251|y.addr RAW 3:252|y.addr RAW 3:255|y.addr RAW 3:256|y.addr RAW 3:771|y.addr
+6:37 NOM  INIT *|this1
+3:704 NOM  RAW 3:696|hxx RAW 3:701|i224 RAW 3:816|hourgam.addr RAW 3:820|hourgam.addr RAW 3:824|hourgam.addr RAW 3:828|hourgam.addr RAW 3:832|hourgam.addr RAW 3:836|hourgam.addr RAW 3:840|hourgam.addr RAW 3:844|hourgam.addr
+6:32 NOM  INIT *|this1
+3:1408 NOM  RAW 3:255|y.addr RAW 3:256|y.addr RAW 3:257|y.addr RAW 3:258|y.addr RAW 3:771|y.addr
+3:2192 NOM  RAW 3:2190|ssTmp
+3:699 NOM  RAW 3:695|i168 RAW 3:840|hourgam.addr RAW 3:844|hourgam.addr RAW 3:890|zd.addr RAW 3:891|zd.addr
+3:1407 NOM  RAW 3:246|x.addr RAW 3:247|x.addr RAW 3:248|x.addr RAW 3:249|x.addr RAW 3:772|x.addr WAR 3:1405|a
+6:31 NOM  INIT *|this1
+3:698 NOM  RAW 3:695|i168 RAW 3:832|hourgam.addr RAW 3:836|hourgam.addr RAW 3:888|zd.addr RAW 3:889|zd.addr
+3:2191 NOM  RAW 3:1287|rho0.addr RAW 3:1290|pnewc.addr RAW 3:1293|bvc.addr RAW 3:2025|bvc.addr RAW 3:2033|pnewc.addr RAW 3:2036|pnewc.addr RAW 3:2188|i
+3:697 NOM  RAW 3:695|i168 RAW 3:824|hourgam.addr RAW 3:828|hourgam.addr RAW 3:886|zd.addr RAW 3:887|zd.addr
+3:2190 NOM  RAW 3:824|vnewc.addr RAW 3:1289|enewc.addr RAW 3:1291|pbvc.addr RAW 3:2026|pbvc.addr RAW 3:2138|enewc.addr RAW 3:2143|enewc.addr RAW 3:2188|i RAW 3:2189|ielem RAW 3:2343|vnewc.addr WAR 3:2151|ssTmp WAR 3:2198|ssTmp
+3:1404 NOM  RAW 3:260|z.addr RAW 3:261|z.addr RAW 3:262|z.addr RAW 3:263|z.addr RAW 3:770|z.addr
+6:28 NOM  INIT *|this1
+3:695 NOM  RAW 3:695|i168 WAR 3:695|i168 INIT *|i168
+3:2188 NOM  RAW 3:828|len.addr RAW 3:2188|i WAR 3:2188|i INIT *|i
+3:691 NOM  RAW 3:690|i135 WAR 3:351|hgfy.addr WAR 3:360|hgfy.addr WAR 3:376|hgfy.addr WAR 3:486|hgfy.addr WAR 3:487|hgfy.addr WAR 3:488|hgfy.addr WAR 3:934|hgfy.addr WAR 3:938|hgfy.addr WAR 3:942|hgfy.addr WAR 3:946|hgfy.addr WAR 3:950|hgfy.addr WAR 3:954|hgfy.addr WAR 3:958|hgfy.addr WAR 3:962|hgfy.addr INIT *|hgfy.addr
+3:692 NOM  RAW 3:685|hxx RAW 3:690|i135 RAW 3:816|hourgam.addr RAW 3:820|hourgam.addr RAW 3:824|hourgam.addr RAW 3:828|hourgam.addr RAW 3:832|hourgam.addr RAW 3:836|hourgam.addr RAW 3:840|hourgam.addr RAW 3:844|hourgam.addr
+3:688 NOM  RAW 3:684|i79 RAW 3:840|hourgam.addr RAW 3:844|hourgam.addr RAW 3:881|yd.addr RAW 3:882|yd.addr
+3:687 NOM  RAW 3:684|i79 RAW 3:832|hourgam.addr RAW 3:836|hourgam.addr RAW 3:879|yd.addr RAW 3:880|yd.addr
+3:686 NOM  RAW 3:684|i79 RAW 3:824|hourgam.addr RAW 3:828|hourgam.addr RAW 3:877|yd.addr RAW 3:878|yd.addr
+3:685 NOM  RAW 3:684|i79 RAW 3:816|hourgam.addr RAW 3:820|hourgam.addr RAW 3:875|yd.addr RAW 3:876|yd.addr WAR 3:681|hxx WAR 3:682|hxx
+3:680 NOM  RAW 3:679|i46 WAR 3:337|hgfx.addr WAR 3:338|hgfx.addr WAR 3:341|hgfx.addr WAR 3:342|hgfx.addr WAR 3:351|hgfx.addr WAR 3:376|hgfx.addr WAR 3:933|hgfx.addr WAR 3:937|hgfx.addr WAR 3:941|hgfx.addr WAR 3:945|hgfx.addr WAR 3:949|hgfx.addr WAR 3:953|hgfx.addr WAR 3:957|hgfx.addr WAR 3:961|hgfx.addr INIT *|hgfx.addr
+3:682 NOM  RAW 3:674|hxx RAW 3:679|i46 RAW 3:816|hourgam.addr RAW 3:820|hourgam.addr RAW 3:824|hourgam.addr RAW 3:828|hourgam.addr RAW 3:832|hourgam.addr RAW 3:836|hourgam.addr RAW 3:840|hourgam.addr RAW 3:844|hourgam.addr
+3:1388 NOM  RAW 3:1378|fx RAW 3:1379|fy RAW 3:1380|fz RAW 3:1381|gx RAW 3:1382|gy RAW 3:1383|gz
+3:679 NOM  RAW 3:679|i46 WAR 3:679|i46 INIT *|i46
+8:87 NOM  RAW 8:67|i INIT *|ok
+3:1385 NOM  RAW 3:1378|fx RAW 3:1379|fy RAW 3:1380|fz
+3:676 NOM  RAW 3:673|i RAW 3:832|hourgam.addr RAW 3:836|hourgam.addr RAW 3:870|xd.addr RAW 3:871|xd.addr
+3:2169 NOM  RAW 3:1291|q_new.addr RAW 3:1301|q_cut.addr RAW 3:2154|i199 RAW 3:2167|q_new.addr WAR 3:2169|q_new.addr
+3:1383 NOM  WAR 3:1388|gz INIT *|gz
+3:674 NOM  RAW 3:673|i RAW 3:816|hourgam.addr RAW 3:820|hourgam.addr RAW 3:866|xd.addr RAW 3:867|xd.addr WAR 3:703|hxx WAR 3:704|hxx INIT *|hxx
+3:2167 NOM  RAW 3:836|ql_old.addr RAW 3:836|qq_old.addr RAW 3:1291|q_new.addr RAW 3:2154|i199 RAW 3:2162|ssc210 RAW 3:2164|ssc210 RAW 3:2249|qq_old.addr RAW 3:2250|ql_old.addr WAR 3:2139|q_new.addr
+3:893 NOM  RAW 3:853|ss1 RAW 3:854|mass1 RAW 3:855|volume13 RAW 6:495|hourg.addr WAR 3:321|coefficient WAR 3:897|coefficient
+3:891 NOM  RAW 3:864|n7si2 RAW 3:1203|call491 RAW 6:105|call491 RAW 6:579|domain.addr WAR 3:699|zd1 WAR 3:2167|zd1 INIT *|zd1
+3:890 NOM  RAW 3:863|n6si2 RAW 3:1203|call489 RAW 6:105|call489 RAW 6:579|domain.addr WAR 3:699|zd1 WAR 3:1344|zd1 INIT *|zd1
+3:1598 NOM  RAW 3:1533|call13 RAW 3:1585|k RAW 6:166|domain.addr
+3:889 NOM  RAW 3:862|n5si2 RAW 3:1203|call487 RAW 6:105|call487 RAW 6:579|domain.addr WAR 3:698|zd1 WAR 3:1344|zd1 INIT *|zd1
+3:888 NOM  RAW 3:861|n4si2 RAW 3:1203|call485 RAW 6:105|call485 RAW 6:579|domain.addr WAR 3:698|zd1 WAR 3:1344|zd1 INIT *|zd1
+3:1595 NOM  RAW 3:1566|call11 RAW 3:1585|k RAW 3:1589|vdovthird RAW 6:166|domain.addr WAR 3:1595|call11
+3:886 NOM  RAW 3:859|n2si2 RAW 3:1203|call481 RAW 6:105|call481 RAW 6:579|domain.addr WAR 3:697|zd1 WAR 3:1344|zd1 INIT *|zd1
+3:1594 NOM  RAW 3:1565|call9 RAW 3:1585|k RAW 3:1589|vdovthird RAW 6:166|domain.addr WAR 3:1594|call9
+3:885 NOM  RAW 3:858|n1si2 RAW 3:1203|call479 RAW 6:105|call479 RAW 6:579|domain.addr WAR 3:696|zd1 WAR 3:1344|zd1 INIT *|zd1
+3:1593 NOM  RAW 3:1564|call8 RAW 3:1585|k RAW 3:1589|vdovthird RAW 6:166|domain.addr WAR 3:1593|call8
+3:2377 NOM  RAW 3:2368|vc
+3:884 NOM  RAW 3:857|n0si2 RAW 3:1203|call477 RAW 6:105|call477 RAW 6:579|domain.addr WAR 3:696|zd1 WAR 3:1347|zd1 INIT *|zd1
+3:882 NOM  RAW 3:864|n7si2 RAW 3:1199|call475 RAW 6:104|call475 RAW 6:579|domain.addr WAR 3:688|yd1 WAR 3:1347|yd1 WAR 3:2084|yd1
+3:881 NOM  RAW 3:863|n6si2 RAW 3:1199|call473 RAW 6:104|call473 RAW 6:579|domain.addr WAR 3:688|yd1 WAR 3:1347|yd1 WAR 3:2092|yd1
+3:2374 NOM  RAW 3:2336|eosvmax RAW 3:2368|vc
+3:880 NOM  RAW 3:862|n5si2 RAW 3:1199|call471 RAW 6:104|call471 RAW 6:579|domain.addr WAR 3:687|yd1 WAR 3:1347|yd1 WAR 3:2117|yd1
+3:2373 NOM  RAW 3:2336|eosvmax
+3:1588 NOM  RAW 3:1564|call3 RAW 3:1565|call4 RAW 3:1566|call5 RAW 3:1585|k RAW 6:166|domain.addr WAR 3:1364|vdov WAR 3:1592|vdov WAW 5:121|vdov
+3:879 NOM  RAW 3:861|n4si2 RAW 3:1199|call469 RAW 6:104|call469 RAW 6:579|domain.addr WAR 3:687|yd1 WAR 3:1355|yd1 WAW 3:2118|yd1
+3:2370 NOM  RAW 3:2335|eosvmin RAW 3:2368|vc
+3:877 NOM  RAW 3:859|n2si2 RAW 3:1199|call465 RAW 6:104|call465 RAW 6:579|domain.addr WAR 3:686|yd1 WAR 3:2140|yd1 INIT *|yd1
+3:875 NOM  RAW 3:857|n0si2 RAW 3:1199|call461 RAW 6:104|call461 RAW 6:579|domain.addr WAR 3:685|yd1 WAR 3:2159|yd1 INIT *|yd1
+3:2368 NOM  RAW 3:2367|i39 RAW 3:2422|call43 RAW 6:99|call43 RAW 6:166|domain.addr WAR 3:1364|vc WAR 3:2377|vc
+3:873 NOM  RAW 3:864|n7si2 RAW 3:1195|call459 RAW 6:103|call459 RAW 6:579|domain.addr WAR 3:369|xd1 WAR 3:677|xd1
+3:1581 NOM  RAW 3:1575|numElem RAW 3:1577|deltatime RAW 6:166|domain.addr
+6:205 NOM  RAW 6:204|i RAW 6:413|this1 RAW 6:500|this1
+3:872 NOM  RAW 3:863|n6si2 RAW 3:1195|call457 RAW 6:103|call457 RAW 6:579|domain.addr WAR 3:677|xd1 WAR 3:1344|xd1 WAR 3:2142|xd1
+3:871 NOM  RAW 3:862|n5si2 RAW 3:1195|call455 RAW 6:103|call455 RAW 6:579|domain.addr WAR 3:676|xd1 WAR 3:1344|xd1 WAR 3:2169|xd1
+6:203 NOM  RAW 6:412|this1
+3:1579 NOM  RAW 3:1575|numElem RAW 6:166|domain.addr
+3:870 NOM  RAW 3:861|n4si2 RAW 3:1195|call453 RAW 6:103|call453 RAW 6:579|domain.addr WAR 3:676|xd1 WAR 3:1344|xd1 WAR 3:2145|xd1
+3:869 NOM  RAW 3:860|n3si2 RAW 3:1195|call451 RAW 6:103|call451 RAW 6:579|domain.addr WAR 3:675|xd1 WAR 3:1344|xd1 WAR 3:2159|xd1
+3:867 NOM  RAW 3:858|n1si2 RAW 3:1195|call447 RAW 6:103|call447 RAW 6:579|domain.addr WAR 3:674|xd1 WAR 3:1347|xd1 WAW 5:121|xd1
+3:1575 NOM  RAW 6:75|call RAW 6:166|domain.addr WAR 3:2367|numElem INIT *|numElem
+3:866 NOM  RAW 3:857|n0si2 RAW 3:1195|call445 RAW 6:103|call445 RAW 6:579|domain.addr WAR 3:674|xd1 WAR 3:1347|xd1 WAR 3:2076|xd1
+3:2357 NOM  RAW 3:2331|numElem RAW 3:2357|i24 WAR 3:2357|i24 INIT *|i24
+3:864 NOM  RAW 3:792|elemToNode RAW 6:259|elemToNode WAR 3:963|n7si2 INIT *|n7si2
+3:863 NOM  RAW 3:792|elemToNode RAW 6:258|elemToNode WAR 3:959|n6si2 INIT *|n6si2
+3:862 NOM  RAW 3:792|elemToNode RAW 6:257|elemToNode WAR 3:955|n5si2 INIT *|n5si2
+3:2355 NOM  RAW 3:2336|eosvmax
+3:861 NOM  RAW 3:792|elemToNode RAW 6:256|elemToNode WAR 3:951|n4si2 INIT *|n4si2
+3:860 NOM  RAW 3:792|elemToNode RAW 6:255|elemToNode WAR 3:947|n3si2 INIT *|n3si2
+3:859 NOM  RAW 3:792|elemToNode RAW 6:254|elemToNode WAR 3:943|n2si2 INIT *|n2si2
+3:858 NOM  RAW 3:792|elemToNode RAW 6:253|elemToNode WAR 3:939|n1si2 INIT *|n1si2
+3:2347 NOM  RAW 3:2335|eosvmin
+3:854 NOM  RAW 3:783|i2 RAW 6:173|call433 RAW 6:579|domain.addr WAR 3:893|mass1 WAR 3:1347|mass1 INIT *|mass1
+3:853 NOM  RAW 3:783|i2 RAW 3:2198|call432 RAW 6:94|call432 RAW 6:579|domain.addr WAR 3:893|ss1 WAR 3:1347|ss1 INIT *|ss1
+3:1553 NOM  RAW 3:251|y_local RAW 3:252|y_local RAW 3:253|y_local RAW 3:254|y_local RAW 3:255|y_local RAW 3:256|y_local RAW 3:257|y_local RAW 3:258|y_local RAW 3:1545|yd_local RAW 3:1549|dt2 RAW 3:1550|j WAR 3:1553|y_local
+3:2337 NOM  RAW 3:2331|numElem WAR 3:1592|vnewc
+3:844 NOM  RAW 3:240|dvdx.addr RAW 3:752|gamma RAW 3:760|gamma RAW 3:768|gamma RAW 3:776|gamma RAW 3:793|i3 RAW 3:794|volinv RAW 3:796|i1 RAW 3:798|hourmodx RAW 3:1023|dvdx.addr WAR 3:325|hourgam WAR 3:703|hourgam WAR 3:704|hourgam
+3:832 NOM  RAW 3:240|dvdx.addr RAW 3:749|gamma RAW 3:757|gamma RAW 3:765|gamma RAW 3:773|gamma RAW 3:793|i3 RAW 3:794|volinv RAW 3:796|i1 RAW 3:798|hourmodx RAW 3:1023|dvdx.addr WAR 3:329|hourgam WAR 3:342|hourgam WAR 3:703|hourgam WAR 3:704|hourgam
+3:820 NOM  RAW 3:240|dvdx.addr RAW 3:746|gamma RAW 3:754|gamma RAW 3:762|gamma RAW 3:770|gamma RAW 3:793|i3 RAW 3:794|volinv RAW 3:796|i1 RAW 3:798|hourmodx RAW 3:1023|dvdx.addr WAR 3:351|hourgam WAR 3:360|hourgam WAR 3:376|hourgam WAR 3:703|hourgam WAR 3:704|hourgam
+3:2294 NOM  RAW 3:1672|regElemList.addr
+3:801 NOM  RAW 3:234|x8n.addr RAW 3:749|gamma RAW 3:750|gamma RAW 3:757|gamma RAW 3:758|gamma RAW 3:765|gamma RAW 3:766|gamma RAW 3:773|gamma RAW 3:774|gamma RAW 3:793|i3 RAW 3:796|i1 RAW 3:1026|x8n.addr
+3:846 NOM  RAW 3:793|i3 RAW 3:810|hourmodz RAW 3:1025|dvdz.addr
+3:842 NOM  RAW 3:793|i3 RAW 3:810|hourmodz RAW 3:1025|dvdz.addr
+3:2335 NOM  RAW 6:166|domain.addr WAR 3:1995|eosvmin
+3:2333 NOM  RAW 3:2331|numElem
+3:840 NOM  RAW 3:240|dvdx.addr RAW 3:751|gamma RAW 3:759|gamma RAW 3:767|gamma RAW 3:775|gamma RAW 3:793|i3 RAW 3:794|volinv RAW 3:796|i1 RAW 3:798|hourmodx RAW 3:1023|dvdx.addr WAR 3:325|hourgam WAR 3:329|hourgam WAR 3:703|hourgam WAR 3:704|hourgam
+3:1545 NOM  RAW 3:1199|call22 RAW 3:1541|lnode RAW 3:1543|gnode RAW 3:1766|domain.addr WAR 3:1024|yd_local WAR 3:1493|yd_local WAR 3:1494|yd_local WAR 3:1495|yd_local WAR 3:1496|yd_local
+3:836 NOM  RAW 3:240|dvdx.addr RAW 3:750|gamma RAW 3:758|gamma RAW 3:766|gamma RAW 3:774|gamma RAW 3:793|i3 RAW 3:794|volinv RAW 3:796|i1 RAW 3:798|hourmodx RAW 3:1023|dvdx.addr WAR 3:329|hourgam WAR 3:703|hourgam WAR 3:704|hourgam
+3:838 NOM  RAW 3:793|i3 RAW 3:810|hourmodz RAW 3:1025|dvdz.addr
+3:2331 NOM  RAW 6:75|call RAW 6:166|domain.addr WAR 3:1995|numElem
+3:833 NOM  RAW 3:793|i3 RAW 3:804|hourmody RAW 3:1024|dvdy.addr
+3:830 NOM  RAW 3:793|i3 RAW 3:810|hourmodz RAW 3:1025|dvdz.addr
+3:1537 NOM  RAW 3:1511|k RAW 3:1766|domain.addr WAR 3:2486|call15 INIT *|call15
+6:161 NOM  RAW 6:159|i102 WAR 6:175|elemToNode INIT *|elemToNode
+3:828 NOM  RAW 3:240|dvdx.addr RAW 3:748|gamma RAW 3:756|gamma RAW 3:764|gamma RAW 3:772|gamma RAW 3:793|i3 RAW 3:794|volinv RAW 3:796|i1 RAW 3:798|hourmodx RAW 3:1023|dvdx.addr WAR 3:341|hourgam WAR 3:342|hourgam WAR 3:376|hourgam WAR 3:703|hourgam WAR 3:704|hourgam
+3:1533 NOM  RAW 3:1511|k RAW 3:1532|relativeVolume RAW 3:1766|domain.addr WAR 3:2417|call8 INIT *|call8
+3:824 NOM  RAW 3:240|dvdx.addr RAW 3:747|gamma RAW 3:755|gamma RAW 3:763|gamma RAW 3:771|gamma RAW 3:793|i3 RAW 3:794|volinv RAW 3:796|i1 RAW 3:798|hourmodx RAW 3:1023|dvdx.addr WAR 3:337|hourgam WAR 3:338|hourgam WAR 3:341|hourgam WAR 3:376|hourgam WAR 3:703|hourgam WAR 3:704|hourgam
+3:826 NOM  RAW 3:793|i3 RAW 3:810|hourmodz RAW 3:1025|dvdz.addr
+3:1531 NOM  WAR 3:1028|volume WAR 3:1538|volume
+6:155 NOM  INIT *|call99
+3:822 NOM  RAW 3:793|i3 RAW 3:810|hourmodz RAW 3:1025|dvdz.addr
+3:821 NOM  RAW 3:793|i3 RAW 3:804|hourmody RAW 3:1024|dvdy.addr
+3:818 NOM  RAW 3:793|i3 RAW 3:810|hourmodz RAW 3:1025|dvdz.addr
+8:227 NOM  RAW 8:186|grindTime2 RAW 8:227|agg.tmp121 WAR 3:1363|agg.tmp121
+3:1525 NOM  RAW 3:1511|k RAW 3:1766|domain.addr WAR 3:473|elemToNode WAR 3:1543|elemToNode
+3:816 NOM  RAW 3:240|dvdx.addr RAW 3:745|gamma RAW 3:753|gamma RAW 3:761|gamma RAW 3:769|gamma RAW 3:793|i3 RAW 3:794|volinv RAW 3:796|i1 RAW 3:798|hourmodx RAW 3:1023|dvdx.addr WAR 3:360|hourgam WAR 3:369|hourgam WAR 3:376|hourgam WAR 3:703|hourgam WAR 3:704|hourgam
+3:814 NOM  RAW 3:238|z8n.addr RAW 3:751|gamma RAW 3:752|gamma RAW 3:759|gamma RAW 3:760|gamma RAW 3:767|gamma RAW 3:768|gamma RAW 3:775|gamma RAW 3:776|gamma RAW 3:793|i3 RAW 3:796|i1 RAW 3:1028|z8n.addr
+3:2307 NOM  RAW 3:2210|ss4o3 RAW 3:2234|bvc RAW 3:2235|pbvc
+3:813 NOM  RAW 3:238|z8n.addr RAW 3:749|gamma RAW 3:750|gamma RAW 3:757|gamma RAW 3:758|gamma RAW 3:765|gamma RAW 3:766|gamma RAW 3:773|gamma RAW 3:774|gamma RAW 3:793|i3 RAW 3:796|i1 RAW 3:1028|z8n.addr
+3:2306 NOM  RAW 3:1670|vnewc.addr RAW 3:2217|rho0 RAW 3:2231|p_new RAW 3:2232|e_new
+3:2305 NOM  RAW 3:1668|domain.addr
+3:812 NOM  RAW 3:238|z8n.addr RAW 3:747|gamma RAW 3:748|gamma RAW 3:755|gamma RAW 3:756|gamma RAW 3:763|gamma RAW 3:764|gamma RAW 3:771|gamma RAW 3:772|gamma RAW 3:793|i3 RAW 3:796|i1 RAW 3:1028|z8n.addr
+3:811 NOM  RAW 3:238|z8n.addr RAW 3:745|gamma RAW 3:746|gamma RAW 3:753|gamma RAW 3:754|gamma RAW 3:761|gamma RAW 3:762|gamma RAW 3:769|gamma RAW 3:770|gamma RAW 3:793|i3 RAW 3:796|i1 RAW 3:1028|z8n.addr
+3:808 NOM  RAW 3:236|y8n.addr RAW 3:751|gamma RAW 3:752|gamma RAW 3:759|gamma RAW 3:760|gamma RAW 3:767|gamma RAW 3:768|gamma RAW 3:775|gamma RAW 3:776|gamma RAW 3:793|i3 RAW 3:796|i1 RAW 3:1027|y8n.addr
+3:2301 NOM  RAW 3:1668|domain.addr RAW 3:2138|e_new RAW 3:2143|e_new RAW 3:2232|e_new RAW 3:2298|i136 RAW 3:2299|ielem140 WAR 3:2245|call148
+3:807 NOM  RAW 3:236|y8n.addr RAW 3:749|gamma RAW 3:750|gamma RAW 3:757|gamma RAW 3:758|gamma RAW 3:765|gamma RAW 3:766|gamma RAW 3:773|gamma RAW 3:774|gamma RAW 3:793|i3 RAW 3:796|i1 RAW 3:1027|y8n.addr
+3:2300 NOM  RAW 3:1668|domain.addr RAW 3:2033|p_new RAW 3:2036|p_new RAW 3:2231|p_new RAW 3:2298|i136 RAW 3:2299|ielem140 WAR 3:2247|call145
+3:2298 NOM  RAW 3:2298|i136 WAR 3:1485|i136 WAR 3:2298|i136
+3:805 NOM  RAW 3:236|y8n.addr RAW 3:745|gamma RAW 3:746|gamma RAW 3:753|gamma RAW 3:754|gamma RAW 3:761|gamma RAW 3:762|gamma RAW 3:769|gamma RAW 3:770|gamma RAW 3:793|i3 RAW 3:796|i1 RAW 3:1027|y8n.addr
+3:1511 NOM  RAW 3:1511|k WAR 3:1511|k WAR 3:1912|k INIT *|k
+3:802 NOM  RAW 3:234|x8n.addr RAW 3:751|gamma RAW 3:752|gamma RAW 3:759|gamma RAW 3:760|gamma RAW 3:767|gamma RAW 3:768|gamma RAW 3:775|gamma RAW 3:776|gamma RAW 3:793|i3 RAW 3:796|i1 RAW 3:1026|x8n.addr
+3:800 NOM  RAW 3:234|x8n.addr RAW 3:747|gamma RAW 3:748|gamma RAW 3:755|gamma RAW 3:756|gamma RAW 3:763|gamma RAW 3:764|gamma RAW 3:771|gamma RAW 3:772|gamma RAW 3:793|i3 RAW 3:796|i1 RAW 3:1026|x8n.addr
+3:2293 NOM  RAW 3:2213|eosvmax RAW 3:2217|rho0 RAW 3:2228|qq_old RAW 3:2229|ql_old
+3:799 NOM  RAW 3:234|x8n.addr RAW 3:745|gamma RAW 3:746|gamma RAW 3:753|gamma RAW 3:754|gamma RAW 3:761|gamma RAW 3:762|gamma RAW 3:769|gamma RAW 3:770|gamma RAW 3:793|i3 RAW 3:796|i1 RAW 3:1026|x8n.addr
+3:2292 NOM  RAW 3:2208|e_cut RAW 3:2209|p_cut RAW 3:2211|q_cut RAW 3:2216|emin
+3:2265 NOM  RAW 3:2265|i81 WAR 3:2265|i81 INIT *|i81
+3:772 NOM  WAR 3:1486|gamma INIT *|gamma
+3:1478 NOM  RAW 3:348|pfx RAW 3:770|zvel.addr RAW 3:1447|inv_detJ RAW 3:1449|pfx RAW 3:1546|zvel.addr WAR 3:321|dzddx
+6:102 NOM  RAW 6:77|call41 RAW 6:102|i38 WAR 6:102|i38 INIT *|i38
+3:769 NOM  WAR 3:1451|gamma INIT *|gamma
+3:1475 NOM  RAW 3:359|pfy RAW 3:772|xvel.addr RAW 3:1450|pfy RAW 3:1544|xvel.addr
+6:99 NOM  RAW 6:98|i27 INIT *|call34
+3:766 NOM  WAR 3:1493|gamma INIT *|gamma
+3:2259 NOM  RAW 3:2227|compHalfStep RAW 3:2254|i57 RAW 3:2258|vchalf WAR 3:811|compHalfStep WAR 3:812|compHalfStep WAR 3:813|compHalfStep WAR 3:814|compHalfStep WAR 3:2077|compHalfStep WAR 3:2138|compHalfStep WAR 3:2190|compHalfStep WAR 3:2191|compHalfStep WAR 3:2302|compHalfStep INIT *|compHalfStep
+3:763 NOM  WAR 3:1498|gamma INIT *|gamma
+3:1469 NOM  RAW 3:349|pfx RAW 3:771|yvel.addr RAW 3:1449|pfx RAW 3:1545|yvel.addr
+6:93 NOM  RAW 6:90|i INIT *|call24
+3:760 NOM  WAR 3:1499|gamma INIT *|gamma
+6:90 NOM  RAW 6:75|call18 RAW 6:90|i WAR 6:90|i INIT *|i
+3:1466 NOM  RAW 3:369|pfz RAW 3:770|zvel.addr RAW 3:1451|pfz RAW 3:1546|zvel.addr
+3:757 NOM  WAR 3:1496|gamma INIT *|gamma
+3:2250 NOM  RAW 3:1668|domain.addr RAW 3:1919|call54 RAW 3:2229|ql_old RAW 3:2243|i RAW 3:2244|ielem WAR 3:549|ql_old WAR 3:1858|ql_old WAR 3:1868|ql_old WAR 3:1897|ql_old WAR 3:1898|ql_old WAR 3:1899|ql_old WAR 3:2025|ql_old WAR 3:2064|ql_old WAR 3:2077|ql_old WAR 3:2103|ql_old WAR 3:2138|ql_old WAR 3:2157|ql_old WAR 3:2167|ql_old WAR 3:2190|ql_old WAW 3:2249|ql_old WAW 3:2250|ql_old INIT *|ql_old
+6:87 NOM  RAW 6:56|edgeNodes
+3:1463 NOM  RAW 3:297|d.addr RAW 3:366|pfz RAW 3:770|zvel.addr RAW 3:1447|inv_detJ RAW 3:1451|pfz RAW 3:1546|zvel.addr WAR 3:1566|d.addr WAW 5:121|d.addr
+3:754 NOM  WAR 3:325|gamma INIT *|gamma
+3:2247 NOM  RAW 3:1668|domain.addr RAW 3:2224|p_old RAW 3:2243|i RAW 3:2244|ielem RAW 3:2300|call45 RAW 6:92|call45 WAR 3:2103|p_old WAR 3:2138|p_old WAR 3:2157|p_old WAR 3:2167|p_old WAR 3:2190|p_old WAR 3:2191|p_old INIT *|p_old
+3:1454 NOM  RAW 3:349|pfx RAW 3:772|xvel.addr RAW 3:1449|pfx RAW 3:1544|xvel.addr
+3:745 NOM  WAR 3:329|gamma INIT *|gamma
+3:2238 NOM  RAW 3:2238|j WAR 3:2238|j INIT *|j
+3:1027 NOM  RAW 3:251|y1 RAW 3:252|y1 RAW 3:253|y1 RAW 3:254|y1 RAW 3:255|y1 RAW 3:256|y1 RAW 3:257|y1 RAW 3:258|y1 RAW 3:1005|y8n RAW 3:1020|ii RAW 3:1021|jj WAR 3:549|y8n WAR 3:799|y8n WAR 3:800|y8n WAR 3:801|y8n WAR 3:802|y8n WAR 3:805|y8n WAR 3:806|y8n WAR 3:807|y8n WAR 3:808|y8n WAR 3:811|y8n WAR 3:812|y8n WAR 3:813|y8n WAR 3:814|y8n WAR 3:817|y8n WAR 3:818|y8n WAR 3:821|y8n WAR 3:822|y8n WAR 3:825|y8n WAR 3:826|y8n WAR 3:829|y8n WAR 3:830|y8n WAR 3:833|y8n WAR 3:834|y8n WAR 3:837|y8n WAR 3:838|y8n WAR 3:841|y8n WAR 3:842|y8n WAR 3:845|y8n WAR 3:846|y8n WAR 3:1783|y8n WAR 3:1821|y8n WAR 3:1897|y8n WAR 3:1898|y8n WAR 3:2025|y8n WAR 3:2077|y8n WAR 3:2157|y8n WAR 3:2167|y8n WAR 3:2190|y8n WAR 3:2191|y8n WAW 3:1745|y8n INIT *|y8n
+3:1026 NOM  RAW 3:242|x1 RAW 3:243|x1 RAW 3:244|x1 RAW 3:245|x1 RAW 3:246|x1 RAW 3:247|x1 RAW 3:248|x1 RAW 3:249|x1 RAW 3:1004|x8n RAW 3:1020|ii RAW 3:1021|jj WAR 3:549|x8n WAR 3:799|x8n WAR 3:800|x8n WAR 3:801|x8n WAR 3:802|x8n WAR 3:805|x8n WAR 3:806|x8n WAR 3:807|x8n WAR 3:808|x8n WAR 3:811|x8n WAR 3:812|x8n WAR 3:813|x8n WAR 3:814|x8n WAR 3:816|x8n WAR 3:817|x8n WAR 3:818|x8n WAR 3:820|x8n WAR 3:821|x8n WAR 3:822|x8n WAR 3:824|x8n WAR 3:825|x8n WAR 3:826|x8n WAR 3:828|x8n WAR 3:829|x8n WAR 3:830|x8n WAR 3:832|x8n WAR 3:833|x8n WAR 3:834|x8n WAR 3:836|x8n WAR 3:837|x8n WAR 3:838|x8n WAR 3:840|x8n WAR 3:841|x8n WAR 3:842|x8n WAR 3:844|x8n WAR 3:845|x8n WAR 3:846|x8n WAR 3:1783|x8n WAR 3:1793|x8n WAR 3:1821|x8n WAR 3:1831|x8n WAR 3:1858|x8n WAR 3:1868|x8n WAR 3:1897|x8n WAR 3:1898|x8n WAR 3:1899|x8n WAR 3:2138|x8n WAR 3:2157|x8n WAR 3:2167|x8n WAW 3:1745|x8n INIT *|x8n
+3:1024 NOM  RAW 3:617|pfy RAW 3:1002|dvdy RAW 3:1020|ii RAW 3:1021|jj WAR 3:549|dvdy WAR 3:799|dvdy WAR 3:800|dvdy WAR 3:801|dvdy WAR 3:802|dvdy WAR 3:805|dvdy WAR 3:806|dvdy WAR 3:807|dvdy WAR 3:808|dvdy WAR 3:811|dvdy WAR 3:812|dvdy WAR 3:813|dvdy WAR 3:814|dvdy WAR 3:816|dvdy WAR 3:817|dvdy WAR 3:818|dvdy WAR 3:820|dvdy WAR 3:821|dvdy WAR 3:822|dvdy WAR 3:824|dvdy WAR 3:825|dvdy WAR 3:826|dvdy WAR 3:828|dvdy WAR 3:829|dvdy WAR 3:830|dvdy WAR 3:832|dvdy WAR 3:833|dvdy WAR 3:834|dvdy WAR 3:836|dvdy WAR 3:837|dvdy WAR 3:838|dvdy WAR 3:840|dvdy WAR 3:841|dvdy WAR 3:842|dvdy WAR 3:844|dvdy WAR 3:845|dvdy WAR 3:846|dvdy WAR 3:1821|dvdy WAR 3:1831|dvdy WAR 3:1858|dvdy WAR 3:1868|dvdy WAR 3:1898|dvdy WAR 3:1899|dvdy WAR 3:2138|dvdy WAR 3:2167|dvdy INIT *|dvdy
+3:1023 NOM  RAW 3:616|pfx RAW 3:1001|dvdx RAW 3:1020|ii RAW 3:1021|jj WAR 3:799|dvdx WAR 3:800|dvdx WAR 3:801|dvdx WAR 3:802|dvdx WAR 3:805|dvdx WAR 3:806|dvdx WAR 3:807|dvdx WAR 3:808|dvdx WAR 3:811|dvdx WAR 3:812|dvdx WAR 3:813|dvdx WAR 3:814|dvdx WAR 3:816|dvdx WAR 3:817|dvdx WAR 3:818|dvdx WAR 3:820|dvdx WAR 3:821|dvdx WAR 3:822|dvdx WAR 3:824|dvdx WAR 3:825|dvdx WAR 3:826|dvdx WAR 3:828|dvdx WAR 3:829|dvdx WAR 3:830|dvdx WAR 3:832|dvdx WAR 3:833|dvdx WAR 3:834|dvdx WAR 3:836|dvdx WAR 3:837|dvdx WAR 3:838|dvdx WAR 3:840|dvdx WAR 3:841|dvdx WAR 3:842|dvdx WAR 3:844|dvdx WAR 3:845|dvdx WAR 3:846|dvdx WAR 3:1783|dvdx WAR 3:1793|dvdx WAR 3:1821|dvdx WAR 3:1831|dvdx WAR 3:1854|dvdx WAR 3:1858|dvdx WAR 3:1868|dvdx WAR 3:1897|dvdx WAR 3:1898|dvdx WAR 3:1899|dvdx WAR 3:2064|dvdx WAR 3:2077|dvdx WAR 3:2138|dvdx WAR 3:2157|dvdx WAR 3:2167|dvdx INIT *|dvdx
+3:1021 NOM  RAW 3:1010|i RAW 3:1020|ii WAR 3:486|jj WAR 3:1028|jj
+3:662 NOM  RAW 6:542|dvdx.addr RAW 6:552|dvdy.addr RAW 6:579|dvdz.addr
+3:2155 NOM  RAW 3:840|regElemList.addr RAW 3:2154|i199 RAW 6:507|regElemList.addr WAR 3:1341|ielem203 WAR 3:2159|ielem203 WAW 3:2155|ielem203
+3:661 NOM  RAW 3:236|z.addr RAW 3:260|z.addr RAW 3:262|z.addr RAW 3:263|z.addr RAW 3:264|z.addr RAW 3:265|z.addr RAW 3:266|z.addr
+3:2154 NOM  RAW 3:836|length.addr RAW 3:2154|i199 WAR 3:2154|i199 INIT *|i199
+3:660 NOM  RAW 3:234|y.addr RAW 3:251|y.addr RAW 3:253|y.addr RAW 3:254|y.addr RAW 3:255|y.addr RAW 3:256|y.addr RAW 3:257|y.addr
+3:659 NOM  RAW 3:242|x.addr RAW 3:244|x.addr RAW 3:245|x.addr RAW 3:246|x.addr RAW 3:247|x.addr RAW 3:248|x.addr RAW 6:579|x.addr
+3:658 NOM  RAW 6:542|dvdx.addr RAW 6:552|dvdy.addr RAW 6:579|dvdz.addr
+3:2151 NOM  RAW 3:836|length.addr RAW 3:840|regElemList.addr RAW 3:1297|pmin.addr RAW 3:1298|p_cut.addr RAW 3:1305|eosvmax.addr RAW 3:2193|pmin.addr RAW 3:2196|pmin.addr
+3:657 NOM  RAW 3:236|z.addr RAW 3:261|z.addr RAW 3:262|z.addr RAW 3:263|z.addr RAW 3:264|z.addr RAW 3:265|z.addr RAW 3:267|z.addr
+3:2150 NOM  RAW 3:832|vnewc.addr RAW 3:832|compression.addr RAW 3:1289|p_new.addr RAW 3:1290|e_new.addr RAW 3:1293|bvc.addr RAW 3:1294|pbvc.addr
+3:653 NOM  RAW 3:236|z.addr RAW 3:260|z.addr RAW 3:261|z.addr RAW 3:262|z.addr RAW 3:264|z.addr RAW 3:266|z.addr RAW 3:267|z.addr
+3:652 NOM  RAW 3:234|y.addr RAW 3:251|y.addr RAW 3:252|y.addr RAW 3:253|y.addr RAW 3:255|y.addr RAW 3:257|y.addr RAW 3:258|y.addr
+3:2145 NOM  RAW 3:1290|e_new.addr RAW 3:1302|emin.addr RAW 3:2117|i113 RAW 3:2138|e_new.addr RAW 3:2143|e_new.addr
+3:651 NOM  RAW 3:242|x.addr RAW 3:243|x.addr RAW 3:244|x.addr RAW 3:246|x.addr RAW 3:248|x.addr RAW 3:249|x.addr RAW 6:579|x.addr
+3:650 NOM  RAW 6:542|dvdx.addr RAW 6:552|dvdy.addr RAW 6:579|dvdz.addr
+3:2143 NOM  RAW 3:1290|e_new.addr RAW 3:2117|i113 WAR 3:2142|e_new.addr
+3:648 NOM  RAW 3:234|y.addr RAW 3:251|y.addr RAW 3:252|y.addr RAW 3:254|y.addr RAW 3:256|y.addr RAW 3:257|y.addr RAW 3:258|y.addr
+3:647 NOM  RAW 3:242|x.addr RAW 3:243|x.addr RAW 3:245|x.addr RAW 3:247|x.addr RAW 3:248|x.addr RAW 3:249|x.addr RAW 6:579|x.addr
+3:2140 NOM  RAW 3:836|delvc.addr RAW 3:1289|p_new.addr RAW 3:2033|p_new.addr RAW 3:2036|p_new.addr RAW 3:2117|i113 RAW 3:2123|q_tilde RAW 3:2135|q_tilde RAW 3:2246|delvc.addr
+3:611 NOM  WAR 3:486|dvdz.addr WAR 3:487|dvdz.addr WAR 3:1025|dvdz.addr
+6:728 NOM  RAW 6:710|dx RAW 6:711|dy RAW 6:712|dz RAW 6:723|remainder INIT *|myDom
+3:646 NOM  RAW 6:542|dvdx.addr RAW 6:552|dvdy.addr RAW 6:579|dvdz.addr
+3:2139 NOM  RAW 3:1291|q_new.addr RAW 3:2033|pHalfStep RAW 3:2036|pHalfStep RAW 3:2060|pHalfStep RAW 3:2080|q_new.addr RAW 3:2092|q_new.addr RAW 3:2117|i113
+3:645 NOM  RAW 3:236|z.addr RAW 3:260|z.addr RAW 3:262|z.addr RAW 3:263|z.addr RAW 3:264|z.addr RAW 3:265|z.addr RAW 3:266|z.addr
+3:2138 NOM  RAW 3:828|q_old.addr RAW 3:1290|e_new.addr RAW 3:1295|p_old.addr RAW 3:2103|e_new.addr RAW 3:2106|e_new.addr RAW 3:2117|i113 RAW 3:2189|p_old.addr RAW 3:2247|p_old.addr RAW 3:2248|q_old.addr WAR 3:2138|e_new.addr
+3:1315 NOM  RAW 3:840|z1.addr RAW 3:844|z3.addr WAR 3:686|dz31 WAR 3:1341|dz31 INIT *|dz31
+3:606 NOM  WAR 3:487|dvdy.addr WAR 3:488|dvdy.addr WAR 3:1024|dvdy.addr
+6:723 NOM  RAW 6:710|dx RAW 6:711|dy RAW 6:712|dz INIT *|remainder
+3:641 NOM  RAW 3:236|z.addr RAW 3:260|z.addr RAW 3:261|z.addr RAW 3:263|z.addr RAW 3:265|z.addr RAW 3:266|z.addr RAW 3:267|z.addr
+3:2132 NOM  RAW 3:2126|ssc124 WAR 3:2132|ssc124
+3:639 NOM  RAW 3:242|x.addr RAW 3:243|x.addr RAW 3:245|x.addr RAW 3:247|x.addr RAW 3:248|x.addr RAW 3:249|x.addr RAW 6:579|x.addr
+3:2130 NOM  WAR 3:2129|ssc124
+3:637 NOM  RAW 3:236|z.addr RAW 3:260|z.addr RAW 3:261|z.addr RAW 3:262|z.addr RAW 3:264|z.addr RAW 3:266|z.addr RAW 3:267|z.addr
+3:2129 NOM  RAW 3:2126|ssc124
+3:636 NOM  RAW 3:234|y.addr RAW 3:251|y.addr RAW 3:252|y.addr RAW 3:253|y.addr RAW 3:255|y.addr RAW 3:257|y.addr RAW 3:258|y.addr
+3:1325 NOM  RAW 3:824|x7.addr RAW 3:824|x5.addr WAR 3:697|dx57 WAR 3:1344|dx57 INIT *|dx57
+3:616 NOM  RAW 3:602|dvdx.addr WAR 3:616|dvdx.addr
+6:733 NOM  RAW 6:710|dx RAW 6:711|dy RAW 6:728|myDom INIT *|row.addr
+8:23 NOM  INIT *|c
+3:1321 NOM  RAW 3:824|x4.addr RAW 3:828|x3.addr WAR 3:699|dx43 WAR 3:1344|dx43 INIT *|dx43
+3:612 NOM  RAW 3:395|y2.addr RAW 3:398|x0.addr RAW 3:399|x1.addr
+6:729 NOM  RAW 6:710|dx RAW 6:711|dy RAW 6:712|dz RAW 6:723|remainder
+3:2105 NOM  RAW 3:1290|e_new.addr RAW 3:1299|e_cut.addr RAW 3:2101|i85 RAW 3:2103|e_new.addr
+6:724 NOM  RAW 6:723|remainder
+3:607 NOM  RAW 3:391|z0.addr RAW 3:398|x0.addr RAW 3:399|x1.addr
+3:635 NOM  RAW 3:242|x.addr RAW 3:243|x.addr RAW 3:244|x.addr RAW 3:246|x.addr RAW 3:248|x.addr RAW 3:249|x.addr RAW 6:579|x.addr
+3:1344 NOM  RAW 3:1293|dx70 RAW 3:1294|dy70 RAW 3:1295|dz70 RAW 3:1309|dx64 RAW 3:1310|dy64 RAW 3:1311|dz64 RAW 3:1321|dx43 RAW 3:1322|dy43 RAW 3:1323|dz43 RAW 3:1325|dx57 RAW 3:1326|dy57 RAW 3:1327|dz57
+3:2692 NOM  RAW 3:2678|myRank
+3:1199 NOM  RAW 3:1189|i RAW 3:1197|ydtmp RAW 3:1198|ydtmp RAW 6:167|domain.addr WAR 3:1197|call13
+3:1330 NOM  RAW 3:832|y1.addr RAW 3:836|y4.addr WAR 3:864|dy14 WAR 3:1347|dy14 INIT *|dy14
+6:593 NOM  RAW 6:350|this1
+3:1969 NOM  RAW 6:166|domain.addr
+3:2678 NOM  INIT *|myRank
+3:1028 NOM  RAW 3:260|z1 RAW 3:261|z1 RAW 3:262|z1 RAW 3:263|z1 RAW 3:264|z1 RAW 3:265|z1 RAW 3:266|z1 RAW 3:267|z1 RAW 3:1006|z8n RAW 3:1020|ii RAW 3:1021|jj WAR 3:549|z8n WAR 3:799|z8n WAR 3:800|z8n WAR 3:801|z8n WAR 3:802|z8n WAR 3:805|z8n WAR 3:806|z8n WAR 3:807|z8n WAR 3:808|z8n WAR 3:811|z8n WAR 3:812|z8n WAR 3:813|z8n WAR 3:814|z8n WAR 3:816|z8n WAR 3:817|z8n WAR 3:818|z8n WAR 3:820|z8n WAR 3:821|z8n WAR 3:822|z8n WAR 3:824|z8n WAR 3:825|z8n WAR 3:826|z8n WAR 3:828|z8n WAR 3:829|z8n WAR 3:830|z8n WAR 3:832|z8n WAR 3:833|z8n WAR 3:834|z8n WAR 3:836|z8n WAR 3:837|z8n WAR 3:838|z8n WAR 3:840|z8n WAR 3:841|z8n WAR 3:842|z8n WAR 3:844|z8n WAR 3:845|z8n WAR 3:846|z8n WAR 3:1821|z8n WAR 3:1831|z8n WAR 3:1898|z8n WAR 3:1899|z8n WAR 3:2025|z8n WAR 3:2064|z8n WAR 3:2077|z8n WAR 3:2157|z8n WAR 3:2167|z8n WAR 3:2190|z8n WAR 3:2191|z8n WAW 3:1709|z8n WAW 3:1745|z8n INIT *|z8n
+3:1812 NOM  RAW 3:1805|phixi RAW 3:1810|phixi RAW 3:1811|phixi WAR 3:1812|phixi
+5:397 NOM  RAW 6:36|this1
+3:319 NOM  RAW 3:297|x0 RAW 3:297|x1 RAW 3:298|x2 RAW 3:298|x3 RAW 3:299|x4 RAW 3:299|x5 RAW 3:300|x6 RAW 3:300|x7 WAR 3:342|fjxxi WAR 3:1341|fjxxi WAR 3:2150|fjxxi INIT *|fjxxi
+6:436 NOM  RAW 6:411|call15 RAW 6:436|i WAR 6:436|i INIT *|i
+3:1318 NOM  RAW 3:836|y2.addr RAW 3:840|y7.addr WAR 3:685|dy72 WAR 3:1341|dy72 INIT *|dy72
+3:307 NOM  RAW 3:260|z.addr RAW 3:261|z.addr RAW 3:342|z.addr RAW 3:770|z.addr RAW 3:1554|z.addr WAR 3:329|z0 WAR 3:329|z1 WAR 3:836|z1 WAR 3:840|z0 WAR 3:1347|z0 WAR 3:1347|z1 WAR 3:2154|z1 WAR 3:2155|z0
+5:385 NOM  RAW 6:25|this1
+3:656 NOM  RAW 3:234|y.addr RAW 3:252|y.addr RAW 3:253|y.addr RAW 3:254|y.addr RAW 3:255|y.addr RAW 3:256|y.addr RAW 3:258|y.addr
+8:67 NOM  INIT *|i
+3:1365 NOM  RAW 3:260|z.addr RAW 3:261|z.addr RAW 3:262|z.addr RAW 3:263|z.addr RAW 3:264|z.addr RAW 3:265|z.addr RAW 3:266|z.addr RAW 3:267|z.addr RAW 3:770|z.addr RAW 6:167|z.addr RAW 6:552|z.addr
+3:354 NOM  RAW 3:348|b.addr RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:486|b.addr WAR 3:1490|b.addr WAR 3:1751|b.addr WAW 3:354|b.addr INIT *|b.addr
+3:654 NOM  RAW 6:542|dvdx.addr RAW 6:552|dvdy.addr RAW 6:579|dvdz.addr
+3:1363 NOM  RAW 3:242|x.addr RAW 3:243|x.addr RAW 3:244|x.addr RAW 3:245|x.addr RAW 3:246|x.addr RAW 3:247|x.addr RAW 3:248|x.addr RAW 3:249|x.addr RAW 3:772|x.addr RAW 6:165|x.addr
+6:164 NOM  RAW 6:161|elemToNode RAW 6:162|lnode RAW 6:252|elemToNode RAW 6:253|elemToNode RAW 6:254|elemToNode RAW 6:255|elemToNode RAW 6:256|elemToNode RAW 6:257|elemToNode RAW 6:258|elemToNode RAW 6:259|elemToNode WAR 6:167|gnode INIT *|gnode
+3:1877 NOM  RAW 3:1854|norm RAW 3:1858|delvm RAW 3:1859|delvm WAR 3:1877|delvm
+6:501 NOM  RAW 6:499|i125 WAR 6:500|call136
+3:451 NOM  RAW 3:243|x.addr RAW 3:247|x.addr RAW 3:252|y.addr RAW 3:256|y.addr RAW 3:261|z.addr RAW 3:265|z.addr RAW 3:297|y.addr RAW 3:297|z.addr RAW 3:702|x.addr
+6:496 NOM  RAW 6:437|call120 RAW 6:495|r RAW 6:496|call120 WAR 6:496|call120
+6:151 NOM  INIT *|call91
+3:1147 NOM  RAW 3:935|call7 RAW 3:939|call7 RAW 3:943|call7 RAW 3:947|call7 RAW 3:951|call7 RAW 3:955|call7 RAW 3:959|call7 RAW 3:963|call7 RAW 3:1144|i RAW 6:167|domain.addr RAW 6:176|call8 WAR 3:1201|call10 WAW 6:111|call10
+3:1931 NOM  WAR 3:1619|ptiny
+3:438 NOM  RAW 3:244|x.addr RAW 3:245|x.addr RAW 3:253|y.addr RAW 3:254|y.addr RAW 3:262|z.addr RAW 3:263|z.addr RAW 3:297|y.addr RAW 3:297|z.addr RAW 3:702|x.addr
+3:1566 NOM  RAW 3:1463|D RAW 3:1511|k RAW 3:1766|domain.addr WAR 3:549|call66 WAR 3:817|call66 WAR 3:821|call66 WAR 3:825|call66 WAR 3:829|call66 WAR 3:833|call66 WAR 3:837|call66 WAR 3:841|call66 WAR 3:845|call66 WAR 3:855|call66 WAR 3:2025|call66 WAR 3:2077|call66 WAR 3:2138|call66 WAR 3:2167|call66 WAR 3:2190|call66 WAW 3:2249|call66
+3:1680 NOM  RAW 3:1203|call50 RAW 3:1626|n1 RAW 5:121|domain.addr WAR 3:299|zv1 WAR 3:1753|zv1
+3:2389 NOM  RAW 3:2387|r RAW 6:166|domain.addr WAR 3:1365|regElemList WAR 3:2401|regElemList
+3:263 NOM  RAW 3:236|nd3i RAW 3:340|domain.addr RAW 3:702|elemZ.addr RAW 3:768|elemZ.addr RAW 3:772|domain.addr RAW 3:1217|call45 RAW 3:1427|elemZ.addr RAW 6:232|call45 RAW 6:579|elemZ.addr WAR 3:308|elemZ.addr WAR 3:465|elemZ.addr WAR 3:557|elemZ.addr WAR 3:1028|elemZ.addr INIT *|elemZ.addr
+3:1410 NOM  RAW 3:1405|call26 RAW 3:1407|call26 WAR 3:1410|charLength WAW 3:1405|charLength
+6:34 NOM  INIT *|this1
+3:1311 NOM  RAW 3:302|z6.addr RAW 3:844|z4.addr WAR 3:687|dz64 WAR 3:1344|dz64 INIT *|dz64
+8:217 NOM  RAW 8:204|TotalAbsDiff RAW 8:217|agg.tmp72 INIT *|agg.tmp72
+3:266 NOM  RAW 3:239|nd6i RAW 3:340|domain.addr RAW 3:702|elemZ.addr RAW 3:768|elemZ.addr RAW 3:772|domain.addr RAW 3:1217|call51 RAW 3:1427|elemZ.addr RAW 6:232|call51 RAW 6:579|elemZ.addr WAR 3:310|elemZ.addr WAR 3:473|elemZ.addr WAR 3:557|elemZ.addr WAR 3:1028|elemZ.addr INIT *|elemZ.addr
+3:2393 NOM  RAW 3:2387|r RAW 6:166|domain.addr RAW 6:411|call68
+3:1684 NOM  RAW 3:1203|call54 RAW 3:1630|n5 RAW 5:121|domain.addr WAR 3:297|zv5 WAR 3:1753|zv5
+3:1313 NOM  RAW 3:828|x1.addr RAW 3:828|x3.addr WAR 3:687|dx31 WAR 3:1341|dx31 INIT *|dx31
+3:604 NOM  RAW 3:391|z0.addr RAW 3:393|y4.addr RAW 3:394|y3.addr
+3:2097 NOM  RAW 3:1291|q_new.addr RAW 3:2033|pHalfStep RAW 3:2036|pHalfStep RAW 3:2060|pHalfStep RAW 3:2076|i19 RAW 3:2080|q_new.addr RAW 3:2092|q_new.addr
+3:2539 NOM  WAR 3:2496|thread_num
+3:1046 NOM  RAW 3:999|numElem RAW 3:1663|domain.addr RAW 3:1665|hgcoef.addr RAW 6:77|call59
+3:337 NOM  RAW 3:319|fjxxi RAW 3:321|fjxze RAW 3:327|fjzxi RAW 3:329|fjzze WAR 3:376|cjyet WAR 3:954|cjyet WAR 3:1341|cjyet WAR 3:2191|cjyet
+3:262 NOM  RAW 3:235|nd2i RAW 3:340|domain.addr RAW 3:702|elemZ.addr RAW 3:768|elemZ.addr RAW 3:772|domain.addr RAW 3:1217|call43 RAW 3:1427|elemZ.addr RAW 6:232|call43 RAW 6:579|elemZ.addr WAR 3:308|elemZ.addr WAR 3:458|elemZ.addr WAR 3:557|elemZ.addr WAR 3:1028|elemZ.addr INIT *|elemZ.addr
+3:1755 NOM  RAW 3:1619|i RAW 3:1747|ax RAW 3:1748|ay RAW 3:1749|az RAW 3:1751|dxv RAW 3:1752|dyv RAW 3:1753|dzv RAW 5:121|domain.addr WAR 3:549|call282 WAR 3:799|call282 WAR 3:800|call282 WAR 3:801|call282 WAR 3:802|call282 WAR 3:805|call282 WAR 3:806|call282 WAR 3:807|call282 WAR 3:808|call282 WAR 3:811|call282 WAR 3:812|call282 WAR 3:813|call282 WAR 3:814|call282 WAR 3:816|call282 WAR 3:817|call282 WAR 3:818|call282 WAR 3:820|call282 WAR 3:821|call282 WAR 3:822|call282 WAR 3:824|call282 WAR 3:825|call282 WAR 3:826|call282 WAR 3:828|call282 WAR 3:829|call282 WAR 3:830|call282 WAR 3:832|call282 WAR 3:833|call282 WAR 3:834|call282 WAR 3:836|call282 WAR 3:837|call282 WAR 3:838|call282 WAR 3:840|call282 WAR 3:841|call282 WAR 3:842|call282 WAR 3:844|call282 WAR 3:845|call282 WAR 3:846|call282 WAR 3:1821|call282 WAR 3:1831|call282 WAR 3:1868|call282 WAR 3:1897|call282 WAR 3:1898|call282 WAR 3:1899|call282 WAR 3:2064|call282 WAR 3:2138|call282 WAR 3:2157|call282 WAR 3:2167|call282 WAR 3:2190|call282 WAW 3:1745|call282 WAW 3:2250|call282 INIT *|call282
+6:530 NOM  RAW 6:516|nidx RAW 6:530|nidx WAR 6:530|nidx
+3:413 NOM  RAW 3:399|areaZ RAW 3:412|normalZ2.addr RAW 3:430|normalZ2.addr WAR 3:413|normalZ2.addr
+6:184 NOM  RAW 6:59|this1 INIT *|scale
+3:1851 NOM  RAW 3:1766|monoq_max_slope RAW 3:1843|phieta RAW 3:1848|phieta RAW 3:1849|phieta RAW 3:1850|phieta WAR 3:1851|phieta
+3:358 NOM  RAW 3:336|cjyxi RAW 3:337|cjyet RAW 3:338|cjyze RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:487|b.addr WAR 3:1489|b.addr WAR 3:1701|b.addr INIT *|b.addr
+3:2560 NOM  RAW 3:2526|threads RAW 3:2560|i11 WAR 3:1083|i11 WAR 3:2560|i11
+3:1067 NOM  RAW 3:1064|numElem WAW 5:121|sigxx INIT *|sigxx
+3:1079 NOM  RAW 3:2476|domain.addr RAW 3:2547|domain.addr RAW 6:77|call9
+6:487 NOM  RAW 6:450|regionNum WAR 6:452|lastReg
+3:370 NOM  RAW 3:368|b.addr RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:488|b.addr WAR 3:1485|b.addr WAR 3:1914|b.addr WAW 3:370|b.addr INIT *|b.addr
+3:430 NOM  RAW 3:427|i RAW 3:691|pfz.addr WAR 3:370|pfz.addr WAR 3:371|pfz.addr WAR 3:372|pfz.addr WAR 3:373|pfz.addr WAW 3:370|pfz.addr WAW 3:371|pfz.addr WAW 3:372|pfz.addr WAW 3:373|pfz.addr
+3:1116 NOM  RAW 3:1115|i RAW 6:167|domain.addr WAR 3:1145|call1 INIT *|call1
+3:2534 NOM  WAR 3:2557|hydro_elem INIT *|hydro_elem
+6:524 NOM  RAW 6:69|this1
+3:407 NOM  RAW 3:398|areaY RAW 3:407|normalY1.addr RAW 3:408|normalY1.addr RAW 3:429|normalY1.addr WAR 3:407|normalY1.addr
+3:1118 NOM  RAW 3:1115|i RAW 6:167|domain.addr WAR 3:1147|call3 INIT *|call3
+3:1083 NOM  RAW 3:1064|numElem RAW 3:1083|k WAR 3:1083|k WAR 5:343|k INIT *|k
+3:955 NOM  RAW 3:557|call612 RAW 3:702|hgfz RAW 3:862|n5si2 RAW 3:959|call612 RAW 3:963|call612 RAW 6:579|domain.addr WAR 3:955|call612
+3:246 NOM  RAW 3:237|nd4i RAW 3:340|domain.addr RAW 3:342|elemX.addr RAW 3:770|elemX.addr RAW 3:772|domain.addr RAW 3:1215|call15 RAW 6:230|call15 RAW 6:552|elemX.addr WAR 3:299|elemX.addr WAR 3:472|elemX.addr WAR 3:555|elemX.addr WAR 3:1026|elemX.addr WAR 3:1554|elemX.addr INIT *|elemX.addr
+6:175 NOM  RAW 6:161|elemToNode RAW 6:174|j RAW 6:252|elemToNode RAW 6:253|elemToNode RAW 6:254|elemToNode RAW 6:255|elemToNode RAW 6:256|elemToNode RAW 6:257|elemToNode RAW 6:258|elemToNode RAW 6:259|elemToNode WAR 6:176|idx INIT *|idx
+3:1115 NOM  RAW 3:1106|numNode RAW 3:1115|i WAR 3:1115|i WAR 3:1217|i WAR 3:1365|i
+3:2533 NOM  RAW 3:2568|dthydro.addr RAW 3:2581|dthydro.addr WAR 3:2481|dthydro_tmp WAW 3:2464|dthydro_tmp
+3:406 NOM  RAW 3:398|areaY RAW 3:406|normalY0.addr RAW 3:408|normalY0.addr RAW 3:409|normalY0.addr RAW 3:429|normalY0.addr WAR 3:406|normalY0.addr
+3:1899 NOM  RAW 3:1634|domain.addr RAW 3:1709|call131 RAW 3:1719|call130 RAW 3:1772|ielem WAR 3:1701|delvxzeta WAR 3:1915|delvxzeta
+3:2688 NOM  INIT *|opts
+3:1195 NOM  RAW 3:1189|i RAW 3:1193|xdtmp RAW 3:1194|xdtmp RAW 6:167|domain.addr WAR 3:1193|call4
+3:487 NOM  RAW 3:297|fy.addr RAW 3:340|B.addr RAW 3:342|stress_yy.addr RAW 3:406|B.addr RAW 3:407|B.addr RAW 3:408|B.addr RAW 3:409|B.addr RAW 3:485|i WAR 3:556|fy.addr WAW 5:121|fy.addr INIT *|fy.addr
+6:257 NOM  RAW 6:247|nidx RAW 6:251|localNode RAW 6:261|nidx RAW 6:263|nidx RAW 6:265|nidx RAW 6:345|edgeNodes.addr INIT *|localNode
+3:488 NOM  RAW 3:297|fz.addr RAW 3:340|B.addr RAW 3:411|B.addr RAW 3:412|B.addr RAW 3:413|B.addr RAW 3:414|B.addr RAW 3:485|i RAW 3:691|stress_zz.addr WAR 3:307|fz.addr WAR 3:557|fz.addr WAR 3:2243|fz.addr WAR 3:2254|fz.addr WAR 5:45|fz.addr WAW 5:121|fz.addr INIT *|fz.addr
+3:409 NOM  RAW 3:398|areaY RAW 3:406|normalY3.addr RAW 3:407|normalY3.addr RAW 3:408|normalY3.addr RAW 3:409|normalY3.addr RAW 3:429|normalY3.addr WAR 3:409|normalY3.addr
+3:1902 NOM  RAW 3:1898|delvxeta WAR 3:1902|delvxeta
+3:554 NOM  RAW 3:524|elemToNode RAW 3:553|lnode RAW 6:252|elemToNode RAW 6:253|elemToNode RAW 6:254|elemToNode RAW 6:255|elemToNode RAW 6:256|elemToNode RAW 6:257|elemToNode RAW 6:258|elemToNode RAW 6:259|elemToNode WAR 3:557|gnode INIT *|gnode
+3:555 NOM  RAW 3:486|fx_local RAW 3:553|lnode RAW 3:554|gnode RAW 3:555|call57 RAW 3:1116|call57 RAW 3:1665|domain.addr WAR 3:555|call57
+5:248 NOM  WAW 5:121|this1 INIT *|this1
+3:1663 NOM  RAW 3:1195|call35 RAW 3:1627|n2 RAW 5:121|domain.addr WAR 3:1751|xv2 WAW 3:353|xv2
+3:954 NOM  RAW 3:556|call609 RAW 3:691|hgfy RAW 3:862|n5si2 RAW 3:958|call609 RAW 3:962|call609 RAW 6:579|domain.addr WAR 3:954|call609
+3:245 NOM  RAW 3:236|nd3i RAW 3:340|domain.addr RAW 3:342|elemX.addr RAW 3:770|elemX.addr RAW 3:772|domain.addr RAW 3:1215|call13 RAW 6:230|call13 RAW 6:552|elemX.addr WAR 3:298|elemX.addr WAR 3:465|elemX.addr WAR 3:555|elemX.addr WAR 3:1026|elemX.addr INIT *|elemX.addr
+3:963 NOM  RAW 3:557|call630 RAW 3:702|hgfz RAW 3:864|n7si2 RAW 3:959|call630 RAW 6:579|domain.addr WAR 3:963|call630
+3:179 NOM  RAW 3:2508|call9 WAR 3:178|gnewdt
+3:1672 NOM  RAW 3:1199|call43 RAW 3:1627|n2 RAW 5:121|domain.addr WAR 3:1752|yv2 WAW 3:1499|yv2
+3:1747 NOM  RAW 3:1689|norm RAW 3:1741|ax WAR 3:1747|ax
+5:332 NOM  RAW 5:224|this1
+3:254 NOM  RAW 3:236|nd3i RAW 3:340|domain.addr RAW 3:691|elemY.addr RAW 3:769|elemY.addr RAW 3:772|domain.addr RAW 3:1216|call29 RAW 6:231|call29 RAW 6:579|elemY.addr WAR 3:303|elemY.addr WAR 3:465|elemY.addr WAR 3:556|elemY.addr WAR 3:1027|elemY.addr INIT *|elemY.addr
+3:376 NOM  RAW 3:320|fjxet RAW 3:324|fjyet RAW 3:328|fjzet RAW 3:333|cjxet RAW 3:337|cjyet RAW 3:341|cjzet RAW 3:702|volume.addr RAW 3:1427|volume.addr WAR 3:805|volume.addr WAR 3:806|volume.addr WAR 3:807|volume.addr WAR 3:808|volume.addr WAR 3:811|volume.addr WAR 3:812|volume.addr WAR 3:813|volume.addr WAR 3:814|volume.addr WAR 3:816|volume.addr WAR 3:817|volume.addr WAR 3:820|volume.addr WAR 3:821|volume.addr WAR 3:824|volume.addr WAR 3:825|volume.addr WAR 3:828|volume.addr WAR 3:829|volume.addr WAR 3:832|volume.addr WAR 3:833|volume.addr WAR 3:836|volume.addr WAR 3:837|volume.addr WAR 3:840|volume.addr WAR 3:841|volume.addr WAR 3:844|volume.addr WAR 3:845|volume.addr WAR 3:855|volume.addr WAR 3:1783|volume.addr WAR 3:1793|volume.addr WAR 3:1821|volume.addr WAR 3:1831|volume.addr WAR 3:1854|volume.addr WAR 3:1858|volume.addr WAR 3:1868|volume.addr WAR 3:1897|volume.addr WAR 3:1898|volume.addr WAR 3:1899|volume.addr WAR 3:2025|volume.addr WAR 3:2064|volume.addr WAR 3:2077|volume.addr WAR 3:2138|volume.addr WAR 3:2157|volume.addr WAR 3:2167|volume.addr WAR 3:2190|volume.addr WAR 3:2302|volume.addr WAW 3:1521|volume.addr WAW 3:1709|volume.addr WAW 3:1745|volume.addr WAW 3:2249|volume.addr WAW 3:2250|volume.addr INIT *|volume.addr
+3:945 NOM  RAW 3:555|call588 RAW 3:680|hgfx RAW 3:860|n3si2 RAW 3:941|call588 RAW 3:949|call588 RAW 3:961|call588 RAW 6:579|domain.addr WAR 3:945|call588
+3:1654 NOM  RAW 3:1217|call27 RAW 3:1627|n2 RAW 5:121|domain.addr WAR 3:1701|z2 WAW 3:362|z2
+6:353 NOM  RAW 6:59|this1 RAW 6:68|this1 INIT *|this1
+3:1729 NOM  RAW 3:1689|norm RAW 3:1723|ax WAR 3:1729|ax
+3:236 NOM  RAW 3:341|elemToNode.addr RAW 3:771|elemToNode.addr RAW 6:255|elemToNode.addr RAW 6:542|elemToNode.addr WAR 3:488|nd3i WAR 3:661|nd3i WAR 3:808|nd3i WAR 3:836|nd3i WAR 3:955|nd3i WAR 3:1493|nd3i WAR 6:578|nd3i INIT *|nd3i
+3:1661 NOM  RAW 3:1195|call33 RAW 3:1625|n0 RAW 5:121|domain.addr WAR 3:1751|xv0 WAW 3:355|xv0
+3:957 NOM  RAW 3:555|call615 RAW 3:680|hgfx RAW 3:863|n6si2 RAW 6:579|domain.addr WAR 3:957|call615
+3:248 NOM  RAW 3:239|nd6i RAW 3:340|domain.addr RAW 3:342|elemX.addr RAW 3:770|elemX.addr RAW 3:772|domain.addr RAW 3:1215|call19 RAW 6:230|call19 RAW 6:552|elemX.addr WAR 3:300|elemX.addr WAR 3:473|elemX.addr WAR 3:555|elemX.addr WAR 3:1026|elemX.addr WAR 3:1543|elemX.addr INIT *|elemX.addr
+3:1741 NOM  RAW 3:1696|dyi RAW 3:1697|dzi RAW 3:1700|dyk RAW 3:1701|dzk WAR 3:1737|ax
+3:323 NOM  RAW 3:302|y0 RAW 3:302|y1 RAW 3:303|y2 RAW 3:303|y3 RAW 3:304|y4 RAW 3:304|y5 RAW 3:305|y6 RAW 3:305|y7 WAR 3:342|fjyxi WAR 3:961|fjyxi WAR 3:1333|fjyxi WAR 3:1341|fjyxi
+3:257 NOM  RAW 3:239|nd6i RAW 3:340|domain.addr RAW 3:691|elemY.addr RAW 3:769|elemY.addr RAW 3:772|domain.addr RAW 3:1216|call35 RAW 6:231|call35 RAW 6:579|elemY.addr WAR 3:305|elemY.addr WAR 3:473|elemY.addr WAR 3:556|elemY.addr WAR 3:1027|elemY.addr INIT *|elemY.addr
+3:261 NOM  RAW 3:234|nd1i RAW 3:340|domain.addr RAW 3:702|elemZ.addr RAW 3:768|elemZ.addr RAW 3:772|domain.addr RAW 3:1217|call41 RAW 3:1427|elemZ.addr RAW 6:232|call41 RAW 6:579|elemZ.addr WAR 3:307|elemZ.addr WAR 3:451|elemZ.addr WAR 3:557|elemZ.addr WAR 3:1028|elemZ.addr INIT *|elemZ.addr
+3:1679 NOM  RAW 3:1203|call49 RAW 3:1625|n0 RAW 5:121|domain.addr WAR 3:299|zv0 WAR 3:1753|zv0
+3:2388 NOM  RAW 3:2387|r RAW 6:166|domain.addr RAW 6:501|call66 RAW 6:506|call66 WAR 3:1365|numElemReg WAR 3:2401|numElemReg
+3:602 NOM  WAR 3:488|dvdx.addr WAR 3:554|dvdx.addr WAR 3:1023|dvdx.addr WAR 3:2259|dvdx.addr INIT *|dvdx.addr
+3:2095 NOM  RAW 3:836|delvc.addr RAW 3:1290|e_new.addr RAW 3:2064|e_new.addr RAW 3:2076|i19 RAW 3:2246|delvc.addr WAR 3:2095|e_new.addr
+3:677 NOM  RAW 3:673|i RAW 3:840|hourgam.addr RAW 3:844|hourgam.addr RAW 3:872|xd.addr RAW 3:873|xd.addr
+8:88 NOM  RAW 8:87|ok
+3:1386 NOM  RAW 3:1381|gx RAW 3:1382|gy RAW 3:1383|gz
+3:1084 NOM  RAW 3:376|determ RAW 3:1070|determ RAW 3:1083|k
+3:631 NOM  RAW 3:243|x.addr RAW 3:244|x.addr RAW 3:245|x.addr RAW 3:246|x.addr RAW 3:247|x.addr RAW 3:249|x.addr RAW 6:579|x.addr
+3:633 NOM  RAW 3:236|z.addr RAW 3:261|z.addr RAW 3:262|z.addr RAW 3:263|z.addr RAW 3:264|z.addr RAW 3:265|z.addr RAW 3:267|z.addr
+3:2126 NOM  RAW 3:1290|e_new.addr RAW 3:1294|pbvc.addr RAW 3:2026|pbvc.addr RAW 3:2103|e_new.addr RAW 3:2106|e_new.addr RAW 3:2117|i113 WAR 3:1341|ssc124 WAR 3:2135|ssc124
+3:1670 NOM  RAW 3:1199|call41 RAW 3:1625|n0 RAW 5:121|domain.addr WAR 3:1752|yv0 WAW 3:1497|yv0
+3:961 NOM  RAW 3:555|call624 RAW 3:680|hgfx RAW 3:864|n7si2 RAW 3:957|call624 RAW 6:579|domain.addr WAR 3:961|call624
+3:178 NOM  RAW 3:176|gnewdt RAW 3:2508|call6 RAW 3:2580|call6
+3:1671 NOM  RAW 3:1199|call42 RAW 3:1626|n1 RAW 5:121|domain.addr WAR 3:1752|yv1 WAW 3:1498|yv1
+3:253 NOM  RAW 3:235|nd2i RAW 3:340|domain.addr RAW 3:691|elemY.addr RAW 3:769|elemY.addr RAW 3:772|domain.addr RAW 3:1216|call27 RAW 6:231|call27 RAW 6:579|elemY.addr WAR 3:303|elemY.addr WAR 3:458|elemY.addr WAR 3:556|elemY.addr WAR 3:1027|elemY.addr INIT *|elemY.addr
+6:22 NOM  INIT *|this1
+3:962 NOM  RAW 3:556|call627 RAW 3:691|hgfy RAW 3:864|n7si2 RAW 3:958|call627 RAW 6:579|domain.addr WAR 3:962|call627
+3:2087 NOM  WAR 3:2086|ssc
+6:711 NOM  RAW 6:684|testProcs INIT *|dy
+3:942 NOM  RAW 3:556|call582 RAW 3:691|hgfy RAW 3:859|n2si2 RAW 3:950|call582 RAW 3:954|call582 RAW 3:958|call582 RAW 3:962|call582 RAW 6:579|domain.addr WAR 3:942|call582
+6:350 NOM  RAW 6:69|this1 INIT *|this1
+3:233 NOM  RAW 3:341|elemToNode.addr RAW 3:771|elemToNode.addr RAW 6:252|elemToNode.addr RAW 6:542|elemToNode.addr WAR 3:260|nd0i WAW 6:579|nd0i INIT *|nd0i
+3:1673 NOM  RAW 3:1199|call44 RAW 3:1628|n3 RAW 5:121|domain.addr WAR 3:1566|yv3 WAR 3:1752|yv3
+5:333 NOM  RAW 5:225|this1
+3:1748 NOM  RAW 3:1689|norm RAW 3:1742|ay WAR 3:1748|ay
+3:255 NOM  RAW 3:237|nd4i RAW 3:340|domain.addr RAW 3:691|elemY.addr RAW 3:769|elemY.addr RAW 3:772|domain.addr RAW 3:1216|call31 RAW 6:231|call31 RAW 6:579|elemY.addr WAR 3:304|elemY.addr WAR 3:472|elemY.addr WAR 3:556|elemY.addr WAR 3:1027|elemY.addr INIT *|elemY.addr
+3:1000 NOM  RAW 3:999|numElem WAR 3:549|numElem8 INIT *|numElem8
+3:216 NOM  RAW 3:169|targetdt WAR 3:215|call52
+3:1709 NOM  RAW 3:1619|i RAW 3:1688|vol RAW 3:1705|ax RAW 3:1706|ay RAW 3:1707|az RAW 5:121|domain.addr WAR 3:1898|call147 WAW 3:1595|call147 WAW 3:1745|call147
+6:60 NOM  RAW 6:711|numRanks.addr INIT *|this1
+6:25 NOM  INIT *|this1
+3:1674 NOM  RAW 3:1199|call45 RAW 3:1629|n4 RAW 5:121|domain.addr WAR 3:1565|yv4 WAR 3:1752|yv4
+3:181 NOM  RAW 3:176|gnewdt RAW 3:179|gnewdt RAW 3:2568|call10 RAW 3:2581|call10
+3:171 NOM  RAW 3:221|call3 RAW 6:146|call2 RAW 6:156|call3
+3:1664 NOM  RAW 3:1195|call36 RAW 3:1628|n3 RAW 5:121|domain.addr WAR 3:1751|xv3 WAW 3:352|xv3
+5:249 NOM  WAW 5:121|this1 INIT *|this1
+6:172 NOM  RAW 6:159|i102 RAW 6:171|volume INIT *|call133
+3:1676 NOM  RAW 3:1199|call47 RAW 3:1631|n6 RAW 5:121|domain.addr WAR 3:300|yv6 WAR 3:1752|yv6
+3:1677 NOM  RAW 3:1199|call48 RAW 3:1632|n7 RAW 5:121|domain.addr WAR 3:300|yv7 WAR 3:1752|yv7
+3:264 NOM  RAW 3:237|nd4i RAW 3:340|domain.addr RAW 3:702|elemZ.addr RAW 3:768|elemZ.addr RAW 3:772|domain.addr RAW 3:1217|call47 RAW 3:1427|elemZ.addr RAW 6:232|call47 RAW 6:579|elemZ.addr WAR 3:309|elemZ.addr WAR 3:472|elemZ.addr WAR 3:557|elemZ.addr WAR 3:1028|elemZ.addr INIT *|elemZ.addr
+3:1685 NOM  RAW 3:1203|call55 RAW 3:1631|n6 RAW 5:121|domain.addr WAR 3:305|zv6 WAR 3:1753|zv6
+3:267 NOM  RAW 3:240|nd7i RAW 3:340|domain.addr RAW 3:702|elemZ.addr RAW 3:768|elemZ.addr RAW 3:772|domain.addr RAW 3:1217|call53 RAW 3:1427|elemZ.addr RAW 6:232|call53 RAW 6:579|elemZ.addr WAR 3:310|elemZ.addr WAR 3:472|elemZ.addr WAR 3:557|elemZ.addr WAR 3:1028|elemZ.addr INIT *|elemZ.addr
+6:152 NOM  INIT *|call93
+3:1528 NOM  RAW 3:1525|elemToNode RAW 3:1766|domain.addr
+5:113 NOM  RAW 3:824|size.addr RAW 3:1511|size.addr RAW 3:1663|size.addr RAW 3:1667|size.addr RAW 3:1898|size.addr
+3:2400 NOM  RAW 6:57|call79 RAW 6:166|domain.addr WAR 3:2401|rep
+3:535 NOM  RAW 3:522|k RAW 3:1670|determ.addr
+3:1691 NOM  RAW 3:1634|x0 RAW 3:1635|x1 RAW 3:1636|x2 RAW 3:1637|x3 RAW 3:1638|x4 RAW 3:1639|x5 RAW 3:1640|x6 RAW 3:1641|x7 WAR 3:303|dxj WAR 3:1725|dxj
+3:198 NOM  RAW 3:193|ratio RAW 6:151|call22
+3:2401 NOM  RAW 3:2337|vnewc RAW 3:2388|numElemReg RAW 3:2389|regElemList RAW 3:2394|rep RAW 3:2397|rep RAW 3:2400|rep RAW 6:166|domain.addr
+3:1692 NOM  RAW 3:1643|y0 RAW 3:1644|y1 RAW 3:1645|y2 RAW 3:1646|y3 RAW 3:1647|y4 RAW 3:1648|y5 RAW 3:1649|y6 RAW 3:1650|y7 WAR 3:303|dyj WAR 3:1725|dyj
+3:199 NOM  RAW 3:173|olddt RAW 6:151|call25 WAR 3:193|newdt
+3:203 NOM  RAW 3:190|newdt RAW 3:196|newdt RAW 3:199|newdt RAW 6:154|call30
+3:1696 NOM  RAW 3:1643|y0 RAW 3:1644|y1 RAW 3:1645|y2 RAW 3:1646|y3 RAW 3:1647|y4 RAW 3:1648|y5 RAW 3:1649|y6 RAW 3:1650|y7 WAR 3:310|dyi WAR 3:1743|dyi
+5:281 NOM  RAW 3:2560|idx.addr
+6:204 NOM  RAW 6:204|i RAW 6:411|call WAR 6:204|i INIT *|i
+6:552 NOM  RAW 6:75|call27 RAW 6:552|i25 WAR 6:528|i25 WAR 6:552|i25
+3:435 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+3:349 NOM  RAW 3:332|cjxxi RAW 3:333|cjxet RAW 3:334|cjxze RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:486|b.addr WAR 3:1479|b.addr WAR 3:1561|b.addr WAW 5:121|b.addr INIT *|b.addr
+3:1767 NOM  RAW 3:1634|domain.addr WAR 3:1699|qlc_monoq WAR 3:1907|qlc_monoq
+3:2476 NOM  RAW 3:2475|i RAW 6:507|regElemlist.addr WAR 3:1093|indx WAR 3:2488|indx WAR 3:2491|indx WAR 3:2549|indx INIT *|indx
+3:1700 NOM  RAW 3:1643|y0 RAW 3:1644|y1 RAW 3:1645|y2 RAW 3:1646|y3 RAW 3:1647|y4 RAW 3:1648|y5 RAW 3:1649|y6 RAW 3:1650|y7 WAR 3:309|dyk WAR 3:1743|dyk
+3:1707 NOM  RAW 3:1691|dxj RAW 3:1692|dyj RAW 3:1695|dxi RAW 3:1696|dyi WAR 3:1755|az INIT *|az
+3:2416 NOM  RAW 3:1994|length.addr RAW 3:2416|i WAR 3:2370|i WAR 3:2416|i
+3:1697 NOM  RAW 3:1652|z0 RAW 3:1653|z1 RAW 3:1654|z2 RAW 3:1655|z3 RAW 3:1656|z4 RAW 3:1657|z5 RAW 3:1658|z6 RAW 3:1659|z7 WAR 3:310|dzi WAR 3:1742|dzi
+5:282 NOM  RAW 3:2560|idx.addr
+3:1716 NOM  RAW 3:1670|yv0 RAW 3:1671|yv1 RAW 3:1672|yv2 RAW 3:1673|yv3 RAW 3:1674|yv4 RAW 3:1675|yv5 RAW 3:1676|yv6 RAW 3:1677|yv7 WAR 3:1755|dyv INIT *|dyv
+3:1791 NOM  RAW 3:1775|bcMask
+3:298 NOM  RAW 3:244|x.addr RAW 3:245|x.addr RAW 3:340|x.addr RAW 3:772|x.addr RAW 3:1552|x.addr WAR 3:265|x2 WAR 3:267|x3
+3:369 NOM  RAW 3:340|cjzxi RAW 3:341|cjzet RAW 3:342|cjzze RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:488|b.addr WAR 3:1484|b.addr WAR 3:1496|b.addr WAR 3:1915|b.addr INIT *|b.addr
+3:1078 NOM  RAW 3:1064|numElem RAW 3:1067|sigxx RAW 3:1068|sigyy RAW 3:1069|sigzz RAW 3:1070|determ
+3:1003 NOM  RAW 3:1000|numElem8 WAR 3:535|dvdz INIT *|dvdz
+3:2496 NOM  RAW 3:2465|dtcourant_tmp RAW 3:2471|thread_num RAW 3:2490|dtcourant_tmp WAR 3:2568|dtcourant_per_thread WAW 3:2556|dtcourant_per_thread INIT *|dtcourant_per_thread
+3:299 NOM  RAW 3:246|x.addr RAW 3:247|x.addr RAW 3:340|x.addr RAW 3:772|x.addr RAW 3:1552|x.addr WAR 3:321|x4 WAR 3:321|x5 WAR 3:820|x5 WAR 3:824|x4 WAR 3:939|x5 WAR 3:943|x4 WAR 3:1498|x4 WAR 3:1498|x5 INIT *|x4 INIT *|x5
+6:68 NOM  RAW 6:712|colLoc.addr INIT *|this1
+3:1717 NOM  RAW 3:1679|zv0 RAW 3:1680|zv1 RAW 3:1681|zv2 RAW 3:1682|zv3 RAW 3:1683|zv4 RAW 3:1684|zv5 RAW 3:1685|zv6 RAW 3:1686|zv7 WAR 3:1755|dzv INIT *|dzv
+5:302 NOM  RAW 6:413|this1 RAW 6:500|this1
+3:456 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+3:2583 NOM  RAW 3:2583|r RAW 6:411|call2 WAR 3:2442|r WAR 3:2583|r INIT *|r
+6:225 NOM  RAW 6:225|plane RAW 6:345|edgeNodes.addr WAR 6:225|plane INIT *|plane
+3:1725 NOM  RAW 3:1691|dxj RAW 3:1692|dyj RAW 3:1699|dxk RAW 3:1700|dyk WAR 3:1719|az
+5:319 NOM  RAW 5:247|this1
+3:1734 NOM  RAW 3:1670|yv0 RAW 3:1671|yv1 RAW 3:1672|yv2 RAW 3:1673|yv3 RAW 3:1674|yv4 RAW 3:1675|yv5 RAW 3:1676|yv6 RAW 3:1677|yv7 WAR 3:1719|dyv
+3:1025 NOM  RAW 3:618|pfz RAW 3:1003|dvdz RAW 3:1020|ii RAW 3:1021|jj WAR 3:799|dvdz WAR 3:800|dvdz WAR 3:801|dvdz WAR 3:802|dvdz WAR 3:805|dvdz WAR 3:806|dvdz WAR 3:807|dvdz WAR 3:808|dvdz WAR 3:811|dvdz WAR 3:812|dvdz WAR 3:813|dvdz WAR 3:814|dvdz WAR 3:816|dvdz WAR 3:817|dvdz WAR 3:818|dvdz WAR 3:820|dvdz WAR 3:821|dvdz WAR 3:822|dvdz WAR 3:824|dvdz WAR 3:825|dvdz WAR 3:826|dvdz WAR 3:828|dvdz WAR 3:829|dvdz WAR 3:830|dvdz WAR 3:832|dvdz WAR 3:833|dvdz WAR 3:834|dvdz WAR 3:836|dvdz WAR 3:837|dvdz WAR 3:838|dvdz WAR 3:840|dvdz WAR 3:841|dvdz WAR 3:842|dvdz WAR 3:844|dvdz WAR 3:845|dvdz WAR 3:846|dvdz WAR 3:1858|dvdz INIT *|dvdz
+3:1648 NOM  RAW 3:1216|call22 RAW 3:1630|n5 RAW 5:121|domain.addr WAR 3:1495|y5 WAR 3:1700|y5
+3:1675 NOM  RAW 3:1199|call46 RAW 3:1630|n5 RAW 5:121|domain.addr WAR 3:1564|yv5 WAR 3:1752|yv5
+3:182 NOM  RAW 3:2568|call13 WAR 3:181|gnewdt
+3:1638 NOM  RAW 3:1215|call13 RAW 3:1629|n4 RAW 5:121|domain.addr WAR 3:1566|x4 WAR 3:1699|x4 INIT *|x4
+3:1653 NOM  RAW 3:1217|call26 RAW 3:1626|n1 RAW 5:121|domain.addr WAR 3:1701|z1 WAW 3:363|z1
+5:386 NOM  RAW 6:27|this1
+3:308 NOM  RAW 3:262|z.addr RAW 3:263|z.addr RAW 3:342|z.addr RAW 3:770|z.addr RAW 3:1554|z.addr WAR 3:329|z2 WAR 3:329|z3 WAR 3:828|z3 WAR 3:832|z2 WAR 3:1344|z3 WAR 3:1347|z2 WAR 3:2167|z2 WAR 3:2167|z3
+3:1656 NOM  RAW 3:1217|call29 RAW 3:1629|n4 RAW 5:121|domain.addr WAR 3:1491|z4 WAR 3:1701|z4
+3:947 NOM  RAW 3:557|call594 RAW 3:702|hgfz RAW 3:860|n3si2 RAW 3:943|call594 RAW 3:951|call594 RAW 3:963|call594 RAW 6:579|domain.addr WAR 3:947|call594
+3:1665 NOM  RAW 3:1195|call37 RAW 3:1629|n4 RAW 5:121|domain.addr WAR 3:1481|xv4 WAR 3:1751|xv4
+3:247 NOM  RAW 3:238|nd5i RAW 3:340|domain.addr RAW 3:342|elemX.addr RAW 3:770|elemX.addr RAW 3:772|domain.addr RAW 3:1215|call17 RAW 6:230|call17 RAW 6:552|elemX.addr WAR 3:299|elemX.addr WAR 3:473|elemX.addr WAR 3:555|elemX.addr WAR 3:1026|elemX.addr WAR 3:1546|elemX.addr INIT *|elemX.addr
+3:332 NOM  RAW 3:324|fjyet RAW 3:325|fjyze RAW 3:328|fjzet RAW 3:329|fjzze WAR 3:351|cjxxi WAR 3:937|cjxxi WAR 3:1344|cjxxi WAR 3:2191|cjxxi
+3:1695 NOM  RAW 3:1634|x0 RAW 3:1635|x1 RAW 3:1636|x2 RAW 3:1637|x3 RAW 3:1638|x4 RAW 3:1639|x5 RAW 3:1640|x6 RAW 3:1641|x7 WAR 3:302|dxi WAR 3:1743|dxi
+3:190 NOM  RAW 3:176|gnewdt RAW 3:179|gnewdt RAW 3:182|gnewdt WAR 3:206|newdt WAR 6:734|newdt
+3:1683 NOM  RAW 3:1203|call53 RAW 3:1629|n4 RAW 5:121|domain.addr WAR 3:297|zv4 WAR 3:1753|zv4
+5:268 NOM  RAW 3:1631|idx.addr
+3:1988 NOM  RAW 6:166|domain.addr
+3:1117 NOM  RAW 3:1115|i RAW 6:167|domain.addr WAR 3:1146|call2 INIT *|call2
+3:1936 NOM  RAW 3:1936|r RAW 5:121|domain.addr RAW 6:411|call WAR 3:1936|r INIT *|r
+3:443 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+3:1765 NOM  RAW 3:1634|domain.addr WAR 3:1699|monoq_limiter_mult WAR 3:1883|monoq_limiter_mult
+6:153 NOM  INIT *|call95
+6:392 NOM  RAW 6:69|this1
+3:1768 NOM  RAW 3:1634|domain.addr WAR 3:1699|qqc_monoq WAR 3:1912|qqc_monoq
+3:2477 NOM  RAW 3:2198|call RAW 3:2198|call2 RAW 3:2476|indx WAR 3:2489|dtf WAR 3:2490|dtf WAW 3:2486|dtf INIT *|dtf
+3:1843 NOM  RAW 3:1840|delvm RAW 3:1841|delvp WAR 3:1700|phieta WAR 3:1851|phieta WAR 3:1914|phieta WAW 3:1851|phieta
+3:350 NOM  RAW 3:332|cjxxi RAW 3:333|cjxet RAW 3:334|cjxze RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:486|b.addr WAR 3:1006|b.addr WAR 3:1480|b.addr WAR 3:1488|b.addr INIT *|b.addr
+3:2122 NOM  RAW 3:836|delvc.addr RAW 3:2117|i113 RAW 3:2246|delvc.addr
+3:796 NOM  RAW 3:796|i1 WAR 3:796|i1 INIT *|i1
+3:2289 NOM  RAW 3:2231|p_new RAW 3:2232|e_new RAW 3:2233|q_new RAW 3:2234|bvc RAW 3:2235|pbvc
+3:1146 NOM  RAW 3:934|call3 RAW 3:938|call3 RAW 3:942|call3 RAW 3:946|call3 RAW 3:950|call3 RAW 3:954|call3 RAW 3:958|call3 RAW 3:962|call3 RAW 3:1144|i RAW 6:167|domain.addr RAW 6:176|call4 WAR 3:1197|call6 WAW 6:110|call6
+5:283 NOM  RAW 3:2560|idx.addr
+3:2157 NOM  RAW 3:836|delvc.addr RAW 3:2154|i199 RAW 3:2246|delvc.addr
+3:2158 NOM  RAW 3:1290|e_new.addr RAW 3:1294|pbvc.addr RAW 3:2026|pbvc.addr RAW 3:2138|e_new.addr RAW 3:2143|e_new.addr RAW 3:2154|i199 WAR 3:1341|ssc210 WAR 3:2167|ssc210
+6:615 NOM  RAW 6:613|i51 WAR 6:450|rowInc WAR 6:626|rowInc
+3:1991 NOM  RAW 6:166|domain.addr
+3:2700 NOM  RAW 3:2677|numRanks RAW 8:24|opts
+3:2302 NOM  RAW 3:1668|domain.addr RAW 3:2080|q_new RAW 3:2167|q_new RAW 3:2169|q_new RAW 3:2233|q_new RAW 3:2298|i136 RAW 3:2299|ielem140 WAR 3:2248|call151
+6:130 NOM  RAW 6:56|edgeNodes
+8:208 NOM  RAW 3:169|locDom.addr RAW 3:2301|call54 RAW 8:201|j RAW 8:202|k RAW 8:203|AbsDiff WAR 6:114|RelDiff WAR 8:210|RelDiff
+3:1302 NOM  RAW 3:832|y0.addr RAW 3:836|y2.addr WAR 3:676|dy20 WAR 3:1341|dy20 INIT *|dy20
+3:1752 NOM  RAW 3:1670|yv0 RAW 3:1671|yv1 RAW 3:1672|yv2 RAW 3:1673|yv3 RAW 3:1674|yv4 RAW 3:1675|yv5 RAW 3:1676|yv6 RAW 3:1677|yv7 WAR 3:1737|dyv
+3:334 NOM  RAW 3:323|fjyxi RAW 3:324|fjyet RAW 3:327|fjzxi RAW 3:328|fjzet WAR 3:351|cjxze WAR 3:962|cjxze WAR 3:1341|cjxze WAR 3:2191|cjxze
+3:2089 NOM  RAW 3:2083|ssc WAR 3:2089|ssc
+3:2581 NOM  WAR 3:181|call1 WAR 3:182|call1 WAW 6:153|call1
+3:454 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+3:1915 NOM  RAW 3:1880|phizeta RAW 3:1885|phizeta RAW 3:1886|phizeta RAW 3:1887|phizeta RAW 3:1899|delvxzeta RAW 3:1903|delvxzeta
+3:265 NOM  RAW 3:238|nd5i RAW 3:340|domain.addr RAW 3:702|elemZ.addr RAW 3:768|elemZ.addr RAW 3:772|domain.addr RAW 3:1217|call49 RAW 3:1427|elemZ.addr RAW 6:232|call49 RAW 6:579|elemZ.addr WAR 3:309|elemZ.addr WAR 3:473|elemZ.addr WAR 3:557|elemZ.addr WAR 3:1028|elemZ.addr INIT *|elemZ.addr
+5:343 NOM  RAW 3:1616|idx.addr
+3:2419 NOM  RAW 3:1955|v_cut.addr RAW 3:2417|tmpV
+3:1001 NOM  RAW 3:1000|numElem8 WAR 3:549|dvdx
+3:2084 NOM  RAW 3:1293|bvc.addr RAW 3:1303|rho0.addr RAW 3:2025|bvc.addr RAW 3:2033|pHalfStep RAW 3:2036|pHalfStep RAW 3:2060|pHalfStep RAW 3:2076|i19 RAW 3:2077|vhalf
+3:2500 NOM  RAW 3:2457|threads RAW 3:2500|i27 WAR 3:2500|i27 INIT *|i27
+3:2526 NOM  WAR 3:2500|threads
+3:1833 NOM  WAR 3:1811|delvp
+3:340 NOM  RAW 3:320|fjxet RAW 3:321|fjxze RAW 3:324|fjyet RAW 3:325|fjyze WAR 3:369|cjzxi WAR 3:946|cjzxi WAR 3:1341|cjzxi WAR 3:2198|cjzxi
+3:195 NOM  RAW 3:193|ratio RAW 6:150|call19
+5:273 NOM  RAW 3:1631|idx.addr
+3:1688 NOM  RAW 3:1533|call58 RAW 3:1619|i RAW 5:121|domain.addr RAW 6:172|call57 WAR 3:304|vol WAR 3:1745|vol
+3:2397 NOM  RAW 6:57|call76 RAW 6:166|domain.addr WAR 3:2401|rep
+3:2025 NOM  RAW 3:2023|i RAW 3:2024|c1s RAW 3:2257|compression.addr RAW 3:2259|compression.addr WAR 3:549|bvc.addr WAR 3:816|bvc.addr WAR 3:820|bvc.addr WAR 3:824|bvc.addr WAR 3:828|bvc.addr WAR 3:832|bvc.addr WAR 3:836|bvc.addr WAR 3:840|bvc.addr WAR 3:844|bvc.addr WAR 3:855|bvc.addr WAR 3:1783|bvc.addr WAR 3:1793|bvc.addr WAR 3:1821|bvc.addr WAR 3:1897|bvc.addr WAR 3:1898|bvc.addr WAR 3:1899|bvc.addr WAR 3:2025|bvc.addr WAR 3:2033|bvc.addr WAR 3:2064|bvc.addr WAR 3:2077|bvc.addr WAR 3:2084|bvc.addr WAR 3:2127|bvc.addr WAR 3:2138|bvc.addr WAR 3:2157|bvc.addr WAR 3:2159|bvc.addr WAR 3:2167|bvc.addr WAR 3:2190|bvc.addr WAR 3:2191|bvc.addr WAW 3:1709|bvc.addr WAW 3:1745|bvc.addr WAW 3:2249|bvc.addr INIT *|bvc.addr
+3:1666 NOM  RAW 3:1195|call38 RAW 3:1630|n5 RAW 5:121|domain.addr WAR 3:1480|xv5 WAR 3:1751|xv5
+3:173 NOM  RAW 3:206|call5 RAW 6:192|call5 WAR 3:193|olddt WAR 3:196|olddt WAR 3:199|olddt INIT *|olddt
+3:1858 NOM  RAW 3:1634|domain.addr RAW 3:1719|call86 RAW 3:1772|ielem RAW 6:562|call85 WAR 3:1848|delvm
+6:557 NOM  RAW 6:557|i37 WAR 6:522|i37 WAR 6:557|i37
+3:440 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+3:2568 NOM  RAW 3:2556|dthydro_per_thread WAR 3:2533|dthydro.addr
+3:1681 NOM  RAW 3:1203|call51 RAW 3:1627|n2 RAW 5:121|domain.addr WAR 3:298|zv2 WAR 3:1753|zv2
+5:266 NOM  RAW 3:1631|idx.addr
+3:2547 NOM  RAW 3:1592|call2 RAW 3:2544|indx WAR 3:2488|dtdvov WAR 3:2549|dtdvov WAR 3:2550|dtdvov
+3:1693 NOM  RAW 3:1652|z0 RAW 3:1653|z1 RAW 3:1654|z2 RAW 3:1655|z3 RAW 3:1656|z4 RAW 3:1657|z5 RAW 3:1658|z6 RAW 3:1659|z7 WAR 3:302|dzj WAR 3:1724|dzj
+3:1420 NOM  RAW 3:1415|call54 RAW 3:1417|call54 WAR 3:1420|charLength WAW 3:1415|charLength
+6:44 NOM  INIT *|this1
+5:121 NOM  RAW 3:369|ptr.addr RAW 3:824|ptr.addr RAW 3:1630|ptr.addr RAW 3:1663|ptr.addr RAW 3:1667|ptr.addr WAR 5:120|ptr.addr
+3:2367 NOM  RAW 3:2331|numElem RAW 3:2367|i39 WAR 3:1364|i39 WAR 3:2367|i39
+3:1658 NOM  RAW 3:1217|call31 RAW 3:1631|n6 RAW 5:121|domain.addr WAR 3:1489|z6 WAR 3:1701|z6
+3:2556 NOM  RAW 3:2533|dthydro_tmp RAW 3:2539|thread_num RAW 3:2550|dthydro_tmp WAR 3:2508|dthydro_per_thread WAW 3:2496|dthydro_per_thread
+6:546 NOM  RAW 6:75|call6 RAW 6:75|call8 INIT *|call10
+3:429 NOM  RAW 3:342|pfy.addr RAW 3:427|i WAR 3:361|pfy.addr WAR 3:362|pfy.addr WAR 3:363|pfy.addr WAR 3:364|pfy.addr WAW 3:361|pfy.addr WAW 3:362|pfy.addr WAW 3:363|pfy.addr WAW 3:364|pfy.addr
+5:300 NOM  RAW 6:79|this1
+3:1715 NOM  RAW 3:1661|xv0 RAW 3:1662|xv1 RAW 3:1663|xv2 RAW 3:1664|xv3 RAW 3:1665|xv4 RAW 3:1666|xv5 RAW 3:1667|xv6 RAW 3:1668|xv7 WAR 3:1755|dxv INIT *|dxv
+5:396 NOM  RAW 6:35|this1
+3:1811 NOM  RAW 3:1805|phixi RAW 3:1808|delvp RAW 3:1810|phixi WAR 3:1811|phixi
+3:2486 NOM  RAW 3:1537|call15 RAW 3:2476|indx RAW 3:2485|dtf WAR 3:2486|dtf
+3:359 NOM  RAW 3:336|cjyxi RAW 3:337|cjyet RAW 3:338|cjyze RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:487|b.addr WAR 3:1490|b.addr WAR 3:1493|b.addr WAR 3:1701|b.addr INIT *|b.addr
+3:1068 NOM  RAW 3:1064|numElem WAW 5:121|sigyy INIT *|sigyy
+6:347 NOM  RAW 6:345|maxEdgeSize INIT *|this1
+3:1723 NOM  RAW 3:1692|dyj RAW 3:1693|dzj RAW 3:1700|dyk RAW 3:1701|dzk WAR 3:1719|ax
+3:305 NOM  RAW 3:257|y.addr RAW 3:258|y.addr RAW 3:341|y.addr RAW 3:771|y.addr RAW 3:1553|y.addr WAR 3:325|y6 WAR 3:325|y7 WAR 3:816|y6 WAR 3:844|y7 WAR 3:1307|y6 WAR 3:1326|y7 WAR 3:1353|y7 INIT *|y6
+3:2063 NOM  RAW 3:836|length.addr RAW 3:2063|i WAR 3:2063|i INIT *|i
+3:765 NOM  WAR 3:1497|gamma INIT *|gamma
+3:2258 NOM  RAW 3:1670|vnewc.addr RAW 3:2223|delvc RAW 3:2246|delvc RAW 3:2254|i57 RAW 3:2255|ielem61 RAW 3:2343|vnewc.addr WAR 3:1484|vchalf WAR 3:2259|vchalf
+6:583 NOM  RAW 6:354|this1
+3:466 NOM  RAW 3:242|x.addr RAW 3:246|x.addr RAW 3:251|y.addr RAW 3:255|y.addr RAW 3:260|z.addr RAW 3:264|z.addr RAW 3:297|y.addr RAW 3:297|z.addr RAW 3:702|x.addr
+3:1175 NOM  RAW 3:1157|numNodeBC RAW 3:1175|i26 WAR 3:1175|i26 WAR 3:1189|i26 WAR 6:162|i26
+3:2488 NOM  RAW 3:1592|call16 RAW 3:2476|indx
+3:1779 NOM  RAW 3:1634|domain.addr RAW 3:1636|ptiny.addr RAW 3:1737|call7 RAW 3:1772|ielem WAR 3:1701|norm WAR 3:1878|norm
+3:1854 NOM  RAW 3:1634|domain.addr RAW 3:1636|ptiny.addr RAW 3:1719|call80 RAW 3:1772|ielem WAR 3:1841|norm
+3:361 NOM  RAW 3:359|b.addr RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:487|b.addr WAR 3:1495|b.addr WAR 3:1915|b.addr WAW 3:361|b.addr INIT *|b.addr
+3:1070 NOM  RAW 3:1064|numElem WAR 3:1936|determ INIT *|determ
+6:207 NOM  RAW 6:413|this1
+5:328 NOM  RAW 5:230|this1
+3:1743 NOM  RAW 3:1695|dxi RAW 3:1696|dyi RAW 3:1699|dxk RAW 3:1700|dyk WAR 3:1737|az
+6:442 NOM  RAW 6:75|call24 RAW 6:414|nextIndex RAW 6:485|nextIndex
+3:325 NOM  RAW 3:302|y0 RAW 3:302|y1 RAW 3:303|y2 RAW 3:303|y3 RAW 3:304|y4 RAW 3:304|y5 RAW 3:305|y6 RAW 3:305|y7 WAR 3:341|fjyze WAR 3:953|fjyze WAR 3:1347|fjyze WAR 5:121|fjyze
+3:1034 NOM  RAW 3:1010|i RAW 3:1663|domain.addr RAW 3:2422|call52 RAW 6:99|call52
+3:2080 NOM  RAW 3:1291|q_new.addr RAW 3:2076|i19 WAR 3:549|q_new.addr WAR 3:1899|q_new.addr WAR 3:2025|q_new.addr WAR 3:2064|q_new.addr WAR 3:2077|q_new.addr WAR 3:2138|q_new.addr WAR 3:2139|q_new.addr WAR 3:2157|q_new.addr WAR 3:2167|q_new.addr WAR 3:2190|q_new.addr INIT *|q_new.addr
+3:2417 NOM  RAW 3:1533|call RAW 3:2416|i RAW 6:166|domain.addr WAR 3:2374|tmpV WAR 3:2422|tmpV
+3:999 NOM  RAW 3:1663|domain.addr RAW 6:75|call WAR 3:1046|numElem INIT *|numElem
+3:2420 NOM  WAR 3:2419|tmpV
+3:2083 NOM  RAW 3:1290|e_new.addr RAW 3:1294|pbvc.addr RAW 3:2026|pbvc.addr RAW 3:2064|e_new.addr RAW 3:2076|i19 WAR 3:1344|ssc WAR 3:2092|ssc
+3:469 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+3:394 NOM  WAR 3:399|bisectX1 WAR 3:614|bisectX1 INIT *|bisectX1
+3:1887 NOM  RAW 3:1880|phizeta RAW 3:1885|phizeta RAW 3:1886|phizeta WAR 3:1887|phizeta
+6:238 NOM  RAW 6:69|this1 RAW 6:220|meshEdgeElems RAW 6:227|row WAR 6:231|ty
+3:2781 NOM  RAW 3:2678|myRank RAW 3:2687|opts
+3:2072 NOM  RAW 3:832|vnewc.addr RAW 3:832|compHalfStep.addr RAW 3:1290|e_new.addr RAW 3:1293|bvc.addr RAW 3:1294|pbvc.addr RAW 3:2060|pHalfStep
+3:428 NOM  RAW 3:341|pfx.addr RAW 3:427|i WAR 3:352|pfx.addr WAR 3:353|pfx.addr WAR 3:354|pfx.addr WAR 3:355|pfx.addr WAW 3:352|pfx.addr WAW 3:353|pfx.addr WAW 3:354|pfx.addr WAW 3:355|pfx.addr
+3:2113 NOM  RAW 3:832|vnewc.addr RAW 3:832|compression.addr RAW 3:1289|p_new.addr RAW 3:1290|e_new.addr RAW 3:1293|bvc.addr RAW 3:1294|pbvc.addr
+3:450 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+3:1868 NOM  RAW 3:1634|domain.addr RAW 3:1719|call96 RAW 3:1772|ielem RAW 6:563|call95 WAR 3:1849|delvp
+8:202 NOM  RAW 8:201|j RAW 8:202|k WAR 3:1251|k WAR 8:202|k
+3:434 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+3:2119 NOM  RAW 3:840|regElemList.addr RAW 3:2117|i113 RAW 6:507|regElemList.addr WAR 3:2127|ielem WAW 3:2119|ielem INIT *|ielem
+3:2471 NOM  WAR 3:2497|thread_num WAR 3:2546|thread_num WAR 3:2547|thread_num INIT *|thread_num
+3:449 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+3:793 NOM  RAW 3:783|i2 WAR 3:846|i3 INIT *|i3
+3:2286 NOM  RAW 3:2230|work RAW 3:2285|i124 WAR 3:805|work WAR 3:806|work WAR 3:807|work WAR 3:808|work WAR 3:855|work WAR 3:1898|work WAR 3:1899|work WAR 3:2025|work WAR 3:2064|work WAR 3:2077|work WAR 3:2103|work WAR 3:2138|work WAR 3:2157|work WAR 3:2167|work WAR 3:2190|work WAR 3:2191|work WAR 6:505|work WAW 3:2249|work WAW 3:2250|work INIT *|work
+6:637 NOM  RAW 6:575|call105 RAW 6:614|planeInc RAW 6:616|j RAW 6:618|call105 RAW 6:626|call105 RAW 6:664|call105 WAR 6:637|call105
+3:868 NOM  RAW 3:859|n2si2 RAW 3:1195|call449 RAW 6:103|call449 RAW 6:579|domain.addr WAR 3:675|xd1 WAR 3:1347|xd1 WAR 3:2151|xd1
+3:2198 NOM  RAW 3:824|domain.addr RAW 3:2189|ielem RAW 3:2193|ssTmp RAW 3:2196|ssTmp WAR 3:853|call17
+6:549 NOM  RAW 6:548|i11 INIT *|call15
+8:191 NOM  RAW 3:193|numRanks.addr
+3:1489 NOM  RAW 3:358|pfy RAW 3:770|zvel.addr RAW 3:1450|pfy RAW 3:1546|zvel.addr
+3:1682 NOM  RAW 3:1203|call52 RAW 3:1628|n3 RAW 5:121|domain.addr WAR 3:298|zv3 WAR 3:1753|zv3
+5:267 NOM  RAW 3:1631|idx.addr
+6:655 NOM  RAW 6:68|this1
+3:2031 NOM  RAW 3:2030|i5 RAW 6:507|regElemList.addr WAR 3:2038|ielem INIT *|ielem
+8:24 NOM  RAW 8:23|c WAW 3:2683|retVal.addr
+3:1322 NOM  RAW 3:836|y3.addr RAW 3:836|y4.addr WAR 3:698|dy43 WAR 3:1344|dy43 INIT *|dy43
+8:226 NOM  RAW 8:226|agg.tmp113 WAR 3:1363|agg.tmp113
+3:447 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+3:2117 NOM  RAW 3:836|length.addr RAW 3:2117|i113 WAR 3:1344|i113 WAR 3:2117|i113
+8:221 NOM  RAW 3:1028|*
+6:432 NOM  INIT *|runto
+3:1808 NOM  RAW 3:1765|monoq_limiter_mult RAW 3:1803|delvp WAR 3:1808|delvp
+3:2482 NOM  RAW 3:1592|call10 RAW 3:1592|call12 RAW 3:2476|indx
+3:2557 NOM  RAW 3:2534|hydro_elem RAW 3:2539|thread_num RAW 3:2551|hydro_elem WAR 3:2507|hydro_elem_per_thread
+3:1064 NOM  RAW 3:2476|domain.addr RAW 3:2547|domain.addr RAW 6:75|call WAR 5:283|numElem INIT *|numElem
+3:1848 NOM  RAW 3:1843|phieta RAW 3:1845|delvm WAR 3:1848|phieta
+3:355 NOM  RAW 3:349|b.addr RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:486|b.addr WAR 3:1491|b.addr WAR 3:1751|b.addr WAW 3:355|b.addr INIT *|b.addr
+5:388 NOM  RAW 6:29|this1
+3:310 NOM  RAW 3:266|z.addr RAW 3:267|z.addr RAW 3:342|z.addr RAW 3:770|z.addr RAW 3:1554|z.addr WAR 3:329|z6 WAR 3:329|z7 WAR 3:816|z6 WAR 3:1341|z6 WAR 3:1341|z7 WAR 3:2077|z7 WAR 3:2159|z6 INIT *|z7
+3:1803 NOM  RAW 3:1779|norm RAW 3:1793|delvp RAW 3:1795|delvp WAR 3:1803|delvp
+3:455 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+6:224 NOM  RAW 6:70|this1 RAW 6:220|meshEdgeElems INIT *|tz
+3:1164 NOM  RAW 3:1163|i RAW 6:167|domain.addr WAW 3:1145|call5
+3:2290 NOM  RAW 3:2222|e_old RAW 3:2224|p_old RAW 3:2225|q_old RAW 3:2226|compression RAW 3:2227|compHalfStep
+3:1907 NOM  RAW 3:1767|qlc_monoq RAW 3:1905|rho WAR 3:1700|qlin WAR 3:1919|qlin
+3:414 NOM  RAW 3:399|areaZ RAW 3:411|normalZ3.addr RAW 3:412|normalZ3.addr RAW 3:413|normalZ3.addr RAW 3:414|normalZ3.addr RAW 3:430|normalZ3.addr WAR 3:414|normalZ3.addr
+3:2773 NOM  RAW 3:2766|elapsed_time INIT *|elapsed_timeG
+3:2064 NOM  RAW 3:828|e_old.addr RAW 3:828|q_old.addr RAW 3:836|delvc.addr RAW 3:1290|e_new.addr RAW 3:1295|p_old.addr RAW 3:2063|i RAW 3:2189|p_old.addr RAW 3:2245|e_old.addr RAW 3:2246|delvc.addr RAW 3:2247|p_old.addr RAW 3:2248|q_old.addr WAR 3:549|e_new.addr WAR 3:1783|e_new.addr WAR 3:1793|e_new.addr WAR 3:1897|e_new.addr WAR 3:1899|e_new.addr WAR 3:2025|e_new.addr WAR 3:2033|e_new.addr WAR 3:2064|e_new.addr WAR 3:2077|e_new.addr WAR 3:2103|e_new.addr WAR 3:2138|e_new.addr WAR 3:2157|e_new.addr WAR 3:2158|e_new.addr WAR 3:2167|e_new.addr WAR 3:2190|e_new.addr WAR 3:2191|e_new.addr WAR 3:2302|e_new.addr WAW 3:1594|e_new.addr WAW 3:2249|e_new.addr WAW 3:2250|e_new.addr INIT *|e_new.addr
+3:1783 NOM  RAW 3:1634|domain.addr RAW 3:1737|call9 RAW 3:1772|ielem RAW 6:543|call8 WAW 3:1776|delvm
+3:2457 NOM  WAR 3:2560|threads INIT *|threads
+8:184 NOM  WAR 3:193|nx8
+3:2551 NOM  RAW 3:2544|indx WAW 3:2534|hydro_elem WAW 3:2551|hydro_elem
+3:764 NOM  WAR 3:1497|gamma INIT *|gamma
+3:2257 NOM  RAW 3:1670|vnewc.addr RAW 3:2226|compression RAW 3:2254|i57 RAW 3:2255|ielem61 RAW 3:2343|vnewc.addr WAR 3:805|compression WAR 3:806|compression WAR 3:808|compression WAR 3:2025|compression WAR 3:2103|compression WAR 3:2138|compression WAR 3:2191|compression WAR 3:2302|compression INIT *|compression
+8:206 NOM  RAW 8:197|MaxAbsDiff RAW 8:203|AbsDiff RAW 8:206|MaxAbsDiff WAR 8:206|MaxAbsDiff
+3:2422 NOM  RAW 3:2416|i RAW 3:2417|tmpV RAW 3:2420|tmpV RAW 6:166|domain.addr WAR 3:2368|call5
+3:1713 NOM  RAW 3:1689|norm RAW 3:1707|az WAR 3:1713|az
+3:2497 NOM  RAW 3:2466|courant_elem RAW 3:2471|thread_num RAW 3:2491|courant_elem WAR 3:2567|courant_elem_per_thread INIT *|courant_elem_per_thread
+3:1004 NOM  RAW 3:1000|numElem8 WAR 3:562|x8n
+6:542 NOM  RAW 6:75|call2 RAW 6:542|i WAR 6:542|i WAW 6:530|i
+3:1918 NOM  RAW 3:1634|domain.addr RAW 3:1772|ielem RAW 3:1894|qquad RAW 3:1912|qquad WAR 3:2249|call174 INIT *|call174
+3:2592 NOM  RAW 3:2583|r
+8:204 NOM  RAW 8:198|TotalAbsDiff RAW 8:203|AbsDiff RAW 8:204|TotalAbsDiff WAR 8:204|TotalAbsDiff
+3:1298 NOM  RAW 3:836|y3.addr RAW 3:840|y6.addr WAR 3:677|dy63 WAR 3:1341|dy63 INIT *|dy63
+3:2716 NOM  RAW 3:2684|opts RAW 3:2689|opts RAW 3:2690|opts RAW 6:735|side
+3:762 NOM  WAR 3:1498|gamma INIT *|gamma
+3:2255 NOM  RAW 3:1672|regElemList.addr RAW 3:2254|i57 RAW 6:507|regElemList.addr WAR 3:2258|ielem61 INIT *|ielem61
+3:2159 NOM  RAW 3:832|vnewc.addr RAW 3:1289|p_new.addr RAW 3:1293|bvc.addr RAW 3:1303|rho0.addr RAW 3:2025|bvc.addr RAW 3:2033|p_new.addr RAW 3:2036|p_new.addr RAW 3:2154|i199 RAW 3:2155|ielem203 RAW 3:2343|vnewc.addr
+3:2396 NOM  RAW 3:2387|r RAW 6:166|domain.addr RAW 6:411|call71 RAW 6:411|call72
+3:2067 NOM  RAW 3:1290|e_new.addr RAW 3:1302|emin.addr RAW 3:2063|i RAW 3:2064|e_new.addr
+5:379 NOM  RAW 6:20|this1
+6:418 NOM  RAW 6:411|call7
+3:549 NOM  RAW 3:283|sigyy.addr RAW 3:284|sigzz.addr RAW 3:284|sigyy.addr RAW 3:284|sigxx.addr RAW 3:522|k RAW 3:1666|sigxx.addr RAW 3:1668|sigzz.addr
+3:1810 NOM  RAW 3:1805|phixi RAW 3:1807|delvm WAR 3:1810|phixi
+6:434 NOM  RAW 6:411|call12 INIT *|regBinEnd
+5:395 NOM  RAW 6:34|this1
+3:2234 NOM  WAR 3:1743|bvc WAW 5:121|bvc
+3:2546 NOM  RAW 3:1592|call RAW 3:2544|indx
+5:391 NOM  RAW 6:31|this1
+3:470 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+3:395 NOM  WAR 3:399|bisectY1 WAR 3:614|bisectY1 INIT *|bisectY1
+3:1888 NOM  RAW 3:1766|monoq_max_slope RAW 3:1880|phizeta RAW 3:1885|phizeta RAW 3:1886|phizeta RAW 3:1887|phizeta WAR 3:1888|phizeta
+3:468 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+3:393 NOM  WAR 3:398|bisectZ0 WAR 3:613|bisectZ0 INIT *|bisectZ0
+3:1886 NOM  RAW 3:1880|phizeta RAW 3:1883|delvp RAW 3:1885|phizeta WAR 3:1886|phizeta
+3:1521 NOM  WAR 3:1015|detJ WAR 3:1561|detJ
+8:223 NOM  RAW 8:223|agg.tmp93 WAR 3:1363|agg.tmp93
+3:2026 NOM  RAW 3:2023|i RAW 3:2024|c1s WAR 3:549|pbvc.addr WAR 3:813|pbvc.addr WAR 3:814|pbvc.addr WAR 3:816|pbvc.addr WAR 3:817|pbvc.addr WAR 3:820|pbvc.addr WAR 3:821|pbvc.addr WAR 3:824|pbvc.addr WAR 3:825|pbvc.addr WAR 3:828|pbvc.addr WAR 3:829|pbvc.addr WAR 3:832|pbvc.addr WAR 3:833|pbvc.addr WAR 3:836|pbvc.addr WAR 3:837|pbvc.addr WAR 3:840|pbvc.addr WAR 3:841|pbvc.addr WAR 3:844|pbvc.addr WAR 3:845|pbvc.addr WAR 3:1783|pbvc.addr WAR 3:1793|pbvc.addr WAR 3:1821|pbvc.addr WAR 3:1831|pbvc.addr WAR 3:1897|pbvc.addr WAR 3:1898|pbvc.addr WAR 3:1899|pbvc.addr WAR 3:2025|pbvc.addr WAR 3:2064|pbvc.addr WAR 3:2077|pbvc.addr WAR 3:2083|pbvc.addr WAR 3:2126|pbvc.addr WAR 3:2138|pbvc.addr WAR 3:2139|pbvc.addr WAR 3:2157|pbvc.addr WAR 3:2158|pbvc.addr WAR 3:2167|pbvc.addr WAR 3:2190|pbvc.addr WAR 3:2191|pbvc.addr WAR 3:2302|pbvc.addr WAW 3:1594|pbvc.addr WAW 3:1709|pbvc.addr WAW 3:1745|pbvc.addr WAW 3:2026|pbvc.addr WAW 3:2249|pbvc.addr WAW 3:2250|pbvc.addr INIT *|pbvc.addr
+3:2479 NOM  RAW 3:1592|call4 RAW 3:2476|indx
+5:390 NOM  RAW 6:30|this1
+6:429 NOM  INIT *|lastReg
+3:1805 NOM  RAW 3:1802|delvm RAW 3:1803|delvp WAR 3:1700|phixi WAR 3:1813|phixi WAR 3:1913|phixi WAW 3:1813|phixi
+6:574 NOM  RAW 6:75|call RAW 6:574|i WAR 6:444|i WAR 6:574|i
+3:457 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+5:303 NOM  RAW 3:1289|idx.addr RAW 6:413|this1 RAW 6:500|this1
+6:226 NOM  RAW 6:69|this1 RAW 6:220|meshEdgeElems WAW 6:238|ty INIT *|ty
+3:1015 NOM  RAW 3:1014|elemToNode RAW 3:1663|domain.addr
+3:2508 NOM  RAW 3:2496|dtcourant_per_thread WAR 3:2465|dtcourant.addr
+3:798 NOM  WAR 3:844|hourmodx INIT *|hourmodx
+3:2291 NOM  RAW 3:1670|vnewc.addr RAW 3:2215|pmin RAW 3:2223|delvc RAW 3:2230|work
+3:448 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+3:1784 NOM  RAW 3:1634|domain.addr RAW 3:1737|call11 RAW 3:1772|ielem WAW 3:1776|delvm
+6:483 NOM  RAW 6:75|call106 RAW 6:414|nextIndex RAW 6:481|runto RAW 6:485|nextIndex
+3:1859 NOM  RAW 3:1634|domain.addr RAW 3:1719|call88 RAW 3:1772|ielem WAR 3:1848|delvm
+3:366 NOM  RAW 3:340|cjzxi RAW 3:341|cjzet RAW 3:342|cjzze RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:488|b.addr WAR 3:1493|b.addr WAR 3:1886|b.addr INIT *|b.addr
+3:1771 NOM  RAW 3:1634|domain.addr RAW 3:1771|i RAW 6:506|call4 WAR 3:1771|i INIT *|i
+3:1846 NOM  RAW 3:1765|monoq_limiter_mult RAW 3:1841|delvp WAR 3:1846|delvp
+3:353 NOM  RAW 3:351|b.addr RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:486|b.addr WAR 3:1491|b.addr WAR 5:121|b.addr WAW 3:353|b.addr INIT *|b.addr
+6:732 NOM  RAW 6:710|dx RAW 6:728|myDom INIT *|col.addr
+3:2108 NOM  RAW 3:1290|e_new.addr RAW 3:1302|emin.addr RAW 3:2101|i85 RAW 3:2103|e_new.addr RAW 3:2106|e_new.addr
+3:2275 NOM  RAW 3:1672|regElemList.addr RAW 3:2274|i102 RAW 6:507|regElemList.addr WAR 3:1486|ielem106 WAR 3:2276|ielem106
+6:390 NOM  RAW 6:68|this1
+3:1766 NOM  RAW 3:1634|domain.addr WAR 3:1699|monoq_max_slope WAR 3:1888|monoq_max_slope
+3:2103 NOM  RAW 3:832|work.addr RAW 3:1290|e_new.addr RAW 3:2095|e_new.addr RAW 3:2101|i85 RAW 3:2286|work.addr WAR 3:2103|e_new.addr
+3:603 NOM  RAW 3:391|z0.addr RAW 3:395|y2.addr
+3:2096 NOM  RAW 3:828|q_old.addr RAW 3:1295|p_old.addr RAW 3:2076|i19 RAW 3:2189|p_old.addr RAW 3:2247|p_old.addr RAW 3:2248|q_old.addr
+3:2766 NOM  INIT *|elapsed_time
+3:2092 NOM  RAW 3:836|ql_old.addr RAW 3:836|qq_old.addr RAW 3:1291|q_new.addr RAW 3:2076|i19 RAW 3:2087|ssc RAW 3:2089|ssc RAW 3:2249|qq_old.addr RAW 3:2250|ql_old.addr WAR 3:549|q_new.addr WAR 3:1783|q_new.addr WAR 3:1793|q_new.addr WAR 3:1897|q_new.addr WAR 3:1898|q_new.addr WAR 3:1899|q_new.addr WAR 3:2025|q_new.addr WAR 3:2064|q_new.addr WAR 3:2077|q_new.addr WAR 3:2138|q_new.addr WAR 3:2139|q_new.addr WAR 3:2157|q_new.addr WAR 3:2167|q_new.addr WAR 3:2169|q_new.addr WAR 3:2190|q_new.addr WAR 3:2191|q_new.addr WAR 3:2302|q_new.addr WAW 3:1593|q_new.addr WAW 3:1709|q_new.addr WAW 3:2169|q_new.addr WAW 3:2249|q_new.addr INIT *|q_new.addr
+3:2079 NOM  RAW 3:836|delvc.addr RAW 3:2076|i19 RAW 3:2246|delvc.addr
+3:1093 NOM  RAW 3:1066|hgcoef RAW 3:1070|determ RAW 3:2476|domain.addr RAW 3:2547|domain.addr
+3:2586 NOM  RAW 3:2583|r
+3:756 NOM  WAR 3:325|gamma INIT *|gamma
+3:2249 NOM  RAW 3:1668|domain.addr RAW 3:1918|call51 RAW 3:2228|qq_old RAW 3:2243|i RAW 3:2244|ielem WAR 3:2138|qq_old WAR 3:2139|qq_old WAR 3:2167|qq_old WAR 3:2190|qq_old WAW 3:2249|qq_old INIT *|qq_old
+3:1912 NOM  RAW 3:1768|qqc_monoq RAW 3:1905|rho WAR 3:1700|qquad WAR 3:1918|qquad
+3:2414 NOM  RAW 3:1994|length.addr
+3:2077 NOM  RAW 3:832|compHalfStep.addr RAW 3:2076|i19 RAW 3:2259|compHalfStep.addr WAR 3:1344|vhalf WAR 3:2084|vhalf WAW 3:2077|vhalf
+3:562 NOM  RAW 3:502|numthreads
+3:1910 NOM  RAW 3:1880|phizeta RAW 3:1885|phizeta RAW 3:1886|phizeta RAW 3:1887|phizeta RAW 3:1899|delvxzeta RAW 3:1903|delvxzeta
+3:2041 NOM  RAW 3:2030|i5 RAW 3:2033|p_new.addr RAW 3:2036|p_new.addr
+3:2750 NOM  RAW 3:2686|opts
+3:2208 NOM  RAW 3:1668|domain.addr WAR 3:1752|e_cut WAR 3:2292|e_cut
+3:1701 NOM  RAW 3:1652|z0 RAW 3:1653|z1 RAW 3:1654|z2 RAW 3:1655|z3 RAW 3:1656|z4 RAW 3:1657|z5 RAW 3:1658|z6 RAW 3:1659|z7 WAR 3:308|dzk WAR 3:1742|dzk
+3:1776 NOM  WAR 3:1700|delvm WAR 3:1700|delvp WAR 3:1885|delvm WAR 3:1886|delvp
+3:283 NOM  RAW 3:283|i WAR 3:283|i WAR 5:121|i INIT *|i
+3:2038 NOM  RAW 3:2031|ielem RAW 3:2343|vnewc.addr
+3:351 NOM  RAW 3:332|cjxxi RAW 3:333|cjxet RAW 3:334|cjxze RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:486|b.addr WAR 3:1046|b.addr WAR 3:1481|b.addr WAR 3:1489|b.addr INIT *|b.addr
+3:206 NOM  RAW 3:190|newdt RAW 3:196|newdt RAW 3:199|newdt WAR 3:173|call35
+3:1699 NOM  RAW 3:1634|x0 RAW 3:1635|x1 RAW 3:1636|x2 RAW 3:1637|x3 RAW 3:1638|x4 RAW 3:1639|x5 RAW 3:1640|x6 RAW 3:1641|x7 WAR 3:309|dxk WAR 3:1743|dxk
+3:194 NOM  RAW 3:193|ratio
+5:272 NOM  RAW 3:1631|idx.addr
+3:2036 NOM  RAW 3:2030|i5 WAR 3:2035|p_new.addr
+3:2745 NOM  RAW 3:219|call33 RAW 3:221|call36 RAW 3:2682|opts RAW 3:2715|locDom RAW 6:147|call34 RAW 6:155|call33 RAW 6:156|call36
+6:735 NOM  RAW 6:684|testProcs RAW 8:87|side.addr INIT *|side.addr
+3:618 NOM  RAW 3:611|dvdz.addr WAR 3:618|dvdz.addr
+3:2035 NOM  RAW 3:2030|i5 RAW 3:2033|p_new.addr
+3:1326 NOM  RAW 3:836|y5.addr RAW 3:840|y7.addr WAR 3:697|dy57 WAR 3:1344|dy57 INIT *|dy57
+6:734 NOM  RAW 6:710|dx RAW 6:711|dy RAW 6:728|myDom INIT *|plane.addr
+3:617 NOM  RAW 3:606|dvdy.addr WAR 3:617|dvdy.addr
+3:196 NOM  RAW 3:173|olddt WAR 3:193|newdt
+3:1689 NOM  RAW 3:1688|vol WAR 3:304|norm WAR 3:1749|norm
+3:2065 NOM  RAW 3:832|work.addr RAW 3:2063|i RAW 3:2286|work.addr
+3:2231 NOM  WAR 3:1743|p_new WAW 5:121|p_new
+3:783 NOM  RAW 3:783|i2 WAR 3:783|i2 INIT *|i2
+3:2276 NOM  RAW 3:1670|vnewc.addr RAW 3:2213|eosvmax RAW 3:2275|ielem106 RAW 3:2343|vnewc.addr
+3:1775 NOM  RAW 3:1634|domain.addr RAW 3:1772|ielem RAW 6:575|call6 RAW 6:618|call6 RAW 6:626|call6 RAW 6:637|call6 RAW 6:645|call6 RAW 6:656|call6 RAW 6:664|call6 WAR 3:1866|bcMask INIT *|bcMask
+3:1066 NOM  RAW 3:2476|domain.addr RAW 3:2547|domain.addr WAR 3:1093|hgcoef INIT *|hgcoef
+3:1850 NOM  RAW 3:1843|phieta RAW 3:1848|phieta RAW 3:1849|phieta WAR 3:1850|phieta
+3:357 NOM  RAW 3:336|cjyxi RAW 3:337|cjyet RAW 3:338|cjyze RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:487|b.addr WAR 3:1488|b.addr WAR 3:1701|b.addr INIT *|b.addr
+3:774 NOM  WAR 3:836|gamma INIT *|gamma
+3:2267 NOM  RAW 3:1670|vnewc.addr RAW 3:2214|eosvmin RAW 3:2266|ielem85 RAW 3:2343|vnewc.addr
+3:773 NOM  WAR 3:832|gamma INIT *|gamma
+3:2266 NOM  RAW 3:1672|regElemList.addr RAW 3:2265|i81 RAW 6:507|regElemList.addr WAR 3:1483|ielem85 WAR 3:2267|ielem85
+6:617 NOM  RAW 6:70|this1
+3:2585 NOM  RAW 3:2583|r RAW 6:501|call3 RAW 6:506|call3
+3:755 NOM  WAR 3:325|gamma INIT *|gamma
+3:2248 NOM  RAW 3:1668|domain.addr RAW 3:2225|q_old RAW 3:2243|i RAW 3:2244|ielem RAW 3:2302|call48 RAW 6:93|call48 WAR 3:2103|q_old WAR 3:2138|q_old WAR 3:2157|q_old WAR 3:2167|q_old WAR 3:2190|q_old WAR 3:2191|q_old WAR 3:2302|q_old INIT *|q_old
+3:1914 NOM  RAW 3:1843|phieta RAW 3:1848|phieta RAW 3:1849|phieta RAW 3:1850|phieta RAW 3:1898|delvxeta RAW 3:1902|delvxeta
+8:194 NOM  RAW 8:194|agg.tmp WAR 6:68|agg.tmp
+3:752 NOM  WAR 3:325|gamma INIT *|gamma
+3:2245 NOM  RAW 3:1668|domain.addr RAW 3:2222|e_old RAW 3:2243|i RAW 3:2244|ielem RAW 3:2301|call39 RAW 6:91|call39 RAW 6:189|call39 WAR 3:2025|e_old WAR 3:2064|e_old WAR 3:2077|e_old WAR 3:2103|e_old WAR 3:2138|e_old WAR 3:2157|e_old WAR 3:2167|e_old WAW 3:2250|e_old INIT *|e_old
+3:2114 NOM  RAW 3:836|length.addr RAW 3:840|regElemList.addr RAW 3:1297|pmin.addr RAW 3:1298|p_cut.addr RAW 3:1305|eosvmax.addr RAW 3:2193|pmin.addr RAW 3:2196|pmin.addr
+3:608 NOM  RAW 3:391|z0.addr RAW 3:398|x0.addr
+3:2101 NOM  RAW 3:836|length.addr RAW 3:2101|i85 WAR 3:2101|i85 INIT *|i85
+3:2076 NOM  RAW 3:836|length.addr RAW 3:2076|i19 WAR 3:1347|i19 WAR 3:2076|i19
+3:753 NOM  WAR 3:325|gamma INIT *|gamma
+3:2246 NOM  RAW 3:1534|call42 RAW 3:1668|domain.addr RAW 3:2223|delvc RAW 3:2243|i RAW 3:2244|ielem WAR 3:805|delvc WAR 3:806|delvc WAR 3:807|delvc WAR 3:808|delvc WAR 3:2025|delvc WAR 3:2077|delvc WAR 3:2103|delvc WAR 3:2138|delvc WAR 3:2157|delvc WAR 3:2167|delvc WAR 3:2191|delvc INIT *|delvc
+3:1909 NOM  RAW 3:1843|phieta RAW 3:1848|phieta RAW 3:1849|phieta RAW 3:1850|phieta RAW 3:1898|delvxeta RAW 3:1902|delvxeta
+3:1831 NOM  RAW 3:1634|domain.addr RAW 3:1755|call55 RAW 3:1772|ielem RAW 6:554|call54 WAR 3:1811|delvp
+3:338 NOM  RAW 3:319|fjxxi RAW 3:320|fjxet RAW 3:327|fjzxi RAW 3:328|fjzet WAR 3:360|cjyze WAR 3:950|cjyze WAR 3:1341|cjyze WAR 3:2158|cjyze
+3:2023 NOM  RAW 3:2023|i WAR 3:2023|i INIT *|i
+3:1314 NOM  RAW 3:832|y1.addr RAW 3:836|y3.addr WAR 3:686|dy31 WAR 3:1341|dy31 INIT *|dy31
+3:2073 NOM  RAW 3:836|length.addr RAW 3:840|regElemList.addr RAW 3:1297|pmin.addr RAW 3:1298|p_cut.addr RAW 3:1305|eosvmax.addr RAW 3:2193|pmin.addr RAW 3:2196|pmin.addr
+3:1364 NOM  RAW 3:251|y.addr RAW 3:252|y.addr RAW 3:253|y.addr RAW 3:254|y.addr RAW 3:255|y.addr RAW 3:256|y.addr RAW 3:257|y.addr RAW 3:258|y.addr RAW 3:771|y.addr RAW 6:166|y.addr RAW 6:542|y.addr
+3:655 NOM  RAW 3:243|x.addr RAW 3:244|x.addr RAW 3:245|x.addr RAW 3:246|x.addr RAW 3:247|x.addr RAW 3:249|x.addr RAW 6:579|x.addr
+3:2591 NOM  RAW 3:2583|r RAW 6:501|call7 RAW 6:506|call7
+8:203 NOM  RAW 3:169|locDom.addr RAW 3:2301|call45 RAW 3:2301|call48 RAW 8:201|j RAW 8:202|k WAR 3:1249|AbsDiff WAR 8:208|AbsDiff
+3:2715 NOM  RAW 3:2677|numRanks RAW 6:732|col RAW 6:733|row RAW 6:734|plane RAW 8:24|opts INIT *|locDom
+3:761 NOM  WAR 3:1499|gamma INIT *|gamma
+3:2254 NOM  RAW 3:2254|i57 WAR 3:307|i57 WAR 3:2254|i57
+3:2228 NOM  WAR 3:1725|qq_old WAW 5:121|qq_old
+3:810 NOM  WAR 3:846|hourmodz INIT *|hourmodz
+3:2225 NOM  WAR 3:1745|q_old WAW 5:121|q_old
+5:271 NOM  RAW 3:1631|idx.addr
+3:1686 NOM  RAW 3:1203|call56 RAW 3:1632|n7 RAW 5:121|domain.addr WAR 3:305|zv7 WAR 3:1753|zv7
+3:193 NOM  RAW 3:173|olddt RAW 3:190|newdt WAR 3:194|ratio WAR 3:195|ratio WAR 3:198|ratio INIT *|ratio
+3:1878 NOM  RAW 3:1854|norm RAW 3:1868|delvp RAW 3:1870|delvp WAR 3:1878|delvp
+3:722 NOM  WAR 3:967|numthreads WAR 6:499|numthreads
+3:2215 NOM  RAW 3:1668|domain.addr WAR 3:1753|pmin WAR 3:2291|pmin
+3:2211 NOM  RAW 3:1668|domain.addr WAR 3:1752|q_cut WAR 3:2292|q_cut
+3:371 NOM  RAW 3:369|b.addr RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:488|b.addr WAR 3:1486|b.addr WAR 3:1913|b.addr WAW 3:371|b.addr INIT *|b.addr
+3:1719 NOM  RAW 3:1619|i RAW 3:1711|ax RAW 3:1712|ay RAW 3:1713|az RAW 3:1715|dxv RAW 3:1716|dyv RAW 3:1717|dzv RAW 5:121|domain.addr WAR 3:799|call180 WAR 3:800|call180 WAR 3:801|call180 WAR 3:802|call180 WAR 3:805|call180 WAR 3:806|call180 WAR 3:807|call180 WAR 3:808|call180 WAR 3:811|call180 WAR 3:812|call180 WAR 3:813|call180 WAR 3:814|call180 WAR 3:816|call180 WAR 3:817|call180 WAR 3:818|call180 WAR 3:820|call180 WAR 3:821|call180 WAR 3:822|call180 WAR 3:824|call180 WAR 3:825|call180 WAR 3:826|call180 WAR 3:828|call180 WAR 3:829|call180 WAR 3:830|call180 WAR 3:832|call180 WAR 3:833|call180 WAR 3:834|call180 WAR 3:836|call180 WAR 3:837|call180 WAR 3:838|call180 WAR 3:840|call180 WAR 3:841|call180 WAR 3:842|call180 WAR 3:844|call180 WAR 3:845|call180 WAR 3:846|call180 WAR 3:1783|call180 WAR 3:1793|call180 WAR 3:1821|call180 WAR 3:1831|call180 WAR 3:1854|call180 WAR 3:1858|call180 WAR 3:1868|call180 WAR 3:1897|call180 WAR 3:1898|call180 WAR 3:1899|call180 INIT *|call180
+3:1010 NOM  RAW 3:999|numElem RAW 3:1010|i WAR 3:1010|i INIT *|i
+6:70 NOM  RAW 6:723|planeLoc.addr INIT *|this1
+3:2387 NOM  RAW 3:2387|r RAW 6:166|domain.addr RAW 6:411|call63 WAR 3:2387|r INIT *|r
+3:2358 NOM  RAW 3:2336|eosvmax RAW 3:2337|vnewc RAW 3:2343|vnewc RAW 3:2357|i24
+3:2343 NOM  RAW 3:1533|call5 RAW 3:2337|vnewc RAW 3:2342|i RAW 6:166|domain.addr WAR 3:1897|vnewc WAR 3:1898|vnewc WAW 3:1727|vnewc WAW 3:1745|vnewc
+3:1668 NOM  RAW 3:1195|call40 RAW 3:1632|n7 RAW 5:121|domain.addr WAR 3:1478|xv7 WAR 3:1751|xv7
+3:959 NOM  RAW 3:557|call621 RAW 3:702|hgfz RAW 3:863|n6si2 RAW 6:579|domain.addr WAR 3:959|call621
+3:2342 NOM  RAW 3:2331|numElem RAW 3:2342|i WAR 3:2342|i INIT *|i
+3:2336 NOM  RAW 6:166|domain.addr WAR 3:1364|eosvmax WAR 3:2422|eosvmax
+3:1996 NOM  RAW 3:1995|i RAW 3:2302|call15 RAW 6:93|call15 RAW 6:166|domain.addr
+3:2544 NOM  RAW 3:2543|i RAW 6:507|regElemlist.addr WAR 3:2497|indx WAR 3:2546|indx WAR 3:2547|indx WAR 3:2551|indx
+6:186 NOM  RAW 6:68|this1 RAW 6:69|this1 RAW 6:70|this1
+6:494 NOM  RAW 6:75|call116 RAW 6:494|i114 WAR 6:229|i114 WAR 6:494|i114
+3:1870 NOM  WAR 3:1849|delvp
+3:452 NOM  RAW 3:244|x.addr RAW 3:248|x.addr RAW 3:253|y.addr RAW 3:257|y.addr RAW 3:262|z.addr RAW 3:266|z.addr RAW 3:297|y.addr RAW 3:297|z.addr RAW 3:702|x.addr
+3:2222 NOM  WAR 3:1753|e_old WAW 5:121|e_old
+3:392 NOM  WAR 3:399|bisectY0 WAR 3:614|bisectY0 INIT *|bisectY0
+3:1885 NOM  RAW 3:1880|phizeta RAW 3:1882|delvm WAR 3:1885|phizeta
+6:504 NOM  RAW 6:75|call142 RAW 6:504|i140 WAR 6:249|i140 WAR 6:504|i140
+3:1880 NOM  RAW 3:1877|delvm RAW 3:1878|delvp WAR 3:1700|phizeta WAR 3:1888|phizeta WAR 3:1915|phizeta WAW 3:1888|phizeta
+3:1955 NOM  RAW 3:1952|numElem WAR 3:1364|allElem WAR 3:2419|allElem
+6:579 NOM  RAW 6:578|i3 WAR 6:461|ghostIdx WAR 6:481|ghostIdx WAR 6:483|ghostIdx WAR 6:557|ghostIdx WAR 6:561|ghostIdx WAW 6:487|ghostIdx
+3:462 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+3:1849 NOM  RAW 3:1843|phieta RAW 3:1846|delvp RAW 3:1848|phieta WAR 3:1849|phieta
+3:2481 NOM  RAW 3:1537|call6 RAW 3:1537|call8 RAW 3:2464|qqc2 RAW 3:2476|indx
+3:1772 NOM  RAW 3:1634|domain.addr RAW 3:1771|i RAW 6:507|call5 WAR 3:1699|ielem WAR 3:1919|ielem
+5:392 NOM  RAW 6:32|this1
+3:1807 NOM  RAW 3:1765|monoq_limiter_mult RAW 3:1802|delvm WAR 3:1807|delvm
+3:260 NOM  RAW 3:233|nd0i RAW 3:340|domain.addr RAW 3:702|elemZ.addr RAW 3:768|elemZ.addr RAW 3:772|domain.addr RAW 3:1217|call39 RAW 3:1427|elemZ.addr RAW 6:232|call39 RAW 6:579|elemZ.addr WAR 3:307|elemZ.addr WAR 3:466|elemZ.addr WAR 3:557|elemZ.addr WAR 3:1028|elemZ.addr INIT *|elemZ.addr
+3:1753 NOM  RAW 3:1679|zv0 RAW 3:1680|zv1 RAW 3:1681|zv2 RAW 3:1682|zv3 RAW 3:1683|zv4 RAW 3:1684|zv5 RAW 3:1685|zv6 RAW 3:1686|zv7 WAR 3:1737|dzv
+5:334 NOM  RAW 5:226|this1
+3:256 NOM  RAW 3:238|nd5i RAW 3:340|domain.addr RAW 3:691|elemY.addr RAW 3:769|elemY.addr RAW 3:772|domain.addr RAW 3:1216|call33 RAW 6:231|call33 RAW 6:579|elemY.addr WAR 3:304|elemY.addr WAR 3:473|elemY.addr WAR 3:556|elemY.addr WAR 3:1027|elemY.addr INIT *|elemY.addr
+3:1749 NOM  RAW 3:1689|norm RAW 3:1743|az WAR 3:1749|az
+3:252 NOM  RAW 3:234|nd1i RAW 3:340|domain.addr RAW 3:691|elemY.addr RAW 3:769|elemY.addr RAW 3:772|domain.addr RAW 3:1216|call25 RAW 6:231|call25 RAW 6:579|elemY.addr WAR 3:302|elemY.addr WAR 3:451|elemY.addr WAR 3:556|elemY.addr WAR 3:1027|elemY.addr INIT *|elemY.addr
+3:1745 NOM  RAW 3:1619|i RAW 3:1688|vol RAW 3:1741|ax RAW 3:1742|ay RAW 3:1743|az RAW 5:121|domain.addr WAW 3:1594|call249 INIT *|call249
+5:329 NOM  RAW 5:231|this1
+3:251 NOM  RAW 3:233|nd0i RAW 3:340|domain.addr RAW 3:691|elemY.addr RAW 3:769|elemY.addr RAW 3:772|domain.addr RAW 3:1216|call23 RAW 6:231|call23 RAW 6:579|elemY.addr WAR 3:302|elemY.addr WAR 3:466|elemY.addr WAR 3:556|elemY.addr WAR 3:1027|elemY.addr INIT *|elemY.addr
+5:327 NOM  RAW 5:229|this1
+3:1742 NOM  RAW 3:1695|dxi RAW 3:1697|dzi RAW 3:1699|dxk RAW 3:1701|dzk WAR 3:1737|ay
+3:249 NOM  RAW 3:240|nd7i RAW 3:340|domain.addr RAW 3:342|elemX.addr RAW 3:770|elemX.addr RAW 3:772|domain.addr RAW 3:1215|call21 RAW 6:230|call21 RAW 6:552|elemX.addr WAR 3:300|elemX.addr WAR 3:472|elemX.addr WAR 3:555|elemX.addr WAR 3:1026|elemX.addr WAR 3:1534|elemX.addr INIT *|elemX.addr
+3:958 NOM  RAW 3:556|call618 RAW 3:691|hgfy RAW 3:863|n6si2 RAW 6:579|domain.addr WAR 3:958|call618
+3:1667 NOM  RAW 3:1195|call39 RAW 3:1631|n6 RAW 5:121|domain.addr WAR 3:1479|xv6 WAR 3:1751|xv6
+3:1737 NOM  RAW 3:1619|i RAW 3:1729|ax RAW 3:1730|ay RAW 3:1731|az RAW 3:1733|dxv RAW 3:1734|dyv RAW 3:1735|dzv RAW 5:121|domain.addr WAR 3:805|call231 WAR 3:806|call231 WAR 3:807|call231 WAR 3:808|call231 WAR 3:811|call231 WAR 3:812|call231 WAR 3:813|call231 WAR 3:814|call231 WAR 3:816|call231 WAR 3:817|call231 WAR 3:820|call231 WAR 3:821|call231 WAR 3:824|call231 WAR 3:825|call231 WAR 3:828|call231 WAR 3:829|call231 WAR 3:832|call231 WAR 3:833|call231 WAR 3:836|call231 WAR 3:837|call231 WAR 3:840|call231 WAR 3:841|call231 WAR 3:844|call231 WAR 3:845|call231 WAR 3:1783|call231 WAR 3:1793|call231 WAR 3:1821|call231 WAR 3:1831|call231 WAR 3:1854|call231 WAR 3:1858|call231 WAR 3:1868|call231 WAR 3:1897|call231 WAR 3:1898|call231 WAR 3:1899|call231 WAR 3:2190|call231 WAW 3:1709|call231 WAW 3:1745|call231 INIT *|call231
+3:244 NOM  RAW 3:235|nd2i RAW 3:340|domain.addr RAW 3:342|elemX.addr RAW 3:770|elemX.addr RAW 3:772|domain.addr RAW 3:1215|call11 RAW 6:230|call11 RAW 6:552|elemX.addr WAR 3:298|elemX.addr WAR 3:458|elemX.addr WAR 3:555|elemX.addr WAR 3:1026|elemX.addr INIT *|elemX.addr
+3:953 NOM  RAW 3:555|call606 RAW 3:680|hgfx RAW 3:862|n5si2 RAW 3:957|call606 RAW 3:961|call606 RAW 6:579|domain.addr WAR 3:953|call606
+5:320 NOM  RAW 5:248|this1
+3:1735 NOM  RAW 3:1679|zv0 RAW 3:1680|zv1 RAW 3:1681|zv2 RAW 3:1682|zv3 RAW 3:1683|zv4 RAW 3:1684|zv5 RAW 3:1685|zv6 RAW 3:1686|zv7 WAR 3:1719|dzv
+3:242 NOM  RAW 3:233|nd0i RAW 3:340|domain.addr RAW 3:342|elemX.addr RAW 3:770|elemX.addr RAW 3:772|domain.addr RAW 3:1215|call RAW 6:230|call RAW 6:552|elemX.addr WAR 3:297|elemX.addr WAR 3:466|elemX.addr WAR 3:555|elemX.addr WAR 3:1026|elemX.addr INIT *|elemX.addr
+3:951 NOM  RAW 3:557|call603 RAW 3:702|hgfz RAW 3:861|n4si2 RAW 3:955|call603 RAW 3:963|call603 RAW 6:579|domain.addr WAR 3:951|call603
+3:240 NOM  RAW 3:341|elemToNode.addr RAW 3:771|elemToNode.addr RAW 6:259|elemToNode.addr RAW 6:542|elemToNode.addr WAR 3:267|nd7i WAR 3:321|nd7i WAR 3:828|nd7i WAR 3:844|nd7i WAR 3:947|nd7i WAR 3:1497|nd7i WAR 6:626|nd7i INIT *|nd7i
+3:1733 NOM  RAW 3:1661|xv0 RAW 3:1662|xv1 RAW 3:1663|xv2 RAW 3:1664|xv3 RAW 3:1665|xv4 RAW 3:1666|xv5 RAW 3:1667|xv6 RAW 3:1668|xv7 WAR 3:1719|dxv
+3:949 NOM  RAW 3:555|call597 RAW 3:680|hgfx RAW 3:861|n4si2 RAW 3:953|call597 RAW 3:961|call597 RAW 6:579|domain.addr WAR 3:949|call597
+3:2442 NOM  RAW 3:2583|numElem.addr
+6:715 NOM  RAW 6:710|dx RAW 6:711|dy RAW 6:712|dz
+3:946 NOM  RAW 3:556|call591 RAW 3:691|hgfy RAW 3:860|n3si2 RAW 3:942|call591 RAW 3:950|call591 RAW 3:962|call591 RAW 6:579|domain.addr WAR 3:946|call591
+3:1655 NOM  RAW 3:1217|call28 RAW 3:1628|n3 RAW 5:121|domain.addr WAR 3:1701|z3 WAW 3:361|z3
+6:351 NOM  RAW 6:59|this1 RAW 6:69|this1 INIT *|this1
+3:1727 NOM  RAW 3:1619|i RAW 3:1688|vol RAW 3:1723|ax RAW 3:1724|ay RAW 3:1725|az RAW 5:121|domain.addr WAW 3:1593|call198 WAW 3:1595|call198
+3:234 NOM  RAW 3:341|elemToNode.addr RAW 3:771|elemToNode.addr RAW 6:253|elemToNode.addr RAW 6:542|elemToNode.addr WAR 3:487|nd1i WAR 3:660|nd1i WAR 3:802|nd1i WAR 3:840|nd1i WAR 3:959|nd1i WAR 3:1499|nd1i WAW 6:579|nd1i INIT *|nd1i
+6:712 NOM  RAW 6:684|testProcs INIT *|dz
+3:943 NOM  RAW 3:557|call585 RAW 3:702|hgfz RAW 3:859|n2si2 RAW 3:951|call585 RAW 3:955|call585 RAW 3:959|call585 RAW 3:963|call585 RAW 6:579|domain.addr WAR 3:943|call585
+3:1652 NOM  RAW 3:1217|call25 RAW 3:1625|n0 RAW 5:121|domain.addr WAR 3:1701|z0 WAW 3:364|z0
+3:2024 NOM  WAR 3:2026|c1s INIT *|c1s
+3:531 NOM  RAW 3:524|elemToNode RAW 3:1665|domain.addr
+3:524 NOM  RAW 3:522|k RAW 3:1665|domain.addr WAR 3:554|elemToNode WAR 3:2267|elemToNode INIT *|elemToNode
+3:522 NOM  RAW 3:522|k WAR 3:522|k INIT *|k
+3:1231 NOM  WAR 3:1249|u_cut WAR 6:102|u_cut
+3:514 NOM  RAW 3:502|numthreads
+3:1995 NOM  RAW 3:1952|numElem RAW 3:1995|i WAR 3:1581|i WAR 3:1995|i
+3:502 NOM  WAR 3:1752|numthreads INIT *|numthreads
+3:1549 NOM  RAW 3:1767|deltaTime.addr WAR 3:472|dt2 WAR 3:1554|dt2
+6:173 NOM  RAW 6:159|i102 RAW 6:171|volume INIT *|call135
+3:284 NOM  RAW 3:283|i RAW 3:1663|domain.addr RAW 3:1664|sigxx.addr RAW 3:1665|sigyy.addr RAW 3:1666|sigzz.addr RAW 3:2300|call RAW 3:2302|call1 RAW 6:92|call RAW 6:93|call1 WAR 3:549|sigzz.addr WAR 3:549|sigyy.addr WAR 3:805|sigyy.addr WAR 3:806|sigyy.addr WAR 3:807|sigyy.addr WAR 3:808|sigyy.addr WAR 3:811|sigzz.addr WAR 3:811|sigyy.addr WAR 3:811|sigxx.addr WAR 3:812|sigzz.addr WAR 3:812|sigyy.addr WAR 3:812|sigxx.addr WAR 3:813|sigzz.addr WAR 3:813|sigyy.addr WAR 3:813|sigxx.addr WAR 3:814|sigzz.addr WAR 3:814|sigyy.addr WAR 3:814|sigxx.addr WAR 3:816|sigzz.addr WAR 3:816|sigxx.addr WAR 3:817|sigzz.addr WAR 3:820|sigzz.addr WAR 3:820|sigxx.addr WAR 3:821|sigzz.addr WAR 3:824|sigzz.addr WAR 3:824|sigxx.addr WAR 3:825|sigzz.addr WAR 3:828|sigzz.addr WAR 3:828|sigxx.addr WAR 3:829|sigzz.addr WAR 3:832|sigzz.addr WAR 3:832|sigxx.addr WAR 3:833|sigzz.addr WAR 3:836|sigzz.addr WAR 3:836|sigxx.addr WAR 3:837|sigzz.addr WAR 3:840|sigzz.addr WAR 3:840|sigxx.addr WAR 3:841|sigzz.addr WAR 3:844|sigzz.addr WAR 3:844|sigxx.addr WAR 3:845|sigzz.addr WAR 3:855|sigzz.addr WAR 3:855|sigyy.addr WAR 3:855|sigxx.addr WAR 3:1783|sigzz.addr WAR 3:1783|sigyy.addr WAR 3:1793|sigzz.addr WAR 3:1793|sigyy.addr WAR 3:1821|sigzz.addr WAR 3:1821|sigyy.addr WAR 3:1821|sigxx.addr WAR 3:1831|sigzz.addr WAR 3:1831|sigxx.addr WAR 3:1854|sigzz.addr WAR 3:1858|sigzz.addr WAR 3:1858|sigyy.addr WAR 3:1868|sigzz.addr WAR 3:1868|sigyy.addr WAR 3:1897|sigzz.addr WAR 3:1897|sigyy.addr WAR 3:1897|sigxx.addr WAR 3:1898|sigzz.addr WAR 3:1898|sigyy.addr WAR 3:1898|sigxx.addr WAR 3:1899|sigzz.addr WAR 3:1899|sigyy.addr WAR 3:1899|sigxx.addr WAR 3:2025|sigzz.addr WAR 3:2025|sigyy.addr WAR 3:2025|sigxx.addr WAR 3:2064|sigzz.addr WAR 3:2064|sigyy.addr WAR 3:2064|sigxx.addr WAR 3:2077|sigzz.addr WAR 3:2077|sigyy.addr WAR 3:2077|sigxx.addr WAR 3:2138|sigzz.addr WAR 3:2138|sigyy.addr WAR 3:2138|sigxx.addr WAR 3:2139|sigzz.addr WAR 3:2157|sigzz.addr WAR 3:2157|sigyy.addr WAR 3:2167|sigzz.addr WAR 3:2167|sigyy.addr WAR 3:2167|sigxx.addr WAR 3:2190|sigzz.addr WAR 3:2190|sigyy.addr WAR 3:2190|sigxx.addr WAR 3:2191|sigzz.addr WAR 3:2302|sigyy.addr WAR 3:2302|sigxx.addr WAW 3:1593|sigzz.addr WAW 3:1709|sigzz.addr WAW 3:1709|sigyy.addr WAW 3:1709|sigxx.addr WAW 3:1745|sigzz.addr WAW 3:1745|sigyy.addr WAW 3:1745|sigxx.addr WAW 3:2249|sigzz.addr WAW 3:2249|sigyy.addr WAW 3:2249|sigxx.addr WAW 3:2250|sigxx.addr INIT *|sigzz.addr INIT *|sigyy.addr INIT *|sigxx.addr
+6:516 NOM  WAR 6:438|nidx
+3:399 NOM  RAW 3:391|bisectX0 RAW 3:392|bisectY0 RAW 3:394|bisectX1 RAW 3:395|bisectY1 WAR 3:414|areaZ WAR 3:612|areaZ INIT *|areaZ
+3:1892 NOM  RAW 3:1592|call121 RAW 3:1634|domain.addr RAW 3:1772|ielem
+3:1073 NOM  RAW 3:1064|numElem RAW 3:1067|sigxx RAW 3:1068|sigyy RAW 3:1069|sigzz RAW 3:2476|domain.addr RAW 3:2547|domain.addr
+3:464 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+3:1957 NOM  RAW 6:72|call4 RAW 6:74|call6 RAW 6:166|domain.addr
+3:1705 NOM  RAW 3:1692|dyj RAW 3:1693|dzj RAW 3:1696|dyi RAW 3:1697|dzi WAR 3:1755|ax INIT *|ax
+5:290 NOM  RAW 6:525|call
+3:1106 NOM  RAW 6:77|call RAW 6:167|domain.addr WAR 3:1157|numNode INIT *|numNode
+3:397 NOM  RAW 3:392|bisectY0 RAW 3:393|bisectZ0 RAW 3:395|bisectY1 RAW 3:396|bisectZ1 WAR 3:404|areaX INIT *|areaX
+6:166 NOM  RAW 6:162|lnode RAW 6:164|gnode RAW 6:231|call118 WAR 3:1364|y_local INIT *|y_local
+3:557 NOM  RAW 3:488|fz_local RAW 3:553|lnode RAW 3:554|gnode RAW 3:557|call64 RAW 3:1118|call64 RAW 3:1665|domain.addr WAR 3:557|call64
+3:556 NOM  RAW 3:487|fy_local RAW 3:553|lnode RAW 3:554|gnode RAW 3:556|call60 RAW 3:1117|call60 RAW 3:1665|domain.addr WAR 3:556|call60
+3:2683 NOM  INIT *|opts
+3:1712 NOM  RAW 3:1689|norm RAW 3:1706|ay WAR 3:1712|ay
+3:219 NOM  RAW 3:206|call54 RAW 3:216|call54 RAW 3:219|call55 RAW 6:155|call55 RAW 6:192|call54 WAR 3:219|call55
+6:261 NOM  RAW 6:247|nidx RAW 6:261|nidx RAW 6:263|nidx RAW 6:265|nidx WAR 6:261|nidx
+3:1637 NOM  RAW 3:1215|call12 RAW 3:1628|n3 RAW 5:121|domain.addr WAR 3:1699|x3 WAR 3:1883|x3 INIT *|x3
+5:247 NOM  WAW 5:121|this1 INIT *|this1
+3:1662 NOM  RAW 3:1195|call34 RAW 3:1626|n1 RAW 5:121|domain.addr WAR 3:1751|xv1 WAW 3:354|xv1
+3:169 NOM  RAW 3:219|call1 RAW 6:147|call RAW 6:155|call1 WAR 3:215|targetdt INIT *|targetdt
+3:878 NOM  RAW 3:860|n3si2 RAW 3:1199|call467 RAW 6:104|call467 RAW 6:579|domain.addr WAR 3:686|yd1 WAR 3:1341|yd1 INIT *|yd1
+3:473 NOM  RAW 3:247|x.addr RAW 3:248|x.addr RAW 3:256|y.addr RAW 3:257|y.addr RAW 3:265|z.addr RAW 3:266|z.addr RAW 3:297|y.addr RAW 3:297|z.addr RAW 3:702|x.addr
+6:91 NOM  RAW 6:90|i INIT *|call20
+3:1031 NOM  RAW 3:1010|i RAW 3:1663|domain.addr RAW 3:1664|determ.addr RAW 3:2422|call48 RAW 6:99|call48 RAW 6:172|call47 WAR 3:1084|determ.addr
+5:381 NOM  RAW 6:22|this1
+3:303 NOM  RAW 3:253|y.addr RAW 3:254|y.addr RAW 3:341|y.addr RAW 3:771|y.addr RAW 3:1553|y.addr WAR 3:325|y2 WAR 3:325|y3 WAR 3:828|y3 WAR 3:832|y2 WAR 3:1323|y3 WAR 3:1331|y2 WAR 3:1496|y2 INIT *|y2 INIT *|y3
+6:246 NOM  INIT *|zidx
+6:413 NOM  RAW 6:411|call4 WAW 6:47|this1
+3:644 NOM  RAW 3:234|y.addr RAW 3:251|y.addr RAW 3:253|y.addr RAW 3:254|y.addr RAW 3:255|y.addr RAW 3:256|y.addr RAW 3:257|y.addr
+6:230 NOM  RAW 6:223|nidx RAW 6:228|tx RAW 6:233|nidx RAW 6:235|tx INIT *|call
+3:1170 NOM  RAW 3:1169|i11 RAW 6:167|domain.addr WAW 3:1146|call16
+6:559 NOM  RAW 6:75|call42 RAW 6:75|call46 RAW 6:557|i37 INIT *|call50
+3:442 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+3:1499 NOM  RAW 3:297|d.addr RAW 3:1488|dzddy RAW 3:1493|dyddz WAW 3:1499|d.addr WAW 5:121|d.addr
+8:201 NOM  RAW 8:201|j WAR 3:2583|j WAR 8:201|j
+3:1295 NOM  RAW 3:840|z0.addr RAW 3:893|z7.addr WAR 3:703|dz70 WAR 3:1344|dz70 INIT *|dz70
+3:441 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+6:558 NOM  RAW 6:557|i37 INIT *|call41
+3:1498 NOM  RAW 3:297|d.addr RAW 3:1478|dzddx RAW 3:1483|dxddz WAW 3:1498|d.addr WAW 5:121|d.addr
+3:398 NOM  RAW 3:391|bisectX0 RAW 3:393|bisectZ0 RAW 3:394|bisectX1 RAW 3:396|bisectZ1 WAR 3:409|areaY WAR 3:613|areaY INIT *|areaY
+6:111 NOM  RAW 6:108|i53 INIT *|call64
+3:342 NOM  RAW 3:319|fjxxi RAW 3:320|fjxet RAW 3:323|fjyxi RAW 3:324|fjyet WAR 3:369|cjzze WAR 3:938|cjzze WAR 3:1344|cjzze WAR 3:2151|cjzze
+3:1481 NOM  RAW 3:351|pfx RAW 3:770|zvel.addr RAW 3:1449|pfx RAW 3:1546|zvel.addr
+6:105 NOM  RAW 6:102|i38 INIT *|call49
+3:1829 NOM  RAW 3:1775|bcMask
+3:336 NOM  RAW 3:320|fjxet RAW 3:321|fjxze RAW 3:328|fjzet RAW 3:329|fjzze WAR 3:360|cjyxi WAR 3:958|cjyxi WAR 3:1341|cjyxi WAR 3:2190|cjyxi
+3:1045 NOM  RAW 3:1001|dvdx RAW 3:1002|dvdy RAW 3:1003|dvdz RAW 3:1004|x8n RAW 3:1005|y8n RAW 3:1006|z8n RAW 3:1664|determ.addr
+3:1817 NOM  RAW 3:1634|domain.addr RAW 3:1636|ptiny.addr RAW 3:1755|call39 RAW 3:1772|ielem WAR 3:1803|norm
+3:324 NOM  RAW 3:302|y0 RAW 3:302|y1 RAW 3:303|y2 RAW 3:303|y3 RAW 3:304|y4 RAW 3:304|y5 RAW 3:305|y6 RAW 3:305|y7 WAR 3:376|fjyet WAR 3:957|fjyet WAR 3:1321|fjyet WAR 3:1347|fjyet
+6:439 NOM  RAW 6:434|regBinEnd RAW 6:436|i RAW 6:438|costDenominator INIT *|regBinEnd
+3:486 NOM  RAW 3:340|B.addr RAW 3:341|stress_xx.addr RAW 3:401|B.addr RAW 3:402|B.addr RAW 3:403|B.addr RAW 3:404|B.addr RAW 3:485|i RAW 3:702|fx.addr WAR 3:555|fx.addr WAR 3:2267|fx.addr WAR 3:2291|fx.addr WAR 3:2292|fx.addr WAR 3:2293|fx.addr WAR 3:2306|fx.addr WAR 3:2307|fx.addr WAW 5:121|fx.addr INIT *|fx.addr
+6:603 NOM  RAW 6:352|this1
+3:834 NOM  RAW 3:793|i3 RAW 3:810|hourmodz RAW 3:1025|dvdz.addr
+6:167 NOM  RAW 6:162|lnode RAW 6:164|gnode RAW 6:232|call122 WAR 3:1365|z_local INIT *|z_local
+3:1543 NOM  RAW 3:1525|elemToNode RAW 3:1541|lnode RAW 6:252|elemToNode RAW 6:253|elemToNode RAW 6:254|elemToNode RAW 6:255|elemToNode RAW 6:256|elemToNode RAW 6:257|elemToNode RAW 6:258|elemToNode RAW 6:259|elemToNode WAR 3:473|gnode WAR 3:1546|gnode
+3:613 NOM  RAW 3:393|y4.addr RAW 3:394|y3.addr RAW 3:398|x0.addr
+3:2106 NOM  RAW 3:1290|e_new.addr RAW 3:2101|i85 WAR 3:2105|e_new.addr
+6:409 NOM  INIT *|myRank
+3:640 NOM  RAW 3:234|y.addr RAW 3:251|y.addr RAW 3:252|y.addr RAW 3:254|y.addr RAW 3:256|y.addr RAW 3:257|y.addr RAW 3:258|y.addr
+6:485 NOM  RAW 6:414|nextIndex RAW 6:485|nextIndex WAR 6:485|nextIndex
+3:368 NOM  RAW 3:340|cjzxi RAW 3:341|cjzet RAW 3:342|cjzze RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:488|b.addr WAR 3:1483|b.addr WAR 3:1495|b.addr WAR 3:1700|b.addr INIT *|b.addr
+3:649 NOM  RAW 3:236|z.addr RAW 3:260|z.addr RAW 3:261|z.addr RAW 3:263|z.addr RAW 3:265|z.addr RAW 3:266|z.addr RAW 3:267|z.addr
+3:2142 NOM  RAW 3:1290|e_new.addr RAW 3:1299|e_cut.addr RAW 3:2117|i113 RAW 3:2138|e_new.addr
+3:1635 NOM  RAW 3:1215|call10 RAW 3:1626|n1 RAW 5:121|domain.addr WAR 3:1699|x1 INIT *|x1
+6:259 NOM  RAW 6:247|nidx RAW 6:251|localNode RAW 6:261|nidx RAW 6:263|nidx RAW 6:265|nidx RAW 6:345|edgeNodes.addr INIT *|localNode
+3:472 NOM  RAW 3:246|x.addr RAW 3:249|x.addr RAW 3:255|y.addr RAW 3:258|y.addr RAW 3:264|z.addr RAW 3:267|z.addr RAW 3:297|y.addr RAW 3:297|z.addr RAW 3:702|x.addr
+6:241 NOM  RAW 6:70|this1 RAW 6:220|meshEdgeElems RAW 6:225|plane WAR 6:232|tz
+3:1561 NOM  RAW 3:376|detJ
+6:185 NOM  RAW 6:184|scale INIT *|einit
+3:1898 NOM  RAW 3:1634|domain.addr RAW 3:1745|call128 RAW 3:1755|call127 RAW 3:1772|ielem WAR 3:1701|delvxeta WAR 3:1914|delvxeta
+6:522 NOM  RAW 6:516|nidx RAW 6:519|rowInc RAW 6:520|j RAW 6:530|nidx INIT *|call
+5:382 NOM  RAW 6:23|this1
+3:304 NOM  RAW 3:255|y.addr RAW 3:256|y.addr RAW 3:341|y.addr RAW 3:771|y.addr RAW 3:1553|y.addr WAR 3:325|y4 WAR 3:325|y5 WAR 3:820|y5 WAR 3:824|y4 WAR 3:1331|y5 WAR 3:1335|y4 INIT *|y4 INIT *|y5
+3:1730 NOM  RAW 3:1689|norm RAW 3:1724|ay WAR 3:1730|ay
+3:237 NOM  RAW 3:341|elemToNode.addr RAW 3:771|elemToNode.addr RAW 6:256|elemToNode.addr RAW 6:542|elemToNode.addr WAR 3:264|nd4i WAR 3:485|nd4i WAW 6:582|nd4i INIT *|nd4i
+6:354 NOM  RAW 6:70|this1 INIT *|this1
+3:1294 NOM  RAW 3:832|y0.addr RAW 3:840|y7.addr WAR 3:704|dy70 WAR 3:1344|dy70 INIT *|dy70
+3:2712 NOM  RAW 3:2677|numRanks RAW 3:2678|myRank
+3:404 NOM  RAW 3:397|areaX RAW 3:401|normalX3.addr RAW 3:402|normalX3.addr RAW 3:403|normalX3.addr RAW 3:404|normalX3.addr RAW 3:428|normalX3.addr WAR 3:404|normalX3.addr
+3:1897 NOM  RAW 3:1634|domain.addr RAW 3:1727|call125 RAW 3:1737|call124 RAW 3:1772|ielem WAR 3:1701|delvxxi WAR 3:1913|delvxxi
+6:521 NOM  RAW 6:70|this1
+6:85 NOM  RAW 6:77|call14
+3:1461 NOM  RAW 3:360|pfy RAW 3:771|yvel.addr RAW 3:1450|pfy RAW 3:1545|yvel.addr
+6:171 NOM  WAR 6:176|volume INIT *|volume
+3:1491 NOM  RAW 3:360|pfy RAW 3:770|zvel.addr RAW 3:1450|pfy RAW 3:1546|zvel.addr
+6:115 NOM  RAW 6:114|i68 INIT *|call75
+5:380 NOM  RAW 6:21|this1
+3:1795 NOM  WAW 3:1776|delvp
+3:302 NOM  RAW 3:251|y.addr RAW 3:252|y.addr RAW 3:341|y.addr RAW 3:771|y.addr RAW 3:1553|y.addr WAR 3:325|y0 WAR 3:325|y1 WAR 3:836|y1 WAR 3:840|y0 WAR 3:1311|y0 WAR 3:1335|y1 WAR 3:1481|y0 WAR 3:1491|y1 INIT *|y0 INIT *|y1
+3:235 NOM  RAW 3:341|elemToNode.addr RAW 3:771|elemToNode.addr RAW 6:254|elemToNode.addr RAW 6:542|elemToNode.addr WAR 3:262|nd2i WAR 6:574|nd2i INIT *|nd2i
+6:352 NOM  RAW 6:68|this1 INIT *|this1
+3:402 NOM  RAW 3:397|areaX RAW 3:402|normalX1.addr RAW 3:403|normalX1.addr RAW 3:428|normalX1.addr WAR 3:402|normalX1.addr
+6:519 NOM  RAW 6:517|i WAR 6:487|rowInc WAR 6:522|rowInc
+3:1069 NOM  RAW 3:1064|numElem WAW 5:121|sigzz INIT *|sigzz
+3:360 NOM  RAW 3:336|cjyxi RAW 3:337|cjyet RAW 3:338|cjyze RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:487|b.addr WAR 3:1491|b.addr WAR 3:1494|b.addr WAR 5:53|b.addr INIT *|b.addr
+3:632 NOM  RAW 3:234|y.addr RAW 3:252|y.addr RAW 3:253|y.addr RAW 3:254|y.addr RAW 3:255|y.addr RAW 3:256|y.addr RAW 3:258|y.addr
+3:1341 NOM  RAW 3:1297|dx63 RAW 3:1298|dy63 RAW 3:1299|dz63 RAW 3:1301|dx20 RAW 3:1302|dy20 RAW 3:1303|dz20 RAW 3:1313|dx31 RAW 3:1314|dy31 RAW 3:1315|dz31 RAW 3:1317|dx72 RAW 3:1318|dy72 RAW 3:1319|dz72
+3:1306 NOM  RAW 3:832|y0.addr RAW 3:836|y5.addr WAR 3:674|dy50 WAR 3:1347|dy50 INIT *|dy50
+6:345 NOM  RAW 6:72|call RAW 6:73|call2 RAW 6:73|call10 RAW 6:74|call11 RAW 6:74|call3 RAW 6:74|call5 RAW 6:74|call16 INIT *|maxEdgeSize
+6:618 NOM  RAW 6:575|call64 RAW 6:615|rowInc RAW 6:616|j RAW 6:645|call64 RAW 6:656|call64 RAW 6:664|call64 WAR 6:618|call64
+3:1994 NOM  WAR 3:2416|idx INIT *|idx
+6:394 NOM  RAW 6:70|this1
+3:1334 NOM  RAW 3:836|y2.addr RAW 3:836|y5.addr WAR 3:893|dy25 WAR 3:1347|dy25 INIT *|dy25
+3:444 NOM  RAW 3:242|x.addr RAW 3:246|x.addr RAW 3:251|y.addr RAW 3:255|y.addr RAW 3:260|z.addr RAW 3:264|z.addr RAW 3:297|y.addr RAW 3:297|z.addr RAW 3:702|x.addr
+3:1937 NOM  RAW 3:1936|r RAW 5:121|domain.addr RAW 6:501|call1 RAW 6:506|call1
+6:561 NOM  RAW 6:75|call57 RAW 6:561|i54 WAR 6:520|i54 WAR 6:561|i54
+3:792 NOM  RAW 3:783|i2 RAW 6:579|domain.addr WAR 3:864|elemToNode WAR 3:1347|elemToNode INIT *|elemToNode
+3:2285 NOM  RAW 3:2285|i124 WAR 3:2285|i124 INIT *|i124
+3:2086 NOM  RAW 3:2083|ssc
+6:710 NOM  RAW 6:684|testProcs INIT *|dx
+3:941 NOM  RAW 3:555|call579 RAW 3:680|hgfx RAW 3:859|n2si2 RAW 3:949|call579 RAW 3:953|call579 RAW 3:957|call579 RAW 3:961|call579 RAW 6:579|domain.addr WAR 3:941|call579
+3:1650 NOM  RAW 3:1216|call24 RAW 3:1632|n7 RAW 5:121|domain.addr WAR 3:1493|y7 WAR 3:1700|y7
+3:1919 NOM  RAW 3:1634|domain.addr RAW 3:1772|ielem RAW 3:1893|qlin RAW 3:1907|qlin WAR 3:2250|call175 INIT *|call175
+6:543 NOM  RAW 6:542|i INIT *|call3
+8:185 NOM  RAW 3:169|locDom.addr RAW 3:221|call RAW 8:184|nx8 WAR 3:190|grindTime1
+3:1483 NOM  RAW 3:366|pfz RAW 3:772|xvel.addr RAW 3:1447|inv_detJ RAW 3:1451|pfz RAW 3:1544|xvel.addr WAR 3:321|dxddz
+6:685 NOM  RAW 6:684|testProcs
+6:249 NOM  RAW 6:249|row57 WAR 6:249|row57 INIT *|row57
+3:1625 NOM  RAW 3:1624|elemToNode RAW 6:252|elemToNode WAR 3:1679|n0 INIT *|n0
+3:1894 NOM  WAR 3:1918|qquad
+3:401 NOM  RAW 3:397|areaX RAW 3:401|normalX0.addr RAW 3:403|normalX0.addr RAW 3:404|normalX0.addr RAW 3:428|normalX0.addr WAR 3:401|normalX0.addr
+6:518 NOM  RAW 6:517|i WAR 6:442|planeInc WAR 6:528|planeInc
+6:82 NOM  RAW 6:75|call11
+3:1458 NOM  RAW 3:297|d.addr RAW 3:357|pfy RAW 3:771|yvel.addr RAW 3:1447|inv_detJ RAW 3:1450|pfy RAW 3:1545|yvel.addr WAR 3:1565|d.addr WAR 3:2292|d.addr INIT *|d.addr
+3:427 NOM  RAW 3:427|i WAR 3:264|i WAR 3:427|i
+6:544 NOM  RAW 6:542|i INIT *|call5
+3:775 NOM  WAR 3:840|gamma INIT *|gamma
+3:1484 NOM  RAW 3:367|pfz RAW 3:772|xvel.addr RAW 3:1451|pfz RAW 3:1544|xvel.addr
+8:186 NOM  RAW 3:169|locDom.addr RAW 3:193|numRanks.addr RAW 3:221|call7 RAW 8:184|nx8 WAR 3:206|grindTime2
+6:108 NOM  RAW 6:77|call56 RAW 6:108|i53 WAR 6:108|i53 INIT *|i53
+3:341 NOM  RAW 3:319|fjxxi RAW 3:321|fjxze RAW 3:323|fjyxi RAW 3:325|fjyze WAR 3:376|cjzet WAR 3:942|cjzet WAR 3:1344|cjzet WAR 3:2198|cjzet
+3:238 NOM  RAW 3:341|elemToNode.addr RAW 3:771|elemToNode.addr RAW 6:257|elemToNode.addr RAW 6:542|elemToNode.addr WAR 3:265|nd5i WAR 3:321|nd5i WAR 3:814|nd5i WAR 3:832|nd5i WAR 3:951|nd5i WAR 3:1497|nd5i WAR 6:613|nd5i INIT *|nd5i
+6:355 NOM  RAW 6:59|this1 RAW 6:70|this1 INIT *|this1
+3:1731 NOM  RAW 3:1689|norm RAW 3:1725|az WAR 3:1731|az
+6:625 NOM  RAW 6:59|this1 RAW 6:70|this1
+6:189 NOM  RAW 6:185|einit WAW 6:91|call164
+3:1565 NOM  RAW 3:1458|D RAW 3:1511|k RAW 3:1766|domain.addr WAR 3:549|call64 WAR 3:805|call64 WAR 3:806|call64 WAR 3:807|call64 WAR 3:808|call64 WAR 3:855|call64
+6:411 NOM  INIT *|call
+3:642 NOM  RAW 6:542|dvdx.addr RAW 6:552|dvdy.addr RAW 6:579|dvdz.addr
+3:2135 NOM  RAW 3:836|ql_old.addr RAW 3:836|qq_old.addr RAW 3:2117|i113 RAW 3:2130|ssc124 RAW 3:2132|ssc124 RAW 3:2249|qq_old.addr RAW 3:2250|ql_old.addr WAR 3:1341|q_tilde WAR 3:2140|q_tilde
+3:1197 NOM  RAW 3:1146|call6 RAW 3:1157|dt.addr RAW 3:1170|call6 RAW 3:1189|i RAW 3:1199|call5 RAW 6:104|call5 RAW 6:167|domain.addr WAR 3:1199|ydtmp WAR 6:176|ydtmp
+3:2690 NOM  INIT *|opts
+3:696 NOM  RAW 3:695|i168 RAW 3:816|hourgam.addr RAW 3:820|hourgam.addr RAW 3:884|zd.addr RAW 3:885|zd.addr WAR 3:692|hxx WAR 3:693|hxx
+3:2189 NOM  RAW 3:828|regElemList.addr RAW 3:2188|i RAW 6:507|regElemList.addr WAR 3:2138|ielem WAR 3:2198|ielem
+6:445 NOM  WAR 6:450|i28 WAW 6:235|i28
+3:1821 NOM  RAW 3:1634|domain.addr RAW 3:1755|call45 RAW 3:1772|ielem RAW 6:553|call44 WAR 3:1810|delvm
+3:328 NOM  RAW 3:307|z0 RAW 3:307|z1 RAW 3:308|z2 RAW 3:308|z3 RAW 3:309|z4 RAW 3:309|z5 RAW 3:310|z6 RAW 3:310|z7 WAR 3:376|fjzet WAR 3:945|fjzet WAR 3:1344|fjzet WAR 3:2198|fjzet
+6:548 NOM  RAW 6:548|i11 WAR 6:517|i11 WAR 6:548|i11
+3:1488 NOM  RAW 3:357|pfy RAW 3:770|zvel.addr RAW 3:1447|inv_detJ RAW 3:1450|pfy RAW 3:1546|zvel.addr WAR 3:321|dzddy
+3:2127 NOM  RAW 3:832|vnewc.addr RAW 3:1289|p_new.addr RAW 3:1293|bvc.addr RAW 3:1303|rho0.addr RAW 3:2025|bvc.addr RAW 3:2033|p_new.addr RAW 3:2036|p_new.addr RAW 3:2117|i113 RAW 3:2119|ielem RAW 3:2343|vnewc.addr
+3:634 NOM  RAW 6:542|dvdx.addr RAW 6:552|dvdy.addr RAW 6:579|dvdz.addr
+3:2060 NOM  RAW 3:836|length.addr WAR 3:1347|pHalfStep WAW 5:121|pHalfStep
+6:684 NOM  INIT *|testProcs
+3:1893 NOM  WAR 3:1919|qlin
+6:517 NOM  RAW 6:517|i WAR 6:450|i WAR 6:517|i
+3:748 NOM  WAR 3:329|gamma INIT *|gamma
+3:1813 NOM  RAW 3:1766|monoq_max_slope RAW 3:1805|phixi RAW 3:1810|phixi RAW 3:1811|phixi RAW 3:1812|phixi WAR 3:1813|phixi
+6:437 NOM  RAW 6:436|i INIT *|call17
+5:398 NOM  RAW 6:37|this1
+3:320 NOM  RAW 3:297|x0 RAW 3:297|x1 RAW 3:298|x2 RAW 3:298|x3 RAW 3:299|x4 RAW 3:299|x5 RAW 3:300|x6 RAW 3:300|x7 WAR 3:376|fjxet WAR 3:1341|fjxet WAR 3:2189|fjxet INIT *|fjxet
+3:348 NOM  RAW 3:332|cjxxi RAW 3:333|cjxet RAW 3:334|cjxze RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:486|b.addr WAR 3:1478|b.addr WAR 3:1538|b.addr WAW 5:121|b.addr INIT *|b.addr
+6:465 NOM  WAR 6:225|elements WAR 6:481|elements
+3:1841 NOM  RAW 3:1817|norm RAW 3:1831|delvp RAW 3:1833|delvp WAR 3:1841|delvp
+3:1290 NOM  RAW 3:832|y1.addr RAW 3:840|y6.addr WAR 3:703|dy61 WAR 3:1347|dy61 INIT *|dy61
+6:232 NOM  RAW 6:223|nidx RAW 6:224|tz RAW 6:233|nidx RAW 6:241|tz INIT *|call22
+3:1347 NOM  RAW 3:1289|dx61 RAW 3:1290|dy61 RAW 3:1291|dz61 RAW 3:1305|dx50 RAW 3:1306|dy50 RAW 3:1307|dz50 RAW 3:1329|dx14 RAW 3:1330|dy14 RAW 3:1331|dz14 RAW 3:1333|dx25 RAW 3:1334|dy25 RAW 3:1335|dz25
+3:638 NOM  RAW 6:542|dvdx.addr RAW 6:552|dvdy.addr RAW 6:579|dvdz.addr
+3:1202 NOM  RAW 3:1169|u_cut.addr RAW 3:1201|zdtmp WAR 3:1202|zdtmp
+3:2695 NOM  RAW 8:24|opts
+3:1577 NOM  RAW 3:206|call1 RAW 3:216|call1 RAW 6:166|domain.addr RAW 6:192|call1 WAR 3:1364|deltatime WAR 3:2416|deltatime
+6:201 NOM  RAW 6:44|this1
+3:1954 NOM  RAW 3:1952|numElem
+3:461 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+6:578 NOM  RAW 6:578|i3 WAR 6:578|i3 WAW 6:238|i3
+3:2299 NOM  RAW 3:1672|regElemList.addr RAW 3:2298|i136 RAW 6:507|regElemList.addr WAR 3:2302|ielem140 INIT *|ielem140
+3:806 NOM  RAW 3:236|y8n.addr RAW 3:747|gamma RAW 3:748|gamma RAW 3:755|gamma RAW 3:756|gamma RAW 3:763|gamma RAW 3:764|gamma RAW 3:771|gamma RAW 3:772|gamma RAW 3:793|i3 RAW 3:796|i1 RAW 3:1027|y8n.addr
+3:458 NOM  RAW 3:244|x.addr RAW 3:248|x.addr RAW 3:253|y.addr RAW 3:257|y.addr RAW 3:262|z.addr RAW 3:266|z.addr RAW 3:297|y.addr RAW 3:297|z.addr RAW 3:702|x.addr
+6:575 NOM  RAW 6:574|i INIT *|call2
+3:1630 NOM  RAW 3:1624|elemToNode RAW 6:257|elemToNode WAR 3:1684|n5 WAR 5:121|n5 INIT *|n5
+6:254 NOM  RAW 6:247|nidx RAW 6:251|localNode RAW 6:261|nidx RAW 6:263|nidx RAW 6:265|nidx RAW 6:345|edgeNodes.addr INIT *|localNode
+3:2687 NOM  INIT *|opts
+3:1194 NOM  RAW 3:1169|u_cut.addr RAW 3:1193|xdtmp WAR 3:1194|xdtmp
+3:1627 NOM  RAW 3:1624|elemToNode RAW 6:254|elemToNode WAR 3:1681|n2 INIT *|n2
+6:251 NOM  RAW 6:246|zidx RAW 6:260|zidx WAR 6:259|localNode INIT *|localNode
+3:471 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+6:588 NOM  RAW 6:355|this1
+3:1310 NOM  RAW 3:836|y4.addr RAW 3:840|y6.addr WAR 3:688|dy64 WAR 3:1344|dy64 INIT *|dy64
+3:1065 NOM  RAW 3:1064|numElem
+3:2033 NOM  RAW 3:2025|bvc.addr RAW 3:2030|i5 RAW 3:2064|e_old.addr RAW 3:2103|e_old.addr RAW 3:2106|e_old.addr RAW 3:2138|e_old.addr RAW 3:2143|e_old.addr WAR 3:549|p_new.addr WAR 3:816|p_new.addr WAR 3:817|p_new.addr WAR 3:820|p_new.addr WAR 3:821|p_new.addr WAR 3:824|p_new.addr WAR 3:825|p_new.addr WAR 3:828|p_new.addr WAR 3:829|p_new.addr WAR 3:832|p_new.addr WAR 3:833|p_new.addr WAR 3:836|p_new.addr WAR 3:837|p_new.addr WAR 3:840|p_new.addr WAR 3:841|p_new.addr WAR 3:844|p_new.addr WAR 3:845|p_new.addr WAR 3:855|p_new.addr WAR 3:1783|p_new.addr WAR 3:1793|p_new.addr WAR 3:1821|p_new.addr WAR 3:1868|p_new.addr WAR 3:1897|p_new.addr WAR 3:1898|p_new.addr WAR 3:1899|p_new.addr WAR 3:2025|p_new.addr WAR 3:2041|p_new.addr WAR 3:2064|p_new.addr WAR 3:2077|p_new.addr WAR 3:2138|p_new.addr WAR 3:2139|p_new.addr WAR 3:2140|p_new.addr WAR 3:2157|p_new.addr WAR 3:2159|p_new.addr WAR 3:2167|p_new.addr WAR 3:2190|p_new.addr WAR 3:2191|p_new.addr WAR 3:2302|p_new.addr WAW 3:1594|p_new.addr WAW 3:1709|p_new.addr WAW 3:1745|p_new.addr WAW 3:2249|p_new.addr WAW 3:2250|p_new.addr INIT *|p_new.addr
+3:540 NOM  RAW 3:502|numthreads
+3:1249 NOM  RAW 3:1230|delt RAW 3:1231|u_cut RAW 6:77|call3
+6:582 NOM  RAW 6:75|call10 WAR 6:227|pidx
+3:465 NOM  RAW 3:245|x.addr RAW 3:249|x.addr RAW 3:254|y.addr RAW 3:258|y.addr RAW 3:263|z.addr RAW 3:267|z.addr RAW 3:297|y.addr RAW 3:297|z.addr RAW 3:702|x.addr
+3:1958 NOM  RAW 6:73|call9 RAW 6:74|call11 RAW 6:166|domain.addr
+3:1193 NOM  RAW 3:1145|call1 RAW 3:1157|dt.addr RAW 3:1164|call1 RAW 3:1189|i RAW 3:1195|call RAW 6:103|call RAW 6:167|domain.addr WAR 3:1195|xdtmp WAR 6:176|xdtmp
+3:2686 NOM  INIT *|opts
+3:1802 NOM  RAW 3:1779|norm RAW 3:1783|delvm RAW 3:1784|delvm WAR 3:1802|delvm
+3:309 NOM  RAW 3:264|z.addr RAW 3:265|z.addr RAW 3:342|z.addr RAW 3:770|z.addr RAW 3:1554|z.addr WAR 3:329|z4 WAR 3:329|z5 WAR 3:820|z5 WAR 3:824|z4 WAR 3:1344|z4 WAR 3:1344|z5 WAR 3:2103|z5 WAR 3:2157|z4
+5:387 NOM  RAW 6:28|this1
+3:327 NOM  RAW 3:307|z0 RAW 3:307|z1 RAW 3:308|z2 RAW 3:308|z3 RAW 3:309|z4 RAW 3:309|z5 RAW 3:310|z6 RAW 3:310|z7 WAR 3:338|fjzxi WAR 3:949|fjzxi WAR 3:1333|fjzxi WAR 3:1347|fjzxi
+6:444 NOM  RAW 6:438|costDenominator WAR 6:446|regionVar INIT *|regionVar
+3:675 NOM  RAW 3:673|i RAW 3:824|hourgam.addr RAW 3:828|hourgam.addr RAW 3:868|xd.addr RAW 3:869|xd.addr
+5:399 NOM  RAW 6:38|this1
+6:438 NOM  RAW 6:345|balance.addr RAW 6:433|costDenominator RAW 6:436|i RAW 6:438|costDenominator WAR 6:438|costDenominator
+3:321 NOM  RAW 3:297|x0 RAW 3:297|x1 RAW 3:298|x2 RAW 3:298|x3 RAW 3:299|x4 RAW 3:299|x5 RAW 3:300|x6 RAW 3:300|x7 WAR 3:341|fjxze WAR 3:1341|fjxze WAR 3:2188|fjxze INIT *|fjxze
+6:412 NOM  RAW 6:411|call2 WAW 6:46|this1
+3:643 NOM  RAW 3:242|x.addr RAW 3:244|x.addr RAW 3:245|x.addr RAW 3:246|x.addr RAW 3:247|x.addr RAW 3:248|x.addr RAW 6:579|x.addr
+3:396 NOM  WAR 3:398|bisectZ1 INIT *|bisectZ1
+3:1541 NOM  RAW 3:1541|lnode WAR 3:1541|lnode INIT *|lnode
+6:165 NOM  RAW 6:162|lnode RAW 6:164|gnode RAW 6:230|call114 WAR 3:1363|x_local INIT *|x_local
+6:446 NOM  RAW 6:434|regBinEnd RAW 6:439|regBinEnd RAW 6:444|regionVar RAW 6:445|i28 RAW 6:447|i28
+3:1822 NOM  RAW 3:1634|domain.addr RAW 3:1755|call47 RAW 3:1772|ielem WAR 3:1810|delvm
+3:329 NOM  RAW 3:307|z0 RAW 3:307|z1 RAW 3:308|z2 RAW 3:308|z3 RAW 3:309|z4 RAW 3:309|z5 RAW 3:310|z6 RAW 3:310|z7 WAR 3:337|fjzze WAR 3:941|fjzze WAR 3:1344|fjzze WAR 3:2190|fjzze
+3:258 NOM  RAW 3:240|nd7i RAW 3:340|domain.addr RAW 3:691|elemY.addr RAW 3:769|elemY.addr RAW 3:772|domain.addr RAW 3:1216|call37 RAW 6:231|call37 RAW 6:579|elemY.addr WAR 3:305|elemY.addr WAR 3:472|elemY.addr WAR 3:556|elemY.addr WAR 3:1027|elemY.addr INIT *|elemY.addr
+3:1751 NOM  RAW 3:1661|xv0 RAW 3:1662|xv1 RAW 3:1663|xv2 RAW 3:1664|xv3 RAW 3:1665|xv4 RAW 3:1666|xv5 RAW 3:1667|xv6 RAW 3:1668|xv7 WAR 3:1737|dxv
+3:333 NOM  RAW 3:323|fjyxi RAW 3:325|fjyze RAW 3:327|fjzxi RAW 3:329|fjzze WAR 3:376|cjxet WAR 3:933|cjxet WAR 3:1341|cjxet WAR 3:2190|cjxet
+6:450 NOM  RAW 6:409|myRank RAW 6:411|call37 RAW 6:447|i28 WAR 6:487|regionNum WAW 6:265|regionNum
+3:681 NOM  RAW 3:674|hxx RAW 3:679|i46 RAW 3:816|hourgam.addr RAW 3:820|hourgam.addr RAW 3:824|hourgam.addr RAW 3:828|hourgam.addr RAW 3:832|hourgam.addr RAW 3:836|hourgam.addr RAW 3:840|hourgam.addr RAW 3:844|hourgam.addr
+3:364 NOM  RAW 3:358|b.addr RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:487|b.addr WAR 3:1496|b.addr WAR 3:1878|b.addr WAW 3:364|b.addr INIT *|b.addr
+6:481 NOM  RAW 6:414|nextIndex RAW 6:462|elements RAW 6:465|elements RAW 6:485|nextIndex WAR 6:483|runto WAW 6:432|runto
+3:367 NOM  RAW 3:340|cjzxi RAW 3:341|cjzet RAW 3:342|cjzze RAW 3:691|b.addr RAW 3:769|b.addr WAR 3:488|b.addr WAR 3:1494|b.addr WAR 3:1885|b.addr INIT *|b.addr
+6:484 NOM  RAW 6:414|nextIndex RAW 6:450|regionNum RAW 6:485|nextIndex INIT *|call109
+3:1424 NOM  RAW 3:262|z.addr RAW 3:263|z.addr RAW 3:266|z.addr RAW 3:267|z.addr RAW 3:770|z.addr
+3:1905 NOM  RAW 3:1533|call144 RAW 3:1634|domain.addr RAW 3:1772|ielem RAW 6:172|call143 RAW 6:173|call142 WAR 3:1701|rho WAR 3:1912|rho
+3:412 NOM  RAW 3:399|areaZ RAW 3:412|normalZ1.addr RAW 3:413|normalZ1.addr RAW 3:430|normalZ1.addr WAR 3:412|normalZ1.addr
+6:462 NOM  WAR 6:481|elements
+3:693 NOM  RAW 3:685|hxx RAW 3:690|i135 RAW 3:816|hourgam.addr RAW 3:820|hourgam.addr RAW 3:824|hourgam.addr RAW 3:828|hourgam.addr RAW 3:832|hourgam.addr RAW 3:836|hourgam.addr RAW 3:840|hourgam.addr RAW 3:844|hourgam.addr
+6:26 NOM  INIT *|this1
+3:1402 NOM  RAW 3:242|x.addr RAW 3:243|x.addr RAW 3:244|x.addr RAW 3:245|x.addr RAW 3:772|x.addr WAR 3:267|a
+3:1938 NOM  RAW 3:1936|r RAW 5:121|domain.addr
+6:562 NOM  RAW 6:561|i54 INIT *|call62
+3:445 NOM  RAW 3:243|x.addr RAW 3:247|x.addr RAW 3:252|y.addr RAW 3:256|y.addr RAW 3:261|z.addr RAW 3:265|z.addr RAW 3:297|y.addr RAW 3:297|z.addr RAW 3:702|x.addr
+3:1706 NOM  RAW 3:1691|dxj RAW 3:1693|dzj RAW 3:1695|dxi RAW 3:1697|dzi WAR 3:1755|ay INIT *|ay
+5:291 NOM  RAW 6:522|call
+6:495 NOM  RAW 6:484|call119 RAW 6:494|i114 WAR 6:496|r WAW 6:260|r
+6:499 NOM  RAW 6:411|call127 RAW 6:499|i125 WAR 6:248|i125 WAR 6:499|i125
+6:500 NOM  RAW 6:413|this1 RAW 6:437|call130 RAW 6:496|call130 RAW 6:499|i125 INIT *|this1
+6:505 NOM  RAW 6:484|call146 RAW 6:504|i140 WAR 6:250|r145 WAR 6:507|r145
+3:1882 NOM  RAW 3:1765|monoq_limiter_mult RAW 3:1877|delvm WAR 3:1882|delvm
+6:506 NOM  RAW 6:501|call148 RAW 6:505|r145 RAW 6:506|call148 WAR 6:506|call148 WAR 6:507|regndx INIT *|regndx
+3:1883 NOM  RAW 3:1765|monoq_limiter_mult RAW 3:1878|delvp WAR 3:1883|delvp
+6:507 NOM  RAW 6:504|i140 RAW 6:505|r145 RAW 6:506|regndx INIT *|call150
+3:1447 NOM  RAW 3:1427|detJ.addr WAR 3:321|inv_detJ
+3:403 NOM  RAW 3:397|areaX RAW 3:402|normalX2.addr RAW 3:428|normalX2.addr WAR 3:403|normalX2.addr
+6:520 NOM  RAW 6:520|j WAR 6:446|j WAR 6:520|j
+5:45 NOM  RAW 5:121|arg.addr
+3:1460 NOM  RAW 3:359|pfy RAW 3:771|yvel.addr RAW 3:1450|pfy RAW 3:1545|yvel.addr
+3:751 NOM  WAR 3:329|gamma INIT *|gamma
+3:2244 NOM  RAW 3:1672|regElemList.addr RAW 3:2243|i RAW 6:507|regElemList.addr WAR 3:2250|ielem INIT *|ielem
+3:1901 NOM  RAW 3:1897|delvxxi WAR 3:1901|delvxxi
+3:408 NOM  RAW 3:398|areaY RAW 3:407|normalY2.addr RAW 3:429|normalY2.addr WAR 3:408|normalY2.addr
+6:525 NOM  RAW 6:516|nidx RAW 6:518|planeInc RAW 6:520|j RAW 6:530|nidx INIT *|call12
+3:1465 NOM  RAW 3:368|pfz RAW 3:770|zvel.addr RAW 3:1451|pfz RAW 3:1546|zvel.addr
+3:411 NOM  RAW 3:399|areaZ RAW 3:411|normalZ0.addr RAW 3:413|normalZ0.addr RAW 3:414|normalZ0.addr RAW 3:430|normalZ0.addr WAR 3:411|normalZ0.addr
+6:528 NOM  RAW 6:516|nidx RAW 6:518|planeInc RAW 6:520|j RAW 6:530|nidx INIT *|call19
+5:53 NOM  RAW 3:1544|arg.addr RAW 3:1905|arg.addr RAW 6:185|arg.addr
+6:92 NOM  RAW 6:90|i INIT *|call22
+3:1468 NOM  RAW 3:348|pfx RAW 3:771|yvel.addr RAW 3:1447|inv_detJ RAW 3:1449|pfx RAW 3:1545|yvel.addr WAR 3:321|dyddx
+3:433 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+6:550 NOM  RAW 6:75|call18 RAW 6:75|call16 RAW 6:548|i11 INIT *|call21
+8:192 NOM  RAW 3:169|locDom.addr RAW 3:221|call24
+3:1490 NOM  RAW 3:359|pfy RAW 3:770|zvel.addr RAW 3:1450|pfy RAW 3:1546|zvel.addr
+6:114 NOM  RAW 6:77|call71 RAW 6:114|i68 WAR 6:114|i68 INIT *|i68
+3:437 NOM  RAW 3:242|x.addr RAW 3:243|x.addr RAW 3:251|y.addr RAW 3:252|y.addr RAW 3:260|z.addr RAW 3:261|z.addr RAW 3:297|y.addr RAW 3:297|z.addr RAW 3:702|x.addr
+6:554 NOM  RAW 6:552|i25 INIT *|call33
+6:118 NOM  RAW 6:55|edgeElems RAW 6:56|edgeNodes
+3:1494 NOM  RAW 3:367|pfz RAW 3:771|yvel.addr RAW 3:1451|pfz RAW 3:1545|yvel.addr
+3:436 NOM  RAW 3:341|pfx.addr RAW 3:342|pfy.addr RAW 3:691|pfz.addr
+6:553 NOM  RAW 6:552|i25 INIT *|call31
+8:195 NOM  RAW 3:169|locDom.addr RAW 3:2301|call37 RAW 8:188|ElemId RAW 8:195|agg.tmp32 WAR 6:70|agg.tmp32
+3:1493 NOM  RAW 3:366|pfz RAW 3:771|yvel.addr RAW 3:1447|inv_detJ RAW 3:1451|pfz RAW 3:1545|yvel.addr WAR 3:321|dyddz
+6:563 NOM  RAW 6:561|i54 INIT *|call65
+3:794 NOM  RAW 3:783|i2 RAW 3:1031|determ.addr RAW 6:579|determ.addr WAR 3:844|volinv WAR 3:1347|volinv INIT *|volinv
+6:614 NOM  RAW 6:613|i51 WAR 6:436|planeInc WAR 6:664|planeInc
+3:845 NOM  RAW 3:793|i3 RAW 3:804|hourmody RAW 3:1024|dvdy.addr
+3:1554 NOM  RAW 3:260|z_local RAW 3:261|z_local RAW 3:262|z_local RAW 3:263|z_local RAW 3:264|z_local RAW 3:265|z_local RAW 3:266|z_local RAW 3:267|z_local RAW 3:1546|zd_local RAW 3:1549|dt2 RAW 3:1550|j WAR 3:1554|z_local
+6:645 NOM  RAW 6:575|call126 RAW 6:614|planeInc RAW 6:616|j RAW 6:626|call126 WAR 6:645|call126
+3:2369 NOM  RAW 3:2335|eosvmin
+3:876 NOM  RAW 3:858|n1si2 RAW 3:1199|call463 RAW 6:104|call463 RAW 6:579|domain.addr WAR 3:685|yd1 WAR 3:2135|yd1 INIT *|yd1
+6:656 NOM  RAW 6:575|call148 RAW 6:614|planeInc RAW 6:616|j RAW 6:626|call148 RAW 6:637|call148 RAW 6:645|call148 WAR 6:656|call148
+3:887 NOM  RAW 3:860|n3si2 RAW 3:1203|call483 RAW 6:105|call483 RAW 6:579|domain.addr WAR 3:697|zd1 WAR 3:1344|zd1 INIT *|zd1
+6:664 NOM  RAW 6:575|call171 RAW 6:614|planeInc RAW 6:616|j RAW 6:626|call171 RAW 6:645|call171 WAR 6:664|call171
+3:239 NOM  RAW 3:341|elemToNode.addr RAW 3:771|elemToNode.addr RAW 6:258|elemToNode.addr RAW 6:542|elemToNode.addr WAR 3:266|nd6i WAR 6:664|nd6i INIT *|nd6i
+3:1657 NOM  RAW 3:1217|call30 RAW 3:1630|n5 RAW 5:121|domain.addr WAR 3:1490|z5 WAR 3:1701|z5
+6:626 NOM  RAW 6:75|call78 RAW 6:575|call82 RAW 6:615|rowInc RAW 6:616|j WAR 6:626|call82
+3:2002 NOM  RAW 3:1994|idx
+3:857 NOM  RAW 3:792|elemToNode RAW 6:252|elemToNode WAR 3:935|n0si2 INIT *|n0si2
+3:2350 NOM  RAW 3:2335|eosvmin RAW 3:2337|vnewc RAW 3:2343|vnewc RAW 3:2349|i8
+3:2791 END program

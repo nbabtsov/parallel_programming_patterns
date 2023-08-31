@@ -1,0 +1,6 @@
+            for(Index_t i=0 ; i<numElemReg ; ++i) {
+               Index_t ielem = regElemList[i];
+               if (vnewc[ielem] <= eosvmin) { /* impossible due to calling func? */
+                  compHalfStep[i] = compression[i] ;
+               }
+            }

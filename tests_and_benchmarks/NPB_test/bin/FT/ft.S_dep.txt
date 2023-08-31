@@ -1,0 +1,429 @@
+START 48:50
+45:122 BGN loop 1024
+45:129 END loop
+45:181 BGN loop 64
+45:187 END loop
+45:180 BGN loop 64
+45:188 END loop
+44:86 BGN loop 64
+44:90 END loop
+44:80 BGN loop 64
+44:92 END loop
+46:207 BGN loop 64
+46:212 END loop
+50:184 BGN loop 6
+50:193 END loop
+46:202 BGN loop 32
+46:205 END loop
+45:182 BGN loop 64
+45:186 END loop
+46:201 BGN loop 64
+46:206 END loop
+46:197 BGN loop 2
+46:213 END loop
+46:196 BGN loop 64
+46:214 END loop
+46:181 BGN loop 64
+46:189 END loop
+46:182 BGN loop 2
+46:188 END loop
+45:163 BGN loop 64
+45:172 END loop
+45:158 BGN loop 63
+45:163 END loop
+46:81 BGN loop 14
+46:102 END loop
+45:57 BGN loop 10
+45:61 END loop
+46:162 BGN loop 64
+46:165 END loop
+45:74 BGN loop 5
+45:78 END loop
+46:93 BGN loop 32
+46:99 END loop
+44:60 BGN loop 15
+44:64 END loop
+25:122 BGN loop 128
+25:140 END loop
+46:208 BGN loop 32
+46:211 END loop
+46:161 BGN loop 32
+46:166 END loop
+44:101 BGN loop 6
+44:114 END loop
+45:167 BGN loop 64
+45:170 END loop
+46:92 BGN loop 2
+46:100 END loop
+45:165 BGN loop 64
+45:171 END loop
+46:157 BGN loop 2
+46:173 END loop
+46:156 BGN loop 64
+46:174 END loop
+46:75 BGN loop 3
+46:136 END loop
+45:101 BGN loop 13
+45:111 END loop
+46:167 BGN loop 32
+46:172 END loop
+46:125 BGN loop 4
+46:133 END loop
+46:126 BGN loop 32
+46:132 END loop
+44:83 BGN loop 64
+44:91 END loop
+45:55 BGN loop 6
+45:64 END loop
+46:168 BGN loop 64
+46:171 END loop
+44:119 BGN func 22:57
+44:106 BGN func 46:140
+48:85 BGN func 23:6
+44:103 BGN func 45:175
+44:98 BGN func 46:140
+44:95 BGN func 45:136
+44:73 BGN func 22:34
+22:47 BGN func 22:13
+50:185 BGN func 47:68
+44:71 BGN func 22:43
+46:206 BGN func 46:59
+44:109 BGN func 45:117
+46:194 BGN func 45:67
+46:186 BGN func 46:59
+22:36 BGN func 22:13
+44:67 BGN func 45:44
+46:166 BGN func 46:59
+44:65 BGN func 45:136
+45:152 BGN func 25:4
+44:115 BGN func 50:41
+44:68 BGN func 45:44
+44:64 BGN func 22:34
+44:61 BGN func 22:25
+45:153 BGN func 45:85
+22:15 BGN func 29:7
+48:72 BGN func 48:98
+45:151 BGN func 45:85
+45:104 BGN func 25:4
+48:74 BGN func 44:53
+45:111 BGN func 25:4
+45:159 BGN func 25:4
+45:166 BGN func 25:71
+45:51 BGN func 45:67
+44:117 BGN func 22:43
+44:70 BGN func 46:140
+44:69 BGN func 45:44
+46:154 BGN func 45:67
+46:179 BGN func 45:67
+22:16 END func
+22:28 END func
+22:37 END func
+22:51 END func
+22:59 END func
+23:65 END func
+25:67 END func
+25:140 END func
+29:14 END func
+44:137 END func
+45:64 END func
+45:79 END func
+45:114 END func
+45:133 END func
+45:172 END func
+45:188 END func
+46:137 END func
+46:216 END func
+47:78 END func
+48:98 END func
+50:199 END func
+46:114 NOM  RAW 46:111|li RAW 46:114|i WAR 46:81|i WAR 46:114|i
+48:76 NOM  RAW 44:119|total_time
+46:179 NOM  RAW 45:55|n2.addr RAW 45:122|n2.addr WAR 46:166|log
+48:74 NOM  RAW 48:65|niter
+23:55 NOM  RAW 44:88|cs5.addr
+48:58 NOM  INIT *|fp
+44:60 NOM  RAW 44:60|i WAR 44:60|i INIT *|i
+25:105 NOM  WAR 25:61|t23 WAW 25:105|t23
+46:112 NOM  RAW 46:111|li WAR 46:88|ku WAR 46:90|ku
+44:109 NOM  RAW 44:101|kt
+45:145 NOM  WAW 45:145|a INIT *|a
+46:121 NOM  RAW 25:137|exponent.addr RAW 46:112|ku RAW 46:114|i
+46:88 NOM  RAW 25:137|exponent.addr RAW 46:79|ku RAW 46:81|i
+45:112 NOM  RAW 25:64|r WAW 45:95|result
+44:101 NOM  RAW 44:101|kt WAR 44:101|kt WAW 44:88|kt
+45:113 NOM  RAW 45:112|result WAR 25:65|retval
+46:111 NOM  RAW 46:78|li WAR 46:111|li
+45:95 NOM  WAR 25:137|result WAW 25:37|result INIT *|result
+44:119 NOM  RAW 44:88|total_time.addr WAR 45:183|total_time.addr
+48:69 NOM  RAW 48:65|niter
+46:117 NOM  RAW 46:110|lj RAW 46:114|i WAR 46:96|i21 WAR 46:129|i21
+50:51 NOM  WAR 45:183|epsilon
+45:163 NOM  RAW 45:163|k WAR 45:158|k WAR 45:163|k
+46:84 NOM  RAW 46:77|lj RAW 46:81|i WAR 45:183|i21 WAR 46:96|i21 WAR 46:129|i21 INIT *|i21
+44:61 NOM  RAW 44:60|i
+29:12 NOM  RAW 29:12|sec INIT *|sec
+45:98 NOM  WAR 25:61|r
+46:74 NOM  RAW 45:76|m.addr WAR 45:183|li WAR 46:114|li INIT *|li
+44:80 NOM  RAW 44:80|i WAR 44:60|i WAR 44:80|i
+45:56 NOM  RAW 45:54|ln RAW 45:62|ln WAR 45:58|t WAW 25:137|t
+44:78 NOM  INIT *|n32
+45:54 NOM  WAW 25:137|ln WAW 45:62|ln
+45:79 NOM  RAW 45:78|retval
+45:76 NOM  RAW 45:72|lg RAW 45:76|lg WAR 45:76|lg
+46:73 NOM  WAR 45:183|lj WAR 46:117|lj WAW 25:137|lj
+45:97 NOM  WAW 25:39|q
+45:131 NOM  RAW 45:183|csum_temp
+46:192 NOM  RAW 46:191|fftblock WAR 46:192|fftblock
+46:120 NOM  RAW 45:75|is.addr
+45:144 NOM  WAW 45:144|seed INIT *|seed
+48:72 NOM  INIT *|Class
+45:48 NOM  WAW 25:137|pi WAW 45:48|pi
+25:36 NOM  WAR 25:117|r23 WAW 25:36|r23 INIT *|r23
+22:59 NOM  RAW 22:49|elapsed
+46:194 NOM  RAW 25:137|n3.addr RAW 45:62|n3.addr RAW 45:123|n3.addr WAR 46:186|log
+25:104 NOM  WAW 25:39|r46 WAW 25:104|r46
+25:115 NOM  RAW 25:36|a.addr WAR 25:64|t1 WAR 25:133|t1
+25:116 NOM  RAW 25:115|t1 WAR 25:59|a1 WAR 25:131|a1
+25:39 NOM  WAR 45:111|t46 WAW 25:39|t46 WAW 25:104|t46 INIT *|t46
+45:151 NOM  WAW 44:88|an INIT *|an
+48:79 NOM  RAW 48:65|niter
+46:127 NOM  RAW 46:115|i11 RAW 46:125|k RAW 46:126|j
+23:54 NOM  RAW 44:88|cs4.addr
+46:176 NOM  RAW 45:55|n2.addr RAW 45:122|n2.addr WAR 46:157|fftblock
+46:177 NOM  RAW 46:176|fftblock WAR 46:177|fftblock
+46:178 NOM  RAW 46:177|fftblock WAR 46:169|blkp
+46:161 NOM  RAW 46:157|bls RAW 46:158|ble RAW 46:161|j WAR 46:161|j WAR 46:167|j WAR 46:208|j WAW 25:137|j WAW 45:59|j WAW 45:127|j
+46:81 NOM  RAW 46:78|li RAW 46:81|i WAR 45:183|i WAR 46:81|i WAR 46:114|i INIT *|i
+45:105 NOM  RAW 45:102|n2 WAR 45:103|n
+46:151 NOM  RAW 44:88|n1.addr RAW 45:57|n1.addr WAR 45:183|fftblock WAR 46:197|fftblock INIT *|fftblock
+25:59 NOM  RAW 25:48|a1 RAW 25:49|a2 RAW 25:57|x1 RAW 25:58|x2 WAR 25:57|t1
+45:132 NOM  RAW 44:88|csum.addr
+25:58 NOM  RAW 25:57|x1 RAW 25:64|x.addr RAW 44:88|x.addr RAW 45:96|x.addr RAW 45:97|x.addr RAW 45:98|x.addr RAW 45:113|x.addr RAW 45:147|x.addr WAR 25:62|x2 WAW 44:88|x2 INIT *|x2
+44:92 NOM  RAW 48:62|timers_enabled
+46:76 NOM  RAW 46:73|lj RAW 46:110|lj WAR 45:183|lk WAR 46:125|lk INIT *|lk
+45:164 NOM  RAW 45:157|RanStarts RAW 45:160|RanStarts RAW 45:163|k WAR 25:137|x0 WAW 44:88|x0 INIT *|x0
+46:87 NOM  RAW 45:75|is.addr
+45:111 NOM  RAW 25:64|q WAW 45:104|dummy
+25:38 NOM  WAW 25:38|t23 WAW 25:103|t23 WAW 45:111|t23 INIT *|t23
+25:117 NOM  RAW 25:36|a.addr RAW 25:116|a1 WAR 25:62|a2 WAR 25:134|a2
+46:180 NOM  RAW 48:62|timers_enabled
+46:83 NOM  RAW 46:72|n1 RAW 46:82|i11 WAR 45:183|i12 WAR 46:95|i12 WAR 46:128|i12 WAW 25:137|i12
+45:74 NOM  RAW 25:137|n.addr RAW 45:73|nn RAW 45:75|nn
+46:207 NOM  RAW 25:137|n3.addr RAW 45:62|n3.addr RAW 45:123|n3.addr RAW 46:207|i WAR 46:201|i WAR 46:207|i
+25:67 NOM  RAW 25:65|r
+25:37 NOM  WAR 45:96|r46 WAR 45:113|r46 WAW 25:37|r46 INIT *|r46
+22:36 NOM  INIT *|start
+46:130 NOM  RAW 25:137|x11 RAW 25:137|x21 RAW 25:137|u1 RAW 46:62|x RAW 46:118|i22 RAW 46:125|k RAW 46:126|j RAW 46:130|.compoundliteral207 RAW 46:130|.compoundliteral219 RAW 46:130|.compoundliteral233 RAW 46:130|.compoundliteral245 WAR 45:164|.compoundliteral207 WAR 45:164|.compoundliteral219 WAR 45:164|.compoundliteral204 WAR 45:164|.compoundliteral233 WAR 45:164|.compoundliteral245 WAR 45:183|.compoundliteral207 WAR 45:183|.compoundliteral219 WAR 45:183|.compoundliteral233 WAR 45:183|.compoundliteral245 WAR 46:130|.compoundliteral207 WAR 46:130|.compoundliteral219 WAR 46:130|.compoundliteral233 WAR 46:130|.compoundliteral245 WAW 46:130|.compoundliteral207 WAW 46:130|.compoundliteral219 WAW 46:130|.compoundliteral204 WAW 46:130|.compoundliteral233 WAW 46:130|.compoundliteral245
+23:56 NOM  RAW 44:88|cs6.addr
+25:136 NOM  RAW 25:134|t3 RAW 25:135|t4 WAR 25:130|x.addr
+25:137 NOM  RAW 25:37|y.addr RAW 25:122|i RAW 25:136|x.addr WAR 22:16|y.addr WAR 29:13|y.addr WAR 45:74|y.addr WAR 45:78|y.addr WAR 46:62|y.addr WAR 46:72|y.addr WAR 46:75|y.addr WAR 46:121|y.addr WAR 46:126|y.addr WAR 46:130|y.addr WAR 46:209|y.addr WAW 25:137|y.addr WAW 44:88|y.addr INIT *|y.addr
+45:53 NOM  WAW 45:61|ku INIT *|ku
+44:77 NOM  INIT *|n22
+46:203 NOM  RAW 25:137|x.addr RAW 45:56|x.addr RAW 45:182|x.addr RAW 46:193|blkp RAW 46:196|k RAW 46:197|bls RAW 46:201|i RAW 46:202|j
+44:94 NOM  RAW 48:62|timers_enabled
+45:70 NOM  RAW 25:137|n.addr
+45:167 NOM  RAW 45:167|i WAR 45:167|i INIT *|i
+46:183 NOM  RAW 46:177|fftblock RAW 46:182|bls WAR 46:167|ble WAR 46:185|ble
+45:104 NOM  RAW 25:64|q RAW 45:97|q WAW 25:38|dummy WAW 45:104|dummy
+50:52 NOM  RAW 44:88|verified.addr INIT *|verified.addr
+46:159 NOM  RAW 45:55|n2.addr RAW 45:122|n2.addr RAW 46:158|ble
+45:183 NOM  RAW 22:27|y.addr RAW 22:36|y.addr RAW 22:49|y.addr RAW 25:58|twiddle.addr RAW 25:61|twiddle.addr RAW 25:65|twiddle.addr RAW 25:116|twiddle.addr RAW 25:117|twiddle.addr RAW 25:122|y.addr RAW 25:129|twiddle.addr RAW 25:130|twiddle.addr RAW 25:132|twiddle.addr RAW 25:133|twiddle.addr RAW 25:134|twiddle.addr RAW 25:135|twiddle.addr RAW 25:137|twiddle.addr RAW 29:12|y.addr RAW 44:80|y.addr RAW 44:82|y.addr RAW 44:82|twiddle.addr RAW 44:86|twiddle.addr RAW 44:87|y.addr RAW 44:87|twiddle.addr RAW 44:88|y.addr RAW 44:88|twiddle.addr RAW 44:101|twiddle.addr RAW 45:51|y.addr RAW 45:55|y.addr RAW 45:61|y.addr RAW 45:75|y.addr RAW 45:75|twiddle.addr RAW 45:78|y.addr RAW 45:78|twiddle.addr RAW 45:105|y.addr RAW 45:122|y.addr RAW 45:123|twiddle.addr RAW 45:127|twiddle.addr RAW 45:157|twiddle.addr RAW 45:160|twiddle.addr RAW 45:165|twiddle.addr RAW 45:180|i RAW 45:180|y.addr RAW 45:181|y.addr RAW 45:181|k RAW 45:182|j RAW 45:182|twiddle.addr RAW 45:183|twiddle.addr RAW 46:72|twiddle.addr RAW 46:75|y.addr RAW 46:90|twiddle.addr RAW 46:96|twiddle.addr RAW 46:97|twiddle.addr RAW 46:109|y.addr RAW 46:110|twiddle.addr RAW 46:111|y.addr RAW 46:112|twiddle.addr RAW 46:114|y.addr RAW 46:115|y.addr RAW 46:116|twiddle.addr RAW 46:117|y.addr RAW 46:118|twiddle.addr RAW 46:125|y.addr RAW 46:130|twiddle.addr RAW 46:192|y.addr RAW 46:196|twiddle.addr RAW 46:197|y.addr RAW 46:197|twiddle.addr RAW 46:200|y.addr RAW 46:200|twiddle.addr RAW 46:207|twiddle.addr RAW 48:62|y.addr RAW 48:65|y.addr RAW 48:72|y.addr WAR 45:131|.compoundliteral WAR 45:183|.compoundliteral WAR 46:166|.compoundliteral WAR 46:186|.compoundliteral WAW 45:183|.compoundliteral
+22:47 NOM  WAR 50:185|now WAW 45:50|now
+50:193 NOM  RAW 44:88|verified.addr RAW 50:52|verified.addr
+47:77 NOM  RAW 47:75|real4 RAW 47:76|imag8 WAR 45:183|result WAW 47:77|result INIT *|result
+45:125 NOM  RAW 45:51|d2.addr RAW 45:123|i1 WAR 45:127|ji WAR 46:203|ji
+45:114 NOM  RAW 45:96|retval RAW 45:113|retval
+46:90 NOM  RAW 25:137|exponent.addr RAW 44:88|exponent.addr RAW 46:79|ku RAW 46:81|i WAR 45:183|.compoundliteral WAW 46:90|.compoundliteral
+45:127 NOM  RAW 44:88|u.addr RAW 45:124|ii RAW 45:125|ji RAW 45:126|ki RAW 45:183|csum_temp WAR 46:206|.compoundliteral WAR 46:208|.compoundliteral WAW 45:127|.compoundliteral
+48:80 NOM  RAW 44:119|total_time
+45:152 NOM  RAW 45:151|an WAW 44:88|dummy INIT *|dummy
+46:128 NOM  RAW 46:116|i12 RAW 46:125|k RAW 46:126|j
+45:62 NOM  RAW 45:54|ln RAW 45:62|ln WAR 45:62|ln
+44:86 NOM  RAW 44:86|j RAW 44:88|j WAR 44:86|j INIT *|j
+25:133 NOM  RAW 25:131|t1 RAW 25:132|t2 WAR 25:134|z WAW 44:88|z INIT *|z
+45:122 NOM  RAW 45:122|i WAR 45:122|i WAR 46:196|i
+47:74 NOM  RAW 47:71|c RAW 47:72|d WAR 45:183|divisor WAR 47:76|divisor
+46:62 NOM  RAW 25:137|ox.addr RAW 44:88|xd1.addr WAR 46:130|x WAW 25:137|x
+44:110 NOM  RAW 48:62|timers_enabled
+46:195 NOM  RAW 48:62|timers_enabled
+23:53 NOM  RAW 44:88|cs3.addr
+46:208 NOM  RAW 46:197|bls RAW 46:198|ble RAW 46:208|j WAR 46:202|j WAR 46:208|j
+45:158 NOM  RAW 45:158|k WAR 45:158|k WAR 45:163|k INIT *|k
+48:86 NOM  RAW 44:119|total_time RAW 48:77|mflops RAW 50:52|verified
+44:104 NOM  RAW 48:62|timers_enabled
+50:185 NOM  RAW 25:61|* RAW 25:65|* RAW 25:137|* RAW 25:137|cexpd RAW 44:88|* RAW 44:88|cksum.addr RAW 50:184|kt RAW 50:185|coerce RAW 50:185|coerce536 RAW 50:185|coerce559 RAW 50:185|coerce582 WAR 25:59|.compoundliteral496 WAR 45:183|* WAR 45:183|err WAR 45:183|.compoundliteral496 WAR 45:183|.compoundliteral515 WAR 45:183|.compoundliteral538 WAR 45:183|.compoundliteral561 WAR 50:185|* WAR 50:187|err WAW 50:185|* WAW 50:185|.compoundliteral496 WAW 50:185|.compoundliteral515 WAW 50:185|.compoundliteral538 WAW 50:185|.compoundliteral561 INIT *|*
+44:105 NOM  RAW 48:62|timers_enabled
+45:147 NOM  WAW 44:88|start INIT *|start
+46:123 NOM  RAW 25:137|exponent.addr RAW 44:88|exponent.addr RAW 46:112|ku RAW 46:114|i WAR 45:164|.compoundliteral155 WAW 46:123|.compoundliteral155
+50:183 NOM  RAW 44:88|verified.addr RAW 50:52|verified.addr
+46:215 NOM  RAW 48:62|timers_enabled
+46:202 NOM  RAW 46:197|bls RAW 46:198|ble RAW 46:202|j WAR 46:167|j WAR 46:202|j WAR 46:208|j
+46:189 NOM  RAW 48:62|timers_enabled
+23:40 NOM  RAW 44:79|t.addr
+46:199 NOM  RAW 44:88|n1.addr RAW 45:57|n1.addr RAW 46:198|ble
+46:186 NOM  RAW 25:137|x.addr RAW 25:137|exp2.addr RAW 44:88|n1.addr RAW 45:52|exp2.addr RAW 45:55|n2.addr RAW 45:56|x.addr RAW 45:57|n1.addr RAW 45:61|sign.addr RAW 45:122|n2.addr RAW 45:182|x.addr RAW 45:183|exp2.addr RAW 46:179|log RAW 46:181|k RAW 46:182|bls RAW 46:185|len
+46:153 NOM  RAW 46:152|fftblock WAR 46:209|blkp WAW 25:137|blkp
+50:57 NOM  WAR 45:183|.compoundliteral7
+45:177 NOM  RAW 44:88|ny.addr
+46:196 NOM  RAW 45:55|n2.addr RAW 45:122|n2.addr RAW 46:196|k WAR 46:181|k WAR 46:196|k
+46:60 NOM  RAW 25:137|n.addr
+44:108 NOM  RAW 48:62|timers_enabled
+46:126 NOM  RAW 44:88|vlen.addr RAW 46:126|j WAR 46:93|j WAR 46:126|j
+50:54 NOM  RAW 44:88|nt.addr RAW 44:88|n2.addr
+45:73 NOM  WAR 45:74|nn WAR 45:183|nn WAR 46:120|nn WAW 44:88|nn INIT *|nn
+44:97 NOM  RAW 48:62|timers_enabled
+46:129 NOM  RAW 25:137|x11 RAW 25:137|x21 RAW 46:62|x RAW 46:117|i21 RAW 46:125|k RAW 46:126|j WAR 45:164|.compoundliteral190 WAW 46:129|.compoundliteral190
+45:153 NOM  RAW 44:88|d2.addr WAR 45:152|an
+22:49 NOM  RAW 22:27|elapsed RAW 22:48|t WAR 22:49|elapsed
+46:214 NOM  RAW 48:62|timers_enabled
+46:125 NOM  RAW 46:109|lk RAW 46:125|k WAR 46:92|k WAR 46:125|k
+48:77 NOM  WAR 45:183|mflops
+46:209 NOM  RAW 25:137|xout.addr RAW 44:88|n1.addr RAW 45:55|n2.addr RAW 45:57|n1.addr RAW 45:58|xout.addr RAW 45:122|n2.addr RAW 46:193|blkp RAW 46:196|k RAW 46:197|bls RAW 46:207|i RAW 46:208|j
+46:79 NOM  RAW 46:78|li WAR 45:183|ku WAR 46:121|ku WAR 46:123|ku WAW 25:137|ku
+45:103 NOM  RAW 45:99|n RAW 45:102|n2 RAW 45:105|n
+46:206 NOM  RAW 25:137|n3.addr RAW 25:137|exp3.addr RAW 45:52|exp3.addr RAW 45:61|sign.addr RAW 45:62|n3.addr RAW 45:123|n3.addr RAW 45:127|exp3.addr RAW 46:193|blkp RAW 46:194|log RAW 46:200|len
+25:132 NOM  RAW 25:131|t1 WAR 25:64|t2 WAR 25:133|t2
+45:61 NOM  RAW 45:53|ku RAW 45:54|ln RAW 45:61|ku RAW 45:62|ln WAR 45:61|ku
+44:85 NOM  RAW 44:82|ii2 RAW 44:84|kk RAW 44:88|ii2 WAR 44:88|ik2 INIT *|ik2
+46:200 NOM  RAW 46:197|bls RAW 46:198|ble WAR 46:186|len WAR 46:206|len
+25:106 NOM  WAR 25:61|t46 WAW 25:106|t46
+23:39 NOM  RAW 44:82|niter.addr
+46:198 NOM  RAW 46:192|fftblock RAW 46:197|bls WAR 46:185|ble WAR 46:208|ble
+46:197 NOM  RAW 44:88|n1.addr RAW 45:57|n1.addr RAW 46:192|fftblock RAW 46:197|bls WAR 46:182|bls WAR 46:197|bls
+25:60 NOM  RAW 25:59|t1 WAR 25:61|t2 WAR 45:105|t2 WAW 25:106|t2 INIT *|t2
+22:48 NOM  RAW 22:36|start RAW 22:47|now WAR 50:184|t INIT *|t
+25:49 NOM  RAW 25:48|a1 RAW 44:88|a.addr WAR 25:62|a2 WAW 44:88|a2 INIT *|a2
+45:123 NOM  RAW 45:122|i WAR 45:126|i1 WAR 46:207|i1
+47:75 NOM  RAW 47:69|a RAW 47:70|b RAW 47:71|c RAW 47:72|d RAW 47:74|divisor WAR 45:183|real4 WAR 47:77|real4
+45:50 NOM  WAW 45:50|nu INIT *|nu
+44:74 NOM  RAW 48:62|timers_enabled
+45:165 NOM  RAW 44:88|d2.addr RAW 45:165|j WAR 45:165|j WAW 44:88|j INIT *|j
+46:141 NOM  RAW 25:137|n3.addr RAW 44:88|n1.addr RAW 45:55|n2.addr RAW 45:57|n1.addr RAW 45:62|n3.addr RAW 45:122|n2.addr RAW 45:123|n3.addr
+44:84 NOM  RAW 44:77|n22 RAW 44:83|k RAW 44:88|n22 WAR 44:85|kk INIT *|kk
+25:131 NOM  RAW 25:116|a1 RAW 25:117|a2 RAW 25:129|x1 RAW 25:130|x2 WAR 25:129|t1
+22:27 NOM  INIT *|elapsed
+22:16 NOM  RAW 29:13|t
+47:69 NOM  RAW 44:88|z1 WAR 45:183|a WAR 47:76|a
+46:93 NOM  RAW 44:88|vlen.addr RAW 46:93|j WAR 46:93|j WAR 46:126|j WAW 25:137|j
+45:159 NOM  RAW 45:153|an WAW 45:152|dummy WAW 45:159|dummy
+46:168 NOM  RAW 44:88|n1.addr RAW 45:57|n1.addr RAW 46:168|i WAR 46:162|i WAR 46:168|i
+45:75 NOM  RAW 45:73|nn RAW 45:75|nn WAR 45:75|nn
+44:99 NOM  RAW 48:62|timers_enabled
+46:166 NOM  RAW 25:137|exp1.addr RAW 44:88|n1.addr RAW 45:48|exp1.addr RAW 45:57|n1.addr RAW 45:61|sign.addr RAW 45:183|exp1.addr RAW 46:153|blkp RAW 46:154|log RAW 46:160|len
+46:185 NOM  RAW 46:182|bls RAW 46:183|ble WAR 46:166|len WAR 46:186|len
+44:76 NOM  INIT *|n12
+45:52 NOM  RAW 45:51|m WAW 25:137|.compoundliteral WAW 45:52|.compoundliteral
+45:182 NOM  RAW 45:182|j WAR 45:127|j WAR 45:182|j WAR 46:203|j
+46:158 NOM  RAW 46:152|fftblock RAW 46:157|bls WAR 46:167|ble WAR 46:208|ble WAW 25:137|ble WAW 45:129|ble
+25:48 NOM  RAW 25:47|t1 WAR 25:59|a1 WAW 44:88|a1 INIT *|a1
+45:78 NOM  RAW 45:76|lg WAR 45:79|retval WAR 45:183|retval WAW 44:88|retval INIT *|retval
+44:102 NOM  RAW 48:62|timers_enabled
+46:169 NOM  RAW 25:137|x.addr RAW 45:56|x.addr RAW 45:182|x.addr RAW 46:153|blkp RAW 46:156|k RAW 46:157|bls RAW 46:167|j RAW 46:168|i
+25:62 NOM  RAW 25:49|a2 RAW 25:58|x2 RAW 25:61|z WAR 25:64|t3 WAR 25:133|t3 INIT *|t3
+25:134 NOM  RAW 25:117|a2 RAW 25:130|x2 RAW 25:133|z WAR 25:59|t3 WAR 25:136|t3
+44:87 NOM  RAW 44:76|n12 RAW 44:86|j WAR 44:88|jj WAW 44:88|jj INIT *|jj
+50:58 NOM  WAR 45:183|.compoundliteral11
+46:154 NOM  RAW 44:88|n1.addr RAW 45:57|n1.addr WAR 46:206|log WAW 25:137|log WAW 45:59|log WAW 45:129|log
+46:78 NOM  RAW 46:74|li RAW 46:111|li WAR 46:78|li
+45:102 NOM  RAW 45:99|n RAW 45:105|n WAR 25:61|n2 WAR 45:105|n2
+45:129 NOM  RAW 44:88|d3.addr RAW 44:88|d1.addr RAW 45:51|d2.addr RAW 45:183|csum_temp WAR 46:206|.compoundliteral20 WAR 46:208|.compoundliteral20
+25:56 NOM  RAW 25:64|x.addr RAW 44:88|x.addr RAW 45:96|x.addr RAW 45:97|x.addr RAW 45:98|x.addr RAW 45:113|x.addr RAW 45:147|x.addr WAR 25:48|t1
+46:184 NOM  RAW 44:88|n1.addr RAW 45:57|n1.addr RAW 46:183|ble
+25:122 NOM  RAW 25:122|i RAW 44:88|n.addr WAR 25:122|i INIT *|i
+45:51 NOM  WAR 45:55|m INIT *|m
+45:96 NOM  RAW 44:88|exponent.addr RAW 45:95|result WAR 25:65|retval INIT *|retval
+44:120 NOM  RAW 48:62|timers_enabled
+46:72 NOM  RAW 25:137|n.addr WAR 45:183|n1 WAR 46:116|n1 WAW 25:137|n1
+25:65 NOM  RAW 25:64|x.addr RAW 44:88|x.addr RAW 45:96|x.addr RAW 45:113|x.addr WAR 25:67|r WAW 44:88|r INIT *|r
+25:47 NOM  RAW 44:88|a.addr WAR 25:61|t1 WAR 45:112|t1 WAW 25:105|t1 INIT *|t1
+25:57 NOM  RAW 25:56|t1 WAR 25:59|x1 WAW 44:88|x1 INIT *|x1
+46:149 NOM  RAW 48:62|timers_enabled
+25:63 NOM  RAW 25:62|t3 WAR 25:64|t4 WAW 44:88|t4 INIT *|t4
+50:59 NOM  WAR 45:183|.compoundliteral15
+46:155 NOM  RAW 48:62|timers_enabled
+48:65 NOM  INIT *|niter
+45:137 NOM  RAW 44:88|d2.addr
+25:64 NOM  RAW 25:62|t3 RAW 25:63|t4 RAW 44:88|x.addr RAW 45:96|x.addr RAW 45:113|x.addr WAR 25:58|x.addr
+50:60 NOM  WAR 45:183|.compoundliteral19
+45:180 NOM  RAW 45:180|i WAR 45:127|i WAR 45:180|i INIT *|i
+46:156 NOM  RAW 25:137|n3.addr RAW 45:62|n3.addr RAW 45:123|n3.addr RAW 46:156|k WAR 45:183|k WAR 46:156|k WAW 44:88|k INIT *|k
+25:128 NOM  RAW 25:136|x.addr RAW 45:164|x.addr WAR 25:116|t1 WAR 25:133|t1
+44:81 NOM  RAW 44:78|n32 RAW 44:80|i RAW 44:88|n32 WAR 44:82|ii INIT *|ii
+45:57 NOM  RAW 45:54|ln RAW 45:57|i RAW 45:62|ln WAR 45:57|i INIT *|i
+45:72 NOM  WAR 45:78|lg WAR 46:75|lg WAW 25:137|lg
+44:96 NOM  RAW 48:62|timers_enabled
+46:163 NOM  RAW 25:137|x.addr RAW 45:56|x.addr RAW 45:182|x.addr RAW 46:153|blkp RAW 46:156|k RAW 46:157|bls RAW 46:161|j RAW 46:162|i
+25:129 NOM  RAW 25:128|t1 WAR 25:62|x1 WAR 25:131|x1
+44:82 NOM  RAW 44:81|ii WAR 44:85|ii2 INIT *|ii2
+45:58 NOM  RAW 45:56|t RAW 45:57|i WAR 45:59|ti WAW 25:137|ti
+46:191 NOM  RAW 25:137|n3.addr RAW 45:62|n3.addr RAW 45:123|n3.addr WAR 46:182|fftblock
+25:130 NOM  RAW 25:129|x1 RAW 25:136|x.addr RAW 45:164|x.addr WAR 25:67|x2 WAR 25:134|x2
+44:83 NOM  RAW 44:83|k WAR 44:83|k INIT *|k
+45:59 NOM  RAW 45:53|ku RAW 45:57|i RAW 45:58|ti RAW 45:61|ku WAW 25:137|.compoundliteral10 WAW 45:59|.compoundliteral10
+25:61 NOM  RAW 25:59|t1 RAW 25:60|t2 WAR 25:62|z WAW 44:88|z INIT *|z
+44:116 NOM  RAW 48:62|timers_enabled
+46:68 NOM  RAW 48:62|timers_enabled
+45:124 NOM  RAW 44:88|d1.addr RAW 45:123|i1 WAR 45:127|ii WAR 45:180|ii
+47:76 NOM  RAW 47:69|a RAW 47:70|b RAW 47:71|c RAW 47:72|d RAW 47:74|divisor WAR 45:183|imag8 WAR 47:77|imag8
+44:88 NOM  RAW 44:79|ap RAW 44:80|i RAW 44:83|k RAW 44:85|ik2 RAW 44:86|j RAW 44:87|jj WAR 22:16|twiddle WAR 22:48|twiddle WAR 22:49|twiddle WAR 25:62|twiddle WAR 25:67|twiddle WAR 25:131|twiddle WAR 25:133|twiddle WAR 25:134|twiddle WAR 25:136|twiddle WAR 44:81|twiddle WAR 44:84|twiddle WAR 44:85|twiddle WAR 44:88|twiddle WAR 45:74|twiddle WAR 45:79|twiddle WAR 45:164|twiddle WAR 45:165|twiddle WAR 46:97|twiddle WAR 46:116|twiddle WAR 46:117|twiddle WAR 46:120|twiddle WAR 46:121|twiddle WAR 46:128|twiddle WAR 46:130|twiddle WAR 46:166|twiddle WAR 46:186|twiddle WAR 46:196|twiddle WAR 46:197|twiddle WAR 46:203|twiddle WAR 46:206|twiddle WAR 46:207|twiddle WAW 25:137|twiddle WAW 46:96|twiddle WAW 46:97|twiddle WAW 46:130|twiddle WAW 48:58|twiddle INIT *|twiddle
+25:135 NOM  RAW 25:134|t3 WAR 25:62|t4 WAR 25:136|t4
+46:142 NOM  RAW 25:137|n3.addr RAW 44:88|n1.addr RAW 45:55|n2.addr RAW 45:57|n1.addr RAW 45:62|n3.addr RAW 45:122|n2.addr RAW 45:123|n3.addr
+46:162 NOM  RAW 44:88|n1.addr RAW 45:57|n1.addr RAW 46:162|i WAR 45:183|i WAR 46:162|i WAR 46:168|i WAW 44:88|i INIT *|i
+45:99 NOM  RAW 44:88|exponent.addr WAR 45:101|n INIT *|n
+46:75 NOM  RAW 45:76|m.addr RAW 46:75|l WAR 45:183|l WAR 46:75|l INIT *|l
+45:101 NOM  RAW 45:99|n RAW 45:105|n
+46:77 NOM  RAW 46:76|lk WAR 46:76|lj
+44:107 NOM  RAW 48:62|timers_enabled
+46:174 NOM  RAW 48:62|timers_enabled
+46:82 NOM  RAW 46:76|lk RAW 46:81|i WAR 45:183|i11 WAR 46:94|i11 WAR 46:127|i11 INIT *|i11
+29:13 NOM  RAW 25:137|t.addr RAW 25:137|tv RAW 29:12|sec RAW 46:194|tv RAW 46:198|tv RAW 46:208|t.addr WAR 46:209|t.addr WAW 25:137|t.addr INIT *|t.addr
+46:85 NOM  RAW 46:76|lk RAW 46:84|i21 WAR 45:183|i22 WAR 46:97|i22 WAR 46:130|i22 WAW 25:137|i22
+44:115 NOM  RAW 44:88|verified.addr
+46:182 NOM  RAW 44:88|n1.addr RAW 45:57|n1.addr RAW 46:177|fftblock RAW 46:182|bls WAR 46:157|bls WAR 46:182|bls
+46:92 NOM  RAW 46:76|lk RAW 46:92|k WAR 45:183|k WAR 46:92|k WAR 46:125|k INIT *|k
+47:71 NOM  RAW 44:88|z2 WAR 47:76|c INIT *|c
+46:95 NOM  RAW 46:62|x RAW 46:83|i12 RAW 46:92|k RAW 46:93|j
+23:22 NOM  RAW 44:87|n2.addr
+47:72 NOM  RAW 44:88|z2 WAR 45:183|d WAR 47:76|d
+46:96 NOM  RAW 25:137|x11 RAW 25:137|x21 RAW 46:84|i21 RAW 46:92|k RAW 46:93|j WAR 45:183|.compoundliteral43 WAW 25:137|.compoundliteral43 WAW 46:96|.compoundliteral43
+46:97 NOM  RAW 25:137|x11 RAW 25:137|x21 RAW 25:137|u1 RAW 46:85|i22 RAW 46:92|k RAW 46:93|j RAW 46:97|.compoundliteral72 RAW 46:97|.compoundliteral60 RAW 46:97|.compoundliteral86 RAW 46:97|.compoundliteral98 WAR 25:137|.compoundliteral57 WAR 45:159|.compoundliteral60 WAR 45:160|.compoundliteral57 WAR 45:164|.compoundliteral72 WAR 45:164|.compoundliteral86 WAR 45:164|.compoundliteral98 WAR 45:183|.compoundliteral72 WAR 45:183|.compoundliteral60 WAR 45:183|.compoundliteral57 WAR 46:97|.compoundliteral72 WAR 46:97|.compoundliteral60 WAR 46:97|.compoundliteral86 WAR 46:97|.compoundliteral98 WAW 45:159|.compoundliteral60 WAW 46:97|.compoundliteral72 WAW 46:97|.compoundliteral60 WAW 46:97|.compoundliteral57 WAW 46:97|.compoundliteral86 WAW 46:97|.compoundliteral98
+45:168 NOM  RAW 44:88|u0.addr RAW 45:163|k RAW 45:165|j RAW 45:167|i
+46:109 NOM  RAW 46:77|lj WAR 46:92|lk
+23:36 NOM  RAW 44:81|n1.addr RAW 44:84|n3.addr RAW 44:87|n2.addr
+46:152 NOM  RAW 46:151|fftblock WAR 46:152|fftblock
+50:56 NOM  WAR 45:183|.compoundliteral
+45:176 NOM  RAW 44:88|ny.addr
+25:103 NOM  WAW 25:38|r23 WAW 25:103|r23
+48:62 NOM  INIT *|timers_enabled
+46:110 NOM  RAW 46:109|lk WAR 46:109|lj
+46:157 NOM  RAW 45:55|n2.addr RAW 45:122|n2.addr RAW 46:152|fftblock RAW 46:157|bls WAR 45:183|bls WAR 46:157|bls WAW 44:88|bls INIT *|bls
+50:61 NOM  WAR 45:183|.compoundliteral23
+45:181 NOM  RAW 44:88|ny.addr RAW 45:181|k WAR 45:127|k WAR 45:181|k INIT *|k
+46:115 NOM  RAW 46:109|lk RAW 46:114|i WAR 46:94|i11 WAR 46:127|i11
+46:116 NOM  RAW 46:72|n1 RAW 46:115|i11 WAR 46:95|i12 WAR 46:128|i12
+46:160 NOM  RAW 46:157|bls RAW 46:158|ble WAR 45:183|len WAR 46:166|len WAW 44:88|len INIT *|len
+45:184 NOM  RAW 44:88|y.addr RAW 44:88|x.addr RAW 45:180|i RAW 45:181|k RAW 45:182|j
+46:118 NOM  RAW 46:109|lk RAW 46:117|i21 WAR 46:97|i22 WAR 46:130|i22
+45:118 NOM  RAW 44:88|d3.addr RAW 44:88|d1.addr RAW 45:51|d2.addr
+46:94 NOM  RAW 46:62|x RAW 46:82|i11 RAW 46:92|k RAW 46:93|j
+47:70 NOM  RAW 44:88|z1 WAR 45:183|b WAR 47:76|b
+45:160 NOM  RAW 25:64|start RAW 45:158|k WAR 45:164|RanStarts WAR 46:97|RanStarts WAW 44:88|RanStarts WAW 46:97|RanStarts WAW 46:129|RanStarts WAW 46:130|RanStarts INIT *|RanStarts
+46:136 NOM  RAW 48:62|timers_enabled
+46:167 NOM  RAW 46:157|bls RAW 46:158|ble RAW 46:167|j WAR 46:161|j WAR 46:167|j
+44:114 NOM  RAW 48:62|timers_enabled
+46:181 NOM  RAW 25:137|n3.addr RAW 45:62|n3.addr RAW 45:123|n3.addr RAW 46:181|k WAR 46:156|k WAR 46:181|k
+23:57 NOM  RAW 44:88|cs7.addr
+45:157 NOM  RAW 25:64|start WAW 44:88|RanStarts INIT *|RanStarts
+48:85 NOM  RAW 48:65|niter RAW 48:72|Class
+50:187 NOM  RAW 50:51|epsilon RAW 50:185|err
+23:14 NOM  RAW 44:88|name.addr
+50:184 NOM  RAW 44:88|nt.addr RAW 50:184|kt WAR 45:122|kt WAR 50:184|kt
+50:41 NOM  RAW 44:88|nt.addr
+47:78 NOM  RAW 44:88|*
+46:102 NOM  RAW 45:76|m.addr RAW 46:75|l
+45:126 NOM  RAW 44:88|d3.addr RAW 45:123|i1 WAR 45:127|ki WAR 45:181|ki
+45:55 NOM  RAW 45:51|m RAW 45:55|j WAR 45:55|j INIT *|j
+44:79 NOM  INIT *|ap
+46:201 NOM  RAW 25:137|n3.addr RAW 45:62|n3.addr RAW 45:123|n3.addr RAW 46:201|i WAR 46:168|i WAR 46:201|i WAR 46:207|i
+46:193 NOM  RAW 46:192|fftblock WAW 46:178|blkp
+48:90 END program

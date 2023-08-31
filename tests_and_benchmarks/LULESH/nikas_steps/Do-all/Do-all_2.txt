@@ -1,0 +1,5 @@
+  for (Index_t i=0; i<numNode; ++i) {
+     domain.fx(i) = Real_t(0.0) ;
+     domain.fy(i) = Real_t(0.0) ;
+     domain.fz(i) = Real_t(0.0) ;
+  }

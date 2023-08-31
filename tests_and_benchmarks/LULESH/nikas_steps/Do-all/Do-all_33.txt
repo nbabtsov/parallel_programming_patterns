@@ -1,0 +1,3 @@
+         for (Index_t i = 0 ; i < numElemReg ; ++i) {
+            work[i] = Real_t(0.) ; 
+         }

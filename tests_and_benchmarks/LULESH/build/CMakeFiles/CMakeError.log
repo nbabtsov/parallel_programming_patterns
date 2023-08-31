@@ -1,0 +1,17 @@
+The MPI test test_mpi for CXX in mode normal failed to compile with the following output:
+Change Dir: /project/code_snippets/lulesh/LULESH/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake cmTC_dc720/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_dc720.dir/build.make CMakeFiles/cmTC_dc720.dir/build
+gmake[1]: Entering directory '/project/code_snippets/lulesh/LULESH/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_dc720.dir/test_mpi.cpp.o
+/usr/bin/c++    -o CMakeFiles/cmTC_dc720.dir/test_mpi.cpp.o -c /project/code_snippets/lulesh/LULESH/build/CMakeFiles/FindMPI/test_mpi.cpp
+/project/code_snippets/lulesh/LULESH/build/CMakeFiles/FindMPI/test_mpi.cpp:1:10: fatal error: mpi.h: No such file or directory
+ #include <mpi.h>
+          ^~~~~~~
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_dc720.dir/build.make:85: CMakeFiles/cmTC_dc720.dir/test_mpi.cpp.o] Error 1
+gmake[1]: Leaving directory '/project/code_snippets/lulesh/LULESH/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:140: cmTC_dc720/fast] Error 2
+
+
+

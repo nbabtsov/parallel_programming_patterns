@@ -1,0 +1,2 @@
+1	/project/tests_and_benchmarks/NAS/NPB3.0-omp-C/IS/is.c
+2	/project/tests_and_benchmarks/NAS/NPB3.0-omp-C/IS/npbparams.h

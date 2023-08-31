@@ -1,0 +1,8 @@
+   for (Index_t i = 0 ; i < length ; ++i) {
+      e_new[i] = e_old[i] - Real_t(0.5) * delvc[i] * (p_old[i] + q_old[i])
+         + Real_t(0.5) * work[i];
+
+      if (e_new[i]  < emin ) {
+         e_new[i] = emin ;
+      }
+   }

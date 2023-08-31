@@ -1,0 +1,3 @@
+   for (Index_t i = 0 ; i < numElem ; ++i){
+      sigxx[i] = sigyy[i] = sigzz[i] =  - domain.p(i) - domain.q(i) ;
+   }

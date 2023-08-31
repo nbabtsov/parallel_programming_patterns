@@ -1,0 +1,6 @@
+        for (Index_t i=0 ; i < count ; ++i) {
+           Index_t ielem = cornerList[i] ;
+           fx_tmp += fx_elem[ielem] ;
+           fy_tmp += fy_elem[ielem] ;
+           fz_tmp += fz_elem[ielem] ;
+        }

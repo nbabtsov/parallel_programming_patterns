@@ -1,0 +1,10 @@
+      for(Index_t ii=0;ii<8;++ii){
+         Index_t jj=8*i+ii;
+
+         dvdx[jj] = pfx[ii];
+         dvdy[jj] = pfy[ii];
+         dvdz[jj] = pfz[ii];
+         x8n[jj]  = x1[ii];
+         y8n[jj]  = y1[ii];
+         z8n[jj]  = z1[ii];
+      }

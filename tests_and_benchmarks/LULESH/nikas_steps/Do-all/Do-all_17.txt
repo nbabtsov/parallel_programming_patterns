@@ -1,0 +1,6 @@
+   for(Index_t i = 0; i < 4; i++) {
+      hxx[i] = hourgam[0][i] * yd[0] + hourgam[1][i] * yd[1] +
+               hourgam[2][i] * yd[2] + hourgam[3][i] * yd[3] +
+               hourgam[4][i] * yd[4] + hourgam[5][i] * yd[5] +
+               hourgam[6][i] * yd[6] + hourgam[7][i] * yd[7];
+   }

@@ -1,0 +1,21 @@
+1. /usr/local/discopop/scripts/dp-fmap 
+2. clang++ -DUSE_MPI=0 -DUSE_OPENMP=0 -g -O0 -fno-discard-value-names -Xclang -load -Xclang /usr/local/discopop/build/libi/LLVMCUGeneration.so -mllvm -fm-path -mllvm ./FileMapping.txt -c lulesh.cc 
+
+3. cmake -DWITH_MPI=Off -DWITH_OPENMP=Off -DCMAKE_CXX_COMPILER=/usr/local/bin/clang++ -DCMAKE_CXX_FLAGS="-c -g -O0 -fno-discard-value-names -Xclang -load -Xclang /usr/local/discopop/build/libi/LLVMDPInstrumentation.so -mllvm -fm-path -mllvm FileMapping.txt"
+
+4. cmake -DCMAKE_CXX_COMPILER=/usr/local/bin/clang++ -DWITH_OPENMP=Off -DWITH_MPI=Off -DCMAKE_CXX_FLAGS="-g -O0 -fno-discard-value-names -Xclang -load -Xclang /usr/local/discopop/build/libi/LLVMDPInstrumentation.so -mllvm -fm-path -mllvm FileMapping.txt" -DCMAKE_CXX_STANDARD_LIBRARIES="-L/usr/local/discopop/build/rtlib -lDiscoPoP_RT -lpthread" .
+
+5. make
+6. ./lulesh2.0 -s 4
+
+7. cmake -DWITH_MPI=Off -DWITH_OPENMP=Off -DCMAKE_CXX_COMPILER=/usr/local/bin/clang++ -DCMAKE_CXX_FLAGS="-c -g -O0 -fno-discard-value-names -Xclang -load -Xclang /usr/local/discopop/build/libi/LLVMDPReduction.so -mllvm -fm-path -mllvm FileMapping.txt"
+
+8. cmake -DCMAKE_CXX_COMPILER=/usr/local/bin/clang++ -DWITH_OPENMP=Off -DWITH_MPI=Off -DCMAKE_CXX_FLAGS="-g -O0 -fno-discard-value-names -Xclang -load -Xclang /usr/local/discopop/build/libi/LLVMDPReduction.so -mllvm -fm-path -mllvm FileMapping.txt" -DCMAKE_CXX_STANDARD_LIBRARIES="-L/usr/local/discopop/build/rtlib -lDiscoPoP_RT -lpthread" .
+
+
+9. make
+10. ./lulesh2.0 -s 4
+11. (only done once?) 
+cp -r /usr/local/discopop/discopop_explorer /project/2021_3_sd4_parallelism_patterns/tests_and_benchmarks/lulesh_demo/LULESH
+
+12. python3 -m discopop_explorer --dep-file=lulesh2.0_dep.txt 

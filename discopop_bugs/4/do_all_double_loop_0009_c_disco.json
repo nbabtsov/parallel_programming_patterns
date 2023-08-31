@@ -1,0 +1,74 @@
+{
+  "reduction": [],
+  "do_all": [
+    {
+      "node_id": "9:5",
+      "start_line": "9:39",
+      "end_line": "9:47",
+      "iterations_count": 1936,
+      "instructions_count": 0,
+      "workload": 0,
+      "first_private": [],
+      "private": [
+        "t",
+        "iLm",
+        "cT3",
+        "twb",
+        "e"
+      ],
+      "last_private": [],
+      "shared": [
+        "r",
+        "ztU"
+      ],
+      "reduction": []
+    }
+  ],
+  "pipeline": [
+    {
+      "node_id": "9:5",
+      "start_line": "9:39",
+      "end_line": "9:47",
+      "iterations_count": 1936,
+      "instructions_count": 0,
+      "workload": 0,
+      "coefficient": 1.0,
+      "stages": [
+        {
+          "node": "9:7",
+          "startsAtLine": "9:42",
+          "endsAtLine": "9:44",
+          "first_private": [],
+          "private": [
+            "iLm",
+            "twb"
+          ],
+          "shared": [],
+          "reduction": [],
+          "in_deps": [],
+          "out_deps": [
+            "ztU"
+          ],
+          "in_out_deps": []
+        },
+        {
+          "node": "9:8",
+          "startsAtLine": "9:45",
+          "endsAtLine": "9:47",
+          "first_private": [],
+          "private": [],
+          "shared": [
+            "r"
+          ],
+          "reduction": [],
+          "in_deps": [
+            "ztU"
+          ],
+          "out_deps": [],
+          "in_out_deps": []
+        }
+      ]
+    }
+  ],
+  "geometric_decomposition": []
+}

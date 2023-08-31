@@ -1,0 +1,3 @@
+/mnt/c/Users/Nika/Desktop/proj/2021_3_sd4_parallelism_patterns/tests_and_benchmarks/LULESH/build2/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Nika/Desktop/proj/2021_3_sd4_parallelism_patterns/tests_and_benchmarks/LULESH/build2/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Nika/Desktop/proj/2021_3_sd4_parallelism_patterns/tests_and_benchmarks/LULESH/build2/CMakeFiles/lulesh2.0.dir

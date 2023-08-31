@@ -1,0 +1,18 @@
+       for (Index_t i=0; i<numElem; ++i) {
+          Real_t vc = domain.v(i) ;
+          if (eosvmin != Real_t(0.)) {
+             if (vc < eosvmin)
+                vc = eosvmin ;
+          }
+          if (eosvmax != Real_t(0.)) {
+             if (vc > eosvmax)
+                vc = eosvmax ;
+          }
+          if (vc <= 0.) {
+#if USE_MPI
+             MPI_Abort(MPI_COMM_WORLD, VolumeError) ;
+#else
+             exit(VolumeError);
+#endif
+          }
+       }

@@ -1,0 +1,11 @@
+   for (Index_t i = 0 ; i < length ; ++i) {
+
+      e_new[i] += Real_t(0.5) * work[i];
+
+      if (FABS(e_new[i]) < e_cut) {
+         e_new[i] = Real_t(0.)  ;
+      }
+      if (     e_new[i]  < emin ) {
+         e_new[i] = emin ;
+      }
+   }

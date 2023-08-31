@@ -1,0 +1,29 @@
+Do-all at: 11:3
+Start line: 11:48
+End line: 11:54
+iterations: 17
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['k']
+shared: ['W.addr']
+first private: ['b.addr', 'twoPiOverN', 'n.addr']
+reduction: []
+last private: []
+
+
+Geometric decomposition at: 11:0
+Start line: 11:48
+End line: 11:60
+Type: Geometric Decomposition Pattern
+Do-All loops: ['11:3']
+Reduction loops: []
+	Number of tasks: 2
+	Chunk limits: 17
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: ['W.addr']
+	first private: ['a.addr', 'b.addr', 'n.addr', 'i']
+	reduction: []
+	last private: []
+Time taken for pattern detection: 77.50508141517639

@@ -1,0 +1,8 @@
+            for(Index_t i=0 ; i<numElemReg ; ++i) {
+               Index_t ielem = regElemList[i];
+               if (vnewc[ielem] >= eosvmax) { /* impossible due to calling func? */
+                  p_old[i]        = Real_t(0.) ;
+                  compression[i]  = Real_t(0.) ;
+                  compHalfStep[i] = Real_t(0.) ;
+               }
+            }

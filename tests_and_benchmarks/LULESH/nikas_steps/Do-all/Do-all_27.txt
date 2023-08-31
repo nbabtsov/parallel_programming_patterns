@@ -1,0 +1,8 @@
+      for(Index_t i=0 ; i<length ; ++i) {
+         Real_t tmpV = domain.vnew(i) ;
+
+         if ( FABS(tmpV - Real_t(1.0)) < v_cut )
+            tmpV = Real_t(1.0) ;
+
+         domain.v(i) = tmpV ;
+      }

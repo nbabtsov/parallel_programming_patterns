@@ -1,0 +1,6 @@
+      for (Index_t i=0; i<numElem; ++i) {
+         if ( domain.q(i) > domain.qstop() ) {
+            idx = i ;
+            break ;
+         }
+      }

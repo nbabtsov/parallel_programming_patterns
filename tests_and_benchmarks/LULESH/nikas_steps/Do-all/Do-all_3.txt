@@ -1,0 +1,5 @@
+   for (Index_t i = 0; i < numNode; ++i) {
+      domain.xdd(i) = domain.fx(i) / domain.nodalMass(i);
+      domain.ydd(i) = domain.fy(i) / domain.nodalMass(i);
+      domain.zdd(i) = domain.fz(i) / domain.nodalMass(i);
+   }

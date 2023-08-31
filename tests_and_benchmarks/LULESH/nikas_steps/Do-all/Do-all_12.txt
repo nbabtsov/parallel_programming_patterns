@@ -1,0 +1,5 @@
+   for(Index_t i = 0; i < 8; i++) {
+      fx[i] = -( stress_xx * B[0][i] );
+      fy[i] = -( stress_yy * B[1][i]  );
+      fz[i] = -( stress_zz * B[2][i] );
+   }

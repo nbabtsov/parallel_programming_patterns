@@ -1,0 +1,4 @@
+          for(Index_t i=0 ; i<numElem ; ++i) {
+             if (vnewc[i] > eosvmax)
+                vnewc[i] = eosvmax ;
+          }

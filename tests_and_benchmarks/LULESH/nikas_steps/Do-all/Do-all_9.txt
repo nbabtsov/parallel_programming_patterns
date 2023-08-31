@@ -1,0 +1,17 @@
+     for( Index_t gnode=0 ; gnode<numNode ; ++gnode )
+     {
+        Index_t count = domain.nodeElemCount(gnode) ;
+        Index_t *cornerList = domain.nodeElemCornerList(gnode) ;
+        Real_t fx_tmp = Real_t(0.0) ;
+        Real_t fy_tmp = Real_t(0.0) ;
+        Real_t fz_tmp = Real_t(0.0) ;
+        for (Index_t i=0 ; i < count ; ++i) {
+           Index_t ielem = cornerList[i] ;
+           fx_tmp += fx_elem[ielem] ;
+           fy_tmp += fy_elem[ielem] ;
+           fz_tmp += fz_elem[ielem] ;
+        }
+        domain.fx(gnode) = fx_tmp ;
+        domain.fy(gnode) = fy_tmp ;
+        domain.fz(gnode) = fz_tmp ;
+     }

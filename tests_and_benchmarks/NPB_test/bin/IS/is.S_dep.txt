@@ -1,0 +1,184 @@
+START 51:655
+51:411 BGN loop 65536
+51:417 END loop
+51:741 BGN loop 10
+51:749 END loop
+51:524 BGN loop 5
+51:645 END loop
+51:509 BGN loop 65536
+51:517 END loop
+51:682 BGN loop 5
+51:714 END loop
+51:418 BGN loop 65535
+51:423 END loop
+51:372 BGN loop 65536
+51:381 END loop
+51:517 BGN loop 2047
+51:524 END loop
+51:471 BGN loop 65536
+51:476 END loop
+51:482 BGN loop 65536
+51:488 END loop
+51:318 BGN loop 23
+51:323 END loop
+51:461 BGN loop 5
+51:467 END loop
+51:323 BGN loop 46
+51:328 END loop
+51:477 BGN loop 511
+51:482 END loop
+51:467 BGN loop 512
+51:471 END loop
+51:497 BGN loop 2048
+51:503 END loop
+51:756 BGN func 51:393
+51:750 BGN func 22:57
+22:47 BGN func 22:13
+51:671 BGN func 22:25
+51:765 BGN func 21:7
+51:374 BGN func 51:299
+51:737 BGN func 22:34
+51:375 BGN func 51:299
+22:36 BGN func 22:13
+51:744 BGN func 51:442
+51:376 BGN func 51:299
+51:749 BGN func 22:43
+22:15 BGN func 29:7
+51:722 BGN func 51:365
+51:377 BGN func 51:299
+51:729 BGN func 51:442
+21:81 END func
+22:16 END func
+22:28 END func
+22:37 END func
+22:51 END func
+22:59 END func
+29:14 END func
+51:355 END func
+51:381 END func
+51:432 END func
+51:648 END func
+51:353 NOM  RAW 51:352|j WAR 51:354|T4 WAW 51:379|T4 INIT *|T4
+51:316 NOM  INIT *|T46
+21:46 NOM  RAW 51:412|passed_verification.addr
+51:333 NOM  RAW 51:320|R23 RAW 51:379|A.addr WAR 51:350|T1 INIT *|T1
+51:320 NOM  RAW 51:313|R23 RAW 51:320|R23 WAR 51:320|R23
+51:741 NOM  RAW 51:741|iteration WAR 51:484|iteration WAR 51:741|iteration
+51:343 NOM  RAW 51:342|T1 WAR 51:335|j
+51:372 NOM  RAW 51:372|i RAW 51:379|i WAR 51:372|i INIT *|i
+51:313 NOM  INIT *|R23
+51:344 NOM  RAW 51:343|j WAR 51:346|X1 WAW 51:379|X1 INIT *|X1
+51:411 NOM  RAW 51:411|i RAW 51:412|i WAR 22:59|i WAR 51:411|i
+51:418 NOM  RAW 51:418|i WAR 51:411|i WAR 51:418|i
+21:30 NOM  RAW 51:412|n3.addr
+51:497 NOM  RAW 51:497|i WAR 51:482|i WAR 51:497|i
+21:33 NOM  RAW 21:32|nn
+51:478 NOM  RAW 51:468|bucket_size RAW 51:472|bucket_size RAW 51:476|bucket_ptrs RAW 51:477|i RAW 51:478|bucket_ptrs WAR 51:478|bucket_ptrs WAW 51:485|bucket_ptrs INIT *|bucket_ptrs
+51:672 NOM  RAW 51:666|timer_on
+51:472 NOM  RAW 29:13|key_array RAW 51:335|key_array RAW 51:336|key_array RAW 51:344|key_array RAW 51:345|key_array RAW 51:350|key_array RAW 51:351|key_array RAW 51:352|key_array RAW 51:353|key_array RAW 51:372|key_array RAW 51:377|key_array RAW 51:379|key_array RAW 51:450|key_array RAW 51:450|shift RAW 51:455|key_array RAW 51:456|key_array RAW 51:468|bucket_size RAW 51:471|i RAW 51:471|key_array RAW 51:472|bucket_size RAW 51:484|key_array RAW 51:488|key_array RAW 51:503|key_array RAW 51:526|key_array RAW 51:529|key_array RAW 51:530|key_array RAW 51:741|key_array WAR 51:472|bucket_size
+51:763 NOM  RAW 51:429|passed_verification
+51:350 NOM  RAW 51:321|T23 RAW 51:346|T1 RAW 51:349|T2 WAR 51:351|Z WAW 51:379|Z INIT *|Z
+51:667 NOM  INIT *|fp
+51:468 NOM  RAW 51:467|i WAR 51:478|bucket_size WAW 51:472|bucket_size INIT *|bucket_size
+51:759 NOM  RAW 51:412|timer_on
+51:374 NOM  WAR 51:379|x WAW 51:379|x INIT *|x
+22:16 NOM  RAW 29:13|t
+51:471 NOM  RAW 51:471|i WAR 51:467|i WAR 51:471|i
+51:462 NOM  RAW 51:379|key_array RAW 51:461|i RAW 51:686|test_index_array WAR 51:526|partial_verify_vals INIT *|partial_verify_vals
+51:498 NOM  RAW 51:497|i WAR 51:518|key_buff1 WAR 51:529|key_buff1 WAW 51:518|key_buff1 INIT *|key_buff1
+51:686 NOM  RAW 51:682|i INIT *|test_index_array
+21:48 NOM  RAW 51:412|passed_verification.addr
+51:456 NOM  RAW 51:379|iteration.addr WAR 51:484|key_array WAW 51:379|key_array
+51:503 NOM  WAR 51:484|key_buff_ptr
+51:315 NOM  INIT *|T23
+51:412 NOM  RAW 51:411|i RAW 51:412|key_buff_ptr_global RAW 51:485|key_buff2 RAW 51:518|key_buff_ptr_global RAW 51:646|key_buff_ptr_global WAR 22:16|key_array WAR 22:48|key_array WAR 22:49|key_array WAR 51:412|key_array WAR 51:412|key_buff_ptr_global WAR 51:484|key_array WAR 51:485|key_array WAR 51:510|key_array WAR 51:524|key_array WAR 51:529|key_array WAR 51:544|key_array WAR 51:631|key_array WAR 51:741|key_array WAR 51:755|key_array WAW 51:750|key_array
+51:509 NOM  RAW 51:509|i WAR 51:497|i WAR 51:509|i
+22:48 NOM  RAW 22:36|start RAW 22:47|now RAW 51:379|n.addr WAR 51:484|t
+51:323 NOM  RAW 51:323|i WAR 51:318|i WAR 51:323|i
+51:682 NOM  RAW 51:682|i WAR 51:682|i INIT *|i
+51:379 NOM  RAW 51:370|k RAW 51:372|i RAW 51:377|x RAW 51:379|k WAR 51:323|key_array WAR 51:346|key_array WAR 51:351|key_array WAR 51:353|key_array WAR 51:354|key_array WAR 51:355|key_array WAR 51:379|key_array WAR 51:682|key_array WAR 51:719|key_array WAW 51:667|key_array INIT *|key_array
+51:476 NOM  WAW 51:485|* INIT *|*
+21:44 NOM  RAW 51:412|optype.addr
+51:314 NOM  INIT *|R46
+51:419 NOM  RAW 51:412|key_array RAW 51:417|key_array RAW 51:418|i RAW 51:418|key_array
+51:646 NOM  RAW 51:503|key_buff_ptr INIT *|key_buff_ptr_global
+51:355 NOM  RAW 51:325|R46 RAW 51:354|X.addr
+21:26 NOM  RAW 51:412|name.addr
+51:484 NOM  RAW 29:13|key_array RAW 51:335|key_array RAW 51:336|key_array RAW 51:344|key_array RAW 51:345|key_array RAW 51:350|key_array RAW 51:351|key_array RAW 51:352|key_array RAW 51:353|key_array RAW 51:372|key_array RAW 51:377|key_array RAW 51:379|key_array RAW 51:450|key_array RAW 51:455|key_array RAW 51:456|key_array RAW 51:482|i RAW 51:482|key_array RAW 51:484|key_array RAW 51:488|key_array RAW 51:503|key_array RAW 51:526|key_array RAW 51:529|key_array RAW 51:530|key_array RAW 51:741|key_array WAR 51:472|key WAR 51:484|key WAR 51:485|key
+51:678 NOM  RAW 51:666|timer_on
+51:517 NOM  RAW 51:517|i WAR 51:509|i WAR 51:517|i
+51:318 NOM  RAW 51:318|i WAR 51:318|i INIT *|i
+22:49 NOM  RAW 22:27|elapsed RAW 22:48|t RAW 51:379|n.addr WAR 22:49|elapsed
+21:40 NOM  RAW 51:412|t.addr
+21:32 NOM  RAW 21:31|nn RAW 51:412|n2.addr WAR 21:32|nn
+51:787 NOM  RAW 51:412|timer_on
+22:27 NOM  INIT *|elapsed
+51:375 NOM  RAW 51:374|x WAR 51:375|x
+51:773 NOM  RAW 51:412|timecounter
+51:482 NOM  RAW 51:482|i WAR 51:477|i WAR 51:482|i
+21:55 NOM  RAW 51:412|compiletime.addr
+51:334 NOM  RAW 51:333|T1 WAR 51:353|j WAW 51:379|j INIT *|j
+51:732 NOM  WAW 51:547|passed_verification
+22:59 NOM  RAW 22:49|elapsed RAW 51:379|n.addr
+51:417 NOM  WAW 51:412|j
+51:775 NOM  RAW 51:429|passed_verification
+51:377 NOM  RAW 51:376|x WAR 51:377|x
+51:518 NOM  RAW 51:498|key_buff_ptr RAW 51:503|key_buff_ptr RAW 51:510|key_buff_ptr RAW 51:517|i RAW 51:518|key_buff_ptr WAR 51:518|key_buff_ptr
+51:376 NOM  RAW 51:375|x WAR 51:376|x
+51:488 NOM  WAR 51:484|key_buff_ptr2
+51:687 NOM  RAW 51:682|i INIT *|test_rank_array
+51:537 NOM  RAW 51:379|iteration.addr RAW 51:524|i RAW 51:529|key_rank RAW 51:687|test_rank_array
+51:349 NOM  RAW 51:348|j WAR 51:350|T2 INIT *|T2
+51:631 NOM  RAW 51:530|failed
+51:544 NOM  RAW 51:379|iteration.addr RAW 51:524|i RAW 51:529|key_rank RAW 51:687|test_rank_array
+51:345 NOM  RAW 51:321|T23 RAW 51:344|X1 RAW 51:354|X.addr RAW 51:379|X.addr WAR 51:351|X2 WAW 51:379|X2 INIT *|X2
+22:47 NOM  WAR 51:646|now
+51:645 NOM  RAW 51:379|iteration.addr
+21:38 NOM  RAW 51:412|niter.addr
+51:485 NOM  RAW 51:450|shift RAW 51:476|bucket_ptrs RAW 51:478|bucket_ptrs RAW 51:484|key RAW 51:485|bucket_ptrs WAR 51:485|bucket_ptrs WAR 51:510|key_buff2 INIT *|key_buff2
+22:36 NOM  RAW 51:379|n.addr INIT *|start
+51:311 NOM  RAW 51:328|KS
+51:510 NOM  RAW 51:485|key_buff_ptr2 RAW 51:488|key_buff_ptr2 RAW 51:498|key_buff_ptr RAW 51:503|key_buff_ptr RAW 51:509|i RAW 51:510|key_buff_ptr WAR 51:510|key_buff_ptr
+51:429 NOM  RAW 51:547|passed_verification WAR 51:429|passed_verification
+51:526 NOM  RAW 51:462|partial_verify_vals RAW 51:524|i WAR 51:484|k WAR 51:529|k
+51:328 NOM  INIT *|KS
+51:527 NOM  RAW 51:526|k
+51:335 NOM  RAW 51:334|j WAR 51:346|A1 WAW 51:379|A1 INIT *|A1
+51:529 NOM  RAW 51:503|key_buff_ptr RAW 51:518|key_buff_ptr RAW 51:526|k WAR 51:484|key_rank WAR 51:537|key_rank WAR 51:544|key_rank
+51:535 NOM  RAW 51:524|i
+51:336 NOM  RAW 51:321|T23 RAW 51:335|A1 RAW 51:379|A.addr WAR 51:351|A2 WAW 51:379|A2 INIT *|A2
+51:530 NOM  WAR 51:484|failed WAR 51:631|failed
+51:326 NOM  RAW 51:316|T46 RAW 51:326|T46 WAR 51:326|T46
+51:724 NOM  RAW 51:379|timer_on
+51:744 NOM  RAW 51:741|iteration
+51:346 NOM  RAW 51:335|A1 RAW 51:336|A2 RAW 51:344|X1 RAW 51:345|X2 WAR 51:343|T1
+51:540 NOM  RAW 51:540|passed_verification RAW 51:547|passed_verification RAW 51:732|passed_verification WAR 51:540|passed_verification INIT *|passed_verification
+21:42 NOM  RAW 51:412|mops.addr
+51:450 NOM  WAR 51:485|shift WAW 51:379|shift
+51:348 NOM  RAW 51:320|R23 RAW 51:346|T1 WAR 51:344|j
+51:547 NOM  RAW 51:540|passed_verification RAW 51:547|passed_verification WAR 51:547|passed_verification
+51:455 NOM  RAW 51:379|iteration.addr WAR 51:484|key_array WAW 51:379|key_array
+21:31 NOM  RAW 51:412|n1.addr INIT *|nn
+51:771 NOM  RAW 51:412|timecounter
+51:757 NOM  RAW 51:412|timer_on
+51:423 NOM  RAW 51:417|j
+51:755 NOM  RAW 51:379|timer_on
+51:351 NOM  RAW 51:321|T23 RAW 51:336|A2 RAW 51:345|X2 RAW 51:350|Z WAR 51:354|T3 WAW 51:379|T3 INIT *|T3
+29:12 NOM  RAW 29:12|sec RAW 51:379|tv INIT *|sec
+51:354 NOM  RAW 51:326|T46 RAW 51:351|T3 RAW 51:353|T4 WAR 51:345|X.addr INIT *|X.addr
+51:750 NOM  WAR 51:484|timecounter
+29:13 NOM  RAW 29:12|sec RAW 51:379|t.addr RAW 51:379|tv WAR 51:484|t.addr
+51:352 NOM  RAW 51:325|R46 RAW 51:351|T3 WAR 51:349|j
+21:53 NOM  RAW 51:412|npbversion.addr
+51:461 NOM  RAW 51:461|i WAR 51:355|i WAR 51:461|i WAR 51:524|i
+51:477 NOM  RAW 51:477|i WAR 51:471|i WAR 51:477|i
+51:325 NOM  RAW 51:314|R46 RAW 51:325|R46 WAR 51:325|R46
+51:524 NOM  RAW 51:524|i WAR 51:517|i WAR 51:524|i
+51:321 NOM  RAW 51:315|T23 RAW 51:321|T23 WAR 51:321|T23
+51:719 NOM  RAW 51:666|timer_on
+51:342 NOM  RAW 51:320|R23 RAW 51:354|X.addr RAW 51:379|X.addr WAR 51:334|T1
+51:370 NOM  INIT *|k
+51:666 NOM  INIT *|timer_on
+21:59 NOM  RAW 51:412|cc.addr
+51:467 NOM  RAW 51:467|i WAR 51:461|i WAR 51:467|i
+51:806 END program

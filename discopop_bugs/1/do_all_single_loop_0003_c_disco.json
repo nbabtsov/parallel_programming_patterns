@@ -1,0 +1,47 @@
+{
+  "reduction": [],
+  "do_all": [
+    {
+      "node_id": "2:8",
+      "start_line": "2:45",
+      "end_line": "2:51",
+      "iterations_count": 300,
+      "instructions_count": 0,
+      "workload": 0,
+      "first_private": [],
+      "private": [
+        "m",
+        "ecr",
+        "k",
+        "n"
+      ],
+      "last_private": [],
+      "shared": [
+        "mw"
+      ],
+      "reduction": []
+    },
+    {
+      "node_id": "2:13",
+      "start_line": "2:55",
+      "end_line": "2:61",
+      "iterations_count": 300,
+      "instructions_count": 0,
+      "workload": 0,
+      "first_private": [],
+      "private": [
+        "m",
+        "ecr",
+        "k",
+        "n"
+      ],
+      "last_private": [],
+      "shared": [
+        "mw"
+      ],
+      "reduction": []
+    }
+  ],
+  "pipeline": [],
+  "geometric_decomposition": []
+}

@@ -1,0 +1,176 @@
+{
+  "reduction": [],
+  "do_all": [],
+  "pipeline": [
+    {
+      "node_id": "3:5",
+      "start_line": "3:39",
+      "end_line": "3:61",
+      "iterations_count": 206116,
+      "instructions_count": 0,
+      "workload": 0,
+      "coefficient": 0.957,
+      "stages": [
+        {
+          "node": "3:7",
+          "startsAtLine": "3:42",
+          "endsAtLine": "3:42",
+          "first_private": [],
+          "private": [],
+          "shared": [
+            "e"
+          ],
+          "reduction": [],
+          "in_deps": [],
+          "out_deps": [
+            "t"
+          ],
+          "in_out_deps": []
+        },
+        {
+          "node": "3:8",
+          "startsAtLine": "3:43",
+          "endsAtLine": "3:43",
+          "first_private": [],
+          "private": [],
+          "shared": [],
+          "reduction": [],
+          "in_deps": [
+            "t"
+          ],
+          "out_deps": [
+            "jR"
+          ],
+          "in_out_deps": []
+        },
+        {
+          "node": "3:9",
+          "startsAtLine": "3:44",
+          "endsAtLine": "3:46",
+          "first_private": [],
+          "private": [],
+          "shared": [],
+          "reduction": [],
+          "in_deps": [
+            "jR"
+          ],
+          "out_deps": [
+            "pS",
+            "z",
+            "e"
+          ],
+          "in_out_deps": []
+        },
+        {
+          "node": "3:10",
+          "startsAtLine": "3:47",
+          "endsAtLine": "3:50",
+          "first_private": [],
+          "private": [],
+          "shared": [],
+          "reduction": [],
+          "in_deps": [
+            "z",
+            "t"
+          ],
+          "out_deps": [],
+          "in_out_deps": [
+            "jR",
+            "e"
+          ]
+        },
+        {
+          "node": "3:11",
+          "startsAtLine": "3:51",
+          "endsAtLine": "3:54",
+          "first_private": [],
+          "private": [],
+          "shared": [],
+          "reduction": [],
+          "in_deps": [
+            "t",
+            "e"
+          ],
+          "out_deps": [
+            "mnn",
+            "z"
+          ],
+          "in_out_deps": [
+            "pS"
+          ]
+        },
+        {
+          "node": "3:12",
+          "startsAtLine": "3:55",
+          "endsAtLine": "3:56",
+          "first_private": [],
+          "private": [],
+          "shared": [],
+          "reduction": [],
+          "in_deps": [
+            "jR",
+            "mnn",
+            "pS",
+            "z"
+          ],
+          "out_deps": [
+            "t"
+          ],
+          "in_out_deps": [
+            "e"
+          ]
+        },
+        {
+          "node": "3:13",
+          "startsAtLine": "3:57",
+          "endsAtLine": "3:57",
+          "first_private": [],
+          "private": [],
+          "shared": [],
+          "reduction": [],
+          "in_deps": [
+            "mnn",
+            "t",
+            "e"
+          ],
+          "out_deps": [],
+          "in_out_deps": [
+            "yL"
+          ]
+        },
+        {
+          "node": "3:14",
+          "startsAtLine": "3:58",
+          "endsAtLine": "3:58",
+          "first_private": [],
+          "private": [],
+          "shared": [],
+          "reduction": [],
+          "in_deps": [
+            "yL"
+          ],
+          "out_deps": [
+            "pS"
+          ],
+          "in_out_deps": []
+        },
+        {
+          "node": "3:15",
+          "startsAtLine": "3:59",
+          "endsAtLine": "3:61",
+          "first_private": [],
+          "private": [],
+          "shared": [],
+          "reduction": [],
+          "in_deps": [
+            "z",
+            "pS"
+          ],
+          "out_deps": [],
+          "in_out_deps": []
+        }
+      ]
+    }
+  ],
+  "geometric_decomposition": []
+}

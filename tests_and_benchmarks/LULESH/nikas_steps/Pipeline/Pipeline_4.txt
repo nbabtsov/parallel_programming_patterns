@@ -1,0 +1,53 @@
+      for(Index_t i1=0;i1<4;++i1){
+
+         Real_t hourmodx =
+            x8n[i3] * gamma[i1][0] + x8n[i3+1] * gamma[i1][1] +
+            x8n[i3+2] * gamma[i1][2] + x8n[i3+3] * gamma[i1][3] +
+            x8n[i3+4] * gamma[i1][4] + x8n[i3+5] * gamma[i1][5] +
+            x8n[i3+6] * gamma[i1][6] + x8n[i3+7] * gamma[i1][7];
+
+         Real_t hourmody =
+            y8n[i3] * gamma[i1][0] + y8n[i3+1] * gamma[i1][1] +
+            y8n[i3+2] * gamma[i1][2] + y8n[i3+3] * gamma[i1][3] +
+            y8n[i3+4] * gamma[i1][4] + y8n[i3+5] * gamma[i1][5] +
+            y8n[i3+6] * gamma[i1][6] + y8n[i3+7] * gamma[i1][7];
+
+         Real_t hourmodz =
+            z8n[i3] * gamma[i1][0] + z8n[i3+1] * gamma[i1][1] +
+            z8n[i3+2] * gamma[i1][2] + z8n[i3+3] * gamma[i1][3] +
+            z8n[i3+4] * gamma[i1][4] + z8n[i3+5] * gamma[i1][5] +
+            z8n[i3+6] * gamma[i1][6] + z8n[i3+7] * gamma[i1][7];
+
+         hourgam[0][i1] = gamma[i1][0] -  volinv*(dvdx[i3  ] * hourmodx +
+                                                  dvdy[i3  ] * hourmody +
+                                                  dvdz[i3  ] * hourmodz );
+
+         hourgam[1][i1] = gamma[i1][1] -  volinv*(dvdx[i3+1] * hourmodx +
+                                                  dvdy[i3+1] * hourmody +
+                                                  dvdz[i3+1] * hourmodz );
+
+         hourgam[2][i1] = gamma[i1][2] -  volinv*(dvdx[i3+2] * hourmodx +
+                                                  dvdy[i3+2] * hourmody +
+                                                  dvdz[i3+2] * hourmodz );
+
+         hourgam[3][i1] = gamma[i1][3] -  volinv*(dvdx[i3+3] * hourmodx +
+                                                  dvdy[i3+3] * hourmody +
+                                                  dvdz[i3+3] * hourmodz );
+
+         hourgam[4][i1] = gamma[i1][4] -  volinv*(dvdx[i3+4] * hourmodx +
+                                                  dvdy[i3+4] * hourmody +
+                                                  dvdz[i3+4] * hourmodz );
+
+         hourgam[5][i1] = gamma[i1][5] -  volinv*(dvdx[i3+5] * hourmodx +
+                                                  dvdy[i3+5] * hourmody +
+                                                  dvdz[i3+5] * hourmodz );
+
+         hourgam[6][i1] = gamma[i1][6] -  volinv*(dvdx[i3+6] * hourmodx +
+                                                  dvdy[i3+6] * hourmody +
+                                                  dvdz[i3+6] * hourmodz );
+
+         hourgam[7][i1] = gamma[i1][7] -  volinv*(dvdx[i3+7] * hourmodx +
+                                                  dvdy[i3+7] * hourmody +
+                                                  dvdz[i3+7] * hourmodz );
+
+      }

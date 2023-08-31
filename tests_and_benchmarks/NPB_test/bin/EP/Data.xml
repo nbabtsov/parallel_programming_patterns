@@ -1,0 +1,2131 @@
+<Nodes>
+
+	<Node id="42:0" type="1" name="main" startsAtLine = "42:73" endsAtLine = "42:282">
+		<childrenNodes>42:1,42:4,42:5,42:6,42:9,42:10,42:15,42:19,42:28,42:33,42:34,42:38,42:39,42:89,42:90,42:94,42:95,42:98,42:99,42:102,42:103,42:104,42:112,42:117,42:119,42:120,42:121,42:122,42:123,42:124,42:131,42:132</childrenNodes>
+		<funcArguments>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:1" type="0" name="" startsAtLine = "42:73" endsAtLine = "42:86">
+		<childrenNodes>42:2,42:3</childrenNodes>
+		<BasicBlockID>entry</BasicBlockID>
+		<readDataSize>0</readDataSize>
+		<writeDataSize>128</writeDataSize>
+		<instructionsCount>37</instructionsCount>
+		<instructionLines count="11">42:73,42:74,42:75,42:76,42:77,42:78,42:79,42:81,42:82,42:84,42:86</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="1">42:86</writePhaseLines>
+		<successors>
+			<CU>42:4</CU>
+			<CU>42:132</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="%struct._IO_FILE**">fp</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:81">42:2</nodeCalled>
+			<nodeCalled atLine="42:86">42:3</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:3" type="3" name="fopen" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i8*"></arg>
+			<arg type="i8*"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:4" type="0" name="" startsAtLine = "42:87" endsAtLine = "42:88">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>if.then</BasicBlockID>
+		<readDataSize>0</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>2</instructionsCount>
+		<instructionLines count="2">42:87,42:88</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="1">42:87</writePhaseLines>
+		<successors>
+			<CU>42:5</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">timers_enabled</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:5" type="0" name="" startsAtLine = "42:100" endsAtLine = "42:101">
+		<childrenNodes>42:7,42:8</childrenNodes>
+		<BasicBlockID>if.end</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>4</instructionsCount>
+		<instructionLines count="2">42:100,42:101</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="1">42:101</writePhaseLines>
+		<successors>
+			<CU>42:6</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">j</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:100">42:7</nodeCalled>
+			<nodeCalled atLine="42:100">42:8</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:7" type="3" name="pow" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="double"></arg>
+			<arg type="double"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:8" type="3" name="sprintf" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i8*"></arg>
+			<arg type="i8*"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:6" type="0" name="" startsAtLine = "42:102" endsAtLine = "42:102">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>if.end</BasicBlockID>
+		<readDataSize>8</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>6</instructionsCount>
+		<instructionLines count="1">42:102</instructionLines>
+		<readPhaseLines count="1">42:102</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:9</CU>
+			<CU>42:10</CU>
+		</successors>
+		<localVariables>
+			<local type="ARRAY,i8*">size</local>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">j</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:9" type="0" name="" startsAtLine = "42:102" endsAtLine = "42:102">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>if.then6</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>4</instructionsCount>
+		<instructionLines count="1">42:102</instructionLines>
+		<readPhaseLines count="1">42:102</readPhaseLines>
+		<writePhaseLines count="1">42:102</writePhaseLines>
+		<successors>
+			<CU>42:10</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">j</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:10" type="0" name="" startsAtLine = "42:103" endsAtLine = "42:126">
+		<childrenNodes>42:11,42:12,42:13,42:14</childrenNodes>
+		<BasicBlockID>if.end7</BasicBlockID>
+		<readDataSize>160</readDataSize>
+		<writeDataSize>320</writeDataSize>
+		<instructionsCount>23</instructionsCount>
+		<instructionLines count="8">42:103,42:104,42:105,42:107,42:115,42:124,42:125,42:126</instructionLines>
+		<readPhaseLines count="1">42:103</readPhaseLines>
+		<writePhaseLines count="4">42:103,42:107,42:115,42:126</writePhaseLines>
+		<successors>
+			<CU>42:16</CU>
+		</successors>
+		<localVariables>
+			<local type="ARRAY,double*">dum</local>
+			<local type="ARRAY,i8*">size</local>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+			<global type="i32*">j</global>
+			<global type="i32*">np</global>
+			<global type="i32*">verified</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:104">42:11</nodeCalled>
+			<nodeCalled atLine="42:105">42:12</nodeCalled>
+			<nodeCalled atLine="42:124">42:13</nodeCalled>
+			<nodeCalled atLine="42:125">42:14</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:11" type="3" name="printf" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i8*"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:12" type="3" name="printf" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i8*"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:13" type="3" name="vranlc" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i32"></arg>
+			<arg type="double*"></arg>
+			<arg type="double"></arg>
+			<arg type="double*"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:14" type="3" name="randlc" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="double*"></arg>
+			<arg type="double"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:15" type="2" name="" startsAtLine = "42:126" endsAtLine = "42:128">
+		<childrenNodes>42:16,42:17,42:18</childrenNodes>
+	</Node>
+
+	<Node id="42:16" type="0" name="" startsAtLine = "42:126" endsAtLine = "42:126">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.cond</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>3</instructionsCount>
+		<instructionLines count="1">42:126</instructionLines>
+		<readPhaseLines count="1">42:126</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:17</CU>
+			<CU>42:19</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:17" type="0" name="" startsAtLine = "42:127" endsAtLine = "42:128">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.body</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>5</instructionsCount>
+		<instructionLines count="2">42:127,42:128</instructionLines>
+		<readPhaseLines count="1">42:127</readPhaseLines>
+		<writePhaseLines count="1">42:127</writePhaseLines>
+		<successors>
+			<CU>42:18</CU>
+		</successors>
+		<localVariables>
+			<local type="ARRAY,double*">x</local>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:18" type="0" name="" startsAtLine = "42:126" endsAtLine = "42:126">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.inc</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>4</instructionsCount>
+		<instructionLines count="1">42:126</instructionLines>
+		<readPhaseLines count="1">42:126</readPhaseLines>
+		<writePhaseLines count="1">42:126</writePhaseLines>
+		<successors>
+			<CU>42:16</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:19" type="0" name="" startsAtLine = "42:129" endsAtLine = "42:145">
+		<childrenNodes>42:20,42:21,42:22,42:23,42:24,42:25,42:26,42:27</childrenNodes>
+		<BasicBlockID>for.end</BasicBlockID>
+		<readDataSize>0</readDataSize>
+		<writeDataSize>256</writeDataSize>
+		<instructionsCount>13</instructionsCount>
+		<instructionLines count="9">42:129,42:131,42:132,42:133,42:134,42:136,42:137,42:143,42:145</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="4">42:129,42:136,42:143,42:145</writePhaseLines>
+		<successors>
+			<CU>42:29</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">Mops</global>
+			<global type="i32*">i</global>
+			<global type="double*">t1</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:129">42:20</nodeCalled>
+			<nodeCalled atLine="42:129">42:21</nodeCalled>
+			<nodeCalled atLine="42:129">42:22</nodeCalled>
+			<nodeCalled atLine="42:131">42:23</nodeCalled>
+			<nodeCalled atLine="42:132">42:24</nodeCalled>
+			<nodeCalled atLine="42:133">42:25</nodeCalled>
+			<nodeCalled atLine="42:134">42:26</nodeCalled>
+			<nodeCalled atLine="42:137">42:27</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:20" type="3" name="fabs" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="double"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:21" type="3" name="sqrt" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="double"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:22" type="3" name="log" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="double"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:23" type="3" name="timer_clear" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i32"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:24" type="3" name="timer_clear" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i32"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:25" type="3" name="timer_clear" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i32"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:26" type="3" name="timer_start" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i32"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:27" type="3" name="vranlc" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i32"></arg>
+			<arg type="double*"></arg>
+			<arg type="double"></arg>
+			<arg type="double*"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:28" type="2" name="" startsAtLine = "42:145" endsAtLine = "42:147">
+		<childrenNodes>42:29,42:30,42:32</childrenNodes>
+	</Node>
+
+	<Node id="42:29" type="0" name="" startsAtLine = "42:145" endsAtLine = "42:145">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.cond27</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>3</instructionsCount>
+		<instructionLines count="1">42:145</instructionLines>
+		<readPhaseLines count="1">42:145</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:30</CU>
+			<CU>42:33</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:30" type="0" name="" startsAtLine = "42:146" endsAtLine = "42:147">
+		<childrenNodes>42:31</childrenNodes>
+		<BasicBlockID>for.body30</BasicBlockID>
+		<readDataSize>64</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>4</instructionsCount>
+		<instructionLines count="2">42:146,42:147</instructionLines>
+		<readPhaseLines count="1">42:146</readPhaseLines>
+		<writePhaseLines count="1">42:146</writePhaseLines>
+		<successors>
+			<CU>42:32</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">t1</global>
+			<global type="double*">t2</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:146">42:31</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:31" type="3" name="randlc" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="double*"></arg>
+			<arg type="double"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:32" type="0" name="" startsAtLine = "42:145" endsAtLine = "42:145">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.inc32</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>4</instructionsCount>
+		<instructionLines count="1">42:145</instructionLines>
+		<readPhaseLines count="1">42:145</readPhaseLines>
+		<writePhaseLines count="1">42:145</writePhaseLines>
+		<successors>
+			<CU>42:29</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:33" type="0" name="" startsAtLine = "42:149" endsAtLine = "42:155">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.end34</BasicBlockID>
+		<readDataSize>64</readDataSize>
+		<writeDataSize>384</writeDataSize>
+		<instructionsCount>8</instructionsCount>
+		<instructionLines count="6">42:149,42:150,42:151,42:152,42:153,42:155</instructionLines>
+		<readPhaseLines count="1">42:149</readPhaseLines>
+		<writePhaseLines count="6">42:149,42:150,42:151,42:152,42:153,42:155</writePhaseLines>
+		<successors>
+			<CU>42:35</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">an</global>
+			<global type="double*">gc</global>
+			<global type="i32*">i</global>
+			<global type="double*">sx</global>
+			<global type="double*">sy</global>
+			<global type="double*">t1</global>
+			<global type="double*">tt</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:34" type="2" name="" startsAtLine = "42:155" endsAtLine = "42:157">
+		<childrenNodes>42:35,42:36,42:37</childrenNodes>
+	</Node>
+
+	<Node id="42:35" type="0" name="" startsAtLine = "42:155" endsAtLine = "42:155">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.cond35</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>3</instructionsCount>
+		<instructionLines count="1">42:155</instructionLines>
+		<readPhaseLines count="1">42:155</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:36</CU>
+			<CU>42:38</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:36" type="0" name="" startsAtLine = "42:156" endsAtLine = "42:157">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.body38</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>5</instructionsCount>
+		<instructionLines count="2">42:156,42:157</instructionLines>
+		<readPhaseLines count="1">42:156</readPhaseLines>
+		<writePhaseLines count="1">42:156</writePhaseLines>
+		<successors>
+			<CU>42:37</CU>
+		</successors>
+		<localVariables>
+			<local type="ARRAY,double*">q</local>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:37" type="0" name="" startsAtLine = "42:155" endsAtLine = "42:155">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.inc41</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>4</instructionsCount>
+		<instructionLines count="1">42:155</instructionLines>
+		<readPhaseLines count="1">42:155</readPhaseLines>
+		<writePhaseLines count="1">42:155</writePhaseLines>
+		<successors>
+			<CU>42:35</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:38" type="0" name="" startsAtLine = "42:165" endsAtLine = "42:167">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.end43</BasicBlockID>
+		<readDataSize>0</readDataSize>
+		<writeDataSize>128</writeDataSize>
+		<instructionsCount>3</instructionsCount>
+		<instructionLines count="2">42:165,42:167</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="2">42:165,42:167</writePhaseLines>
+		<successors>
+			<CU>42:40</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">k</global>
+			<global type="i32*">k_offset</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:39" type="2" name="" startsAtLine = "42:167" endsAtLine = "42:212">
+		<childrenNodes>42:40,42:41,42:42,42:49,42:50,42:51,42:53,42:55,42:57,42:58,42:60,42:61,42:81,42:82,42:84,42:85</childrenNodes>
+	</Node>
+
+	<Node id="42:40" type="0" name="" startsAtLine = "42:167" endsAtLine = "42:167">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.cond44</BasicBlockID>
+		<readDataSize>64</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>4</instructionsCount>
+		<instructionLines count="1">42:167</instructionLines>
+		<readPhaseLines count="1">42:167</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:41</CU>
+			<CU>42:89</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">k</global>
+			<global type="i32*">np</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:41" type="0" name="" startsAtLine = "42:168" endsAtLine = "42:174">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.body47</BasicBlockID>
+		<readDataSize>128</readDataSize>
+		<writeDataSize>256</writeDataSize>
+		<instructionsCount>9</instructionsCount>
+		<instructionLines count="4">42:168,42:169,42:170,42:174</instructionLines>
+		<readPhaseLines count="2">42:168,42:170</readPhaseLines>
+		<writePhaseLines count="4">42:168,42:169,42:170,42:174</writePhaseLines>
+		<successors>
+			<CU>42:43</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">an</global>
+			<global type="i32*">i</global>
+			<global type="i32*">k</global>
+			<global type="i32*">k_offset</global>
+			<global type="i32*">kk</global>
+			<global type="double*">t1</global>
+			<global type="double*">t2</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:42" type="2" name="" startsAtLine = "42:174" endsAtLine = "42:180">
+		<childrenNodes>42:43,42:44,42:45,42:46,42:48,42:86,42:88</childrenNodes>
+	</Node>
+
+	<Node id="42:43" type="0" name="" startsAtLine = "42:174" endsAtLine = "42:174">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.cond49</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>3</instructionsCount>
+		<instructionLines count="1">42:174</instructionLines>
+		<readPhaseLines count="1">42:174</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:44</CU>
+			<CU>42:50</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:44" type="0" name="" startsAtLine = "42:175" endsAtLine = "42:175">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.body52</BasicBlockID>
+		<readDataSize>64</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>3</instructionsCount>
+		<instructionLines count="1">42:175</instructionLines>
+		<readPhaseLines count="1">42:175</readPhaseLines>
+		<writePhaseLines count="1">42:175</writePhaseLines>
+		<successors>
+			<CU>42:45</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">ik</global>
+			<global type="i32*">kk</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:45" type="0" name="" startsAtLine = "42:176" endsAtLine = "42:176">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.body52</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>4</instructionsCount>
+		<instructionLines count="1">42:176</instructionLines>
+		<readPhaseLines count="1">42:176</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:46</CU>
+			<CU>42:48</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">ik</global>
+			<global type="i32*">kk</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:46" type="0" name="" startsAtLine = "42:176" endsAtLine = "42:176">
+		<childrenNodes>42:47</childrenNodes>
+		<BasicBlockID>if.then55</BasicBlockID>
+		<readDataSize>64</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>4</instructionsCount>
+		<instructionLines count="1">42:176</instructionLines>
+		<readPhaseLines count="1">42:176</readPhaseLines>
+		<writePhaseLines count="1">42:176</writePhaseLines>
+		<successors>
+			<CU>42:48</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">t2</global>
+			<global type="double*">t3</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:176">42:47</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:47" type="3" name="randlc" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="double*"></arg>
+			<arg type="double"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:48" type="0" name="" startsAtLine = "42:177" endsAtLine = "42:177">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>if.end57</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>3</instructionsCount>
+		<instructionLines count="1">42:177</instructionLines>
+		<readPhaseLines count="1">42:177</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:49</CU>
+			<CU>42:86</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">ik</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:86" type="0" name="" startsAtLine = "42:178" endsAtLine = "42:180">
+		<childrenNodes>42:87</childrenNodes>
+		<BasicBlockID>if.end61</BasicBlockID>
+		<readDataSize>96</readDataSize>
+		<writeDataSize>128</writeDataSize>
+		<instructionsCount>6</instructionsCount>
+		<instructionLines count="3">42:178,42:179,42:180</instructionLines>
+		<readPhaseLines count="2">42:178,42:179</readPhaseLines>
+		<writePhaseLines count="2">42:178,42:179</writePhaseLines>
+		<successors>
+			<CU>42:88</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">ik</global>
+			<global type="i32*">kk</global>
+			<global type="double*">t2</global>
+			<global type="double*">t3</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:178">42:87</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:87" type="3" name="randlc" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="double*"></arg>
+			<arg type="double"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:88" type="0" name="" startsAtLine = "42:174" endsAtLine = "42:174">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.inc63</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>4</instructionsCount>
+		<instructionLines count="1">42:174</instructionLines>
+		<readPhaseLines count="1">42:174</readPhaseLines>
+		<writePhaseLines count="1">42:174</writePhaseLines>
+		<successors>
+			<CU>42:43</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:49" type="0" name="" startsAtLine = "42:177" endsAtLine = "42:177">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>if.then60</BasicBlockID>
+		<readDataSize>0</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>1</instructionsCount>
+		<instructionLines count="1">42:177</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:50</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:50" type="0" name="" startsAtLine = "42:185" endsAtLine = "42:185">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.end65</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>3</instructionsCount>
+		<instructionLines count="1">42:185</instructionLines>
+		<readPhaseLines count="1">42:185</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:51</CU>
+			<CU>42:53</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">timers_enabled</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:51" type="0" name="" startsAtLine = "42:185" endsAtLine = "42:185">
+		<childrenNodes>42:52</childrenNodes>
+		<BasicBlockID>if.then66</BasicBlockID>
+		<readDataSize>0</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>2</instructionsCount>
+		<instructionLines count="1">42:185</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:53</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:185">42:52</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:52" type="3" name="timer_start" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i32"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:53" type="0" name="" startsAtLine = "42:186" endsAtLine = "42:187">
+		<childrenNodes>42:54</childrenNodes>
+		<BasicBlockID>if.end67</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>4</instructionsCount>
+		<instructionLines count="2">42:186,42:187</instructionLines>
+		<readPhaseLines count="1">42:187</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:55</CU>
+			<CU>42:57</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">timers_enabled</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:186">42:54</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:54" type="3" name="vranlc" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i32"></arg>
+			<arg type="double*"></arg>
+			<arg type="double"></arg>
+			<arg type="double*"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:55" type="0" name="" startsAtLine = "42:187" endsAtLine = "42:187">
+		<childrenNodes>42:56</childrenNodes>
+		<BasicBlockID>if.then69</BasicBlockID>
+		<readDataSize>0</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>2</instructionsCount>
+		<instructionLines count="1">42:187</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:57</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:187">42:56</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:56" type="3" name="timer_stop" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i32"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:57" type="0" name="" startsAtLine = "42:194" endsAtLine = "42:194">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>if.end70</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>3</instructionsCount>
+		<instructionLines count="1">42:194</instructionLines>
+		<readPhaseLines count="1">42:194</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:58</CU>
+			<CU>42:60</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">timers_enabled</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:58" type="0" name="" startsAtLine = "42:194" endsAtLine = "42:194">
+		<childrenNodes>42:59</childrenNodes>
+		<BasicBlockID>if.then72</BasicBlockID>
+		<readDataSize>0</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>2</instructionsCount>
+		<instructionLines count="1">42:194</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:60</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:194">42:59</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:59" type="3" name="timer_start" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i32"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:60" type="0" name="" startsAtLine = "42:196" endsAtLine = "42:196">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>if.end73</BasicBlockID>
+		<readDataSize>0</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>2</instructionsCount>
+		<instructionLines count="1">42:196</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="1">42:196</writePhaseLines>
+		<successors>
+			<CU>42:62</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:61" type="2" name="" startsAtLine = "42:196" endsAtLine = "42:209">
+		<childrenNodes>42:62,42:63,42:64,42:65,42:66,42:67,42:68,42:73,42:75,42:76,42:77,42:78,42:79</childrenNodes>
+	</Node>
+
+	<Node id="42:62" type="0" name="" startsAtLine = "42:196" endsAtLine = "42:196">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.cond74</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>3</instructionsCount>
+		<instructionLines count="1">42:196</instructionLines>
+		<readPhaseLines count="1">42:196</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:63</CU>
+			<CU>42:81</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:63" type="0" name="" startsAtLine = "42:197" endsAtLine = "42:198">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.body77</BasicBlockID>
+		<readDataSize>256</readDataSize>
+		<writeDataSize>128</writeDataSize>
+		<instructionsCount>17</instructionsCount>
+		<instructionLines count="2">42:197,42:198</instructionLines>
+		<readPhaseLines count="2">42:197,42:198</readPhaseLines>
+		<writePhaseLines count="2">42:197,42:198</writePhaseLines>
+		<successors>
+			<CU>42:64</CU>
+		</successors>
+		<localVariables>
+			<local type="ARRAY,double*">x</local>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+			<global type="double*">x1</global>
+			<global type="double*">x2</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:64" type="0" name="" startsAtLine = "42:199" endsAtLine = "42:199">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.body77</BasicBlockID>
+		<readDataSize>256</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>7</instructionsCount>
+		<instructionLines count="1">42:199</instructionLines>
+		<readPhaseLines count="1">42:199</readPhaseLines>
+		<writePhaseLines count="1">42:199</writePhaseLines>
+		<successors>
+			<CU>42:65</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">t1</global>
+			<global type="double*">x1</global>
+			<global type="double*">x2</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:65" type="0" name="" startsAtLine = "42:200" endsAtLine = "42:200">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.body77</BasicBlockID>
+		<readDataSize>0</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>2</instructionsCount>
+		<instructionLines count="1">42:200</instructionLines>
+		<readPhaseLines count="1">42:200</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:66</CU>
+			<CU>42:77</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">t1</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:66" type="0" name="" startsAtLine = "42:201" endsAtLine = "42:201">
+		<childrenNodes>42:69,42:70</childrenNodes>
+		<BasicBlockID>if.then93</BasicBlockID>
+		<readDataSize>256</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>8</instructionsCount>
+		<instructionLines count="1">42:201</instructionLines>
+		<readPhaseLines count="1">42:201</readPhaseLines>
+		<writePhaseLines count="1">42:201</writePhaseLines>
+		<successors>
+			<CU>42:67</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">t1</global>
+			<global type="double*">t2</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:201">42:69</nodeCalled>
+			<nodeCalled atLine="42:201">42:70</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:69" type="3" name="log" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="double"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:70" type="3" name="sqrt" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="double"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:67" type="0" name="" startsAtLine = "42:202" endsAtLine = "42:203">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>if.then93</BasicBlockID>
+		<readDataSize>192</readDataSize>
+		<writeDataSize>128</writeDataSize>
+		<instructionsCount>6</instructionsCount>
+		<instructionLines count="2">42:202,42:203</instructionLines>
+		<readPhaseLines count="2">42:202,42:203</readPhaseLines>
+		<writePhaseLines count="2">42:202,42:203</writePhaseLines>
+		<successors>
+			<CU>42:68</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">t2</global>
+			<global type="double*">t3</global>
+			<global type="double*">t4</global>
+			<global type="double*">x1</global>
+			<global type="double*">x2</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:68" type="0" name="" startsAtLine = "42:204" endsAtLine = "42:204">
+		<childrenNodes>42:71,42:72</childrenNodes>
+		<BasicBlockID>if.then93</BasicBlockID>
+		<readDataSize>64</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>5</instructionsCount>
+		<instructionLines count="1">42:204</instructionLines>
+		<readPhaseLines count="1">42:204</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:73</CU>
+			<CU>42:79</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">t3</global>
+			<global type="double*">t4</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:204">42:71</nodeCalled>
+			<nodeCalled atLine="42:204">42:72</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:71" type="3" name="fabs" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="double"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:72" type="3" name="fabs" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="double"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:73" type="0" name="" startsAtLine = "42:204" endsAtLine = "42:204">
+		<childrenNodes>42:74</childrenNodes>
+		<BasicBlockID>cond.true</BasicBlockID>
+		<readDataSize>64</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>3</instructionsCount>
+		<instructionLines count="1">42:204</instructionLines>
+		<readPhaseLines count="1">42:204</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:75</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">t3</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:204">42:74</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:74" type="3" name="fabs" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="double"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:75" type="0" name="" startsAtLine = "42:204" endsAtLine = "42:204">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>cond.end</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>3</instructionsCount>
+		<instructionLines count="1">42:204</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="1">42:204</writePhaseLines>
+		<successors>
+			<CU>42:76</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">l</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:76" type="0" name="" startsAtLine = "42:205" endsAtLine = "42:208">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>cond.end</BasicBlockID>
+		<readDataSize>352</readDataSize>
+		<writeDataSize>192</writeDataSize>
+		<instructionsCount>17</instructionsCount>
+		<instructionLines count="4">42:205,42:206,42:207,42:208</instructionLines>
+		<readPhaseLines count="3">42:205,42:206,42:207</readPhaseLines>
+		<writePhaseLines count="3">42:205,42:206,42:207</writePhaseLines>
+		<successors>
+			<CU>42:77</CU>
+		</successors>
+		<localVariables>
+			<local type="ARRAY,double*">q</local>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">l</global>
+			<global type="double*">sx</global>
+			<global type="double*">sy</global>
+			<global type="double*">t3</global>
+			<global type="double*">t4</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:77" type="0" name="" startsAtLine = "42:209" endsAtLine = "42:209">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>if.end114</BasicBlockID>
+		<readDataSize>0</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>1</instructionsCount>
+		<instructionLines count="1">42:209</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:78</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:78" type="0" name="" startsAtLine = "42:196" endsAtLine = "42:196">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.inc115</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>4</instructionsCount>
+		<instructionLines count="1">42:196</instructionLines>
+		<readPhaseLines count="1">42:196</readPhaseLines>
+		<writePhaseLines count="1">42:196</writePhaseLines>
+		<successors>
+			<CU>42:62</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:79" type="0" name="" startsAtLine = "42:204" endsAtLine = "42:204">
+		<childrenNodes>42:80</childrenNodes>
+		<BasicBlockID>cond.false</BasicBlockID>
+		<readDataSize>64</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>3</instructionsCount>
+		<instructionLines count="1">42:204</instructionLines>
+		<readPhaseLines count="1">42:204</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:75</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">t4</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:204">42:80</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:80" type="3" name="fabs" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="double"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:81" type="0" name="" startsAtLine = "42:211" endsAtLine = "42:211">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.end117</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>3</instructionsCount>
+		<instructionLines count="1">42:211</instructionLines>
+		<readPhaseLines count="1">42:211</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:82</CU>
+			<CU>42:84</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">timers_enabled</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:82" type="0" name="" startsAtLine = "42:211" endsAtLine = "42:211">
+		<childrenNodes>42:83</childrenNodes>
+		<BasicBlockID>if.then119</BasicBlockID>
+		<readDataSize>0</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>2</instructionsCount>
+		<instructionLines count="1">42:211</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:84</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:211">42:83</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:83" type="3" name="timer_stop" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i32"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:84" type="0" name="" startsAtLine = "42:212" endsAtLine = "42:212">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>if.end120</BasicBlockID>
+		<readDataSize>0</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>1</instructionsCount>
+		<instructionLines count="1">42:212</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:85</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:85" type="0" name="" startsAtLine = "42:167" endsAtLine = "42:167">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.inc121</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>4</instructionsCount>
+		<instructionLines count="1">42:167</instructionLines>
+		<readPhaseLines count="1">42:167</readPhaseLines>
+		<writePhaseLines count="1">42:167</writePhaseLines>
+		<successors>
+			<CU>42:40</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">k</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:89" type="0" name="" startsAtLine = "42:214" endsAtLine = "42:214">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.end123</BasicBlockID>
+		<readDataSize>0</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>2</instructionsCount>
+		<instructionLines count="1">42:214</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="1">42:214</writePhaseLines>
+		<successors>
+			<CU>42:91</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:90" type="2" name="" startsAtLine = "42:214" endsAtLine = "42:216">
+		<childrenNodes>42:91,42:92,42:93</childrenNodes>
+	</Node>
+
+	<Node id="42:91" type="0" name="" startsAtLine = "42:214" endsAtLine = "42:214">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.cond124</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>3</instructionsCount>
+		<instructionLines count="1">42:214</instructionLines>
+		<readPhaseLines count="1">42:214</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:92</CU>
+			<CU>42:94</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:92" type="0" name="" startsAtLine = "42:215" endsAtLine = "42:216">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.body127</BasicBlockID>
+		<readDataSize>160</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>8</instructionsCount>
+		<instructionLines count="2">42:215,42:216</instructionLines>
+		<readPhaseLines count="1">42:215</readPhaseLines>
+		<writePhaseLines count="1">42:215</writePhaseLines>
+		<successors>
+			<CU>42:93</CU>
+		</successors>
+		<localVariables>
+			<local type="ARRAY,double*">q</local>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">gc</global>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:93" type="0" name="" startsAtLine = "42:214" endsAtLine = "42:214">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.inc131</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>4</instructionsCount>
+		<instructionLines count="1">42:214</instructionLines>
+		<readPhaseLines count="1">42:214</readPhaseLines>
+		<writePhaseLines count="1">42:214</writePhaseLines>
+		<successors>
+			<CU>42:91</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:94" type="0" name="" startsAtLine = "42:218" endsAtLine = "42:225">
+		<childrenNodes>42:96,42:97</childrenNodes>
+		<BasicBlockID>for.end133</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>320</writeDataSize>
+		<instructionsCount>7</instructionsCount>
+		<instructionLines count="6">42:218,42:219,42:221,42:222,42:224,42:225</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="5">42:219,42:221,42:222,42:224,42:225</writePhaseLines>
+		<successors>
+			<CU>42:95</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">nit</global>
+			<global type="double*">sx_verify_value</global>
+			<global type="double*">sy_verify_value</global>
+			<global type="double*">tm</global>
+			<global type="i32*">verified</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:218">42:96</nodeCalled>
+			<nodeCalled atLine="42:219">42:97</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:96" type="3" name="timer_stop" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i32"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:97" type="3" name="timer_read" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i32"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:95" type="0" name="" startsAtLine = "42:248" endsAtLine = "42:248">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.end133</BasicBlockID>
+		<readDataSize>0</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>2</instructionsCount>
+		<instructionLines count="1">42:248</instructionLines>
+		<readPhaseLines count="1">42:248</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:98</CU>
+			<CU>42:104</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">verified</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:98" type="0" name="" startsAtLine = "42:249" endsAtLine = "42:250">
+		<childrenNodes>42:100,42:101</childrenNodes>
+		<BasicBlockID>if.then136</BasicBlockID>
+		<readDataSize>448</readDataSize>
+		<writeDataSize>128</writeDataSize>
+		<instructionsCount>14</instructionsCount>
+		<instructionLines count="2">42:249,42:250</instructionLines>
+		<readPhaseLines count="2">42:249,42:250</readPhaseLines>
+		<writePhaseLines count="2">42:249,42:250</writePhaseLines>
+		<successors>
+			<CU>42:99</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">sx</global>
+			<global type="double*">sx_err</global>
+			<global type="double*">sx_verify_value</global>
+			<global type="double*">sy</global>
+			<global type="double*">sy_err</global>
+			<global type="double*">sy_verify_value</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:249">42:100</nodeCalled>
+			<nodeCalled atLine="42:250">42:101</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:100" type="3" name="fabs" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="double"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:101" type="3" name="fabs" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="double"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:99" type="0" name="" startsAtLine = "42:251" endsAtLine = "42:251">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>if.then136</BasicBlockID>
+		<readDataSize>0</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>2</instructionsCount>
+		<instructionLines count="1">42:251</instructionLines>
+		<readPhaseLines count="1">42:251</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:102</CU>
+			<CU>42:103</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">sx_err</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:102" type="0" name="" startsAtLine = "42:251" endsAtLine = "42:251">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>land.rhs</BasicBlockID>
+		<readDataSize>64</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>2</instructionsCount>
+		<instructionLines count="1">42:251</instructionLines>
+		<readPhaseLines count="1">42:251</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:103</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">sy_err</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:103" type="0" name="" startsAtLine = "42:251" endsAtLine = "42:252">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>land.end</BasicBlockID>
+		<readDataSize>0</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>3</instructionsCount>
+		<instructionLines count="2">42:251,42:252</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="1">42:251</writePhaseLines>
+		<successors>
+			<CU>42:104</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">verified</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:104" type="0" name="" startsAtLine = "42:254" endsAtLine = "42:262">
+		<childrenNodes>42:105,42:106,42:107,42:108,42:109,42:110,42:111</childrenNodes>
+		<BasicBlockID>if.end147</BasicBlockID>
+		<readDataSize>320</readDataSize>
+		<writeDataSize>128</writeDataSize>
+		<instructionsCount>17</instructionsCount>
+		<instructionLines count="8">42:254,42:256,42:257,42:258,42:259,42:260,42:261,42:262</instructionLines>
+		<readPhaseLines count="4">42:254,42:257,42:259,42:260</readPhaseLines>
+		<writePhaseLines count="2">42:254,42:262</writePhaseLines>
+		<successors>
+			<CU>42:113</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">Mops</global>
+			<global type="double*">gc</global>
+			<global type="i32*">i</global>
+			<global type="double*">sx</global>
+			<global type="double*">sy</global>
+			<global type="double*">tm</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:254">42:105</nodeCalled>
+			<nodeCalled atLine="42:256">42:106</nodeCalled>
+			<nodeCalled atLine="42:257">42:107</nodeCalled>
+			<nodeCalled atLine="42:258">42:108</nodeCalled>
+			<nodeCalled atLine="42:259">42:109</nodeCalled>
+			<nodeCalled atLine="42:260">42:110</nodeCalled>
+			<nodeCalled atLine="42:261">42:111</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:105" type="3" name="pow" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="double"></arg>
+			<arg type="double"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:106" type="3" name="printf" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i8*"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:107" type="3" name="printf" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i8*"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:108" type="3" name="printf" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i8*"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:109" type="3" name="printf" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i8*"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:110" type="3" name="printf" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i8*"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:111" type="3" name="printf" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i8*"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:112" type="2" name="" startsAtLine = "42:262" endsAtLine = "42:264">
+		<childrenNodes>42:113,42:114,42:116</childrenNodes>
+	</Node>
+
+	<Node id="42:113" type="0" name="" startsAtLine = "42:262" endsAtLine = "42:262">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.cond157</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>3</instructionsCount>
+		<instructionLines count="1">42:262</instructionLines>
+		<readPhaseLines count="1">42:262</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:114</CU>
+			<CU>42:117</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:114" type="0" name="" startsAtLine = "42:263" endsAtLine = "42:264">
+		<childrenNodes>42:115</childrenNodes>
+		<BasicBlockID>for.body160</BasicBlockID>
+		<readDataSize>128</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>7</instructionsCount>
+		<instructionLines count="2">42:263,42:264</instructionLines>
+		<readPhaseLines count="1">42:263</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:116</CU>
+		</successors>
+		<localVariables>
+			<local type="ARRAY,double*">q</local>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:263">42:115</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:115" type="3" name="printf" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i8*"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:116" type="0" name="" startsAtLine = "42:262" endsAtLine = "42:262">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>for.inc164</BasicBlockID>
+		<readDataSize>32</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>4</instructionsCount>
+		<instructionLines count="1">42:262</instructionLines>
+		<readPhaseLines count="1">42:262</readPhaseLines>
+		<writePhaseLines count="1">42:262</writePhaseLines>
+		<successors>
+			<CU>42:113</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="i32*">i</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:117" type="0" name="" startsAtLine = "42:266" endsAtLine = "42:272">
+		<childrenNodes>42:118</childrenNodes>
+		<BasicBlockID>for.end166</BasicBlockID>
+		<readDataSize>224</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>8</instructionsCount>
+		<instructionLines count="4">42:266,42:267,42:269,42:272</instructionLines>
+		<readPhaseLines count="4">42:266,42:267,42:269,42:272</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:119</CU>
+			<CU>42:131</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">Mops</global>
+			<global type="i32*">nit</global>
+			<global type="i32*">timers_enabled</global>
+			<global type="double*">tm</global>
+			<global type="i32*">verified</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:266">42:118</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:118" type="3" name="print_results" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i8*"></arg>
+			<arg type="i8"></arg>
+			<arg type="i32"></arg>
+			<arg type="i32"></arg>
+			<arg type="i32"></arg>
+			<arg type="i32"></arg>
+			<arg type="double"></arg>
+			<arg type="double"></arg>
+			<arg type="i8*"></arg>
+			<arg type="i32"></arg>
+			<arg type="i8*"></arg>
+			<arg type="i8*"></arg>
+			<arg type="i8*"></arg>
+			<arg type="i8*"></arg>
+			<arg type="i8*"></arg>
+			<arg type="i8*"></arg>
+			<arg type="i8*"></arg>
+			<arg type="i8*"></arg>
+			<arg type="i8*"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:119" type="0" name="" startsAtLine = "42:273" endsAtLine = "42:273">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>if.then168</BasicBlockID>
+		<readDataSize>64</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>3</instructionsCount>
+		<instructionLines count="1">42:273</instructionLines>
+		<readPhaseLines count="1">42:273</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:120</CU>
+			<CU>42:121</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">tm</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:120" type="0" name="" startsAtLine = "42:273" endsAtLine = "42:273">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>if.then171</BasicBlockID>
+		<readDataSize>0</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>2</instructionsCount>
+		<instructionLines count="1">42:273</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="1">42:273</writePhaseLines>
+		<successors>
+			<CU>42:121</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">tm</global>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:121" type="0" name="" startsAtLine = "42:274" endsAtLine = "42:274">
+		<childrenNodes>42:125</childrenNodes>
+		<BasicBlockID>if.end172</BasicBlockID>
+		<readDataSize>64</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>2</instructionsCount>
+		<instructionLines count="1">42:274</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="1">42:274</writePhaseLines>
+		<successors>
+			<CU>42:122</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">tt</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:274">42:125</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:125" type="3" name="timer_read" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i32"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:122" type="0" name="" startsAtLine = "42:275" endsAtLine = "42:276">
+		<childrenNodes>42:126,42:127</childrenNodes>
+		<BasicBlockID>if.end172</BasicBlockID>
+		<readDataSize>192</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>7</instructionsCount>
+		<instructionLines count="2">42:275,42:276</instructionLines>
+		<readPhaseLines count="1">42:275</readPhaseLines>
+		<writePhaseLines count="1">42:276</writePhaseLines>
+		<successors>
+			<CU>42:123</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">tm</global>
+			<global type="double*">tt</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:275">42:126</nodeCalled>
+			<nodeCalled atLine="42:276">42:127</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:126" type="3" name="printf" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i8*"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:127" type="3" name="timer_read" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i32"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:123" type="0" name="" startsAtLine = "42:277" endsAtLine = "42:278">
+		<childrenNodes>42:128,42:129</childrenNodes>
+		<BasicBlockID>if.end172</BasicBlockID>
+		<readDataSize>192</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>7</instructionsCount>
+		<instructionLines count="2">42:277,42:278</instructionLines>
+		<readPhaseLines count="1">42:277</readPhaseLines>
+		<writePhaseLines count="1">42:278</writePhaseLines>
+		<successors>
+			<CU>42:124</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">tm</global>
+			<global type="double*">tt</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:277">42:128</nodeCalled>
+			<nodeCalled atLine="42:278">42:129</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:128" type="3" name="printf" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i8*"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:129" type="3" name="timer_read" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i32"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:124" type="0" name="" startsAtLine = "42:279" endsAtLine = "42:280">
+		<childrenNodes>42:130</childrenNodes>
+		<BasicBlockID>if.end172</BasicBlockID>
+		<readDataSize>128</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>6</instructionsCount>
+		<instructionLines count="2">42:279,42:280</instructionLines>
+		<readPhaseLines count="1">42:279</readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+			<CU>42:131</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="double*">tm</global>
+			<global type="double*">tt</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:279">42:130</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:130" type="3" name="printf" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="i8*"></arg>
+		</funcArguments>
+	</Node>
+
+	<Node id="42:131" type="0" name="" startsAtLine = "42:282" endsAtLine = "42:282">
+		<childrenNodes></childrenNodes>
+		<BasicBlockID>if.end185</BasicBlockID>
+		<readDataSize>0</readDataSize>
+		<writeDataSize>0</writeDataSize>
+		<instructionsCount>1</instructionsCount>
+		<instructionLines count="1">42:282</instructionLines>
+		<readPhaseLines count="0"></readPhaseLines>
+		<writePhaseLines count="0"></writePhaseLines>
+		<successors>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+		</globalVariables>
+		<callsNode>
+		</callsNode>
+	</Node>
+
+	<Node id="42:132" type="0" name="" startsAtLine = "42:89" endsAtLine = "42:90">
+		<childrenNodes>42:133</childrenNodes>
+		<BasicBlockID>if.else</BasicBlockID>
+		<readDataSize>64</readDataSize>
+		<writeDataSize>64</writeDataSize>
+		<instructionsCount>3</instructionsCount>
+		<instructionLines count="2">42:89,42:90</instructionLines>
+		<readPhaseLines count="1">42:90</readPhaseLines>
+		<writePhaseLines count="1">42:89</writePhaseLines>
+		<successors>
+			<CU>42:5</CU>
+		</successors>
+		<localVariables>
+		</localVariables>
+		<globalVariables>
+			<global type="%struct._IO_FILE**">fp</global>
+			<global type="i32*">timers_enabled</global>
+		</globalVariables>
+		<callsNode>
+			<nodeCalled atLine="42:90">42:133</nodeCalled>
+		</callsNode>
+	</Node>
+
+	<Node id="42:133" type="3" name="fclose" startsAtLine = "262143:16383" endsAtLine = "262143:16383">
+		<childrenNodes></childrenNodes>
+		<funcArguments>
+			<arg type="%struct._IO_FILE*"></arg>
+		</funcArguments>
+	</Node>
+
+</Nodes>
+
+

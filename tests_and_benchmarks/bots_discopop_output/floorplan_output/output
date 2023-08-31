@@ -1,0 +1,330 @@
+Do-all at: 2:6
+Start line: 2:278
+End line: 2:279
+iterations: 64
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['j', 'i']
+shared: ['board']
+first private: []
+reduction: []
+last private: []
+
+Do-all at: 2:9
+Start line: 2:279
+End line: 2:279
+iterations: 4096
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['j']
+shared: ['board']
+first private: ['i']
+reduction: []
+last private: []
+
+Do-all at: 2:29
+Start line: 2:166
+End line: 2:179
+iterations: 5
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['n', 'i', 'j']
+shared: ['gcells']
+first private: ['inputFile']
+reduction: []
+last private: []
+
+Do-all at: 2:34
+Start line: 2:171
+End line: 2:174
+iterations: 14
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['j', 'i']
+shared: ['gcells']
+first private: ['inputFile']
+reduction: []
+last private: []
+
+Do-all at: 2:118
+Start line: 2:97
+End line: 2:100
+iterations: 2
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i']
+shared: ['NWS.addr', 'cells.addr']
+first private: ['n', 'top', 'left']
+reduction: []
+last private: []
+
+Do-all at: 2:132
+Start line: 2:110
+End line: 2:113
+iterations: 2503
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i']
+shared: ['NWS.addr']
+first private: ['n', 'cells.addr', 'lhs', 'above']
+reduction: []
+last private: []
+
+Do-all at: 2:162
+Start line: 2:278
+End line: 2:279
+iterations: 64
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['j', 'i']
+shared: ['board']
+first private: []
+reduction: []
+last private: []
+
+Do-all at: 2:165
+Start line: 2:279
+End line: 2:279
+iterations: 4096
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['j']
+shared: ['board']
+first private: ['i']
+reduction: []
+last private: []
+
+Do-all at: 2:185
+Start line: 2:166
+End line: 2:179
+iterations: 5
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['n', 'i', 'j']
+shared: ['gcells']
+first private: ['inputFile']
+reduction: []
+last private: []
+
+Do-all at: 2:190
+Start line: 2:171
+End line: 2:174
+iterations: 14
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['j', 'i']
+shared: ['gcells']
+first private: ['inputFile']
+reduction: []
+last private: []
+
+Do-all at: 2:274
+Start line: 2:97
+End line: 2:100
+iterations: 2
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i']
+shared: ['NWS.addr', 'cells.addr']
+first private: ['n', 'top', 'left']
+reduction: []
+last private: []
+
+Do-all at: 2:288
+Start line: 2:110
+End line: 2:113
+iterations: 2503
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i']
+shared: ['NWS.addr', 'cells.addr']
+first private: ['n', 'lhs', 'above']
+reduction: []
+last private: []
+
+
+Pipeline at: 2:61
+Coefficient: 0.962
+Start line: 2:209
+End line: 2:255
+Stages:
+	Node: 2:63
+	Start line: 2:211
+	End line: 2:211
+	pragma: "#pragma omp task"
+	first private: ['CELLS.addr', 'cells.addr', 'id.addr']
+	private: ['shape.addr']
+	shared: ['NWS.addr']
+	reduction: []
+	InDeps: []
+	OutDeps: ['n', 'top', 'bot', 'rows', 'left', 'nn', 'rhs', 'i', 'cols', 'lhs', 'above']
+	InOutDeps: []
+
+	Node: 2:64
+	Start line: 2:212
+	End line: 2:214
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['nn']
+	OutDeps: ['j']
+	InOutDeps: ['nn2']
+
+	Node: 2:66
+	Start line: 2:226
+	End line: 2:254
+	pragma: "#pragma omp task"
+	first private: []
+	private: ['shape.addr']
+	shared: ['cells.addr', 'id.addr', 'FOOTPRINT.addr', 'BOARD.addr', 'retval', 'CELLS.addr', 'MIN_AREA']
+	reduction: []
+	InDeps: ['nn', 'NWS', 'lhs', 'bot', 'rhs', 'i', 'n', 'nn2', 'rows', 'cols', 'top', 'left', 'above', 'j']
+	OutDeps: []
+	InOutDeps: []
+
+Pipeline at: 2:217
+Coefficient: 0.962
+Start line: 2:209
+End line: 2:255
+Stages:
+	Node: 2:219
+	Start line: 2:211
+	End line: 2:211
+	pragma: "#pragma omp task"
+	first private: []
+	private: ['shape.addr']
+	shared: ['NWS.addr']
+	reduction: []
+	InDeps: []
+	OutDeps: ['n', 'top', 'bot', 'rows', 'left', 'nn', 'rhs', 'i', 'cols', 'lhs', 'above']
+	InOutDeps: []
+
+	Node: 2:220
+	Start line: 2:212
+	End line: 2:214
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['nn']
+	OutDeps: ['j']
+	InOutDeps: ['nn2']
+
+	Node: 2:222
+	Start line: 2:226
+	End line: 2:254
+	pragma: "#pragma omp task"
+	first private: []
+	private: ['shape.addr']
+	shared: ['cells.addr', 'id.addr', 'FOOTPRINT.addr', 'BOARD.addr', 'retval', 'CELLS.addr', 'MIN_AREA']
+	reduction: []
+	InDeps: ['nn', 'NWS', 'lhs', 'bot', 'rhs', 'i', 'n', 'nn2', 'rows', 'cols', 'top', 'left', 'above', 'j']
+	OutDeps: []
+	InOutDeps: []
+
+
+Geometric decomposition at: 2:0
+Start line: 2:262
+End line: 2:281
+Type: Geometric Decomposition Pattern
+Do-All loops: ['2:6', '2:9']
+Reduction loops: []
+	Number of tasks: 2
+	Chunk limits: 64
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: ['filename.addr']
+	first private: ['i']
+	reduction: []
+	last private: []
+
+Geometric decomposition at: 2:16
+Start line: 2:149
+End line: 2:184
+Type: Geometric Decomposition Pattern
+Do-All loops: ['2:29', '2:34']
+Reduction loops: []
+	Number of tasks: 2
+	Chunk limits: 5
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: []
+	first private: ['i']
+	reduction: []
+	last private: []
+
+Geometric decomposition at: 2:98
+Start line: 2:105
+End line: 2:115
+Type: Geometric Decomposition Pattern
+Do-All loops: ['2:118', '2:132']
+Reduction loops: []
+	Number of tasks: 2
+	Chunk limits: 2
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: ['NWS.addr']
+	first private: ['id.addr', 'shape.addr', 'cells.addr', 'i']
+	reduction: []
+	last private: []
+
+Geometric decomposition at: 2:156
+Start line: 2:262
+End line: 2:281
+Type: Geometric Decomposition Pattern
+Do-All loops: ['2:162', '2:165']
+Reduction loops: []
+	Number of tasks: 2
+	Chunk limits: 64
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: ['filename.addr']
+	first private: ['i']
+	reduction: []
+	last private: []
+
+Geometric decomposition at: 2:172
+Start line: 2:149
+End line: 2:184
+Type: Geometric Decomposition Pattern
+Do-All loops: ['2:185', '2:190']
+Reduction loops: []
+	Number of tasks: 2
+	Chunk limits: 5
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: []
+	first private: ['i']
+	reduction: []
+	last private: []
+
+Geometric decomposition at: 2:254
+Start line: 2:105
+End line: 2:115
+Type: Geometric Decomposition Pattern
+Do-All loops: ['2:274', '2:288']
+Reduction loops: []
+	Number of tasks: 2
+	Chunk limits: 2
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: ['NWS.addr']
+	first private: ['id.addr', 'shape.addr', 'i']
+	reduction: []
+	last private: []
+Time taken for pattern detection: 43.36280274391174

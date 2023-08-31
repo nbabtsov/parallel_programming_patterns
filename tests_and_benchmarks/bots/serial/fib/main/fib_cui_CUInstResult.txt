@@ -1,0 +1,4 @@
+WAW in function: _Z3fibi, line: 1:27, variable: retval
+WAW in function: _Z3fibi, line: 1:29, variable: x
+WAW in function: _Z3fibi, line: 1:30, variable: y
+WAW in function: _Z3fibi, line: 1:32, variable: retval

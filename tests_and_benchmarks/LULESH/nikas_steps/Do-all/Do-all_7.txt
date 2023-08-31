@@ -1,0 +1,9 @@
+      for ( Index_t k=0 ; k<numElem ; ++k ) {
+         if (determ[k] <= Real_t(0.0)) {
+#if USE_MPI            
+            MPI_Abort(MPI_COMM_WORLD, VolumeError) ;
+#else
+            exit(VolumeError);
+#endif
+         }
+      }

@@ -1,0 +1,6 @@
+   for (Index_t i=0; i<numElemReg; ++i) {
+      Index_t ielem = regElemList[i];
+      domain.p(ielem) = p_new[i] ;
+      domain.e(ielem) = e_new[i] ;
+      domain.q(ielem) = q_new[i] ;
+   }

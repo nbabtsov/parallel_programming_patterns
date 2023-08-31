@@ -1,0 +1,164 @@
+Do-all at: 3:141
+Start line: 3:407
+End line: 3:409
+iterations: 4
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i']
+shared: ['array']
+first private: []
+reduction: []
+last private: []
+
+Do-all at: 3:313
+Start line: 3:407
+End line: 3:409
+iterations: 4
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['i']
+shared: ['array']
+first private: []
+reduction: []
+last private: []
+
+
+Pipeline at: 3:127
+Coefficient: 0.988
+Start line: 3:393
+End line: 3:397
+Stages:
+	Node: 3:129
+	Start line: 3:394
+	End line: 3:394
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: ['j']
+	InOutDeps: []
+
+	Node: 3:130
+	Start line: 3:395
+	End line: 3:395
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: []
+	InOutDeps: ['j']
+
+	Node: 3:131
+	Start line: 3:396
+	End line: 3:397
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['j']
+	OutDeps: []
+	InOutDeps: ['array', 'tmp']
+
+	Node: 3:131
+	Start line: 3:396
+	End line: 3:397
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['j']
+	OutDeps: []
+	InOutDeps: ['array', 'tmp']
+
+Pipeline at: 3:299
+Coefficient: 0.988
+Start line: 3:393
+End line: 3:397
+Stages:
+	Node: 3:301
+	Start line: 3:394
+	End line: 3:394
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: ['j']
+	InOutDeps: []
+
+	Node: 3:302
+	Start line: 3:395
+	End line: 3:395
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: []
+	InOutDeps: ['j']
+
+	Node: 3:303
+	Start line: 3:396
+	End line: 3:397
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['j']
+	OutDeps: []
+	InOutDeps: ['array', 'tmp']
+
+	Node: 3:303
+	Start line: 3:396
+	End line: 3:397
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['j']
+	OutDeps: []
+	InOutDeps: ['array', 'tmp']
+
+
+Geometric decomposition at: 3:138
+Start line: 3:402
+End line: 3:410
+Type: Geometric Decomposition Pattern
+Do-All loops: ['3:141']
+Reduction loops: []
+	Number of tasks: 2
+	Chunk limits: 4
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: []
+	first private: ['i']
+	reduction: []
+	last private: []
+
+Geometric decomposition at: 3:310
+Start line: 3:402
+End line: 3:410
+Type: Geometric Decomposition Pattern
+Do-All loops: ['3:313']
+Reduction loops: []
+	Number of tasks: 2
+	Chunk limits: 4
+	pragma: for (i = 0; i < num-tasks; i++) #pragma omp task]
+	private: []
+	shared: []
+	first private: ['i']
+	reduction: []
+	last private: []
+Time taken for pattern detection: 0.40329790115356445

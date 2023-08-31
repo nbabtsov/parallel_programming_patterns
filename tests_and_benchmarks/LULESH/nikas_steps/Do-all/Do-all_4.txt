@@ -1,0 +1,2 @@
+         for(Index_t i=0 ; i<numNodeBC ; ++i)
+            domain.xdd(domain.symmX(i)) = Real_t(0.0) ;

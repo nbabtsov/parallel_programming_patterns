@@ -1,0 +1,22 @@
+      for ( Index_t k=0 ; k<numElem ; ++k )
+      {
+         // calc strain rate and apply as constraint (only done in FB element)
+         Real_t vdov = domain.dxx(k) + domain.dyy(k) + domain.dzz(k) ;
+         Real_t vdovthird = vdov/Real_t(3.0) ;
+
+         // make the rate of deformation tensor deviatoric
+         domain.vdov(k) = vdov ;
+         domain.dxx(k) -= vdovthird ;
+         domain.dyy(k) -= vdovthird ;
+         domain.dzz(k) -= vdovthird ;
+
+        // See if any volumes are negative, and take appropriate action.
+         if (domain.vnew(k) <= Real_t(0.0))
+        {
+#if USE_MPI           
+           MPI_Abort(MPI_COMM_WORLD, VolumeError) ;
+#else
+           exit(VolumeError);
+#endif
+        }
+      }

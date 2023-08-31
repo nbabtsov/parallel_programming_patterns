@@ -1,0 +1,6 @@
+    for ( Index_t j=0 ; j<8 ; ++j )
+    {
+       x_local[j] -= dt2 * xd_local[j];
+       y_local[j] -= dt2 * yd_local[j];
+       z_local[j] -= dt2 * zd_local[j];
+    }

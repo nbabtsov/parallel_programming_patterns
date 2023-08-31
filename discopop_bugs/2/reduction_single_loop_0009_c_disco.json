@@ -1,0 +1,281 @@
+{
+  "reduction": [
+    {
+      "node_id": "3:2",
+      "start_line": "3:39",
+      "end_line": "3:64",
+      "iterations_count": 455,
+      "instructions_count": 0,
+      "workload": 0,
+      "pragma": "#pragma omp parallel for",
+      "first_private": [],
+      "private": [
+        "wbXyUKN",
+        "retval",
+        "Lxr",
+        "yuH",
+        "e.addr",
+        "PkmRAGKL",
+        "q",
+        "U",
+        "ci",
+        "o",
+        "O",
+        "w6F",
+        "d.addr"
+      ],
+      "last_private": [],
+      "shared": [
+        "a",
+        "c",
+        "b.addr",
+        "c.addr",
+        "rIi",
+        "a.addr",
+        "u"
+      ],
+      "reduction": [
+        "+:t3"
+      ]
+    }
+  ],
+  "do_all": [],
+  "pipeline": [
+    {
+      "node_id": "3:2",
+      "start_line": "3:39",
+      "end_line": "3:64",
+      "iterations_count": 455,
+      "instructions_count": 0,
+      "workload": 0,
+      "coefficient": 0.949,
+      "stages": [
+        {
+          "node": "3:4",
+          "startsAtLine": "3:42",
+          "endsAtLine": "3:43",
+          "first_private": [],
+          "private": [
+            "d.addr"
+          ],
+          "shared": [
+            "a",
+            "c.addr",
+            "a.addr",
+            "u",
+            "b.addr"
+          ],
+          "reduction": [],
+          "in_deps": [],
+          "out_deps": [
+            "Lxr",
+            "ci",
+            "retval",
+            "PkmRAGKL"
+          ],
+          "in_out_deps": []
+        },
+        {
+          "node": "3:5",
+          "startsAtLine": "3:44",
+          "endsAtLine": "3:44",
+          "first_private": [],
+          "private": [
+            "a.addr",
+            "d.addr"
+          ],
+          "shared": [
+            "c.addr",
+            "b.addr"
+          ],
+          "reduction": [],
+          "in_deps": [
+            "ci"
+          ],
+          "out_deps": [
+            "rIi",
+            "wbXyUKN"
+          ],
+          "in_out_deps": [
+            "retval",
+            "Lxr"
+          ]
+        },
+        {
+          "node": "3:6",
+          "startsAtLine": "3:45",
+          "endsAtLine": "3:54",
+          "first_private": [],
+          "private": [
+            "e.addr",
+            "a.addr"
+          ],
+          "shared": [
+            "c",
+            "b.addr",
+            "c.addr",
+            "zB",
+            "d.addr",
+            "u"
+          ],
+          "reduction": [],
+          "in_deps": [
+            "ci",
+            "rIi"
+          ],
+          "out_deps": [
+            "a",
+            "yuH",
+            "O",
+            "p"
+          ],
+          "in_out_deps": [
+            "wbXyUKN",
+            "retval",
+            "PkmRAGKL"
+          ]
+        },
+        {
+          "node": "3:7",
+          "startsAtLine": "3:55",
+          "endsAtLine": "3:57",
+          "first_private": [],
+          "private": [
+            "d.addr",
+            "e.addr"
+          ],
+          "shared": [
+            "c.addr",
+            "a.addr",
+            "u",
+            "b.addr"
+          ],
+          "reduction": [],
+          "in_deps": [
+            "ci",
+            "rIi"
+          ],
+          "out_deps": [],
+          "in_out_deps": [
+            "Lxr",
+            "O",
+            "w6F",
+            "retval",
+            "p"
+          ]
+        },
+        {
+          "node": "3:8",
+          "startsAtLine": "3:58",
+          "endsAtLine": "3:58",
+          "first_private": [],
+          "private": [
+            "a.addr",
+            "d.addr"
+          ],
+          "shared": [
+            "c.addr",
+            "b.addr"
+          ],
+          "reduction": [],
+          "in_deps": [
+            "ci",
+            "p"
+          ],
+          "out_deps": [
+            "u"
+          ],
+          "in_out_deps": [
+            "Lxr",
+            "wbXyUKN",
+            "retval"
+          ]
+        },
+        {
+          "node": "3:9",
+          "startsAtLine": "3:59",
+          "endsAtLine": "3:60",
+          "first_private": [],
+          "private": [
+            "d.addr"
+          ],
+          "shared": [
+            "c.addr",
+            "U",
+            "a.addr",
+            "c",
+            "b.addr"
+          ],
+          "reduction": [],
+          "in_deps": [
+            "Lxr",
+            "w6F",
+            "u",
+            "ci",
+            "wbXyUKN",
+            "p"
+          ],
+          "out_deps": [
+            "zB"
+          ],
+          "in_out_deps": [
+            "retval",
+            "PkmRAGKL"
+          ]
+        },
+        {
+          "node": "3:10",
+          "startsAtLine": "3:61",
+          "endsAtLine": "3:64",
+          "first_private": [],
+          "private": [
+            "e.addr",
+            "b.addr"
+          ],
+          "shared": [
+            "c.addr",
+            "a.addr",
+            "d.addr"
+          ],
+          "reduction": [],
+          "in_deps": [
+            "a",
+            "O",
+            "w6F",
+            "ci",
+            "zB",
+            "retval",
+            "yuH",
+            "PkmRAGKL"
+          ],
+          "out_deps": [],
+          "in_out_deps": []
+        }
+      ]
+    }
+  ],
+  "geometric_decomposition": [
+    {
+      "node_id": "3:0",
+      "start_line": "3:18",
+      "end_line": "3:66",
+      "iterations_count": -1,
+      "instructions_count": 0,
+      "workload": 0,
+      "do_all_children": [],
+      "reduction_children": [
+        "3:2"
+      ],
+      "min_iter_number": 455,
+      "num_tasks": 13,
+      "pragma": "for (i = 0; i < num-tasks; i++) #pragma omp task",
+      "first_private": [
+        "i"
+      ],
+      "private": [],
+      "last_private": [],
+      "shared": [],
+      "reduction": []
+    }
+  ]
+}

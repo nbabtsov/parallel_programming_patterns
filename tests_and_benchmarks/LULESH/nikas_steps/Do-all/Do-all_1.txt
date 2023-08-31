@@ -1,0 +1,7 @@
+    for( Index_t lnode=0 ; lnode<8 ; ++lnode )
+    {
+      Index_t gnode = elemToNode[lnode];
+      xd_local[lnode] = domain.xd(gnode);
+      yd_local[lnode] = domain.yd(gnode);
+      zd_local[lnode] = domain.zd(gnode);
+    }

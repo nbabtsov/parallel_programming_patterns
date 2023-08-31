@@ -1,0 +1,9 @@
+         for (Index_t i=0; i<numElemReg; ++i) {
+            Index_t ielem = regElemList[i];
+            e_old[i] = domain.e(ielem) ;
+            delvc[i] = domain.delv(ielem) ;
+            p_old[i] = domain.p(ielem) ;
+            q_old[i] = domain.q(ielem) ;
+            qq_old[i] = domain.qq(ielem) ;
+            ql_old[i] = domain.ql(ielem) ;
+         }

@@ -1,0 +1,95 @@
+Reduction at: 2:23
+Start line: 2:91
+End line: 2:97
+pragma: #pragma omp parallel for
+private: ['j', 'res', 'q', 'i', 'retval', 'n.addr', 'p']
+shared: []
+first private: ['j.addr']
+reduction: ['+:solutions.addr']
+last private: []
+
+
+Do-all at: 2:5
+Start line: 2:69
+End line: 2:73
+iterations: 187178
+instructions: 0
+workload: 0
+pragma: "#pragma omp parallel for"
+private: ['j', 'q', 'n.addr']
+shared: []
+first private: ['i', 'a.addr', 'p']
+reduction: []
+last private: []
+
+
+Pipeline at: 2:2
+Coefficient: 1.0
+Start line: 2:66
+End line: 2:74
+Stages:
+	Node: 2:4
+	Start line: 2:67
+	End line: 2:69
+	pragma: "#pragma omp task"
+	first private: ['i', 'a.addr']
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: ['p']
+	InOutDeps: ['j']
+
+	Node: 2:5
+	Start line: 2:69
+	End line: 2:73
+	pragma: "#pragma omp task"
+	first private: ['i', 'a.addr']
+	private: ['n.addr']
+	shared: ['q']
+	reduction: []
+	InDeps: ['j', 'p']
+	OutDeps: []
+	InOutDeps: []
+
+Pipeline at: 2:23
+Coefficient: 0.962
+Start line: 2:91
+End line: 2:97
+Stages:
+	Node: 2:25
+	Start line: 2:92
+	End line: 2:92
+	pragma: "#pragma omp task"
+	first private: ['i']
+	private: ['j.addr']
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: ['a.addr']
+	InOutDeps: []
+
+	Node: 2:26
+	Start line: 2:93
+	End line: 2:93
+	pragma: "#pragma omp task"
+	first private: []
+	private: ['j.addr']
+	shared: []
+	reduction: []
+	InDeps: ['a.addr']
+	OutDeps: ['j', 'q', 'i', 'retval', 'n.addr', 'p']
+	InOutDeps: []
+
+	Node: 2:28
+	Start line: 2:94
+	End line: 2:96
+	pragma: "#pragma omp task"
+	first private: []
+	private: ['i', 'j.addr']
+	shared: []
+	reduction: ['solutions.addr']
+	InDeps: ['j', 'q', 'retval', 'a.addr', 'p']
+	OutDeps: []
+	InOutDeps: ['res', 'n.addr']
+Time taken for pattern detection: 0.1830434799194336

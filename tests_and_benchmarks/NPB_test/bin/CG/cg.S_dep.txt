@@ -1,0 +1,378 @@
+START 18:125
+18:327 BGN loop 1400
+18:330 END loop
+18:312 BGN loop 1400
+18:317 END loop
+18:296 BGN loop 15
+18:332 END loop
+18:260 BGN loop 1400
+18:265 END loop
+18:548 BGN loop 1400
+18:551 END loop
+18:536 BGN loop 1400
+18:543 END loop
+18:527 BGN loop 1400
+18:536 END loop
+18:460 BGN loop 55
+18:463 END loop
+18:436 BGN loop 1400
+18:445 END loop
+18:425 BGN loop 1401
+18:436 END loop
+18:279 BGN loop 1401
+18:283 END loop
+18:561 BGN loop 55
+18:564 END loop
+18:232 BGN loop 1400
+18:239 END loop
+18:221 BGN loop 55
+18:224 END loop
+18:508 BGN loop 1400
+18:515 END loop
+18:696 BGN loop 1401
+18:700 END loop
+18:811 BGN loop 55
+18:816 END loop
+18:220 BGN loop 1400
+18:229 END loop
+18:643 BGN loop 7
+18:647 END loop
+18:570 BGN loop 1400
+18:575 END loop
+18:758 BGN loop 16
+18:786 END loop
+18:559 BGN loop 1400
+18:570 END loop
+18:700 BGN loop 1400
+18:707 END loop
+18:631 BGN loop 10
+18:637 END loop
+18:726 BGN loop 1400
+18:737 END loop
+18:854 BGN loop 2
+18:860 END loop
+18:637 BGN loop 1400
+18:653 END loop
+18:229 BGN loop 1401
+18:232 END loop
+18:887 BGN loop 7
+18:893 END loop
+18:840 BGN loop 10
+18:865 END loop
+18:817 BGN loop 1400
+18:820 END loop
+18:701 BGN loop 7
+18:705 END loop
+18:140 BGN loop 3
+18:144 END loop
+18:708 BGN loop 1400
+18:711 END loop
+18:445 BGN loop 25
+18:558 END loop
+18:727 BGN loop 63
+18:731 END loop
+18:270 BGN loop 1400
+18:273 END loop
+18:458 BGN loop 1400
+18:507 END loop
+18:740 BGN loop 1400
+18:799 END loop
+18:246 BGN loop 1
+18:279 END loop
+18:763 BGN loop 53
+18:769 END loop
+18:741 BGN loop 7
+18:793 END loop
+18:745 BGN loop 7
+18:792 END loop
+18:799 BGN loop 1399
+18:803 END loop
+18:803 BGN loop 1400
+18:817 END loop
+18:301 BGN func 18:406
+18:287 BGN func 22:57
+18:332 BGN func 22:43
+22:47 BGN func 22:13
+18:250 BGN func 18:406
+18:285 BGN func 22:43
+18:653 BGN func 18:663
+18:371 BGN func 23:6
+18:141 BGN func 22:25
+18:155 BGN func 22:34
+22:36 BGN func 22:13
+22:15 BGN func 29:7
+18:338 BGN func 22:57
+18:200 BGN func 25:4
+18:205 BGN func 18:604
+18:289 BGN func 22:34
+18:841 BGN func 25:4
+18:639 BGN func 18:833
+18:846 BGN func 25:4
+18:640 BGN func 18:881
+18:847 BGN func 18:871
+18:576 END func
+18:656 END func
+18:821 END func
+18:865 END func
+18:873 END func
+18:898 END func
+22:16 END func
+22:28 END func
+22:37 END func
+22:51 END func
+22:59 END func
+23:65 END func
+25:67 END func
+29:14 END func
+18:157 NOM  INIT *|firstrow
+18:814 NOM  RAW 18:810|nza RAW 18:814|nza WAR 18:814|nza
+18:717 NOM  RAW 18:711|nza
+18:804 NOM  RAW 18:803|j
+18:896 NOM  RAW 18:638|nzv.addr WAR 18:896|nzv.addr
+23:53 NOM  RAW 18:572|cs3.addr
+18:199 NOM  INIT *|amult
+18:346 NOM  INIT *|verified
+18:887 NOM  RAW 18:638|nzv.addr RAW 18:887|k WAR 18:887|k INIT *|k
+18:558 NOM  WAR 18:463|sum
+18:459 NOM  WAR 18:463|sum WAR 18:575|sum INIT *|sum
+18:374 NOM  RAW 18:346|verified
+22:47 NOM  WAR 22:48|now WAW 25:36|now
+23:23 NOM  RAW 25:39|name.addr
+23:48 NOM  RAW 29:13|compiletime.addr
+23:56 NOM  RAW 18:515|cs6.addr
+18:803 NOM  RAW 18:691|nrows RAW 18:803|j WAR 18:799|j WAR 18:803|j
+18:193 NOM  INIT *|nzz
+18:757 NOM  WAR 18:786|cont40 INIT *|cont40
+18:348 NOM  RAW 18:319|zeta
+18:342 NOM  WAR 18:562|epsilon
+18:311 NOM  WAR 18:271|norm_temp2 WAR 18:328|norm_temp2
+18:708 NOM  RAW 18:691|nrows RAW 18:708|j WAR 18:703|j WAR 18:708|j
+18:707 NOM  RAW 18:846|rowstr.addr WAW 18:697|rowstr.addr
+18:799 NOM  RAW 18:691|nrows RAW 18:799|j WAR 18:781|j WAR 18:799|j
+25:36 NOM  WAW 25:36|r23 INIT *|r23
+18:632 NOM  RAW 18:631|nn1
+18:200 NOM  RAW 18:199|amult INIT *|zeta
+18:691 NOM  INIT *|nrows
+18:890 NOM  WAW 18:886|set
+18:362 NOM  RAW 18:338|t
+18:771 NOM  WAW 18:757|cont40
+18:239 NOM  WAW 18:200|zeta
+25:57 NOM  RAW 25:56|t1 WAR 25:59|x1 INIT *|x1
+18:559 NOM  RAW 18:157|firstrow RAW 18:158|lastrow RAW 18:559|j WAR 18:548|j WAR 18:559|j
+18:349 NOM  RAW 18:344|err
+18:758 NOM  RAW 18:707|rowstr.addr RAW 18:709|rowstr.addr RAW 18:742|j RAW 18:758|k RAW 18:846|rowstr.addr WAR 18:727|k WAR 18:758|k WAR 18:790|k
+18:855 NOM  RAW 18:847|i RAW 18:854|ii RAW 18:862|iv.addr
+18:258 NOM  INIT *|norm_temp1
+25:47 NOM  WAR 22:16|t1 WAR 25:61|t1 INIT *|t1
+18:509 NOM  RAW 18:429|p.addr RAW 18:463|q.addr RAW 18:507|d RAW 18:508|j RAW 18:509|d RAW 18:549|p.addr RAW 25:48|p.addr RAW 25:49|q.addr WAR 18:509|d
+18:310 NOM  WAR 18:319|norm_temp1 WAW 18:261|norm_temp1
+18:773 NOM  RAW 18:729|colidx.addr RAW 18:758|k RAW 18:766|colidx.addr RAW 18:769|colidx.addr RAW 18:774|colidx.addr RAW 18:886|colidx.addr
+18:637 NOM  RAW 18:637|iouter WAR 18:637|iouter INIT *|iouter
+25:60 NOM  RAW 25:59|t1 WAR 25:61|t2 INIT *|t2
+22:27 NOM  INIT *|elapsed
+18:888 NOM  RAW 18:862|iv.addr RAW 18:863|i.addr RAW 18:887|k
+18:745 NOM  RAW 18:641|arow.addr RAW 18:740|i RAW 18:745|nzrow WAR 18:745|nzrow INIT *|nzrow
+18:572 NOM  RAW 18:558|sum RAW 18:571|d RAW 18:572|sum WAR 18:572|sum
+18:163 NOM  INIT *|Class
+18:152 NOM  INIT *|timeron
+18:561 NOM  RAW 18:559|j RAW 18:561|k RAW 18:707|rowstr.addr RAW 18:818|rowstr.addr RAW 25:59|rowstr.addr RAW 29:13|rowstr.addr WAR 18:460|k WAR 18:561|k
+23:14 NOM  RAW 25:39|name.addr
+18:543 NOM  RAW 18:520|rho0 RAW 18:537|rho WAR 18:549|beta WAR 18:644|beta
+18:742 NOM  RAW 18:644|acol.addr RAW 18:740|i RAW 18:741|nza WAR 18:726|j WAR 18:758|j WAR 18:763|j WAR 18:781|j
+18:697 NOM  RAW 18:696|j RAW 18:846|rowstr.addr INIT *|rowstr.addr
+18:371 NOM  RAW 18:163|Class
+18:769 NOM  RAW 18:746|jcol RAW 18:758|k RAW 18:886|colidx.addr WAR 18:766|colidx.addr
+23:41 NOM  RAW 25:48|mops.addr
+18:570 NOM  RAW 18:159|firstcol RAW 18:160|lastcol RAW 18:570|j WAR 18:559|j WAR 18:570|j
+25:56 NOM  RAW 18:198|x.addr RAW 25:64|x.addr WAR 25:48|t1
+29:13 NOM  RAW 18:515|tv RAW 18:520|tv RAW 18:537|t.addr RAW 25:48|t.addr RAW 25:49|tv RAW 25:57|tv RAW 29:12|sec WAR 18:561|t.addr INIT *|t.addr
+18:766 NOM  RAW 18:763|kk RAW 18:766|colidx.addr RAW 18:769|colidx.addr RAW 18:774|colidx.addr RAW 18:886|colidx.addr WAR 18:764|colidx.addr WAR 18:766|colidx.addr WAW 18:729|colidx.addr
+18:863 NOM  RAW 18:838|nzv RAW 18:863|nzv WAR 18:863|nzv
+18:820 NOM  RAW 18:691|nrows RAW 18:818|rowstr.addr RAW 18:846|rowstr.addr WAW 18:814|nza
+18:141 NOM  RAW 18:140|i
+18:738 NOM  RAW 18:853|n.addr INIT *|ratio
+29:12 NOM  RAW 29:12|sec INIT *|sec
+18:774 NOM  RAW 18:746|jcol RAW 18:758|k RAW 18:886|colidx.addr WAR 18:773|colidx.addr
+18:575 NOM  RAW 18:572|sum RAW 25:58|rnorm.addr WAR 18:322|rnorm.addr WAW 18:575|rnorm.addr INIT *|rnorm.addr
+18:192 NOM  INIT *|naa
+25:49 NOM  RAW 25:48|a1 WAR 25:62|a2 INIT *|a2
+18:312 NOM  RAW 18:159|firstcol RAW 18:160|lastcol RAW 18:312|j WAR 18:270|j WAR 18:312|j WAR 18:327|j
+22:48 NOM  RAW 22:36|start RAW 22:47|now WAR 22:49|t INIT *|t
+18:427 NOM  RAW 18:425|j RAW 18:812|z.addr WAR 18:271|z.addr WAR 18:328|z.addr WAW 18:234|z.addr WAW 18:427|z.addr INIT *|z.addr
+18:458 NOM  RAW 18:157|firstrow RAW 18:158|lastrow RAW 18:458|j WAR 18:436|j WAR 18:458|j WAR 18:548|j
+18:259 NOM  INIT *|norm_temp2
+18:856 NOM  WAW 18:853|was_gen
+18:846 NOM  RAW 18:199|amult WAR 18:847|vecloc INIT *|vecloc
+18:437 NOM  RAW 18:420|rho RAW 18:428|r.addr RAW 18:436|j RAW 18:437|rho RAW 25:57|r.addr WAR 18:437|rho
+18:296 NOM  RAW 18:296|it WAR 18:246|it WAR 18:296|it
+18:893 NOM  RAW 18:886|set RAW 18:890|set
+18:461 NOM  RAW 18:222|colidx.addr RAW 18:429|p.addr RAW 18:459|sum RAW 18:460|k RAW 18:461|sum RAW 18:549|p.addr RAW 18:812|a.addr RAW 25:39|colidx.addr RAW 25:48|p.addr WAR 18:461|sum
+18:262 NOM  RAW 18:259|norm_temp2 RAW 18:260|j RAW 18:262|norm_temp2 RAW 18:528|z WAR 18:262|norm_temp2
+18:515 NOM  RAW 18:437|rho RAW 18:509|d RAW 18:537|rho WAR 18:529|alpha WAR 18:644|alpha WAR 29:13|alpha
+18:536 NOM  RAW 18:159|firstcol RAW 18:160|lastcol RAW 18:536|j WAR 18:527|j WAR 18:536|j
+18:746 NOM  RAW 18:644|acol.addr RAW 18:740|i RAW 18:745|nzrow WAR 18:769|jcol WAR 18:774|jcol WAR 18:777|jcol INIT *|jcol
+18:164 NOM  INIT *|zeta_verify_value
+18:363 NOM  INIT *|mflops
+18:562 NOM  RAW 18:222|colidx.addr RAW 18:528|z.addr RAW 18:560|d RAW 18:561|k RAW 18:562|d RAW 18:812|z.addr RAW 18:812|a.addr RAW 25:39|colidx.addr WAR 18:562|d
+23:33 NOM  RAW 29:13|n1.addr
+18:261 NOM  RAW 18:230|x RAW 18:258|norm_temp1 RAW 18:260|j RAW 18:261|norm_temp1 RAW 18:528|z WAR 18:261|norm_temp1
+18:460 NOM  RAW 18:458|j RAW 18:460|k RAW 18:707|rowstr.addr RAW 18:818|rowstr.addr RAW 25:59|rowstr.addr RAW 29:13|rowstr.addr WAR 18:460|k WAR 18:561|k WAR 18:655|k WAR 22:16|k
+18:343 NOM  RAW 18:163|Class
+18:741 NOM  RAW 18:641|arow.addr RAW 18:740|i RAW 18:741|nza WAR 18:717|nza WAR 18:741|nza
+18:537 NOM  RAW 18:526|rho RAW 18:529|r.addr RAW 18:536|j RAW 18:537|rho RAW 25:57|r.addr WAR 18:537|rho
+23:54 NOM  RAW 18:537|cs4.addr
+18:436 NOM  RAW 18:159|firstcol RAW 18:160|lastcol RAW 18:436|j WAR 18:425|j WAR 18:436|j
+23:51 NOM  RAW 18:417|cs1.addr
+18:426 NOM  RAW 18:425|j RAW 25:49|q.addr WAR 18:529|q.addr WAW 18:233|q.addr WAW 18:426|q.addr INIT *|q.addr
+18:160 NOM  INIT *|lastcol
+23:40 NOM  RAW 18:812|t.addr
+23:57 NOM  RAW 18:543|cs7.addr
+18:782 NOM  WAW 18:757|cont40
+18:373 NOM  RAW 18:363|mflops
+18:508 NOM  RAW 18:159|firstcol RAW 18:160|lastcol RAW 18:508|j WAR 18:458|j WAR 18:508|j
+18:314 NOM  RAW 18:311|norm_temp2 RAW 18:312|j RAW 18:314|norm_temp2 RAW 18:528|z WAR 18:314|norm_temp2
+22:16 NOM  RAW 29:13|t
+18:280 NOM  RAW 18:279|i WAR 18:428|x WAW 18:271|x
+18:271 NOM  RAW 18:265|norm_temp2 RAW 18:270|j RAW 18:528|z WAR 18:261|x
+18:425 NOM  RAW 18:192|naa RAW 18:425|j WAR 18:425|j WAR 18:570|j INIT *|j
+18:889 NOM  RAW 18:887|k WAW 18:861|v.addr
+18:895 NOM  RAW 18:638|nzv.addr RAW 18:863|i.addr WAR 18:644|iv.addr INIT *|iv.addr
+18:696 NOM  RAW 18:691|nrows RAW 18:696|j WAR 18:696|j INIT *|j
+18:701 NOM  RAW 18:641|arow.addr RAW 18:700|i RAW 18:701|nza WAR 18:701|nza INIT *|nza
+18:654 NOM  RAW 25:58|aelt.addr RAW 25:63|lastrow.addr
+18:853 NOM  WAR 18:860|was_gen INIT *|was_gen
+18:206 NOM  RAW 18:157|firstrow RAW 18:158|lastrow RAW 18:159|firstcol RAW 18:160|lastcol
+25:38 NOM  WAW 25:38|t23 INIT *|t23
+18:740 NOM  RAW 18:740|i RAW 18:853|n.addr WAR 18:700|i WAR 18:740|i
+18:158 NOM  INIT *|lastrow
+18:700 NOM  RAW 18:700|i RAW 18:853|n.addr WAR 18:700|i INIT *|i
+25:39 NOM  WAW 25:39|t46 INIT *|t46
+18:205 NOM  RAW 18:192|naa RAW 18:193|nzz
+25:37 NOM  WAW 25:37|r46 INIT *|r46
+22:36 NOM  INIT *|start
+18:653 NOM  RAW 25:39|nz.addr RAW 25:49|arow.addr RAW 25:57|acol.addr RAW 25:59|a.addr RAW 25:60|colidx.addr RAW 25:62|rowstr.addr
+23:42 NOM  RAW 25:49|optype.addr
+18:571 NOM  RAW 18:230|x.addr RAW 18:280|x.addr RAW 18:328|x.addr RAW 18:564|r.addr RAW 18:570|j RAW 25:57|r.addr RAW 25:60|x.addr WAR 18:564|d WAR 18:572|d
+18:770 NOM  RAW 18:758|k WAR 18:765|a.addr
+18:765 NOM  RAW 18:744|a.addr RAW 18:763|kk RAW 18:765|a.addr RAW 18:790|a.addr RAW 18:793|a.addr WAR 18:765|a.addr WAW 18:728|a.addr
+18:862 NOM  RAW 18:838|nzv RAW 18:847|i RAW 18:863|nzv WAR 18:644|iv.addr INIT *|iv.addr
+18:265 NOM  RAW 18:262|norm_temp2 WAR 18:265|norm_temp2
+18:463 NOM  RAW 18:458|j RAW 18:461|sum RAW 25:49|q.addr WAR 18:529|q.addr WAW 18:426|q.addr
+18:861 NOM  RAW 18:838|nzv RAW 18:841|vecelt RAW 18:863|nzv WAR 18:645|v.addr INIT *|v.addr
+18:279 NOM  RAW 18:279|i WAR 18:229|i WAR 18:279|i
+18:764 NOM  RAW 18:729|colidx.addr RAW 18:763|kk RAW 18:766|colidx.addr RAW 18:769|colidx.addr RAW 18:774|colidx.addr RAW 18:886|colidx.addr
+18:840 NOM  RAW 18:838|nzv RAW 18:863|nzv
+18:140 NOM  RAW 18:140|i WAR 18:140|i INIT *|i
+18:549 NOM  RAW 18:429|p.addr RAW 18:529|r.addr RAW 18:543|beta RAW 18:548|j RAW 18:549|p.addr RAW 25:48|p.addr RAW 25:57|r.addr WAR 18:549|p.addr
+18:198 NOM  INIT *|tran
+18:520 NOM  RAW 18:437|rho RAW 18:537|rho WAR 18:543|rho0 WAR 18:644|rho0 WAR 29:13|rho0
+25:58 NOM  RAW 18:198|x.addr RAW 25:57|x1 RAW 25:64|x.addr WAR 25:62|x2 INIT *|x2
+25:59 NOM  RAW 25:48|a1 RAW 25:49|a2 RAW 25:57|x1 RAW 25:58|x2 WAR 25:57|t1
+18:526 NOM  WAR 18:520|rho
+18:327 NOM  RAW 18:159|firstcol RAW 18:160|lastcol RAW 18:327|j WAR 18:312|j WAR 18:327|j
+18:777 NOM  RAW 18:746|jcol RAW 18:758|k RAW 18:766|colidx.addr RAW 18:769|colidx.addr RAW 18:774|colidx.addr RAW 18:886|colidx.addr
+18:737 NOM  WAW 18:728|size
+18:328 NOM  RAW 18:317|norm_temp2 RAW 18:327|j RAW 18:528|z WAR 18:313|x
+18:527 NOM  RAW 18:159|firstcol RAW 18:160|lastcol RAW 18:527|j WAR 18:508|j WAR 18:527|j
+18:702 NOM  RAW 18:644|acol.addr RAW 18:700|i RAW 18:701|nza WAR 18:696|j WAR 18:703|j
+18:703 NOM  RAW 18:641|arow.addr RAW 18:697|rowstr.addr RAW 18:700|i RAW 18:702|j RAW 18:703|rowstr.addr RAW 18:846|rowstr.addr WAR 18:703|rowstr.addr
+18:800 NOM  RAW 18:731|nzloc.addr RAW 18:781|nzloc.addr RAW 18:799|j RAW 18:800|nzloc.addr WAR 18:800|nzloc.addr
+25:48 NOM  RAW 25:47|t1 WAR 25:59|a1 INIT *|a1
+18:300 NOM  RAW 18:152|timeron
+18:709 NOM  RAW 18:703|rowstr.addr RAW 18:707|rowstr.addr RAW 18:708|j RAW 18:709|rowstr.addr RAW 18:846|rowstr.addr WAR 18:709|rowstr.addr
+18:313 NOM  RAW 18:280|x RAW 18:310|norm_temp1 RAW 18:312|j RAW 18:313|norm_temp1 RAW 18:328|x RAW 18:528|z WAR 18:313|norm_temp1
+18:145 NOM  INIT *|fp
+22:49 NOM  RAW 22:27|elapsed RAW 22:48|t WAR 22:49|elapsed
+18:302 NOM  RAW 18:152|timeron
+18:711 NOM  RAW 18:691|nrows RAW 18:709|rowstr.addr RAW 18:846|rowstr.addr WAR 18:701|nza
+18:529 NOM  RAW 18:428|r.addr RAW 18:463|q.addr RAW 18:515|alpha RAW 18:527|j RAW 18:529|r.addr RAW 25:49|q.addr RAW 25:57|r.addr WAR 18:529|r.addr
+18:319 NOM  RAW 18:313|norm_temp1 WAR 18:322|zeta WAW 18:283|zeta
+18:728 NOM  RAW 18:727|k WAR 18:653|a.addr WAR 18:654|a.addr INIT *|a.addr
+18:320 NOM  RAW 18:296|it
+18:729 NOM  RAW 18:727|k RAW 18:886|colidx.addr INIT *|colidx.addr
+18:322 NOM  RAW 18:296|it RAW 18:319|zeta RAW 18:575|rnorm
+18:731 NOM  RAW 18:726|j INIT *|nzloc.addr
+18:854 NOM  RAW 18:838|nzv RAW 18:854|ii RAW 18:863|nzv WAR 18:854|ii WAR 18:855|ii INIT *|ii
+18:445 NOM  RAW 18:417|cgitmax RAW 18:445|cgit WAR 18:445|cgit WAR 18:637|cgit
+18:655 NOM  RAW 25:61|iv.addr
+18:246 NOM  RAW 18:246|it WAR 18:246|it INIT *|it
+18:528 NOM  RAW 18:427|z.addr RAW 18:429|p.addr RAW 18:515|alpha RAW 18:527|j RAW 18:528|z.addr RAW 18:549|p.addr RAW 18:812|z.addr RAW 25:48|p.addr WAR 18:528|z.addr
+18:727 NOM  RAW 18:707|rowstr.addr RAW 18:709|rowstr.addr RAW 18:726|j RAW 18:727|k RAW 18:846|rowstr.addr WAR 18:727|k INIT *|k
+18:744 NOM  RAW 18:645|aelt.addr RAW 18:737|size RAW 18:740|i RAW 18:741|nza RAW 18:765|size RAW 18:790|size RAW 18:793|size WAR 18:747|scale WAW 18:728|scale WAW 18:790|scale
+18:548 NOM  RAW 18:159|firstcol RAW 18:160|lastcol RAW 18:548|j WAR 18:536|j WAR 18:548|j
+18:338 NOM  INIT *|t
+18:747 NOM  RAW 18:645|aelt.addr RAW 18:740|i RAW 18:744|scale RAW 18:745|nzrow RAW 18:790|scale WAR 18:790|va INIT *|va
+18:344 NOM  RAW 18:164|zeta_verify_value RAW 18:319|zeta WAR 18:562|err
+18:753 NOM  RAW 18:740|i RAW 18:742|j RAW 18:746|jcol
+22:59 NOM  RAW 22:49|elapsed
+18:564 NOM  RAW 18:559|j RAW 18:562|d RAW 25:57|r.addr WAR 18:549|r.addr
+18:763 NOM  RAW 18:709|rowstr.addr RAW 18:742|j RAW 18:758|k RAW 18:763|kk RAW 18:846|rowstr.addr WAR 18:763|kk INIT *|kk
+18:759 NOM  RAW 18:729|colidx.addr RAW 18:746|jcol RAW 18:758|k RAW 18:766|colidx.addr RAW 18:769|colidx.addr RAW 18:774|colidx.addr RAW 18:886|colidx.addr
+18:560 NOM  WAR 18:515|d WAR 18:564|d
+18:790 NOM  RAW 18:728|a.addr RAW 18:744|a.addr RAW 18:747|va RAW 18:754|va RAW 18:758|k RAW 18:765|a.addr RAW 18:770|a.addr RAW 18:790|a.addr RAW 18:793|a.addr WAR 18:790|a.addr
+18:372 NOM  RAW 18:338|t
+18:781 NOM  RAW 18:731|nzloc.addr RAW 18:742|j RAW 18:781|nzloc.addr WAR 18:781|nzloc.addr
+18:809 NOM  RAW 18:709|rowstr.addr RAW 18:781|nzloc.addr RAW 18:800|nzloc.addr RAW 18:803|j RAW 18:846|rowstr.addr WAR 18:811|j2 INIT *|j2
+18:811 NOM  RAW 18:805|j1 RAW 18:807|j1 RAW 18:809|j2 RAW 18:811|k WAR 18:790|k WAR 18:811|k
+18:428 NOM  RAW 18:230|x.addr RAW 18:280|x.addr RAW 18:328|x.addr RAW 18:425|j RAW 25:57|r.addr RAW 25:60|x.addr WAR 18:429|r.addr WAR 18:571|r.addr WAW 18:235|r.addr INIT *|r.addr
+18:638 NOM  WAR 18:643|nzv INIT *|nzv
+25:61 NOM  RAW 25:59|t1 RAW 25:60|t2 WAR 25:62|z INIT *|z
+18:229 NOM  RAW 18:229|i WAR 18:140|i WAR 18:229|i
+18:812 NOM  RAW 18:744|a.addr RAW 18:765|a.addr RAW 18:790|a.addr RAW 18:793|a.addr RAW 18:810|nza RAW 18:811|k RAW 18:814|nza WAR 18:812|a.addr WAW 18:728|a.addr
+18:838 NOM  WAR 18:888|nzv WAR 18:895|nzv INIT *|nzv
+18:429 NOM  RAW 18:425|j RAW 18:428|r.addr RAW 25:48|p.addr RAW 25:57|r.addr WAW 18:236|p.addr WAW 18:429|p.addr WAW 18:549|p.addr INIT *|p.addr
+25:62 NOM  RAW 25:49|a2 RAW 25:58|x2 RAW 25:61|z WAR 25:64|t3 INIT *|t3
+18:639 NOM  RAW 18:631|nn1 RAW 18:638|nzv
+18:230 NOM  RAW 18:229|i INIT *|x
+18:813 NOM  RAW 18:766|colidx.addr RAW 18:769|colidx.addr RAW 18:774|colidx.addr RAW 18:810|nza RAW 18:811|k RAW 18:814|nza RAW 18:886|colidx.addr WAR 18:764|colidx.addr WAR 18:813|colidx.addr WAW 18:729|colidx.addr
+18:805 NOM  RAW 18:709|rowstr.addr RAW 18:781|nzloc.addr RAW 18:800|nzloc.addr RAW 18:803|j RAW 18:846|rowstr.addr WAR 18:811|j1
+18:417 NOM  WAR 18:445|cgitmax WAR 18:643|cgitmax
+18:810 NOM  RAW 18:707|rowstr.addr RAW 18:709|rowstr.addr RAW 18:803|j RAW 18:846|rowstr.addr WAR 18:741|nza WAW 18:814|nza
+18:645 NOM  RAW 18:637|iouter RAW 18:643|ivelt RAW 18:861|vc RAW 18:889|vc RAW 18:894|vc RAW 25:58|aelt.addr INIT *|aelt.addr
+18:236 NOM  RAW 18:232|j INIT *|p
+18:629 NOM  INIT *|nn1
+18:220 NOM  RAW 18:157|firstrow RAW 18:158|lastrow RAW 18:220|j WAR 18:220|j INIT *|j
+18:817 NOM  RAW 18:691|nrows RAW 18:817|j WAR 18:803|j WAR 18:817|j
+18:631 NOM  RAW 18:629|nn1 RAW 18:631|nn1 WAR 18:631|nn1
+18:222 NOM  RAW 18:159|firstcol RAW 18:221|k RAW 18:813|colidx WAR 18:222|colidx
+18:420 NOM  WAR 18:543|rho WAR 18:644|rho WAR 29:13|rho
+18:818 NOM  RAW 18:709|rowstr.addr RAW 18:781|nzloc.addr RAW 18:800|nzloc.addr RAW 18:817|j RAW 18:846|rowstr.addr WAR 18:818|rowstr.addr
+18:221 NOM  RAW 18:220|j RAW 18:221|k RAW 18:707|rowstr RAW 18:818|rowstr WAR 18:221|k INIT *|k
+18:643 NOM  RAW 18:638|nzv RAW 18:643|ivelt RAW 18:896|nzv WAR 18:643|ivelt WAR 25:67|ivelt
+18:234 NOM  RAW 18:232|j INIT *|z
+25:65 NOM  RAW 25:64|x.addr WAR 25:67|r INIT *|r
+18:233 NOM  RAW 18:232|j INIT *|q
+25:67 NOM  RAW 25:65|r
+18:644 NOM  RAW 18:637|iouter RAW 18:643|ivelt RAW 18:862|ivc RAW 18:895|ivc RAW 25:57|acol.addr INIT *|acol.addr
+18:235 NOM  RAW 18:232|j INIT *|r
+18:380 NOM  RAW 18:152|timeron
+23:55 NOM  RAW 18:520|cs5.addr
+23:52 NOM  RAW 18:571|cs2.addr
+23:22 NOM  RAW 25:60|n3.addr
+18:754 NOM  RAW 18:747|va WAR 18:754|va
+18:345 NOM  RAW 18:342|epsilon RAW 18:344|err
+18:726 NOM  RAW 18:691|nrows RAW 18:726|j WAR 18:708|j WAR 18:726|j
+18:317 NOM  RAW 18:314|norm_temp2 WAR 18:317|norm_temp2
+18:283 NOM  WAW 18:239|zeta
+18:270 NOM  RAW 18:159|firstcol RAW 18:160|lastcol RAW 18:270|j WAR 18:260|j WAR 18:270|j
+18:260 NOM  RAW 18:159|firstcol RAW 18:160|lastcol RAW 18:260|j WAR 18:232|j WAR 18:260|j
+18:507 NOM  WAR 18:515|d WAR 18:572|d WAR 18:639|d
+18:641 NOM  RAW 18:637|iouter RAW 18:638|nzv RAW 18:896|nzv RAW 25:49|arow.addr INIT *|arow.addr
+25:64 NOM  RAW 25:62|t3 RAW 25:63|t4 WAR 25:58|x.addr
+18:232 NOM  RAW 18:159|firstcol RAW 18:160|lastcol RAW 18:232|j WAR 18:220|j WAR 18:232|j
+18:807 NOM  INIT *|j1
+18:159 NOM  INIT *|firstcol
+18:886 NOM  WAR 18:861|set
+25:63 NOM  RAW 25:62|t3 WAR 25:64|t4 INIT *|t4
+18:640 NOM  RAW 18:637|iouter
+18:860 NOM  RAW 18:853|was_gen RAW 18:856|was_gen
+18:848 NOM  RAW 18:847|i
+18:894 NOM  RAW 18:638|nzv.addr WAR 18:645|v.addr INIT *|v.addr
+18:847 NOM  RAW 18:846|vecloc WAR 18:848|i WAR 18:855|i WAR 18:862|i INIT *|i
+18:841 NOM  RAW 18:199|amult WAR 18:861|vecelt WAR 18:893|vecelt WAW 18:841|vecelt INIT *|vecelt
+18:793 NOM  RAW 18:737|size RAW 18:738|ratio RAW 18:765|size RAW 18:790|size RAW 18:793|size WAR 18:793|size
+23:47 NOM  RAW 25:58|npbversion.addr
+18:366 NOM  RAW 18:338|t
+18:775 NOM  WAW 18:757|cont40
+18:786 NOM  RAW 18:771|cont40 RAW 18:775|cont40 RAW 18:782|cont40
+18:398 END program

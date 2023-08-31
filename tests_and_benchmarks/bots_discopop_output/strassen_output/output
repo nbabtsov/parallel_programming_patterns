@@ -1,0 +1,493 @@
+Reduction at: 2:27
+Start line: 2:124
+End line: 2:135
+pragma: #pragma omp parallel for
+private: ['Products']
+shared: ['BColumnStart', 'ARowStart']
+first private: ['MatrixSize.addr', 'RowWidthBInBytes']
+reduction: ['+:Sum1', '+:Sum5', '+:Sum7', '+:Sum4', '+:Sum6', '+:Sum2', '+:Sum3', '+:Sum0']
+last private: []
+
+Reduction at: 2:53
+Start line: 2:200
+End line: 2:214
+pragma: #pragma omp parallel for
+private: ['Products', 'MatrixSize.addr']
+shared: ['BColumnStart', 'ARowStart']
+first private: ['RowWidthBInBytes']
+reduction: ['+:Sum1', '+:Sum5', '+:Sum7', '+:Sum4', '+:Sum6', '+:Sum2', '+:Sum3', '+:Sum0']
+last private: []
+
+
+Pipeline at: 2:19
+Coefficient: 1.0
+Start line: 2:109
+End line: 2:150
+Stages:
+	Node: 2:22
+	Start line: 2:110
+	End line: 2:147
+	pragma: "#pragma omp task"
+	first private: []
+	private: ['Products']
+	shared: ['RowWidthBInBytes', 'MatrixWidthInBytes', 'Horizontal', 'B.addr', 'MatrixSize.addr', 'BColumnStart']
+	reduction: ['Sum1', 'Sum7', 'Sum4', 'Sum6', 'Sum2', 'Sum5', 'Sum3', 'Sum0']
+	InDeps: []
+	OutDeps: ['C.addr', 'ARowStart']
+	InOutDeps: []
+
+	Node: 2:42
+	Start line: 2:148
+	End line: 2:150
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['RowWidthAInBytes', 'ARowStart', 'RowIncrementC', 'C.addr']
+	OutDeps: []
+	InOutDeps: []
+
+Pipeline at: 2:27
+Coefficient: 0.962
+Start line: 2:124
+End line: 2:135
+Stages:
+	Node: 2:29
+	Start line: 2:125
+	End line: 2:126
+	pragma: "#pragma omp task"
+	first private: ['RowWidthBInBytes']
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: ['ARowValue']
+	InOutDeps: ['BColumnStart', 'ARowStart']
+
+	Node: 2:29
+	Start line: 2:125
+	End line: 2:126
+	pragma: "#pragma omp task"
+	first private: ['RowWidthBInBytes']
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: ['ARowValue']
+	InOutDeps: ['BColumnStart', 'ARowStart']
+
+	Node: 2:30
+	Start line: 2:127
+	End line: 2:135
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['ARowValue']
+	OutDeps: []
+	InOutDeps: ['Sum1', 'Sum7', 'Sum4', 'Sum6', 'Sum2', 'Sum5', 'BColumnStart', 'Sum3', 'Sum0']
+
+Pipeline at: 2:47
+Coefficient: 1.0
+Start line: 2:186
+End line: 2:230
+Stages:
+	Node: 2:50
+	Start line: 2:187
+	End line: 2:226
+	pragma: "#pragma omp task"
+	first private: []
+	private: ['Products']
+	shared: ['RowWidthBInBytes', 'MatrixWidthInBytes', 'Horizontal', 'B.addr', 'MatrixSize.addr', 'BColumnStart']
+	reduction: ['Sum1', 'Sum7', 'Sum0', 'Sum4', 'Sum6', 'Sum2', 'Sum5', 'Sum3']
+	InDeps: []
+	OutDeps: ['ARowStart', 'C.addr']
+	InOutDeps: []
+
+	Node: 2:68
+	Start line: 2:228
+	End line: 2:230
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['RowWidthAInBytes', 'ARowStart', 'RowIncrementC', 'C.addr']
+	OutDeps: []
+	InOutDeps: []
+
+Pipeline at: 2:53
+Coefficient: 0.962
+Start line: 2:200
+End line: 2:214
+Stages:
+	Node: 2:55
+	Start line: 2:201
+	End line: 2:201
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: ['ARowValue']
+	InOutDeps: ['ARowStart']
+
+	Node: 2:55
+	Start line: 2:201
+	End line: 2:201
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: ['ARowValue']
+	InOutDeps: ['ARowStart']
+
+	Node: 2:56
+	Start line: 2:203
+	End line: 2:214
+	pragma: "#pragma omp task"
+	first private: ['RowWidthBInBytes']
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['ARowValue']
+	OutDeps: []
+	InOutDeps: ['Sum1', 'Sum5', 'Sum7', 'Sum4', 'Sum6', 'Sum2', 'BColumnStart', 'Sum3', 'Sum0']
+
+Pipeline at: 2:124
+Coefficient: 1.0
+Start line: 2:462
+End line: 2:500
+Stages:
+	Node: 2:127
+	Start line: 2:468
+	End line: 2:496
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: ['B21', 'S6', 'S5', 'QuadrantSize', 'B22', 'B12', 'TempMatrixOffset', 'S8', 'A12', 'S3', 'S4', 'B.addr', 'A.addr', 'S7', 'S1', 'A22', 'S2', 'A21']
+	reduction: []
+	InDeps: []
+	OutDeps: ['MatrixOffsetB', 'MatrixOffsetA']
+	InOutDeps: []
+
+	Node: 2:134
+	Start line: 2:498
+	End line: 2:500
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['MatrixOffsetA', 'RowIncrementA', 'MatrixOffsetB', 'RowIncrementB']
+	OutDeps: []
+	InOutDeps: []
+
+Pipeline at: 2:127
+Coefficient: 0.946
+Start line: 2:468
+End line: 2:496
+Stages:
+	Node: 2:129
+	Start line: 2:482
+	End line: 2:482
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: []
+	InOutDeps: ['TempMatrixOffset', 'S1', 'MatrixOffsetA', 'A12', 'A.addr', 'A21', 'S4', 'A22', 'S2']
+
+	Node: 2:129
+	Start line: 2:482
+	End line: 2:482
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: []
+	InOutDeps: ['TempMatrixOffset', 'S1', 'MatrixOffsetA', 'A12', 'A.addr', 'A21', 'S4', 'A22', 'S2']
+
+	Node: 2:130
+	Start line: 2:485
+	End line: 2:485
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: []
+	InOutDeps: ['B21', 'S6', 'TempMatrixOffset', 'MatrixOffsetB', 'S8', 'S5', 'B.addr', 'B12']
+
+	Node: 2:130
+	Start line: 2:485
+	End line: 2:485
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: []
+	InOutDeps: ['B21', 'S6', 'TempMatrixOffset', 'MatrixOffsetB', 'S8', 'S5', 'B.addr', 'B12']
+
+	Node: 2:131
+	Start line: 2:488
+	End line: 2:488
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: []
+	InOutDeps: ['TempMatrixOffset', 'MatrixOffsetA', 'S3', 'A.addr', 'A21']
+
+	Node: 2:132
+	Start line: 2:491
+	End line: 2:496
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: []
+	InOutDeps: ['TempMatrixOffset', 'MatrixOffsetB', 'MatrixOffsetA', 'B22', 'S7', 'B12']
+
+Pipeline at: 2:144
+Coefficient: 1.0
+Start line: 2:528
+End line: 2:578
+Stages:
+	Node: 2:147
+	Start line: 2:533
+	End line: 2:573
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: ['T1_0', 'T2_0', 'M5', 'T2_2', 'T1_2', 'T1_1', 'QuadrantSize', 'T2_3', 'T1sMULT', 'T1_3', 'LocalM5_2', 'Column', 'LocalM5_1', 'T2_1', 'LocalM5_0']
+	reduction: []
+	InDeps: []
+	OutDeps: ['C21', 'C.addr', 'C12', 'C22']
+	InOutDeps: []
+
+	Node: 2:166
+	Start line: 2:574
+	End line: 2:578
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['C21', 'RowIncrementC', 'C12', 'C22', 'C.addr']
+	OutDeps: []
+	InOutDeps: []
+
+Pipeline at: 2:147
+Coefficient: 0.938
+Start line: 2:533
+End line: 2:573
+Stages:
+	Node: 2:149
+	Start line: 2:534
+	End line: 2:541
+	pragma: "#pragma omp task"
+	first private: ['M2']
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: ['LocalM2_1', 'LocalM2_3', 'LocalM5_1', 'LocalM2_2', 'LocalM5_3', 'LocalM5_2', 'LocalM2_0', 'LocalM5_0']
+	InOutDeps: ['M5']
+
+	Node: 2:150
+	Start line: 2:542
+	End line: 2:545
+	pragma: "#pragma omp task"
+	first private: ['T1sMULT']
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['LocalM2_1', 'LocalM2_3', 'LocalM2_2', 'LocalM2_0']
+	OutDeps: ['T1_0', 'T1_2', 'T1_1', 'T1_3']
+	InOutDeps: []
+
+	Node: 2:151
+	Start line: 2:546
+	End line: 2:550
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['T1_2', 'LocalM2_0', 'T1_3']
+	OutDeps: ['T2_0', 'T2_2', 'T2_1', 'T2_3']
+	InOutDeps: ['T1_0', 'T1_1', 'C22', 'C.addr']
+
+	Node: 2:152
+	Start line: 2:551
+	End line: 2:551
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['LocalM2_1']
+	OutDeps: []
+	InOutDeps: ['C.addr']
+
+	Node: 2:153
+	Start line: 2:552
+	End line: 2:552
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['LocalM2_2']
+	OutDeps: []
+	InOutDeps: ['C.addr']
+
+	Node: 2:154
+	Start line: 2:553
+	End line: 2:554
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['T1_0', 'LocalM2_3']
+	OutDeps: []
+	InOutDeps: ['LocalM5_0', 'C12', 'C.addr']
+
+	Node: 2:155
+	Start line: 2:555
+	End line: 2:555
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['T1_1']
+	OutDeps: []
+	InOutDeps: ['C12', 'LocalM5_1']
+
+	Node: 2:156
+	Start line: 2:556
+	End line: 2:556
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['T1_2']
+	OutDeps: []
+	InOutDeps: ['C12', 'LocalM5_2']
+
+	Node: 2:157
+	Start line: 2:557
+	End line: 2:558
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['T1_3', 'LocalM5_0']
+	OutDeps: []
+	InOutDeps: ['T2_0', 'LocalM5_3', 'C12', 'C22']
+
+	Node: 2:158
+	Start line: 2:559
+	End line: 2:559
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['T2_1', 'LocalM5_1']
+	OutDeps: []
+	InOutDeps: ['C22']
+
+	Node: 2:159
+	Start line: 2:560
+	End line: 2:560
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['C22', 'LocalM5_2']
+	OutDeps: []
+	InOutDeps: ['T2_2']
+
+	Node: 2:160
+	Start line: 2:561
+	End line: 2:562
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['T2_0', 'LocalM5_3', 'T2_3']
+	OutDeps: []
+	InOutDeps: ['C21', 'C22']
+
+	Node: 2:161
+	Start line: 2:563
+	End line: 2:563
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['T2_1']
+	OutDeps: []
+	InOutDeps: ['C21']
+
+	Node: 2:162
+	Start line: 2:564
+	End line: 2:564
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['T2_2']
+	OutDeps: []
+	InOutDeps: ['C21']
+
+	Node: 2:163
+	Start line: 2:565
+	End line: 2:570
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: ['T2_3']
+	OutDeps: []
+	InOutDeps: ['M2', 'C21', 'M5', 'T1sMULT', 'C12', 'C.addr']
+
+	Node: 2:164
+	Start line: 2:571
+	End line: 2:573
+	pragma: "#pragma omp task"
+	first private: []
+	private: []
+	shared: []
+	reduction: []
+	InDeps: []
+	OutDeps: []
+	InOutDeps: ['C21', 'C22']
+Time taken for pattern detection: 56.44212889671326

@@ -1,0 +1,33 @@
+digraph "Gempty_file_list_WholeAST.dot" {
+"0x7f2861ef6010"[label="\n13SgSymbolTable\n  \n  0x7f2861ef6010  " shape=house,regular=0,URL="\N",tooltip="more info at \N",sides=5,peripheries=1,color="blue",fillcolor=orange,fontname="7x13bold",fontcolor=black,style=filled];
+"0x7f2861ef6010" -> "0x7f2861f4c010"[label="parent" color="blue" dir=forward ];
+"0x7f2861ef60c0"[label="\n13SgSymbolTable\n  \n  0x7f2861ef60c0  " shape=house,regular=0,URL="\N",tooltip="more info at \N",sides=5,peripheries=1,color="blue",fillcolor=orange,fontname="7x13bold",fontcolor=black,style=filled];
+"0x7f2861ef60c0" -> "0x563411346200"[label="parent" color="blue" dir=forward ];
+"0x7f2861ef6170"[label="\n13SgSymbolTable\n  \n  0x7f2861ef6170  " shape=house,regular=0,URL="\N",tooltip="more info at \N",sides=5,peripheries=1,color="blue",fillcolor=orange,fontname="7x13bold",fontcolor=black,style=filled];
+"0x7f2861ef6170" -> "0x7f2861ec7010"[label="parent" color="blue" dir=forward ];
+"0x7f2861ef6220"[label="\n13SgSymbolTable\n  \n  0x7f2861ef6220  " shape=house,regular=0,URL="\N",tooltip="more info at \N",sides=5,peripheries=1,color="blue",fillcolor=orange,fontname="7x13bold",fontcolor=black,style=filled];
+"0x7f2861ef6220" -> "0x563411346228"[label="parent" color="blue" dir=forward ];
+"0x56341130b7c0"[label="\n10SgFileList" shape=polygon,regular=0,URL="\N",tooltip="more info at \N",sides=4,peripheries=1,color="blue",fillcolor=red,fontname="7x13bold",fontcolor=black,style=filled];
+"0x56341130b7c0" -> "0x7f286200c010"[label="parent" color="blue" dir=forward ];
+"0x56341132abf0"[label="\n15SgDirectoryList" shape=polygon,regular=0,URL="\N",tooltip="more info at \N",sides=4,peripheries=1,color="blue",fillcolor=red,fontname="7x13bold",fontcolor=black,style=filled];
+"0x56341132abf0" -> "0x7f286200c010"[label="parent" color="blue" dir=forward ];
+"0x7f286200c010"[label="\n9SgProject\n  a.out  \n  0x7f286200c010  " shape=ellipse,regular=0,URL="\N",tooltip="more info at \N",sides=5,peripheries=3,color="blue",fillcolor=pink,fontname="7x13bold",fontcolor=black,style=filled];
+"0x7f286200c010" -> "0x56341130b7c0"[label="fileList_ptr" dir=forward ];
+"0x7f286200c010" -> "0x56341132abf0"[label="directoryList" dir=forward ];
+"0x7f286200c010" -> "0x7f2861f4c010"[label="globalScopeAcrossFiles" dir=forward ];
+"0x7f286200c010" -> "0x7f286200c010__parent__null"[label="parent" dir=none ];
+"0x7f286200c010__parent__null"[label="" shape=diamond ];
+"0x563411346200"[label="\n11SgTypeTable" shape=polygon,regular=0,URL="\N",tooltip="more info at \N",sides=4,peripheries=1,color="blue",fillcolor=red,fontname="7x13bold",fontcolor=black,style=filled];
+"0x563411346200" -> "0x7f2861ef60c0"[label="type_table" dir=forward ];
+"0x563411346200" -> "0x7f2861f4c010"[label="parent" color="blue" dir=forward ];
+"0x563411346228"[label="\n11SgTypeTable" shape=polygon,regular=0,URL="\N",tooltip="more info at \N",sides=4,peripheries=1,color="blue",fillcolor=red,fontname="7x13bold",fontcolor=black,style=filled];
+"0x563411346228" -> "0x7f2861ef6220"[label="type_table" dir=forward ];
+"0x563411346228" -> "0x7f286200c010"[label="parent" color="blue" dir=forward ];
+"0x7f2861f4c010"[label="\n8SgGlobal\n  0x7f2861f4c010  " shape=polygon,regular=0,URL="\N",tooltip="more info at \N",sides=5,peripheries=1,color="blue",fillcolor=skyblue,fontname="7x13bold",fontcolor=black,style=filled];
+"0x7f2861f4c010" -> "0x7f2861ef6010"[label="symbol_table" dir=forward ];
+"0x7f2861f4c010" -> "0x563411346200"[label="type_table" dir=forward ];
+"0x7f2861f4c010" -> "0x7f286200c010"[label="parent" color="blue" dir=forward ];
+"0x7f2861ec7010"[label="\n19SgFunctionTypeTable\n  0x7f2861ec7010  " shape=polygon,regular=0,URL="\N",tooltip="more info at \N",sides=5,peripheries=1,color="blue",fillcolor=skyblue,fontname="7x13bold",fontcolor=black,style=filled];
+"0x7f2861ec7010" -> "0x7f2861ef6170"[label="function_type_table" dir=forward ];
+"0x7f2861ec7010" -> "0x7f286200c010"[label="parent" color="blue" dir=forward ];
+}
