@@ -1,7 +1,7 @@
 # Generator of parallel programming patterns for code analysis (ISU Fall 2021 Senior Design Project)
 The purpose of this project is to generate a dataset with explicitly labled parallelism patterns to feed to a machine learning algorithm to learn from. 
 
-The dataset of generated in part by running [DiscoPop - Discovery of Potential Parallelism](https://github.com/discopop-project/discopop) on programs such as [LULESH](https://asc.llnl.gov/codes/proxy-apps/lulesh), a program used to solve hydrodynamics problems. 
+The dataset of generated in part by running [DiscoPop - Discovery of Potential Parallelism](https://github.com/discopop-project/discopop) (built on top of LLVM) on programs such as [LULESH](https://asc.llnl.gov/codes/proxy-apps/lulesh), a program used to solve hydrodynamics problems. 
 The output could be used to determine places in serial C code where pragmas following one of five parallelism patterns:
 
 * Reduction
